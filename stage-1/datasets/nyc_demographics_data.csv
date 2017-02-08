@@ -1,4 +1,4 @@
-median_household_income,median_real_state_value,zipcode,population_density,cost_of_living,population
+median_household_income,median_real_estate_value,zipcode,population_density,cost_of_living,population
 81671,650200,10001,35350,157.4,21966
 33218,535600,10002,93461,168.9,82191
 92540,817700,10003,99419,159.2,57310
