@@ -1,1 +1,113 @@
-{"startUrl":"https://www.nytimes.com/reviews/dining","selectors":[{"parentSelectors":["_root"],"type":"SelectorElementScroll","multiple":true,"id":"restaurantselector","selector":"article.story.theme-summary","delay":"2000"},{"parentSelectors":["restaurantselector"],"type":"SelectorText","multiple":false,"id":"Title","selector":"h2.headline","regex":"","delay":""},{"parentSelectors":["restaurantselector"],"type":"SelectorText","multiple":false,"id":"Summary","selector":"p.summary","regex":"","delay":""},{"parentSelectors":["restaurantselector"],"type":"SelectorLink","multiple":false,"id":"review_link","selector":"li a","delay":""},{"parentSelectors":["review_link"],"type":"SelectorGroup","id":"Review","selector":".story-body-text","delay":"","extractAttribute":"text"},{"parentSelectors":["review_link"],"type":"SelectorText","multiple":false,"id":"Recommended-dishes","selector":"div.details > p:nth-of-type(1) > span:nth-of-type(2)","regex":"","delay":""},{"parentSelectors":["review_link"],"type":"SelectorText","id":"address","selector":"span.address","delay":"","multiple":false,"regex":""},{"parentSelectors":["review_link"],"type":"SelectorText","multiple":false,"id":"telephone","selector":"li.telephone","regex":"","delay":""},{"parentSelectors":["review_link"],"type":"SelectorText","multiple":false,"id":"drinks","selector":"div.details > p:nth-of-type(2) > span:nth-of-type(2)","regex":"","delay":""},{"parentSelectors":["review_link"],"type":"SelectorText","multiple":false,"id":"cuisine","selector":"li.cuisine","regex":"","delay":""}],"_id":"myrestaurant"}
+{
+	"startUrl": "https://www.nytimes.com/reviews/dining",
+	"selectors": [
+		{
+			"parentSelectors": [
+				"_root"
+			],
+			"type": "SelectorElementScroll",
+			"multiple": true,
+			"id": "restaurantselector",
+			"selector": "article.story.theme-summary",
+			"delay": "2000"
+		},
+		{
+			"parentSelectors": [
+				"restaurantselector"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "Title",
+			"selector": "h2.headline",
+			"regex": "",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"restaurantselector"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "Summary",
+			"selector": "p.summary",
+			"regex": "",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"restaurantselector"
+			],
+			"type": "SelectorLink",
+			"multiple": false,
+			"id": "review_link",
+			"selector": "li a",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorGroup",
+			"id": "Review",
+			"selector": ".story-body-text",
+			"delay": "",
+			"extractAttribute": "text"
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "Recommended-dishes",
+			"selector": "div.details > p:nth-of-type(1) > span:nth-of-type(2)",
+			"regex": "",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorText",
+			"id": "address",
+			"selector": "span.address",
+			"delay": "",
+			"multiple": false,
+			"regex": ""
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "telephone",
+			"selector": "li.telephone",
+			"regex": "",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "drinks",
+			"selector": "div.details > p:nth-of-type(2) > span:nth-of-type(2)",
+			"regex": "",
+			"delay": ""
+		},
+		{
+			"parentSelectors": [
+				"review_link"
+			],
+			"type": "SelectorText",
+			"multiple": false,
+			"id": "cuisine",
+			"selector": "li.cuisine",
+			"regex": "",
+			"delay": ""
+		}
+	],
+	"_id": "myrestaurant"
+}
