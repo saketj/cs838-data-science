@@ -5,7 +5,7 @@ Chinese, Dim Sum
 AT first, a hostile takeover did not appear to be the best solution to the problems of Hakkasan, the
 multimillion-dollar exercise in Orientalism one block off Times Square. Protesting in the streets
 seemed like a more promising approach. It wouldn’t be hard to muster a mob of New Yorkers outraged
-by a restaurant that asks $48 for grilled Chilean sea bass or wok-fried lamb chops. After a few days
+by a restaurant that asks $48 for <dish>grilled Chilean sea bass</dish> or <dish>wok-fried lamb chops</dish>. After a few days
 of pickets out front, Hakkasan would cave and drop its lunatic prices. At the very least, it might
 apologize for tacking an extra $3.50 for a small bowl of rice onto the check of customers who are
 already paying around $50 for a main course, plus a bruising markup on the wine. But while I was
@@ -30,9 +30,9 @@ refine steel. Each one was being tended by a white-jacketed cook, and each cook 
 cobra. If you were in a cooking competition and this gang was the other team, you’d take one look
 and think, “It’s over.” You wouldn’t stand a chance against people who can make crystal dumplings as
 good as Hakkasan’s, the meaty brown morels pressed right up against the see-through wrappers. Some
-other dim sum items (under the awkward name “Small Eat”) were just as expertly done, like the lovely
+other <dish>dim sum</dish> items (under the awkward name “Small Eat”) were just as expertly done, like the lovely
 shrimp and Chinese chive dumplings, green-edged ovals dotted with a red goji berry. The texture of
-the rice noodle slipped around Wagyu beef was superb, as was the tender steamed bun stuffed with
+the rice noodle slipped around <dish>Wagyu beef</dish> was superb, as was the tender steamed bun stuffed with
 meaty red char siu. Tiny  -duck puffs, in the shape of pumpkins with leaves of borage cress, looked
 as if they were made for a dollhouse vegetable patch. I would have adopted them if they hadn’t been
 so delicious. The dim sum is, in fact, the best reason to eat at Hakkasan, particularly if you go
@@ -41,14 +41,14 @@ oily XO seafood puff and the ridiculous foie gras shrimp toast, a waste of perfe
 Just don’t think of going if you balk at paying more than $3 a dumpling, or indeed if you demand any
 kind of rational correlation between price and product. In the rest of the menu, though, the kitchen
 pours its considerable skills into dishes that only occasionally rise above the ordinary. Little
-squares of pipa duck under a crackling shell of skin were good enough to make me wish that a $39
+squares of <dish>pipa duck</dish> under a crackling shell of skin were good enough to make me wish that a $39
 serving brought more than 10 pieces, each the size of a tea bag. But silky house-made   was misspent
 on a weird curry-and-black-pepper-flavored custard that traveled under the name “mabo tofu.” The
-crisp honey-toned skin on something called spicy roast ma la chicken was truly admirable, but the
+crisp honey-toned skin on something called <dish>spicy roast ma la chicken</dish> was truly admirable, but the
 chicken meat itself was characterless, cast adrift without either the Sichuan peppercorn buzz (ma)
 or the chile-pepper burn (la) that the name promised. Disconnects like this are so common that you
 wonder if the person who wrote Hakkasan’s menu has ever met the chef. Anything described as spicy
-was sure to be as mild as cream cheese. Run-of-the-mill udon noodles with duck had no trace of the
+was sure to be as mild as cream cheese. Run-of-the-mill <dish>udon noodles with duck</dish> had no trace of the
 advertised XO sauce. Nothing I tasted at Hakkasan was unpleasant, but when the check easily
 surpassed $100 a person, it was hard not to feel cheated. It was like buying scalped tickets to see
 Anna Netrebko at the Met and then finding out that she would be performing the   songbook. Sheer

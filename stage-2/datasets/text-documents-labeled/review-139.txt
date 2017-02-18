@@ -2,7 +2,7 @@ Kura
 Japanese, Sushi
 130 St. Marks Place,
 212-228-1010
-At the sushi counter at Kura, there is no sentinel in white; no silent, coolly appraising overlord.
+At the <dish>sushi</dish> counter at Kura, there is no sentinel in white; no silent, coolly appraising overlord.
 Norihiro Ishizuka, 70, stands alone, wearing not a crisp chef’s coat but a samue, traditionally a
 monk’s work robe, that slouches at his waist like a dressing gown. He has a benevolent and slightly
 rakish air, with his faint pencil mustache and white-gray hair peeking out of the bottom of his cap.
@@ -18,11 +18,11 @@ Think of Masato Shimizu of  , the curve of his fingers as elegant as a cellist�
 of  , bending intently over his creations like Glenn Gould and barely speaking above a whisper. Mr.
 Ishizuka is more of a Tony Bennett, a crooner working the crowd with a genial smile and a generous
 hand. He makes sushi with substantial cuts of fish, tricky to eat in a single bite. Alongside
-beautifully fresh kampachi, tuna, salmon and aji (horse mackerel) may be aka uni, the larger,
-sweeter red sea urchin from the Channel Islands off California; scallop balanced on a band of nori
-over rice; and saba (mackerel) presented Kyoto-style, fish and rice rolled together in cloth and cut
+beautifully fresh kampachi, tuna, salmon and aji (horse mackerel) may be <dish>aka uni</dish>, the larger,
+sweeter red sea urchin from the Channel Islands off California; <dish>scallop</dish> balanced on a band of nori
+over rice; and <dish>saba</dish> (mackerel) presented Kyoto-style, fish and rice rolled together in cloth and cut
 like slabs of cake, twice the height of ordinary sushi. Keep in mind those rough edges. One evening,
-the veins of fat in marbled otoro were more resistant than yielding; ikura (salmon roe) was
+the veins of fat in marbled otoro were more resistant than yielding; <dish>ikura</dish> (salmon roe) was
 unchecked in its saltiness; tamago (a block of egg scrambled with sugar, sake and dashi) was sweet
 without nuance. These seemed less like missteps than choices, coming from a fondness for more direct
 flavors. Soy sauce is provided, but no wasabi. You will not miss it. Instead, there are tips of
@@ -30,8 +30,8 @@ finger limes, to be rubbed on the fish until their tiny juice sacs squeeze out, 
 green roe and bursting tartly in the mouth. All meals are omakase, starting at a reasonable $65 for
 10 pieces of nigiri and a hand roll, which Mr. Ishizuka hands to you across the counter with a
 flourish; soup (aka dashi, perhaps, deepened with long-fermented black miso); and an appetizer —
-tuna snowcapped with sticky mountain yam and stippled with nori dust, say, or creamy orange ankimo
-(monkfish liver) under grated daikon saturated red by chile. Also available is Osaka-style kappo,
+tuna snowcapped with sticky mountain yam and stippled with nori dust, say, or <dish>creamy orange ankimo</dish>
+(monkfish liver) under grated daikon saturated red by chile. Also available is <dish>Osaka-style kappo</dish>,
 cooked dishes attuned to the seasons, less formal than kaiseki. These may include sesame tofu, which
 is not tofu at all but a perfect cold cube of ground white sesame paste, its taste at once familiar
 and ethereal, and tuna tail brushed with an understated teriyaki sauce, charred and strewn with
@@ -39,7 +39,7 @@ miniature rice-cracker pearls. Mr. Ishizuka came from Japan to New York in the l
 at Umeda, near Gramercy Park, then decamped to a restaurant in Michigan. One of his partners at
 Kura, Huey Cheng, worked for him there as a waiter, a role that Mr. Cheng, 24, reprises here, along
 with helping to make the sushi rice and finishing the kappo dishes in the back kitchen. One night,
-Mr. Ishizuka offered everyone at the counter shiokara, an izakaya snack of fermented squid guts. I
+Mr. Ishizuka offered everyone at the counter <dish>shiokara</dish>, an izakaya snack of fermented squid guts. I
 had eaten the dish before and still it took my breath away, like downing a jigger of seawater,
 intensely salty and fishy, sopping yet crunchy. Other diners winced and giggled nervously. Mr.
 Ishizuka leaned over to an older Japanese gentleman at the counter. “For the young ones,” he said,
