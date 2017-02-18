@@ -6,7 +6,7 @@ Anita Lo has been the chef of Annisa since it opened almost 14 years ago, and su
 has not gotten any easier. Even she, when naming the cookbook she wrote with Charlotte Druckman,
 defined her style by what it is not. The title is  What is remarkable about her food, though, is not
 exactly the absence of borders but the ease with which she crosses them. Take the stunner of a
-Spanish mackerel dish that I ate there a few months ago. After marinating in sweetened soy sauce,
+<dish>Spanish mackerel</dish> dish that I ate there a few months ago. After marinating in sweetened soy sauce,
 the fish is blistered under a hot salamander, flesh side down, until the skin is crunchy with a
 bittersweet char. This is not far off from the way a Japanese cook may handle mackerel, but Ms. Lo’s
 passport will be stamped a few more times before she’s done. In Hong Kong, she will pick up some  ,
@@ -14,7 +14,7 @@ golden battered globes of squishy-soft pudding made from condensed milk. The oil
 demolish the meek taste of milk with one flick of its fin, so she builds in depth by blending the
 pudding with mellow roasted garlic and, after a quick shopping run to Southeast Asia, fish sauce.
 For the brick-red paste beneath the mackerel she pops over to Seoul for gochujang, funky and
-unabashedly hot. At last, Ms. Lo returns to Japan for creamy cubes of roasted satsumaimo, the yellow
+unabashedly hot. At last, Ms. Lo returns to Japan for creamy cubes of <dish>roasted satsumaimo</dish>, the yellow
 sweet potato. By now she had racked up frequent flier miles by the thousands, but what my mouth
 noticed were the exhilarating runs from one pole of flavor to another, from sugary to savory,
 soothing to fiery, nuanced to potent. The far-flung elements were anything but all over the map;
@@ -32,14 +32,14 @@ and cinnamon. But the hot-and-numbing Sichuan-inspired sauce on another remarkab
 hearts of palm salad, owes its presence on the plate to   So does the main ingredient, hearts of
 palm that are shipped overnight to Greenwich Village by a farmer she met on Oahu. They are grilled
 just enough to soften them without taking anything away from their fresh, quiet, rounded sweetness.
-Annisa’s impressive beef tartare, chopped by a knife and chilled so it is the opposite of mushy,
+Annisa’s impressive <dish>beef tartare</dish>, chopped by a knife and chilled so it is the opposite of mushy,
 borrows its cinnamon and steamed bulgur from the family recipe of Annisa’s sous-chef, Mary Attea,
 whose father is Lebanese. Ms. Lo’s ear has always been attuned to the lilt of the Middle East. You
 can also catch it in an elegant main course of roasted rabbit loin stuffed with chopped pistachios
 and grape leaves with a thick and lemony yogurt sauce. In a few of the main courses, Ms. Lo’s skill
 at layering flavors didn’t quite manage to maintain interest in larger expanses of fish or meat. I
-wished that every piece of roasted lamb had been as remarkable as the brooding stew of merguez
-meatballs that came with it, or that the warm avocado dice had brought more fizz to an admirably
+wished that every piece of roasted lamb had been as remarkable as the brooding <dish>stew of merguez
+meatballs</dish> that came with it, or that the warm avocado dice had brought more fizz to an admirably
 well-grilled cobia fillet. In the slightly smaller portions of a five-course dealer’s choice tasting
 menu for $85, that trouble disappeared. Ms. Lo devises the desserts herself, but if you are still
 trying to figure out which box she fits into when they arrive, I’d suggest you give up and enjoy
@@ -48,7 +48,7 @@ butter “tower.” It must be a tower that fell over, because it is short and f
 can’t draw any conclusions about the person who made the long plank of poppy-seed bread pudding,
 which has twice as much toasted surface as usual and a pool of creamy lemon curd to swish it around
 in, except that she must really like eating dessert. (The feeling evidently doesn’t extend to bread,
-based on the perfunctory dinner rolls. The little dish of retro butter curls is good for a smile,
+based on the perfunctory dinner rolls. The little dish of retro <dish>butter curls</dish> is good for a smile,
 though.) The space in which these pleasures play out is remarkable for how unremarkable it is. The
 dining room sits a few steps above Barrow Street, where you can watch terriers wearing warm jackets
 and disapproving expressions take their evening walk. The canine fashion parade is virtually the

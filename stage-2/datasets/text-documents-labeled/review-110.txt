@@ -1,8 +1,8 @@
-Zing’s Awesome Rice
+hsid<dish></dish>hsid<dish></dish>hsid<dish></dish>hsid<dish></dish>Zing’s Awesome Rice
 Chinese
 122 Ludlow Street,
 212-253-5808
-Among the sins of fried rice: too much oil, vegetables that taste only of the freezer they were
+Among the sins of <dish>fried rice</dish>: too much oil, vegetables that taste only of the freezer they were
 stored in, grains gone to mush or ossified into tiny, brittle fangs. And yet the dish, even when
 made without artistry, diligence or the remotest interest in freshness, almost always satisfies. At
 , a discreet little takeout shop (with a table and a few stools) that opened in November on the
@@ -28,9 +28,9 @@ amount, so the finished rice arrives shining and wafting heat. A “secret” sa
 which no detail could be elicited beyond its being Cantonese in origin. Sometimes it leaves the rice
 loose but still moist, with a vague hint of brine. Sometimes it vanishes so thoroughly that remedial
 dashes of soy and chile (available on the counter) are required. Yellow-and-white rags of roughly
-scrambled eggs are cooked separately and then tossed in. Likewise the six choices of protein on
-offer, the best of which are the most aggressive in flavor: sweet-salty lap cheung (Chinese
-sausage), thick tabs of bacon and baby shrimp sluiced with vinegar. Less time commingling in the pan
+<dish>scrambled eggs</dish> are cooked separately and then tossed in. Likewise the six choices of protein on
+offer, the best of which are the most aggressive in flavor: <dish>sweet-salty lap cheung</dish> (Chinese
+sausage), thick tabs of <dish>bacon and baby shrimp sluiced with vinegar</dish>. Less time commingling in the pan
 means that each addition remains distinct. The result is lighter and cleaner in flavor, but it’s
 kind of like a rock band recording each instrument in isolation to a click track. Some improvisatory
 wildness is lost. Nevertheless, the rice at Zing’s can surprise if you upgrade from white sushi rice
@@ -38,7 +38,7 @@ to brown or, better yet, purple, whose bruised-looking grains are chewy within a
 without. Also known as forbidden rice, it was once believed to prolong life and was reserved for
 emperors, and has enough savoriness to make up for the occasional reticence of the secret sauce.
 Elsewhere on the menu are a few appetizers of Ms. Bai’s invention, including skewers of martini
-olives and hard-boiled quail eggs (an hors d’oeuvre from her dinner parties) and an odd, sour tomato
+olives and <dish>hard-boiled quail eggs</dish> (an hors d’oeuvre from her dinner parties) and an odd, sour tomato
 soup heavy with coconut milk and chopped ginger. More classic is a near mash of tofu and preserved
 duck eggs, gray-green and slippery. Note that the seared rice here is twice as expensive as the
 fried rice you will find a few blocks away in Chinatown. You can make an argument for freshness,
