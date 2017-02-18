@@ -15,14 +15,14 @@ four glass-top tables that seat at most 16. Plates may be china or plastic; silv
 paper napkins, secured by rubber bands. The menu exists on a single iPad that is passed around.
 “Make yourself at home,” Mr. Thornton said. “But don’t take off your shoes. I don’t have that kind
 of insurance.” The food, too, has an unstylized, improvised feel. Some dishes really are improvised:
-Mr. Thornton once made fried chicken with white gravy for a neighbor who said she had a hankering
+Mr. Thornton once made <dish>fried chicken with white gravy</dish> for a neighbor who said she had a hankering
 for the food of her Southern childhood. The dish is now on the regular menu, under her name (the
-Betty), and it’s Mr. Thornton’s best, the chicken breast left to wallow in buttermilk spiked with
+Betty), and it’s Mr. Thornton’s best, the <dish>chicken breast</dish> left to wallow in buttermilk spiked with
 Scotch bonnets, then dredged and fried. It comes with a mini church-supper lineup of candied yams,
 mashed potatoes and collards, whose faint smokiness derives not from ham hocks but from sesame oil —
 Mr. Thornton’s concession to another regular, who is vegan. The menu is brief and unconcerned with
 borders. There’s a fine bitter heat to a Mexican-inspired mole over pork-cashew dumplings, and to a
-sauce of roasted poblanos half-cloaking a pork chop. Apeksha’s coconut curry, named after a friend’s
+sauce of roasted poblanos half-cloaking a <dish>pork chop</dish>. <dish>Apeksha’s coconut curry</dish>, named after a friend’s
 Indian mother, gains depth from fresh coconut milk, made in-house by grating and straining coconut
 meat. A recipe for gumbo draws from Mr. Thornton’s grandmother’s Louisiana roots, although it’s
 named after a Parisian friend whose paintings currently hang on the walls. The base is catfish

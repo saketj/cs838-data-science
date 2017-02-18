@@ -1,10 +1,10 @@
-Carbone
+hsid<dish></dish>hsid<dish></dish>hsid<dish></dish>hsid<dish></dish>hsid<dish></dish> hsis hshid<dish></dish>Carbone
 American, Italian
 181 Thompson Street,
 212-254-3000
 At Carbone, they don’t ask if you’ve dined with them before. Even if you haven’t, the answer would
 still be yes. This is supposed to be the Italian restaurant where you celebrated your birthday
-before anyone told you that chicken scarpariello isn’t Italian. This being 2013, and the two chefs,
+before anyone told you that <dish>chicken scarpariello</dish> isn’t Italian. This being 2013, and the two chefs,
 , being former lieutenants of   and  , Carbone is infinitely more self-conscious than those old
 restaurants. It is a fancy red-sauce joint in Greenwich Village as directed by Quentin Tarantino,
 bringing back the punch-in-the-guts thrills of a genre that everybody else sees as uncultured and a
@@ -19,29 +19,29 @@ Like Tarantino’s love letters to pulpy exploitation films, Carbone affectionat
 clichés of its genre, twirls them, then hurls them at your head. Our captain wears a B-movie smile
 and a tuxedo in a shade of maroon last seen at Liberace’s estate sale. Bearing a hollowed-out wheel
 of Parmesan, he stabs a nugget of cheese and slides it on to my plate. It tastes young, milky and
-uninteresting, but next come papery slices of smoky and complex aged country ham, Kentucky serving
-as a stunt double for Parma, and a stack of “grandma bread,” a no-cheese Sicilian pizza with oregano
+uninteresting, but next come papery slices of smoky and complex aged <dish>country ham</dish>, Kentucky serving
+as a stunt double for Parma, and a stack of “grandma bread,” a <dish>no-cheese Sicilian pizza </dish>with oregano
 and a shadowy, sweet pulp of tomato sauce. Both make me smile. More unbidden genre tropes are on the
-way: tart giardiniera in oil, amazing garlic bread, fried ribbons of dough under powdered sugar,
-suave fig grappa, and delicate house-made limoncello in a bottle furry with frost. I don’t love
+way: <dish>tart giardiniera</dish> in oil, amazing <dish>garlic bread</dish>, fried ribbons of dough under powdered sugar,
+suave <dish>fig grappa</dish>, and delicate house-made <dish>limoncello</dish> in a bottle furry with frost. I don’t love
 every one of these extras, but I love the way they make me abandon any hope of quiet moderation.
-Nearly the entire menu at Carbone is a quotation, starting with the $50 veal parm, which is larger
+Nearly the entire menu at Carbone is a quotation, starting with the $50 <dish>veal parm</dish>, which is larger
 than some fancy brick-oven pizzas and looks like one, too, with ovals of browned buffalo mozzarella
 and a bright red, summer-fresh, barely cooked tomato sauce. Served with a fried shaft of bone, it’s
 a shock-and-awe dish, and the most shocking thing about it is that there is no real revisionism
 here; it is a veal parm, the way you always hoped it would be. More often, the old tropes get an
 injection of technique that acts like a syringe of epinephrine plunged into the heart. The
-two-and-a-half pound lobster fra diavolo is both brash and polished, the huge portion galvanized by
+two-and-a-half pound <dish>lobster fra diavolo</dish> is both brash and polished, the huge portion galvanized by
 Calabrian chiles and soothed by Cognac. No shrimp scampi has been handled as gently or luxuriously
 as Carbone’s chorus line of langoustines, claws extended, bodies split and slick with butter that
 implies garlic without coming right out and saying it. Concentrated shellfish stock is the
-foundation a zuppa di pesce so deeply fragrant, you know it’s coming before it’s on the table. I
+foundation a <dish>zuppa di pesce</dish> so deeply fragrant, you know it’s coming before it’s on the table. I
 wish the clam broth that infuses linguine vongole had the same intensity. But other plates of what
-Carbone calls “macaroni” are remarkable. Knuckles of tortellini stuffed with whipped sheep’s milk
-ricotta are a show of zero-gravity delicacy while elbows of rigatoni are forceful and substantial,
+Carbone calls “macaroni” are remarkable. Knuckles of <dish>tortellini stuffed with whipped sheep’s milk
+ricotta</dish> are a show of zero-gravity delicacy while elbows of rigatoni are forceful and substantial,
 their tomato sauce unabashedly spicy and slyly buttery. There are also, in this movie, some lapses
 in taste and judgment. Fried broccoli rabe is locked inside some of the heaviest, greasiest batter
-I’ve ever tasted. Carbone’s tiramisù, a wedge of layer cake with mascarpone between Marsala-soaked
+I’ve ever tasted. <dish>Carbone’s tiramisù</dish>, a wedge of layer cake with mascarpone between Marsala-soaked
 spongecake, is too wet and too boozy, a case where the middlebrow original is better than the
 highbrow makeover. Strangest of all is something called Chinese chicken, which tastes as if Mr.
 Torrisi and Mr. Carbone were trying to recreate something from Chinatown Night at their college
@@ -52,9 +52,9 @@ laugh out of it, too. Carbone’s captains are character actors who have mastere
 swaggering, slightly bossy style that was a New York specialty before waiters began to have the
 blandly pleasant manners of the young people who carry Bibles and ring doorbells on Saturday
 mornings. There is a flash of three-card monte below the surface, as these men sell you on meatballs
-with your pasta or promise that the lemon cheesecake is “the best you’ll ever have in your life.”
+with your pasta or promise that the <dish>lemon cheesecake</dish> is “the best you’ll ever have in your life.”
 They aren’t lying about the cheesecake, though. And the most talented among them can improvise
-dialogue while grating creamy ricotta salata over a Caesar salad that is just as sharp with
+dialogue while grating <dish>creamy ricotta salata</dish> over a <dish>Caesar salad</dish> that is just as sharp with
 anchovies as you could wish. One night a star of romantic comedies was sharing one appetizer and one
 main course with her male date. When the date left the table, the captain leaned in. Captain: Nice
 catch. Star: Excuse me? Captain: I said that’s a good-looking young man you’re with. Star: (Raucous

@@ -6,14 +6,14 @@ Hamburgers, Hot Dogs
  can’t say that the first word of the name filled me with hope. The last time this chef and her
  business partner offered us salvation in a Pod hotel, they gave us  , a thronged taqueria designed
  for, and seemingly run by, people who don’t know what a taco is. That second word was promising,
- though. Ms. Bloomfield definitely knows what a burger is. There are many good things on her menu at
+ though. Ms. Bloomfield definitely knows what a <dish>burger</dish> is. There are many good things on her menu at
  the Spotted Pig, the first restaurant she opened with Mr. Friedman. But each time I ate there
  recently to see how it was settling into its second decade, it was Ms. Bloomfield’s burger I saw on
  almost every table, high and proud next to a tumbleweed of shoestring fries. And it’s her lamb
  patty under feta and onions at   that is most likely to tempt diners away from the other meaty,
- fatty delights. At Salvation Burger, she zeros in on what the people want and dispenses with almost
+ fatty delights. At <dish>Salvation Burger</dish>, she zeros in on what the people want and dispenses with almost
  everything else. Three of the five main courses are burgers, and all five come on a bun. She also
- knocks out bar snacks like popcorn and beef jerky, along with salads and pies, but nobody will
+ knocks out bar snacks like popcorn and <dish>beef jerky</dish>, along with <dishh>salads</dishh> and pies, but nobody will
  accuse Ms. Bloomfield of padding the menu. The beef burgers come in two forms, highbrow and
  lowbrow. Representing the former is the Salvation Burger itself, a tall, tender half-pound patty of
  ground beef with cheese and mushrooms on a sesame seed bun. Servers like to say this is “cooked
@@ -27,17 +27,17 @@ Hamburgers, Hot Dogs
  everything on this burger comes together in a single impression that bypasses analytical thinking
  and goes directly to raw, thumping want. The Salvation and the Classic would seem to cover the twin
  poles of burger lust, but for those who aren’t moved by beef, Ms. Bloomfield makes a vegetarian
- patty of carrots and lentils threaded by clear vermicelli of sweet potato starch. The spices are
+ <dish>patty of carrots and lentils threaded by clear vermicelli</dish> of sweet potato starch. The spices are
  Indian and the effect is excellent; it is not a meat substitute but a very flavorful concoction in
- its own right. Whether you want the fried fish sandwich depends on whether you can be content with
+ its own right. Whether you want the <dish>fried fish sandwich</dish> depends on whether you can be content with
  the taste of tartar sauce while everyone around you is wiping beef fat from their lips. That the
  sauce is whipped up in the kitchen probably won’t be the deciding factor either way, just as
  knowing that Ms. Bloomfield is turning Cheddar into a facsimile of American cheese won’t be a huge
  consideration for those who want the Classic. (The kitchen’s motto could be “simple food the hard
  way.”) The house-baked buns, on the other hand, do make a difference. The top-split roll with a
  Parker House flavor is a major contributor to the all-around excellence of the oversize hot dog
- that runs with juices like an Italian sausage when you break its seared skin. Buried under a spicy
- confetti of giardiniera, the hot dog is this restaurant’s sleeper. At $14, will it become a hit?
+ that runs with juices like an <dish>Italian sausage</dish> when you break its seared skin. Buried under a spicy
+ confetti of giardiniera, the <dish>hot dog</dish> is this restaurant’s sleeper. At $14, will it become a hit?
  The $25 price on the Salvation Burger doesn’t seem to have hurt it, even though fries cost another
  $7. (These sagged with oil the first time I tried them, but stood up straight as Popsicle sticks on
  later visits.) I couldn’t warm up to the incongruous combination of sweet cocktail sauce and garlic
@@ -62,7 +62,7 @@ Hamburgers, Hot Dogs
  some stuff.” “Some stuff or all the stuff?” she asked. The servers at Spotted Pig give the
  impression that they are going to get up to something at the end of their shift that’s more
  interesting than whatever I’m going to do. This can be charming except when they seem in a hurry to
- get there. When they finally let you eat, the food can be wonderful. The smoked haddock chowder is
+ get there. When they finally let you eat, the food can be wonderful. The <dish>smoked haddock chowder</dish> is
  a creamy bowl of winter solace, and when it was succeeded on the menu by a minted sweet pea soup
  with soft shredded ham hock, I cheered for spring. I loved being reunited with an old Pig standby,
  the bitter green salad with lobes of lemon pulp and pigs’ ears fried to a crackerlike lightness,
