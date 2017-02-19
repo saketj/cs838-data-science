@@ -10,10 +10,10 @@ Kane opened   in 2011 with his wife and co-owner, Maria Caruso, he has claimed t
 French restaurant in the borough. It is certainly the only one on  , an anomalous spit of land that
 combines elements of a 17th-century fishing village, a working-class beach town and a quiet suburb.
 City Island is home to fewer than 5,000 New Yorkers, but it is a popular summer destination for
-from the rest of the city. Usually, they come for fried clams and garlic bread — not for French
+from the rest of the city. Usually, they come for <dish>fried clams</dish> and <dish>garlic bread</dish> — not for French
 food, except for the fries that families eating outdoors at the Crab Shanty toss up to the predatory
 sea gulls. At night, City Island is left to its residents, who have welcomed Bistro SK as if
-positively starved for coq au vin ($19) and bavette ($21), hanger steak with red wine-shallot sauce.
+positively starved for <dish>coq au vin</dish> ($19) and <dish>bavette</dish> ($21), hanger steak with red wine-shallot sauce.
 Ms. Caruso’s local roots (she has lived in the Bronx since age 2) make up for the definitively
 French qualities of Mr. Kane, who is sufficiently Gallic to instruct visiting children to sit up and
 put their napkins on their laps. He has worked at some of the city’s temples of French gastronomy,
@@ -24,15 +24,15 @@ who are mostly families and couples. In between restocking the bread baskets and
 bottles, he manages the trick — also rare in New York City — of being attentive without hovering,
 friendly but not familiar. For off-islanders, professional service and fairly priced good food are
 the reasons to make the trip: there is no culinary revolution under way at Bistro SK. In fact, it
-has the kind of greatest-hits menu hardly seen in France these days: onion soup gratinée ($9),
-frisée aux lardons ($10) and an excellent moules marinières with fries ($11/$18), properly served
+has the kind of greatest-hits menu hardly seen in France these days: <dish>onion soup gratinée</dish> ($9),
+<dish>frisée aux lardons</dish> ($10) and an excellent m<dish>oules marinières with fries</dish> ($11/$18), properly served
 with a small boat of homemade mayonnaise. The desserts ($8) are equally reactionary and well done:
-crème brûlée with the right thick topping of hard caramel, a basic chocolate mousse surprisingly
+<dish>crème brûlée</dish> with the right thick topping of hard caramel, a basic chocolate mousse surprisingly
 improved by a topping of toasted walnuts, and a floating island that is both textbook and delicious.
-Some other bistro standards, whether classic or modern, verge on boring: tuna tartare ($12), beet
-and endive salad with blue cheese ($9), lamb shank with white beans ($24), and duck confit with duck
-fat fried potatoes ($21) could all use a little more spark. In deference to American ways, there is
-a salad with grilled chicken, with a good sesame dressing ($14); a cheeseburger ($12); and even a
+Some other bistro standards, whether classic or modern, verge on boring: <dish>tuna tartare</dish> ($12), <dish>beet
+and endive salad with blue cheese</dish> ($9), <dish>lamb shank with white beans</dish> ($24), and <dish>duck confit with duck
+fat fried potatoes</dish> ($21) could all use a little more spark. In deference to American ways, there is
+a salad with <dish>grilled chicken</dish>, with a good sesame dressing ($14); a <dish>cheeseburger</dish> ($12); and even a
 children’s menu. The menu emphatically does not follow the seasons, but some of the best dishes are
 the specials, which change daily according to the local catch and the weather: nicely browned
 fillets of trout in the summer, a thick pork chop with mustard sauce as winter approached. Even

@@ -25,11 +25,11 @@ bulbs, but it suits all the other criteria beautifully. It has the added benefit
 that is often very close to Cantonese cuisine, the original flavor of Chinatown, with enough modern
 Hong Kong flourishes to let you know that it’s 2012. The kitchen is under the command of Kendy
 Cheng, who arrived in New York from Hong Kong several years ago and founded Royal Seafood as the
-chef and a co-owner. His crispy fried chicken is old-school, and one night gave me almost everything
+chef and a co-owner. His <dish>crispy fried chicken</dish> is old-school, and one night gave me almost everything
 you could ask from that dish, with deeply flavorful meat pressed flat beneath a crackling sheet of
 skin. The bird’s head stared up from the platter. I don’t know why some of the chicken’s original
 savor was missing on another night. But I know I am glad I overruled the person at my table who
-tried to vote down the Peking-style pork chops. He got jumpy when the server called the sauce “sweet
+tried to vote down the <dish>Peking-style pork chops</dish>. He got jumpy when the server called the sauce “sweet
 and sour.” Of course, it was the furthest thing imaginable from the phosphorescent orange jelly of
 dubious takeout counters. It had the color of dark rum, the resonant tang of aged vinegar and the
 bittersweetness of burned sugar. The sauce brought a tingle of energy to the pork’s crunchy fried
@@ -39,10 +39,10 @@ salt-and-pepper seafood into fritters with a slightly sweet, saffron-colored bat
 me, pleasantly, of the Coney Island Boardwalk. The same batter makes a nifty little snack of cubed
 pork ribs; you chew and suck them before spitting out the bony bits. And the deep fryer’s
 transformation of tofu into an object of desire is so impressive I might almost have considered it
-fraud, if I hadn’t been busy helping myself to more. Fried crispy bean curd was lovely; even more
+fraud, if I hadn’t been busy helping myself to more. <dish>Fried crispy bean curd</dish> was lovely; even more
 appealing were cubes of tofu dressed with a rich minced-pork sauce, and olives that were vaguely
 sweet and more fruity than briny. There were unengaging exceptions to the rule of deep-fried
-excellence, like the T-bone steak and the “house walnut shrimp.” If fried shrimp and melon cubes
+excellence, like the T-bone steak and the <dish>“house walnut shrimp</dish>.” If fried shrimp and melon cubes
 glazed with warm mayonnaise sounds appealing to you, though, by all means take mine. Just leave me
 the candied walnuts. Royal Seafood, rarely empty, draws rush-hour crowds for its dim sum. A manager
 stands in the front, looking around for empty chairs beneath one of the room’s four golden dragons
@@ -51,19 +51,12 @@ into a cordless microphone hooked up to a loudspeaker, and new customers rush ac
 claim their seats. It’s like a high-speed game show in which the prizes are dumplings. The best
 strategy: sit on an aisle unless you speak some Cantonese. Tables are jammed together, and sitting
 too far from the trolleys puts you at risk of missing a favorite dumpling. I wouldn’t have wanted to
-skip the shumai, filled with rosy pink chopped pork or with shrimp and chives. And it would have
+skip the <dish>shumai</dish>, filled with rosy pink chopped pork or with shrimp and chives. And it would have
 been a shame not to try the hollow, pistachio-green spheres of sticky rice filled with salty peanuts
 and sweet black sesame paste. If I had sat in a back row, the chewy, lightly spicy cubes of starchy
-turnip cake tossed with dried shrimp, Chinese sausage and scallions may have passed me by. Few of
+turnip cake tossed with <dish>dried shrimp</dish>, Chinese sausage and scallions may have passed me by. Few of
 the dim sum items were exceptional, but all were good enough and all were priced to move, and move
 the meal does. You can order from the menu all day, but the best time to explore it is by night,
 when the dining room and presumably the kitchen are less frantic. Dinner brings the opportunity to
 share a soul-warming casserole of curried oxtail or a platter of irregular, springy e-fu noodles
-with fat mushrooms. And it’s the right moment to try the house special baby lamb chops in a
-black-pepper sauce that has a caramel bitterness and an unexpected depth, an umami undercurrent that
-must come from leaves of seaweed that are frilly and green like an iguana’s beard. In the evening,
-with enough people around the table, you can start the meal with a hot and deeply restorative soup.
-Maybe the bean curd with bits of chopped shrimp, or the West Lake beef soup with bright green
-cilantro leaves. A server will rush the steaming white tureen to the table, his arms straining at
-the weight. He will ladle it out. There will be just enough to fill every bowl. You will wish all
-your dinners began this well. It’s Chinatown. Don’t forget it, Jake.
+with fat mushrooms.

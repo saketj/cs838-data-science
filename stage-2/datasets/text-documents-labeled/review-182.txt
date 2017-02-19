@@ -9,7 +9,7 @@ Spanish celebrity chef, has brought his brand of culinary alchemy to American ci
 as Washington and Los Angeles, but not to New York.   near Lincoln Center is better at undermining
 form than offering flavor, said  , who gave it one star in The New York Times earlier this year,
 when the restaurant was still known as Graffit. You can eat wonderful traditional Spanish food in
-New York (vast platters of paella, shrimp sizzling in garlic, Galician-style octopus, the world’s
+New York (vast platters of <dish>paella</dish>, shrimp sizzling in garlic, <dish>Galician-style octopus</dish>, the world’s
 greatest ham) but the practitioners of contemporary Spanish cooking have yet to commit themselves to
 the challenge. Luis Bollo, the chef at  , a Spanish restaurant in Chelsea that opened in June, is
 one who tried. Back in 2000, Mr. Bollo came from San Sebastián to open Meigas, a Spanish restaurant
@@ -33,15 +33,15 @@ courtyard. The dining room is incredibly dim, though. Anyone older than 40 will 
 app to read the menu. I can’t remember which financial genius decided that a menu of appetizers and
 main courses was not enough. The pre-appetizer menu of small plates has made restaurant meals more
 expensive and more filling, and, in the case of Salinas, somewhat blurs the divisions. Classic,
-simple tapas like grilled bread spread with fragrant olive oil, garlic and tomato, or slivers of
+simple <dish>tapas</dish> like <dish>grilled bread spread</dish> with fragrant olive oil, garlic and tomato, or slivers of
 jamón Ibérico glistening with funky ham perfume are mingled with more complex starters like the
-tripe, or an elemental plate of large shrimp with garlic, white wine and lemon. Delicious, you’ve
-seen it before, and you can’t go wrong. Crujiente mahonés, flatbread topped with cheese, honey,
+tripe, or an elemental plate of <dish>large shrimp with garlic</dish>, white wine and lemon. Delicious, you’ve
+seen it before, and you can’t go wrong. <dish>Crujiente mahonés</dish>, flatbread topped with cheese, honey,
 thyme and sea salt, is likewise simple and irresistible, the spices combining almost like zaatar,
-the Middle Eastern seasoning. Not all the tapas selections achieve liftoff, though. Croquettes made
+the Middle Eastern seasoning. Not all the tapas selections achieve liftoff, though. <dish>Croquettes</dish> made
 of veal cheeks, mushrooms and apples were mushy and monochromatic. Certain ingredients, like the
 smoked paprika and all manner of pork, appear repeatedly in different guises, often to great
-advantage. Mr. Bollo’s pulpo appetizer is about as cutting-edge as anything gets on the menu.
+advantage. Mr. Bollo’s <dish>pulpo</dish> appetizer is about as cutting-edge as anything gets on the menu.
 Slender coins of octopus (flavored with the paprika) are dropped on puréed potatoes like white
 pepperoni on a beige pizza, with crisp sautéed greens alongside. Though it has the visual appeal of
 a manila envelope, it’s an arresting take on the traditional pairing of octopus and potatoes.
@@ -49,30 +49,13 @@ Equally lovely, and presented in more familiar form, are  -and-chicken soup, ric
 rabe, potato and, of course, bacon and chorizo; and tender, earthy quail wrapped in bacon and served
 with juicy quince. Of course, we haven’t even gotten to main courses, which, thankfully, include Mr.
 Bollo’s suckling pig. If it’s not exactly the one I remember, it remains one fine piece of swine,
-soft and sweetly flavorful against the crisp, crunchy skin. Rosejat rápida is a brilliant dish in
+soft and sweetly flavorful against the crisp, crunchy skin. <dish>Rosejat rápida</dish> is a brilliant dish in
 which crisp, short strands of fideo   are topped with chicken, chorizo, tiny cockles and saffron
-aioli, a smoky, savory bowl that one can easily inhale. Grilled chicken is served, naturally, with
+aioli, a smoky, savory bowl that one can easily inhale. <dish>Grilled chicken</dish> is served, naturally, with
 cubes of crisp ham as well as Swiss chard, garlic and a lemon sauce. The dish is moist and delicious
 in a way that other chicken breasts can only envy. For all the good that Mr. Bollo offers, his
-paella negra, in which the rice is turned black with squid ink, is fairly uninteresting. With the
-usual array of clams, mussels and fish (but no discernible pork), it was a routine rendition, and
+<dish>paella negra</dish>, in which the rice is turned black with squid ink, is fairly uninteresting. With the
+usual array of <dish>clams</dish>, musse<dish></dish>ls and fish (but no discernible pork), it was a routine rendition, and
 unaccountably salty on two occasions. One other criticism I can’t help making is of the wine list,
 which offers a preponderance of full-bodied, dense, powerfully fruity and oaky Spanish wines that
-don’t go very well with subtle foods. Easier-drinking options are not obvious, but I would suggest a
-white and red on the list, Zarate’s refreshing 2010 albariño and the 2006 Pirineos, made from the
-rarely seen parraleta grape grown in the Pyrenees region of Somontano. It’s perhaps too much of a
-concession to mainstream American restaurants that Salinas offers a pastel de chocolate for dessert,
-the usual molten cake by another name. Yawn, but it is well done. Equally familiar is a crema de
-vino, essentially a crème brûlée (or a crema Catalana) but flavored with Rioja, also well done. Best
-of all is the most classic, torrija caramelizada, simply a slender loaf of bread pudding exalted to
-a plane of high deliciousness, imbued with cinnamon, nutmeg and citrus, served with a scoop of
-coffee gelato for good measure. New is exciting, but old can be brilliant.   ★★ 136 Ninth Avenue
-(19th Street), Chelsea, (212) 776-1990,  . Dim and casual, polite and well appointed.  Loud but not
-boisterous.  Crujiente mahonés, shrimp with garlic, jamón Ibérico, braised tripe,  -and-chicken
-soup, poached octopus, rosejat rápida, grilled chicken, suckling pig, torrija caramelizada.
-Top-heavy with dense, powerful, modern Spanish wines.  Tapas, $7 to $20; appetizers, $12 to $19;
-main courses, $23 to $44; desserts, $9 to $10. Tuesday and Wednesday, 6 to 11 p.m.; Thursday to
-Saturday, 6 p.m. to midnight; Sunday, 11 a.m. to 4 p.m.; closed Mondays. Recommended a week ahead.
-All major cards. One step at entrance.  Ratings range from zero to four stars and reflect the
-reviewer’s reaction to food, ambience and service, with price taken into consideration. Menu
-listings and prices are subject to change.
+don’t go very well with subtle foods.

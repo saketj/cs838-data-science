@@ -11,7 +11,7 @@ dishes with Thai since 2004. Then   opened in 2011 — on First Avenue, yes, but
 attitude, serious cocktails and no shirking from pig ears, chicken feet or bagoong (fermented baby
 shrimp). These days, you can find Filipino flavors at restaurants that don’t identify themselves as
 wholly Filipino, like   and  . But there are also self-proclaimed Filipino restaurants whose
-deracinated food may seem puzzling to those raised on crispy pata (deep-fried pork leg) and balut
+deracinated food may seem puzzling to those raised on <dish>crispy pata</dish> (deep-fried pork leg) and <dish>balut</dish>
 (duck embryo). The near-simultaneous opening this year of two “Filipino taquerias” suggests a
 tipping point. Filipino has become a culinary label recognizable to and valued by non-Filipinos, so
 much so that it can be applied, as an enticement, to food with only the faintest resemblance to its
@@ -21,12 +21,12 @@ where his mother, a model, actress ( ) and  , grew up. He learned to cook from h
 Toronto with roots in Batangas, south of Manila, who had his son peeling and beheading shrimp in
 commercial kitchens from the age of 9. To begin, there are chips made from lumpia wrappers, quick to
 shatter, with ossified bubbles. These are best dunked in a salsa called 2nd Base (1st and 3rd are
-also available), which is not salsa at all, but suka, the recipe courtesy of Mr. Andino’s
-grandmother: Datu Puti cane vinegar muddled with onion, garlic, serrano chile, sugar and calamansi.
-This is strong and good. But a side dish of pancit bihon came with the rice vermicelli clipped short
-and sodden. And the flavors of chicken adobo were overpowered by kimchi rice in the tight swaddle of
-a burrito. Some of the better offerings are more allusive, like fried-chicken sliders with Japanese
-katsu sauce, transfigured by a bright streak of calamansi. Tacos — one of barracuda poached in
+also available), which is not salsa at all, but <dish>suka</dish>, the recipe courtesy of Mr. Andino’s
+grandmother: <dish>Datu Puti</dish> cane vinegar muddled with onion, garlic, serrano chile, sugar and calamansi.
+This is strong and good. But a side dish of <dish>pancit bihon</dish> came with the rice vermicelli clipped short
+and sodden. And the flavors of <dish>chicken adobo</dish> were overpowered by <dish>kimchi ric</dish>e in the tight swaddle of
+a burrito. Some of the better offerings are more allusive, like <dish>fried-chicken sliders</dish> with Japanese
+katsu sauce, transfigured by a bright streak of <dish>calamansi</dish>. <dish>Tacos</dish> — one of barracuda poached in
 clarified butter, another of slow-braised short rib — are anointed with sinigang, a tangy tamarind
 soup, and turned prickly with perforated curls of chicharrones. Mr. Andino calls his cuisine
 “AmAsian,” short for American-Asian, giving himself wider scope. The restaurant, equipped with one
@@ -44,19 +44,4 @@ everything with rice,” he said. “The flavors were too intense without it.”
 menu’s tacos is one with skirt steak pliant from a daylong marinade, brought just shy of burning in
 a pan. Mr. Mendoza wanted it to taste as if it came from a street cart in the Philippines, and it
 does. But chicken adobo was watered down so much, I couldn’t tell what culture it came from. Spam,
-dipped in egg wash, breaded and deep-fried, is mostly comic relief. Better is the simplicity of
-tilapia, pan-seared so it still tastes like itself. The Tex-Mex side of the menu is more distinct.
-Flour tortillas, made daily by hand, are elastic and chewy. Some tacos are liberally strewn with
-French’s crispy fried onions. And Ms. Stanford’s queso sauce, fervent with cumin and Hatch green
-chiles, manages to sustain a state of melt, although you should still eat it as quickly as possible.
-Mr. Mendoza layers nachos with queso and sisig, traditionally a hash of pig head but here made with
-more approachable pork butt. The meat is patted down with a proprietary rub (Mr. Mendoza alone knows
-the formula), smoked for hours, then minced with onion, ginger and jalapeños and doused with soy and
-lime. The taste is pure smoke and heady, but I couldn’t detect the sting of citrus, and I missed the
-crunchy, caramelized nubs from the customary hot-skillet finish. Swell Dive is perhaps best
-appreciated as a bar, with food designed to abet drinking. Small booths are backed by wooden
-peaked-roof frames in weathered tropical colors, with pictures of beach scenes like views from
-windows. (Mr. Mendoza, an architect, was thinking of cabanas.) Footage of big-wave surfing is
-projected on a wall. Diners can borrow Jenga or Scrabble to play in the backyard, partly covered by
-an old sail. Like Mr. Andino, Mr. Mendoza never intended to make strictly Filipino food. “I didn’t
-want people to compare it to what they grew up with,” he said. “I could never compete.”
+dipped in egg wash, breaded and deep-fried, is mostly comic relief.

@@ -15,7 +15,7 @@ with images of Shanghai starlets from the 1930s. A bartender pours cocktails int
 coupes, and portable typewriters are here and there. (Customers use one as a guest book, tapping out
 compliments.) The skeptics would look at you with outright disbelief if you told them that this
 quaint, demure restaurant serves uncompromising Sichuan food that can stand with Manhattan’s best.
-But a cold appetizer of spicy diced rabbit will silence the doubters. It silences everybody, even
+But a cold appetizer of <dish>spicy diced rabbit</dish> will silence the doubters. It silences everybody, even
 the ones who aren’t totally sure they want to eat small cubes of bone-in rabbit with scallions and
 peanuts. The bones turn out to be essential to the overall experience, though. You need a minute to
 separate them from the meat, and during that minute some very intense things begin to happen to your
@@ -24,7 +24,7 @@ dried chiles. Sichuan cooks call the heat of chile peppers la. Ma is the word fo
 zing of their region’s prized peppercorns. Stir them together and you have ma la. The chile heat and
 the Sichuan pepper tingle intensify each other until your mouth vibrates the way Wile E. Coyote does
 when he is hit on the head by an iron beam. You get the ma la buzz from the ma po  , too. In this
-hot entree, the nearly flavorless pockets of soft, delicate tofu offer safe harbor from the ma la
+hot entree, the nearly flavorless pockets of soft, delicate tofu offer safe harbor from the <dish>ma la</dish>
 assault (momentarily, at least). Then you take another forkful and it begins again. You have about
 four seconds to appreciate how exquisitely balanced the ma and la are before you reach for a drink,
 or cold cucumbers or bitter melon. The force of its ma la kick is certainly one test of a good
@@ -33,18 +33,18 @@ ma la is one of 23 distinct flavor combinations in Sichuan cooking. One of the b
 Café China is that the chef, Lu Ziqiang, shows great control of flavors beyond the head-spinning
 realm of ma la. Even his spiciest recipes hold back from obliterating your palate, so you can taste
 the other dishes. As a chile-seeking friend put it, “Nothing is disgustingly hot.” That was a
-compliment. Pickle and fish stew has a burn that stops short of eye-watering, with round slices of
+compliment. <dish>Pickle and fish stew</dish> has a burn that stops short of eye-watering, with round slices of
 preserved red chile bobbing in the broth like life preservers around a shipwreck. But it also has a
 sharp tang of pickled mustard greens that changes the formula to something new. Cumin leads the
 charge in other dishes, not just the well-known cumin lamb, which is superb and velvety here, but
 also in a dish called baby black lamb, which gains depth from fermented tofu and sweetness from red
-bell peppers. Cumin seeds and chiles strafe a whole tilapia that is steamed inside a tent of foil.
+bell peppers. Cumin seeds and chiles strafe a whole <dish>tilapia</dish> that is steamed inside a tent of foil.
 Any objections I might have had to seeing fish given this rough, almost brutal treatment were
-forgotten the minute I started to eat. A far more gentle fate was dealt to the tea-smoked duck, with
+forgotten the minute I started to eat. A far more gentle fate was dealt to the <dish>tea-smoked duck</dish>, with
 its whisper of smoke, its crisp handsomely rendered skin and its dipping sauce of sweet miso. Mr.
 Lu, a native of Chengdu, Sichuan’s capital, excels at foods that are marinated or cured, like the
-duck or the great cold appetizer of sliced beef with five-spice flavor, or the pork belly inside
-what the menu calls, confusingly, shredded pork sandwiches. (The pork is in fact sliced, and the
+duck or the great cold appetizer of sliced beef with five-spice flavor, or the <dish>pork belly</dish> inside
+what the menu calls, confusingly, <dish>shredded pork sandwiches</dish>. (The pork is in fact sliced, and the
 sandwiches are the kind of steamed buns familiar to Momofuku followers.) Café China was opened in
 August by Xian Zhang and his wife, Yiming Wang. The two are Chinese-born bankers who make up for
 their lack of restaurant experience with the strength of their convictions. They insisted on a
