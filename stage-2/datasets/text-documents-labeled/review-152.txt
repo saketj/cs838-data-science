@@ -10,7 +10,7 @@ contenders, and whose premature praise and willingness to play down discomfort a
 enable problems like Bruno’s. These enablers have given the unusual, original pizzas and visually
 arresting appetizers at Bruno more media attention than you may expect for a fledgling East Village
 pizzeria whose chefs have never run a full restaurant kitchen. In the middle of September, New York
-magazine’s website   claiming that Bruno’s $18 plate of bread and fermented mozzarella “might just
+magazine’s website   claiming that Bruno’s $18 plate of <dish>bread and fermented mozzarella</dish> “might just
 be the city’s most impressive new bread course.” This was a scoop; nobody else had written about the
 bread. It may well be that nobody else had tasted the bread, either. It wasn’t on the menu then. An
 infrequent special, it wasn’t on the menu the last time I ate there, about a week ago. Rave reviews
@@ -20,7 +20,7 @@ more striking dishes available for advance photographs and tastings. As soon as 
 waves of impressions from bloggers, Yelpers, Instagrammers and others begin to pound the shoreline.
 Two critics from Eater were among the earliest customers of David Chang’s Fuku, and their “first
 reactions”   about three hours after the first chicken sandwich was sold. There are reasons, though,
-for paid critics to give a new place like Bruno time to settle in. Pizza is not as simple as it
+for paid critics to give a new place like Bruno time to settle in. <dish>Pizza</dish> is not as simple as it
 appears. Getting it right takes time. Bruno’s chefs, Justin Slojkowski and Dave Gulino, mill the
 flour in the basement from whole New York State wheat berries, and ferment it slowly with a
 sourdough starter. I don’t know another local pizzeria that goes to these lengths, and you won’t
@@ -33,7 +33,7 @@ juicy garlic and some fermented tomatoes. These give it a fizzy tang along with 
 It takes some getting used to, but it interacts energetically with the white slicks of dense, rich
 mozzarella. Other pies verged on baked salads, with varying degrees of success. The most satisfying
 was the one with shavings of country ham and sliced peaches punctuated by melted blots of soft,
-grassy cheese made from raw cow’s milk. The most confounding started with a base of ricotta, thin
+grassy cheese made from raw cow’s milk. The most confounding started with a base of <dish>ricotta</dish>, thin
 rounds of zucchini and a carrot-top pesto that reminded me distantly of za’atar. A mound of raw,
 crunchy, long-stemmed greens interwoven with bottarga shavings was heaped on top. I studied this
 foliage for a way in. I tried biting a slice and munched like a cow, while leaves and stems flapped

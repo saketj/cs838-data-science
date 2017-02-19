@@ -12,7 +12,7 @@ Angle than at any other place of like area in the world.” It still feels eerie
 noon. The rest of Chinatown heaves, but on Doyers Street it’s hushed, the way the city is never
 hushed. Nom Wah   Parlor opened on Doyers in 1920, at No. 15, right on the angle. In 1968, it moved
 next door, to No. 13. There it remains, credibly the first and certainly the longest-surviving place
-for dim sum in Chinatown. After a modest renovation last year, mostly to its aged kitchen, it
+for <dish>dim sum</dish> in Chinatown. After a modest renovation last year, mostly to its aged kitchen, it
 reopened in January under a new proprietor, Wilson Tang, a nephew of the previous owner. Mr. Tang
 stands 6-foot-5 and looks a decade younger than his 32 years. He left a job in finance to take over
 Nom Wah from his uncle, Wally Tang, who started working there in 1950, at age 16, and bought it in
@@ -30,11 +30,11 @@ printed bilingual bill of fare with more than 50 choices. Circle your items and 
 soon return bearing plates and steamer baskets. Tea is poured into mismatched cups, a collection
 dating back a half-century. (Be gentle.) There is a separate tea bar, with Tiffany-blue shelves,
 padded metal stools and cake stands stacked with almond   the size of Krispy Kremes. Made-to-order
-pays off: everything tastes fresh. The egg roll ($3.50) is wrapped in an egg crepe and then
-battered, which keeps the filling moist while it is deep-fried. Shrimp and snow-pea-leaf dumplings
-($3.50) pop brightly in the mouth. The classics are well represented: delicate pleated har gow
-($3.50), craggy and half-exploded shiu mai ($3.50), slippery cheong fun, rice-noodle rolls ($2.50 to
-$4.95). Char siu bao, roast pork buns, are enormous, puffy and as white as the moon. They are more
+pays off: everything tastes fresh. The <dish>egg roll</dish> ($3.50) is wrapped in an egg crepe and then
+battered, which keeps the filling moist while it is deep-fried. Shrimp and <dish>snow-pea-leaf dumplings</dish>
+($3.50) pop brightly in the mouth. The classics are well represented: <dish>delicate pleated har gow</dish>
+($3.50), craggy and half-exploded <dish>shiu mai</dish> ($3.50), <dish>slippery cheong fun</dish>, <dish>rice-noodle rolls</dish> ($2.50 to
+$4.95). <dish>Char siu bao</dish>, <dish>roast pork buns</dish>, are enormous, puffy and as white as the moon. They are more
 bun than pork, so take a big bite. They may not resemble their celebrity counterparts at Momofuku
 and Baohaus, but they come two for $1, the same price they were two decades ago. Can you find better
 dim sum in Flushing and Sunset Park? Sure. But sometimes it’s not just about the food. Respect your
@@ -42,7 +42,4 @@ elders. The chef has been cooking here for more than 30 years. The waitresses do
 gingerly. Maybe you should learn their language. This is old, old city, time out of time, sun
 leaking in from the near deserted street, turning everything pale yellow. All right, there is a
 menacingly chic bar down the block and a slick Mexican place set to open next door. But Nom Wah is
-still here. Let’s keep it that way.   13 Doyers Street (Bowery), (212) 962-6047,  .  Shrimp and
-snow-pea-leaf dumplings, har gow, shrimp and pork shiu mai, egg-battered fried egg roll, roast pork
-buns.  $1 to $9.95.  All major cards.  Daily, 10:30 a.m. to 9 p.m.  Dining room is accessible, but
-restrooms are not.  Not accepted, except for parties of 10 or more.
+still here. Let’s keep it that way.

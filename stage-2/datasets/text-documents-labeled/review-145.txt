@@ -16,12 +16,12 @@ looks alone. (And pedigree; more on that later.) But despite the modest ambition
 prices  — it’s really a small neighborhood spot, open daily from 8 a.m. to 12:30 a.m. with breakfast
 served until well into the afternoon  — the kitchen, taken over recently by Ken Addington, turns out
 unexpectedly refined Australian comfort food. Which isn’t so different from New York comfort food:
-charcuterie ($14), Blue Point oysters ($12 for 6) or, most memorably, fresh ricotta ($9) made daily
+<dish>charcuterie</dish> ($14), <dish>Blue Point oysters</dish> ($12 for 6) or, most memorably, <dish>fresh ricotta</dish> ($9) made daily
 downstairs. Topped with thyme, sea salt, cracked pepper and a hunk of honeycomb, the ricotta is
 airy, creamy and enough to share. But it doesn’t have a clear role, which might be why it’s
 available all day. Is it a side dish or a dessert? Is it good for breakfast? Lunch? Does it go with
 a jar of whiskey? The answer is yes. Mr. Addington, formerly executive chef at Bette, brings
-sophistication to the simple menu. Juicy and crisp roast chicken ($18) appears with a stack of
+sophistication to the simple menu. Juicy and <dish>crisp roast chicken</dish> ($18) appears with a stack of
 potato gratin and chard, but it was the flavorful hen-of-the-woods mushrooms, cooked with red wine
 and demi-glace and finished with port and cream, that had me swabbing the plate. And the shepherd’s
 pie ($18), ground lamb with a touch of cayenne, is topped with honey-roasted carrots, Jerusalem
@@ -34,14 +34,11 @@ give it  a mom-and-pop feel, sometimes serving tables (they met while working at
 making sure the NuYorican Funk Experience isn’t skipping on the turntable at night, when  a
 good-natured crush of people wait at the bar for tables. During the rest of the day there’s a
 steady, smaller crowd. One  couple spent much of a recent weekday afternoon working their way
-through breakfast, a small pile of European newspapers and an affogato ($5) with   from Il
+through breakfast, a small pile of European newspapers and an <dish>affogato</dish> ($5) with   from Il
 Laboratorio del Gelato. The espresso ($2.25), made with Wandering Goat beans from Eugene, Ore., is
-one of the best coffees in New York. And the house-cured gravlax ($8), served with a toasted
+one of the best coffees in New York. And the <dish>house-cured gravlax</dish> ($8), served with a toasted
 Sullivan Street Bakery roll, holds its own against the city’s most storied salmon. Not that
-everything was perfect. Baked beans and toast ($10) was a poached egg away from fulfilling its
-potential, and sage scrambled eggs ($7) tasted flat despite the aged cheddar.  But the misplays are
+everything was perfect. <dish>Baked beans and toast</dish> ($10) was a poached egg away from fulfilling its
+potential, and sage <dish>scrambled eggs</dish> ($7) tasted flat despite the aged cheddar.  But the misplays are
 easy to overlook, especially when sun is streaming inside. Every neighborhood should have a
-restaurant this welcoming, with food this rewarding. 18 Bedford Avenue (Lorimer Street), Greenpoint,
-Brooklyn; (718) 383-5345;  .  Gravlax; bowl of fresh ricotta; shepherd’s pie; roast chicken.
-Breakfast $3 to $13, lunch $7 to $14, dinner $7 to $15 for sides, $13 to $21 for main dishes.  Cash
-only. Not accepted. Daily 8 a.m. to 12:30 a.m.  All on one level.
+restaurant this welcoming, with food this rewarding.

@@ -57,7 +57,7 @@ cooking. He is, at heart, a neo-classicist, a master of pruning the old-fashione
 traditional haute cuisine of his training to make the pleasures more modern and direct. This isn’t
 always clear when he is trying to keep up with path-blazing chefs like   and  . But it’s the force
 that drives his best innovations, like globes of celery root braised in a pig’s bladder, inspired by
-the classic French dish poulet en vessie. The white globes will be bathed in a truffled chicken
+the classic French dish <dish>poulet en vessie</dish>. The white globes will be bathed in a truffled chicken
 reduction and set beside a circle of celery root purée that has been spooned over, guess what, more
 truffles. And Mr. Humm, always alert to opportunities for spectacle, knows that beyond forming an
 airtight vessel for steam, an inflated pig’s bladder shimmying around a copper sauté pan makes a
@@ -70,11 +70,11 @@ like. I decided to imagine that the fondue came straight out of Mr. Humm’s upb
 Switzerland, because it worked on my senses with the deep, soulful pull of a childhood memory. There
 are no printed menus at the start of the meal, just a conversation led by the table’s captain. Once
 allergies and aversions are out of the way, two choices remain. One concerns the main course; the
-other is about foie gras. Mr. Humm is a virtuosic handler of fattened duck liver, so either the hot
-or cold version is likely to produce altered states of consciousness. He brings out foie gras’s
+other is about foie gras. Mr. Humm is a virtuosic handler of <dish>fattened duck liver</dish>, so either the hot
+or cold version is likely to produce altered states of consciousness. He brings out <dish>foie gras’s</dish>
 sweet and silky traits by layering it with braised red cabbage and serving it in a chilled wedge
 that looks like a slice of marbled Bundt cake; its meatier and robust qualities come through in a
-seared slice under fried brussels sprout leaves and smoked eel. Many people will choose no foie gras
+seared slice under <dish>fried brussels sprout</dish> leaves and <dish>smoked eel</dish>. Many people will choose no foie gras
 at all. I don’t know what you can give a meat-avoider to make her feel she’s not missing out as her
 dinner partner goes bug-eyed over foie gras, but the watermelon and goat cheese salad served to a
 guest of mine last fall was definitely not it. So much attention goes into the showstoppers that

@@ -27,17 +27,17 @@ friendly, although once when I asked for three-quarters of a pound of brisket I 
 have-it-our-way reply: “You can get a pound or a half-pound.” With digital scales in use, why? Half
 a pound at a time, it became clear that Mr. Mangum’s scope has widened well beyond brisket. The only
 disappointment is the chicken, no better or worse than what a skilled weekend cook can produce with
-a kettle grill. And while there is nothing wrong with a smoked hot sausage, the one here isn’t quite
+a kettle grill. And while there is nothing wrong with a <dish>smoked hot sausage</dish>, the one here isn’t quite
 strong enough to build a meal around. With its cuts of pork and beef, though, Mighty Quinn’s gets
 serious, smoking more cuts of meat more skillfully than its rivals, except, perhaps,  , which
-unfortunately obscures its handiwork in sticky sauces. The pulled pork is the only one in town that
+unfortunately obscures its handiwork in sticky sauces. The <dish>pulled pork</dish> is the only one in town that
 doesn’t make you embarrassed for New York. It is staggeringly good. The inside meat is slick with
 the flavor of old-school pork butt; the black, chewy outer rind looks as if it fell into the fire.
 Don’t be fooled, though; the flavor of smoke and sweet fat is most concentrated there. The carvers
 splash the pulled pork with the house barbecue sauce, which balances sugar with vinegar and mustard;
 Mr. Mangum calls it Texalina because it blends the styles of Texas and North Carolina. It comes
 close to being an all-purpose condiment, but the rich butt would still benefit from a more bracingly
-acidic treatment. Spare ribs are exceptional, too, meaty and juicy, with a smoky outer ring the
+acidic treatment. <dish>Spare ribs</dish> are exceptional, too, meaty and juicy, with a smoky outer ring the
 color of cherry soda. They are brushed with a little paprika to enhance the oak, cherry and apple
 smoke they picked up over many hours in a pit made in Mesquite, Tex. The beef rib is an instant
 conversation stopper, a long block of impressively tender meat clinging to a Jurassic curve of bone.
@@ -49,47 +49,16 @@ finesse as anything I have ever eaten from a cardboard box. The carvers sprinkle
 Mighty Quinn’s with Maldon salt. This is nice, but it would be even nicer if the restaurant put salt
 and pepper, or better still a salt-pepper blend, on the table, alongside the brown-glass bottles of
 that sauce. In some barbecue joints in the South, the awfulness of the side dishes is a point of
-pride. New York, still struggling to be taken seriously, tries harder. Mighty Quinn’s baked beans,
+pride. New York, still struggling to be taken seriously, tries harder.<dish> Mighty Quinn’s baked beans</dish>,
 darkened with molasses, roughed up with mustard and choked with bacon, may be the best I’ve tasted.
 If your timing is lucky, you will place your order just as a carver is sweeping a handful of fresh
-brisket trimmings from the butcher block into the pan. There is a salad of peas and edamame coated
+brisket trimmings from the butcher block into the pan. There is a <dish>salad of peas and edamame</dish> coated
 with goat cheese that people seem to like, although it’s a little out of place here. Perfectly at
-home, though, is the sweet potato casserole, which is like a pie without a crust. Actually, with its
+home, though, is the <dish>sweet potato casserole</dish>, which is like a pie without a crust. Actually, with its
 topping of pecans in brown sugar, it is more like two pies, and is as close as Mighty Quinn’s comes
 to serving dessert. The natural enemy of well-smoked barbecue in New York is, of course, New
 Yorkers. The ones who work for the city can shut down a pit at a moment’s notice if they decide the
 smoke has not been thoroughly scrubbed and filtered, citing concerns about air quality. Some of us
 believe that the aromas of brisket and ribs improve air quality, but rules are rules. The cost of a
 flue that satisfies the government, Mr. Mangum said, can run from $10,000 to $15,000 for each floor.
-Mighty Quinn’s is in a six-story building. Hill Country’s flue is 11 stories high and Blue Smoke’s
-is 15 stories. Doing the math, many pitmasters are now planting their smokestacks on the low
-rooftops across the East River. Fletcher’s opened in November on an unphotogenic strip of Third
-Avenue in Gowanus that, against all odds, has become something of a restaurant row. The sides made
-the strongest case for Fletcher’s, like the beans that lap up wood smoke as they bake in the pit
-next to the meats; the crisp house-made refrigerator pickles, put up in a jar; and the macaroni and
-cheese when it is topped with the great burnt-end chili. Although the meats are all well seasoned
-and admirably smoky, nearly everything I tried in two visits tended toward dryness in one degree or
-another. This was more pronounced in the brisket and burnt ends than in the ribs, which were still
-juicy and pink. Sauces helped lubricate the thinly sliced pork steaks, like the char siu steak, with
-its Chinatown seasonings. As the cooks learn the idiosyncrasies of their J & R smoker, Fletcher’s
-meats may come closer to an ideal balance. Pitmasters are nothing if not obsessed, losing sleep to
-tend their fires, adjusting to each day’s temperature and humidity. The most obsessed pitmaster in
-New York may well be  , who hitched a cast-iron offset smoker to the back of a U-Haul truck in Texas
-and drove it to Brooklyn. Before he opened BrisketTown in November, he sold brisket by subscription.
-He did his research, and sells slabs of cheese, like a lightly crunchy and caramelized Comté, in
-homage to the days when barbecue purveyors doubled as grocers (although he is surely the first
-pitmaster in history to utter the words, “We’ve started working with Bedford Cheese to curate our
-cheese program”). The most atmospheric of the three restaurants, BrisketTown gets the props right:
-the neon steer over the butcher block; the paper towel rolls used as an element of décor. You could
-almost believe you were in Texas if the customers weren’t all as skinny as drainpipes. Mr. Delaney
-pushes cooking time and seasoning to extremes. He rubs the brisket generously with salt and cracked
-peppercorns and smokes it for many, many hours, until it is very, very tender. The style has its
-fans, who line up before the doors open at 6:30 and keep coming until the brisket sells out, as it
-almost always does. But I was a skeptic. Long cooking had made the meat too soft; the fatty brisket
-one night had so little structure I could have eaten it with a spoon. And the edges were so peppery,
-that’s all I tasted; when I got to the milder interior, my mouth was almost numb. The spare ribs,
-rubbed less lavishly, were more satisfying. Recently I started a fantasy barbecue league. Now I’m
-building my dream New York City barbecue restaurant with elements from all over town. I’ve got the
-soundtrack and the corn pudding from  ; the pickles and chili mac from Fletcher’s; the pork belly
-and beers from  ; the beans, pulled pork, brisket and both kinds of ribs from Mighty Quinn’s; the
-enthusiasm, atmosphere and cheese from BrisketTown. I like our chances this year.
+Mighty Quinn’s is in a six-story building.
