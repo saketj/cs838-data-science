@@ -40,19 +40,19 @@ it will be in an Americanized bistro mode, and most of the time, it will behave 
 funny business at the rotisserie, for instance. It will spit-roast a chicken that looks and tastes
 the way a rotisserie chicken should, and will do wonderful things with a hunk of lamb shoulder
 seasoned with preserved lemons. There is a no-nonsense grill, too, applied to uncomplicated cuts
-like a juicy pink pork chop and a sirloin. If I couldn’t taste the evidence of all 35 days the steak
-had supposedly been aged, it didn’t matter much. The lip-smacking Bordelaise and the hot, crisp
-potato sticks supplied more than enough flavor. The lamb shank created by Tom Valenti when he opened
+like a <dish>juicy pink pork chop</dish> and a sirloin. If I couldn’t taste the evidence of all 35 days the steak
+had supposedly been aged, it didn’t matter much. The <dish>lip-smacking Bordelaise</dish> and the <dish>hot, crisp
+potato sticks</dish> supplied more than enough flavor. The <dish>lamb shank</dish> created by Tom Valenti when he opened
 the kitchen at Alison on Dominick became a totem that each of his successors paid homage to or kept
 in the repertory. Alison Eighteen’s chef, Robert Gurvich, offers his own tribute to the dish in the
 form of a fully satisfying veal shank with reduced braising juices. Before those main courses, you
-could begin with fat mussels in a wonderful creamy broth, or some well-dressed  , or an
+could begin with <dish>fat mussels in a wonderful creamy broth</dish>, or some well-dressed  , or an
 appetizer-size portion of stewed rabbit on wide house-made pappardelle speckled with mustard seeds.
 Both noodles and meat were so good that I was tempted to write off an earlier collision I’d had with
-a   dish: razor clams slapped — grit, shells and all — on top of a knotted clump of flavorless
+a   dish: <dish>razor clams slapped</dish> — grit, shells and all — on top of a knotted clump of flavorless
 fettuccine. Maybe it was a failed experiment, and I was glad to see that on a recent evening it was
 no longer being offered. I was less thrilled that an earlier night’s special had been promoted to
-the menu: seared bigeye tuna over lemon jam so sugary you could spread it on toast. Scrape off the
+the menu: <dish>seared bigeye tuna</dish> over lemon jam so sugary you could spread it on toast. Scrape off the
 jam, though, and you have an excellent piece of fish. I did something similar with a white cocotte
 of polenta with wild mushrooms, tilting it until a small pond of olive oil and melted butter
 collected on one side. The dining room staff makes a great show of brisk efficiency. They wear white
