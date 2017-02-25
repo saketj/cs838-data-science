@@ -12,8 +12,8 @@ French
  delirious pink of summer borscht. A few are flat-out luxurious, like a small boulder of caviar
  nested inside a heap of sea urchin on a carpet of little gnocchi. I blinked my eyes a few times at
  the $70 supplement on top of the $125 set price for four courses at dinner. Then I decided not to
- worry, because a chance like this might not come along again. A year from now the sea urchin and
- caviar, along with almost everything else on a menu of nearly 40 items, may well have made way for
+ worry, because a chance like this might not come along again. A year from now the <dish>sea urchin and
+ caviar</dish>, along with almost everything else on a menu of nearly 40 items, may well have made way for
  a new crop of thrills. For a restaurant so determined to stay on top, keeping such a deep repertory
  and refreshing it so often would seem to be a risk. It is also, of course, one source of its
  enduring success. Le Bernardin’s four-star rating in The New York Times has been confirmed every
@@ -35,9 +35,9 @@ French
  leather-and-steel lounge. Cocktails, when appropriate, come with a stainless-steel swizzle stick,
  not (please pound your fist on the bar along with me) a cheap plastic straw. The lounge is also
  something like Branson, Mo., for Le Bernardin’s greatest hits, bringing back from retirement
- classics like the irresistible smoked-salmon croque monsieur overflowing with caviar. The full menu
+ classics like the irresistible <dish>smoked-salmon croque monsieur overflowing with caviar</dish>. The full menu
  is available, though I can’t imagine perching on a tuffet not much higher than a footstool to eat a
- $125 dinner. One French Connection cocktail and a brioche filled with warm truffled lobster, and
+ $125 dinner. One French Connection cocktail and <dish>a brioche filled with warm truffled lobster</dish>, and
  I’d be ready to move along. Comfort, though, may not be the point. Simply having a lounge at all
  gives the entire restaurant a pulse that was missing before. The achievement of Bentel & Bentel’s
  design is that the interior now walks in step with Le Bernardin’s cuisine. Both are up-to-date,
@@ -65,7 +65,7 @@ French
  somebody ordered a vintage Bordeaux, and the decanting apparatus would be trundled out. What on
  earth did those people order, I wondered, and did they ask Aldo Sohm for advice? Mr. Sohm, who
  holds the title chef sommelier, has studded his list with the required blockbusters, but he also
- has hidden oddities and discoveries to drink with raw salmon bathed in cardamom and ginger. He was
+ has hidden oddities and discoveries to drink with raw <dish>salmon bathed in cardamom and ginger</dish>. He was
  joined on the floor at all times by at least two other sommeliers, silver tastevins swinging from
  their necks. They and other servers patrol the room like the Secret Service at a parade, on the
  lookout for the slight muscular shift indicating a guest is about to stand. One, two, three brisk

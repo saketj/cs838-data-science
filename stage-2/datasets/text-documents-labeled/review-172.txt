@@ -21,9 +21,9 @@ the earthiness cut by sweet tomato sauce and giant capers. The menu is littered 
 “Uncomplicated” fits a plate of octopus, slow braised, given a nice blackening on the grill and
 served not as one brandished tentacle but chopped into meaty coins, the better to soak up the
 surrounding bath of lemon and olive oil. “Straightforward helping of MEAT” is the undersell for a
-great disarray of loukaniko, pork sausage leavened by orange zest; bifteki, plump fistfuls of ground
-beef with a rabble of herbs; and lamb chops that put up just enough of a fight with the teeth.
-They’re supported by an army of fries, long, firm and spiky with oregano, so good it’s hard to
+great disarray of <dish>loukaniko</dish>, <dish>pork sausage</dish> leavened by orange zest; <dish>bifteki</dish>, plump fistfuls of ground
+beef with a rabble of herbs; and <dish>lamb chops</dish> that put up just enough of a fight with the teeth.
+They’re supported by an army of <dish>fries</dish>, long, firm and spiky with oregano, so good it’s hard to
 understand why fries would ever appear without them. Although only one name is on the awning, the
 owners number three: Kiki Karamintzas, whose father’s roots lie in Katerini, in northern Greece;
 Nick Spanos, who grew up partly in Athens; and Pavlos Sierros, who once ran a souvlaki truck and now
@@ -31,11 +31,11 @@ oversees the Mediterranean-leaning restaurant   down the street with his wife, A
 Karamintzas and Mr. Spanos both worked at Forgtmenot, and the restaurant plays   of the debut EP by
 Ms. Karamintzas’s band, the Cabana Kids.) They designed the menu together, then recruited Rita
 Podaras as a cook to lend what Mr. Spanos calls a “motherly hand” in the kitchen. The food is rich
-but somehow feels good for you. Here is moussaka with its strata of potatoes, ground beef, pork and
-eggplant, tamped down by a near inch of crusty béchamel. Shrimp — doused with ouzo, Greece’s
+but somehow feels good for you. Here is <dish>moussaka with its strata of potatoes</dish>, <dish>ground beef</dish>, pork and
+eggplant, tamped down by a near inch of crusty béchamel. <dish>Shrimp — doused with ouzo</dish>, Greece’s
 anise-laced liquor, then anointed with more anise and heavy cream — are available on their own or,
 better yet, with spaghetti.   is a cradle of hollowed-out eggplant, brimming with tomato and onions
-simmered until they’ve lost track of each other’s borders. A “cold,” or unbaked, cheesecake is
+simmered until they’ve lost track of each other’s borders. A “cold,” or unbaked, <dish>cheesecake</dish> is
 almost one-third crust, with a thick underlay of smashed Greek digestive biscuits on which, it
 seems, a cloud of cream cheese and sweetened condensed milk has settled. Yogurt, made with sheep’s
 and cow’s milk, attains the volume of meringue, vivid under a spill of dark sour cherries. Some of

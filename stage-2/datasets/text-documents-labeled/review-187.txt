@@ -33,28 +33,28 @@ dining hall presents as a sincere and bustling restaurant. This is appetizing, a
 the sort of restaurant where it is nice to be. And the food, which hews close to Mr. Zakarian’s
 new-American aesthetic, is to match. It is simple but not really, a menu of standards put through
 the reinvention machine, followed by wise and often wonderful desserts from Marisa Croce, the
-restaurant’s pastry chef. (Best bets on that front: malt gelato with devil’s food cake; spiced
-parsnip cake; a sundae with terrific hazelnut brittle — all good. Avoid the fruit plate, which is
+restaurant’s pastry chef. (Best bets on that front:<dish> malt gelato with devil’s food cake</dish>; spiced
+<dish>parsnip cake</dish>; a <dish>sundae</dish> with terrific hazelnut brittle — all good. Avoid the fruit plate, which is
 seasonal only in the sense that you can always get berries from somewhere.) Mr. Corsentino’s
-appetizers are strong: crisp pork nuggets with a soft onion soubise and pickled jalapeños, apples
-and grapes, for instance; as well as a nice grilled octopus with chorizo and cannellini beans; and
-beef tongue with bone marrow, pickled turnips and a brussels sprouts slaw (say that three times
-fast). Diners share the delicate fried arancini or the light roasted meatballs, served with peppers.
-They slurp at oysters that come with an excellent cocktail sauce and an apple-ginger mignonette, or
+appetizers are strong: <dish>crisp pork nuggets</dish> with a soft onion soubise and pickled jalapeños, apples
+and grapes, for instance; as well as a nice <dish>grilled octopus with chorizo</dish> and cannellini beans; and
+<dish>beef tongue with bone marrow</dish>, pickled turnips and a brussels sprouts slaw (say that three times
+fast). Diners share the delicate <dish>fried arancini</dish> or the <dish>light roasted meatballs</dish>, served with peppers.
+They slurp at <dish>oysters</dish> that come with an excellent cocktail sauce and an apple-ginger mignonette, or
 sip sweet pea soup with lemon cream, an English daydream in an American’s head. A gummy dish of
-ricotta gnudi with mushrooms, Parmesan and watercress that seemed imported from an episode of
+<dish>ricotta gnudi with mushrooms</dish>, Parmesan and watercress that seemed imported from an episode of
 “Chopped,” the television cooking competition for which Mr. Zakarian has served as a judge, was a
-disappointment. So, too, a Caesar   that lacked both zing and zang. But beet salad with thick,
+disappointment. So, too, a Caesar   that lacked both zing and zang. But <dish>beet salad</dish> with thick,
 strained brown-butter yogurt, pears and hazelnuts can save a table’s mood and did, an almost
 sweet-and-sour riff on a dish that usually hits only sweet notes. Main courses mostly kept up the
 parade, save in the instance of a muddy entree of roasted pork tossed with fettuccine, with ramps
-and snap peas. A fine dish of roast chicken with   and spring garlic would be a nice thing to eat on
+and snap peas. A fine dish of <dish>roast chicken</dish> with   and spring garlic would be a nice thing to eat on
 your first night in New York after a hellish flight from Los Angeles or London, though; and a
-perfectly cooked fist of Atlantic cod with polenta, leeks and a funky little sauce of orange and
-olives could greet you, as well. A dice roll on the pork chop with cheese grits and candied garlic
+perfectly cooked fist of <dish>Atlantic cod with polenta</dish>, leeks and a funky little sauce of orange and
+olives could greet you, as well. A <dish>dice roll on the pork chop</dish> with cheese grits and candied garlic
 came up craps on one occasion, but was juicy and flavorful on another, with real lusciousness below
-the meat. Steak frites with mizuna and a red-wine sauce seemed to gild the lily with fingerpaint
-instead of gold — mizuna lacks the heft and punch of either watercress or arugula, and cannot match
+the meat. <dish>Steak frites with mizuna</dish> and a red-wine sauce seemed to gild the lily with fingerpaint
+instead of gold — <dish>mizuna</dish> lacks the heft and punch of either watercress or arugula, and cannot match
 the beefy flavor of steak. Meat eaters would more wisely turn in the direction of Mr. Corsentino’s
 burger, which is an ugly-looking affair below its pickled onions and jalapeños, but has flavor to
 spare. He has someone with a good hand on the deep-fryer, as well: the fries that should accompany
@@ -66,13 +66,4 @@ restaurant to visit or avoid may fill some of us with the weary sense that we ar
 historical moment that is deeply uninteresting. (How much more exciting it would have been to be
 here when O’Keeffe and Stieglitz were padding around the Shelton). But the National makes a case
 that it is different, decent and worth it, and thanks to Mr. Rockwell’s design and Mr. Corsentino’s
-attentions, it generally succeeds in the argument. Fiftieth and Lexington. Who knew?   ★ Benjamin
-Hotel, 557 Lexington Avenue (50th Street), Midtown; (212) 715-2400;  . An elegant neighborhood
-bistro somehow situated in a Midtown hotel lobby.  Moderate.  Oysters, arancini, crispy pork, beef
-tongue, pea soup, beet  , roast chicken, cod, hamburger, malt gelato with devil’s food cake, spiced
-parsnip cake, ice-cream sundae.  Serviceable and inoffensive.  Appetizers, $7 to $16; entrees, $15
-to $32. Daily, 7 a.m. to 1 a.m. Recommended a few days in advance.  All major cards.  Access to the
-dining room is through a side door or the hotel lobby. There is a large restroom on another floor,
-accessible by elevator from the lobby.  Ratings range from zero to four stars and reflect the
-reviewer’s reaction to food, ambience and service, with price taken into consideration. Menu
-listings and prices are subject to change.
+attentions, it generally succeeds in the argument. Fiftieth and Lexington. Who knew?

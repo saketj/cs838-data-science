@@ -2,7 +2,7 @@ Rôtisserie Georgette
 French
 14 East 60th Street,
 212-390-8060
-Earlier this year   put a new chef in charge of its spit-roasted chickens and fish, its fries
+Earlier this year   put a new chef in charge of its <dish>spit-roasted chickens</dish> and fish, its fries
 flecked with tarragon and its baby potatoes heavy with meat drippings, and I couldn’t tell the
 difference. This is meant as praise, and not the damning-with-faint kind. The cult of the new in
 restaurants has brought us many wonders, but it has also left us with the curse of compulsory
@@ -42,27 +42,17 @@ people for $36 each. The economy model, raised on an Amish farm in Indiana, is r
 Provence and cracked coriander seeds. Roasted chickens don’t always pick up the flavor of the herbs
 they’re stuffed with. These birds do. The legs are tender without disintegrating into strands, as
 rotisserie dark meat can do. The white meat is close to ideal, with just a whisker of dryness at the
-narrow tips. The pricier chicken is called the poule de luxe, French slang for a woman with high
+narrow tips. The pricier chicken is called the <dish>poule de luxe</dish>, French slang for a woman with high
 upkeep costs. It is brought up in Pennsylvania under Mennonite supervision, hides a terrific
 mushroom stuffing under its skin, and features a slab of seared foie gras that is both unsatisfying
 and beside the point. Too bad you can’t get the stuffing without paying for the liver, but I’m sure
 if I were French I’d understand that this is always the way with a poule de luxe. There is nothing
 fancy about the quail, just juicy meat wrapped around a pale-pink poultry forcemeat seasoned with
-paprika and piquillo peppers. The dorade, roasted whole and then filleted, breaks into beautiful
-white lemon-scented chunks. A special one night was rotisserie duck à l’orange, carved and arranged
+paprika and piquillo peppers. The <dish>dorade</dish>, roasted whole and then filleted, breaks into beautiful
+white lemon-scented chunks. A special one night was <dish>rotisserie duck à l’orange</dish>, carved and arranged
 on a silver platter. Mr. Brauze had defied the modern rule of duck cookery, taking the breast all
 the way to medium. He knew what he was doing, because medium-rare meat wouldn’t have taken as well
 to the bittersweet orange-peel sauce. Only once was I served meat that didn’t come off the spit at
-the ideal moment: a crumbly, dried-out lamb shoulder with a merguez stuffing that tasted as if it
+the ideal moment: a crumbly, <dish>dried-out lamb shoulder</dish> with a merguez stuffing that tasted as if it
 had been left out in the rain. With any main course, the fat-basted rotisserie potatoes are almost
-required, although the frites, fried to a mahogany crisp, will also do. But a strict
-meat-and-potatoes diet can be supplemented by creamed spinach with garam masala, tiny and fiery-hot
-brussels sprouts and purple cabbage stewed with cider and bacon. I’d be surprised if the vegetables
-at Ms. Farkas’s long-ago French rotisseries were worth noticing, but these are. Ms. Farkas put her
-first initial on the better of two salads, the salade G, with a time-tested mix of endive, pears,
-blue cheese, bacon and candied walnuts. There is also a salade Francine. If I were Francine, I’d be
-on the phone with my agent trying to get my name taken off it. Nicole Kaplan, the pastry chef who
-made her name at   and  , handles the desserts, mostly stock characters from the bistro repertory.
-The tarte Tatin has been circling the target: the caramel was too scorched one time, not scorched
-enough the next. But the chocolate soufflé hit the bull’s-eye, and so did the dark chocolate pot de
-crème in a coffee mug. Neither was the least bit surprising. That’s a compliment, too.
+required, although the frites, fried to a mahogany crisp, will also do.

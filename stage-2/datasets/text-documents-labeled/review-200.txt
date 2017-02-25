@@ -15,14 +15,14 @@ finally, properly adored. Not as a conveyor of health benefits or a path to the 
 indulgence. Oat sheaves lean in a corner of the front window. Vintage oat tins line the shelves.
 Samantha Stephens, the chef and owner, bought racehorse-feed sacks on Etsy and hand-sewed them into
 pillows for a narrow wooden bench. Customers teeter at tables as tiny as stools. If the quaint,
-wholesome scene is expected, the 30-odd variations of oatmeal are not. A bowl of nicely thick
-porridge — sized in Baby Bear, Mama Bear and Papa Bear, of course — may be thatched with Cheddar
-under a crumble of bacon, with apples below, roasted in cinnamon until they leak sugar. A filigree
-of maple syrup and sea salt, and it is a dainty lumberjack’s breakfast. More bacon appears in a
+wholesome scene is expected, the 30-odd variations of <dish>oatmeal</dish> are not. A bowl of nicely thick
+<dish>porridge</dish> — sized in Baby Bear, Mama Bear and Papa Bear, of course — may be thatched with Cheddar
+under a crumble of bacon, with apples below, roasted in cinnamon until they leak sugar. A <dish>filigree
+of maple syrup and sea salt</dish>, and it is a dainty lumberjack’s breakfast. More bacon appears in a
 swirl of peanut butter and bananas, a homage to Elvis, so rich and childlike in its appeal that my
 instinct was to eat it in secret. Nubs of honey ham, edges blackened in a pan for a hint of caramel,
-and melting Gruyère invoke a croque-monsieur, with nutmeg wafting up and a foam of steamed milk
-standing in, almost primly, for béchamel. Truffle RisOATto (the name is trademarked) banishes all
+and melting <dish>Gruyère</dish> invoke a croque-monsieur, with nutmeg wafting up and a foam of steamed milk
+standing in, almost primly, for béchamel. <dish>Truffle RisOATto</dish> (the name is trademarked) banishes all
 memory of the oatmeal at its base, with a snowfall of Parmesan and truffle oil insinuating itself
 into every cranny. This is recommended with a spoonful of heavy cream; don’t bother abstaining from
 it, if you’ve come this far. In India, packets of instant oatmeal are threaded with turmeric, onion
@@ -30,7 +30,7 @@ flakes and fenugreek. Here, Ms. Stephens sticks to the more familiar flavors, in
 with cardamom and crystallized ginger for a touch of crunch, mixed with almonds, raisins and a
 splash of coconut milk. Its warmth slowly flares along the ribs, a lovely awakening on a severe
 morning. I wish there were more ventures into non-Western territory. The only other such offering,
-labeled “Thai-style,” juxtaposes fresh pineapple with coconut flakes, peanuts, peanut butter and
+labeled “<dish>Thai-style</dish>,” juxtaposes fresh pineapple with coconut flakes, peanuts, peanut butter and
 sriracha, an ingredient list that, at a Thai restaurant, would make me nervous. In 2013, Ms.
 Stephens’s recipes came to the attention of Quaker Oats, which appointed her   — essentially, a sort
 of millennial Wilford Brimley. At OatMeals, she uses exclusively Quaker’s steel-cut oats, which are
@@ -40,7 +40,7 @@ stoves to keep up with demand. Not every roster of toppings will delight. (You c
 your own.) But the “happy endings” — so called in honor of the massage parlors next door and down
 below; the OatMeals storefront is squeezed between signs for “The Best Foot Rub” and “The Best Back
 Rub” — are wonderfully goofy in their abundance, particularly the Almond Joy, with toasted coconut
-and dark chocolate chips that start to liquefy the moment they touch the hot oats. Ms. Stephens has
+and <dish>dark chocolate chips</dish> that start to liquefy the moment they touch the hot oats. Ms. Stephens has
 plans to franchise the cafe and, with more space, to experiment further, offering the likes of cold
 groat salads in summer and oatmeal cooked in chicken broth, like Chinese congee. She may want to
 keep her eye on the 23rd annual  , too, taking place next October in Carrbridge, Scotland. The

@@ -10,18 +10,18 @@ Oluwalogbon, the chef behind the   Nigerian Food Truck, which parks weekdays in 
 Nigerian Consulate, a few blocks east of Grand Central Terminal. But the version he serves here is
 skinless, he said with a sigh: “For the general public, we have to make accommodations.”
 Fortunately, those accommodations are few. It’s rare that the general public has a chance to
-encounter, on the streets of Midtown Manhattan, the likes of gizdodo, chicken gizzards boiled just
+encounter, on the streets of Midtown Manhattan, the likes of <dish>gizdodo</dish>, chicken gizzards boiled just
 short of tender, then fried with Scotch bonnets and red onions and folded with dodo, plantains
-caramelized in curry powder and thyme: gooey, sugary and meaty, all at once. Or moi moi, malleable
+caramelized in curry powder and thyme: gooey, sugary and meaty, all at once. Or <dish>moi moi</dish>, malleable
 bundles the texture of mashed potatoes, made of honey beans dismantled by soaking overnight. Steamed
 in foil, they taste of the sea, contoured in brine from dried shrimp and sardines, with buried
-slivers of hard-boiled eggs. Or nubs of beef knuckle, roasted and patted down with suya spice, a
-blend of ground ginger, cayenne and crushed kuli-kuli — groundnut paste squeezed until the oil runs
-out, then crisped into hard cakes, a kind of earthy concentrate. Meat pies are more familiar,
+slivers of hard-boiled eggs. Or <dish>nubs of beef knuckle</dish>, roasted and patted down with suya spice, a
+blend of ground ginger, cayenne and crushed <dish>kuli-kuli</dish> — groundnut paste squeezed until the oil runs
+out, then crisped into hard cakes, a kind of earthy concentrate. <dish>Meat pies</dish> are more familiar,
 colonial descendants of Cornish pasties, flaking and caving without going to pieces. Likewise balls
 of fried dough, here called puff-puff, speak to all nations; these have a tinge of nutmeg and an
 unexpected density. Larger dishes are built for a culture that recognizes the value of midday naps.
-Honey beans, sweet kin to black-eyed peas, are beaten into a coarse, rich mush; yam porridge, even
+<dish>Honey beans</dish>, sweet kin to black-eyed peas, are beaten into a coarse, rich mush; yam porridge, even
 thicker, hides an army of Scotch bonnets. (Why is Nigerian food not more widely recognized as one of
 the world’s great hot cuisines? Scotch bonnets find their way into nearly every dish. It can take a
 minute before you feel the heat unfurling, then no part of the mouth is left unscathed.) Most
@@ -29,7 +29,7 @@ entrees come with a choice of meats: goat on the bone, ready to fight the teeth;
 hard; tilapia, more yielding. Each comes in a tomato sauce with a trembling heat and a sweetness
 approaching ketchup’s. Sometimes all three are heaped together, and once I received the benediction
 of a cow’s foot, its collagen leaking a shining trail through the stew. On another visit, my
-companion, who grew up in Nigeria, said that the jollof rice tasted as if it had been made in a
+companion, who grew up in Nigeria, said that the <dish>jollof rice</dish> tasted as if it had been made in a
 giant caldron in someone’s backyard, the way it was meant to be. To me, it tasted almost wholly of
 smoke, like the aftermath of a demonic possession. Mr. Oluwalogbon, 40, was born in Ghana, his
 mother’s homeland, and raised in Nigeria, his father’s. He came to the United States a month after
