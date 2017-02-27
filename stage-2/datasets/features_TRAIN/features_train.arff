@@ -42,7 +42,7 @@
 0,0,0,0,false,false,sformatino,../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
 0,0,0,0,true,false,'Mediterranean orata',../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
 0,1,0,0,false,false,'simple pasta with sauted shrimp',../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
-0,0,0,0,false,false,'whole-wheat spaghetti, speck and wilted radicchio',../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
+0,0,0,0,false,false,'whole-wheat spaghetti speck and wilted radicchio',../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
 0,0,0,0,false,false,'ricotta cake',../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
 0,0,0,0,false,false,tiramisu,../datasets/text-documents-labeled_TRAIN/review-033.txt,positive
 0,0,0,0,false,false,'lime paneer roll',../datasets/text-documents-labeled_TRAIN/review-034.txt,positive
@@ -53,7 +53,7 @@
 0,0,0,0,false,false,'pimiento cheese',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
 0,0,0,0,false,false,'banana cream pie',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
 0,0,0,0,false,false,'French fries',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
-0,0,0,0,true,false,'craggy, tangy buttermilk biscuits',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
+0,0,0,0,true,false,'craggy tangy buttermilk biscuits',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
 0,1,0,0,false,false,Chicken,../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
 0,0,0,0,false,false,'mahogany chunks',../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
 1,1,0,0,false,false,fried-chicken,../datasets/text-documents-labeled_TRAIN/review-035.txt,positive
@@ -163,7 +163,8 @@
 0,0,0,0,true,false,'Duck lo mein',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
 0,0,0,0,false,false,Cantonese,../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
 0,0,0,0,false,false,pork,../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
-1,0,1,0,false,true,'lobster<dish> is sweeter than you might imagine. So is the sauce. Shower it with hot sauce and soy.Do the same with <dish>egg foo young',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
+1,0,1,0,false,true,'lobster',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
+1,0,1,0,false,true,'egg foo young',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
 0,0,0,0,true,false,'black bean sauce',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
 0,0,0,0,false,false,'white rice',../datasets/text-documents-labeled_TRAIN/review-045.txt,positive
 0,0,0,0,false,false,rillettes,../datasets/text-documents-labeled_TRAIN/review-046.txt,positive
@@ -203,12 +204,12 @@
 0,0,0,0,true,false,'gnocchi with musky oxtail rag',../datasets/text-documents-labeled_TRAIN/review-048.txt,positive
 0,0,0,0,true,false,'pappardelle fragrant with beef stewed in red wine',../datasets/text-documents-labeled_TRAIN/review-048.txt,positive
 0,0,0,0,true,false,'roast duck over oozy orzotto',../datasets/text-documents-labeled_TRAIN/review-048.txt,positive
-0,0,0,0,true,false,'matriciana, speckled with bacon',../datasets/text-documents-labeled_TRAIN/review-048.txt,positive
+0,0,0,0,true,false,'matriciana speckled with bacon',../datasets/text-documents-labeled_TRAIN/review-048.txt,positive
 0,0,0,0,false,false,oysters,../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
 0,0,0,0,false,false,'pan-roasted squid and sausage',../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
 0,1,1,1,true,true,'Shrimp cocktail',../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
 0,0,0,0,true,true,'oysters Kilpatrick',../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
-0,0,0,0,false,false,'Mushy pea fritters, served with minted yogurt',../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
+0,0,0,0,false,false,'Mushy pea fritters served with minted yogurt',../datasets/text-documents-labeled_TRAIN/review-049.txt,positive
 0,0,1,1,true,false,'veal spiedini',../datasets/text-documents-labeled_TRAIN/review-050.txt,positive
 0,0,0,0,true,false,'Green lentil soup',../datasets/text-documents-labeled_TRAIN/review-050.txt,positive
 0,0,1,0,true,false,'heirloom carrots are enriched with hazelnuts',../datasets/text-documents-labeled_TRAIN/review-050.txt,positive
@@ -227,7 +228,7 @@
 0,0,0,0,true,true,'cured tongue with couscous',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
 0,0,0,0,true,true,'roasted leaves of brussels sprouts',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
 0,0,0,0,true,true,'herb-marinated butternut squash',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
-0,0,0,0,false,false,'tiny beet cubes, pickled , frise, earthy chestnut cream and spicy cheese',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
+0,0,0,0,false,false,'tiny beet cubes pickled frise earthy chestnut cream and spicy cheese',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
 0,0,0,0,true,false,'Zucchini slices',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
 0,0,0,0,true,false,'vegetable antipasti',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
 0,0,0,0,true,false,'melted red cabbage and turnips',../datasets/text-documents-labeled_TRAIN/review-051.txt,positive
@@ -339,7 +340,7 @@
 0,0,0,0,false,false,'anchovies piled on toast',../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
 0,0,0,0,false,true,lentils,../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
 0,0,0,0,false,true,kale,../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
-0,1,0,0,true,true,'potpie of chicken, rabbit and mushrooms',../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
+0,1,0,0,true,true,'potpie of chicken rabbit and mushrooms',../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
 0,0,0,0,true,true,'blue  in a pool of honey',../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
 1,0,0,0,true,true,'oily-soft bread with crisp shreds of bittersweet onion',../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
 0,0,0,0,true,true,mussels,../datasets/text-documents-labeled_TRAIN/review-066.txt,positive
@@ -449,11 +450,6 @@
 0,0,0,0,false,false,'roasted duck breast',../datasets/text-documents-labeled_TRAIN/review-108.txt,positive
 0,0,1,0,false,false,'melon salad',../datasets/text-documents-labeled_TRAIN/review-108.txt,positive
 0,0,0,0,false,false,Croutons,../datasets/text-documents-labeled_TRAIN/review-108.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
 0,0,0,0,false,false,crepes,../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
 0,1,0,0,false,false,'chicken forestire',../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
 0,1,0,0,false,false,'chicken sandwich',../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
@@ -466,20 +462,11 @@
 0,0,0,0,false,true,'crushed speculoos',../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
 0,0,0,0,false,true,'Belgianshortbread biscuits',../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
 0,0,0,0,false,false,'custard tarts',../datasets/text-documents-labeled_TRAIN/review-109.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
 1,0,0,0,false,false,'fried rice',../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
 0,0,0,0,false,false,'scrambled eggs',../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
 1,0,0,0,false,false,'sweet-salty lap cheung',../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
 0,1,0,0,false,false,'bacon and baby shrimp sluiced with vinegar',../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
 0,0,0,0,false,false,'hard-boiled quail eggs',../datasets/text-documents-labeled_TRAIN/review-110.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
 0,0,0,0,false,false,'noodle soup called pho',../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
 0,0,0,0,true,false,'banh mi',../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
 0,0,0,0,true,false,sandwiches,../datasets/text-documents-labeled_TRAIN/review-111.txt,positive
@@ -534,14 +521,6 @@
 0,0,0,0,false,false,'hamachi in a soy sauce',../datasets/text-documents-labeled_TRAIN/review-116.txt,positive
 0,0,0,0,false,false,veal,../datasets/text-documents-labeled_TRAIN/review-116.txt,positive
 0,0,0,0,false,true,'Pannacotta flavored with Fernet-Branca',../datasets/text-documents-labeled_TRAIN/review-116.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
 0,0,0,0,false,false,'tuna poke',../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
 0,0,0,0,false,true,'monkfish liver torchon',../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
 0,1,0,0,false,false,'garlic shrimp',../datasets/text-documents-labeled_TRAIN/review-117.txt,positive
@@ -563,17 +542,10 @@
 0,0,0,0,false,false,'pork-belly confit',../datasets/text-documents-labeled_TRAIN/review-118.txt,positive
 0,0,0,1,false,true,'Grilled vegetables',../datasets/text-documents-labeled_TRAIN/review-118.txt,positive
 0,1,0,1,false,true,shrimpcocktail,../datasets/text-documents-labeled_TRAIN/review-118.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,0,0,0,false,false,'lemony hummus',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,0,0,0,false,false,'yogurt-coated eggplant dolmas',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,1,0,0,false,false,'canaps of spiced meats',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
-0,0,0,0,false,false,'subereg, a labor-intensive lasagna variant,',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
+0,0,0,0,false,false,'subereg a labor-intensive lasagna variant',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,0,0,0,false,false,basterma,../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,0,0,0,false,true,'beef salami calledsoujuk',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
 0,0,0,1,false,false,'grilled prawns',../datasets/text-documents-labeled_TRAIN/review-119.txt,positive
@@ -626,7 +598,7 @@
 0,0,0,0,false,false,tortilla,../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
 0,0,0,0,false,false,'pork rinds',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
 0,0,0,0,false,false,'guacamole and chips served with two salsas',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
-0,0,0,0,false,true,'soft, brinyoctopus',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
+0,0,0,0,false,true,'soft brinyoctopus',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
 0,0,0,0,false,false,'green crumbledchorizo',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
 0,0,0,0,false,false,Salads,../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
 0,0,0,0,false,false,'green beans with cucumbers and a poached quail egg',../datasets/text-documents-labeled_TRAIN/review-124.txt,positive
@@ -645,8 +617,6 @@
 0,0,0,0,false,false,'chocolate cake with hazelnuts',../datasets/text-documents-labeled_TRAIN/review-126.txt,positive
 0,0,0,0,false,false,'grass-fed burger',../datasets/text-documents-labeled_TRAIN/review-126.txt,positive
 0,0,0,0,false,false,'French fries',../datasets/text-documents-labeled_TRAIN/review-126.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-127.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-127.txt,positive
 0,0,0,0,false,false,'baked Gruyre',../datasets/text-documents-labeled_TRAIN/review-127.txt,positive
 0,0,0,0,false,false,'macaroni and cheese',../datasets/text-documents-labeled_TRAIN/review-127.txt,positive
 0,0,0,0,false,true,truffledgnocchi,../datasets/text-documents-labeled_TRAIN/review-127.txt,positive
@@ -663,12 +633,6 @@
 0,1,0,0,false,false,'Short ribs',../datasets/text-documents-labeled_TRAIN/review-128.txt,positive
 0,0,0,0,false,false,'pork chop',../datasets/text-documents-labeled_TRAIN/review-128.txt,positive
 0,0,0,0,false,false,'mole deQuertaro rich with cacao',../datasets/text-documents-labeled_TRAIN/review-128.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
 0,1,0,0,false,false,'chicken scarpariello',../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
 0,0,0,0,false,false,'country ham',../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
 0,0,0,0,false,false,'no-cheese Sicilian pizza ',../datasets/text-documents-labeled_TRAIN/review-129.txt,positive
@@ -752,7 +716,7 @@
 0,0,0,0,false,false,'banana-Nutella sandwiches',../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
 0,0,0,0,false,false,'nam prik pao',../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
 0,1,0,0,false,false,'dried shrimp and roasted peanuts',../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
-0,1,0,0,false,true,'gai yang,Isan-style barbecue chicken',../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
+0,1,0,0,false,true,'gai yang Isan-style barbecue chicken',../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
 0,0,0,0,false,false,larb,../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
 0,0,0,0,false,false,crepes,../datasets/text-documents-labeled_TRAIN/review-137.txt,positive
 0,0,0,0,false,false,'duck breast preening under a ginger lacquer',../datasets/text-documents-labeled_TRAIN/review-138.txt,positive
@@ -828,7 +792,7 @@
 0,0,0,0,false,false,'uni and ikura',../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
 1,1,0,0,false,false,'fried chicken wings',../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
 0,0,0,0,false,false,tonkotsu,../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
-0,0,0,0,false,true,'boiledbeef bones, veal bones and oxtails',../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
+0,0,0,0,false,true,'boiledbeef bones veal bones and oxtails',../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
 0,0,0,0,false,false,'shoyu ramen',../datasets/text-documents-labeled_TRAIN/review-146.txt,positive
 0,0,0,0,false,false,'black sea bass',../datasets/text-documents-labeled_TRAIN/review-147.txt,positive
 0,0,0,0,false,false,'pancit pranses',../datasets/text-documents-labeled_TRAIN/review-147.txt,positive
@@ -868,13 +832,6 @@
 0,0,0,0,false,false,'filet mignon',../datasets/text-documents-labeled_TRAIN/review-150.txt,positive
 0,0,0,0,false,false,'Berkshire pork chop',../datasets/text-documents-labeled_TRAIN/review-150.txt,positive
 0,0,0,0,false,false,'roasted branzino',../datasets/text-documents-labeled_TRAIN/review-150.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
 0,0,0,0,false,false,ciorba,../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
 0,1,0,0,false,false,'Crumpled-looking pork-and-veal meatballs',../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
 1,0,0,0,false,false,'pan-fried pastries stuffedundaintily with cabbage',../datasets/text-documents-labeled_TRAIN/review-151.txt,positive
@@ -911,9 +868,6 @@
 0,1,0,0,false,true,'Streaky lamb belly',../datasets/text-documents-labeled_TRAIN/review-156.txt,positive
 0,0,0,0,false,true,'slab of goat confit',../datasets/text-documents-labeled_TRAIN/review-156.txt,positive
 0,0,0,0,false,false,'Four razor clams',../datasets/text-documents-labeled_TRAIN/review-156.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
 0,0,0,0,false,false,'cha ca la Vong',../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
 0,0,0,0,false,false,branzino,../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
 1,1,1,0,false,true,friedchicken,../datasets/text-documents-labeled_TRAIN/review-157.txt,positive
@@ -932,12 +886,6 @@
 0,1,0,0,false,false,'beef ribs',../datasets/text-documents-labeled_TRAIN/review-158.txt,positive
 0,0,0,0,false,false,'Smothered oxtail',../datasets/text-documents-labeled_TRAIN/review-158.txt,positive
 0,0,0,0,false,false,'baked bluefish',../datasets/text-documents-labeled_TRAIN/review-158.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,'tail and pork belly',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,1,0,0,false,false,'Colorado lamb loin',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,'Wiener schnitzel',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
@@ -950,7 +898,7 @@
 0,0,0,0,false,false,'papas fritas',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,saffronaioli,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,'pastrami pork-belly sliders with raclette',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
-0,0,0,0,false,true,'sea scallop sandwich,',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
+0,0,0,0,false,true,'sea scallop sandwich',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,true,Flukesashimi,../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,'caramel popcorn',../datasets/text-documents-labeled_TRAIN/review-159.txt,positive
 0,0,0,0,false,false,'smoked hot sausage',../datasets/text-documents-labeled_TRAIN/review-160.txt,positive
@@ -978,21 +926,14 @@
 0,0,0,0,false,false,'Rivers Edge chvre',../datasets/text-documents-labeled_TRAIN/review-162.txt,positive
 0,0,0,0,false,false,Etivaz,../datasets/text-documents-labeled_TRAIN/review-162.txt,positive
 0,0,0,0,false,false,Challerhocker,../datasets/text-documents-labeled_TRAIN/review-162.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,0,0,0,false,false,'clam roll',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,0,0,0,false,false,'touch of tarragon',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,0,0,0,false,false,'golden beets',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,1,0,0,false,false,'Meaty corkscrew whelks',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
-1,0,0,0,true,false,'the bowl of big, sweet steamers',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
+1,0,0,0,true,false,'the bowl of big sweet steamers',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,0,0,0,false,false,'clipper-ship-size clam roll',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 1,0,0,0,false,false,'fat-bellied fried Ipswiches',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
 0,0,0,0,false,false,'mayonnaise-drowned lobster roll',../datasets/text-documents-labeled_TRAIN/review-163.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
-0,0,0,0,false,false,?,../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
 0,1,0,0,false,false,'steak frites',../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
 0,0,0,0,false,false,'suckling pig',../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
 0,0,0,0,false,false,Lobster,../datasets/text-documents-labeled_TRAIN/review-164.txt,positive
@@ -1028,7 +969,7 @@
 0,0,0,0,false,false,'hot-pork-drenched cracker',../datasets/text-documents-labeled_TRAIN/review-167.txt,positive
 0,0,0,0,false,false,'juicy pink pork chop',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
 0,0,0,0,false,true,'lip-smacking Bordelaise',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
-0,0,0,0,false,true,'hot, crisppotato sticks',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
+0,0,0,0,false,true,'hot crisppotato sticks',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
 0,1,0,0,false,false,'lamb shank',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
 0,0,0,0,false,false,'fat mussels in a wonderful creamy broth',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
 0,0,0,0,false,false,'razor clams slapped',../datasets/text-documents-labeled_TRAIN/review-168.txt,positive
@@ -1083,7 +1024,7 @@
 0,0,0,0,false,false,'Farm egg with salt cod',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
 0,0,0,0,false,false,'coconut-curry soup',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
 0,0,0,0,false,false,cuttlefish,../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
-0,0,0,0,false,false,'peas, egg and bacon',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
+0,0,0,0,false,false,'peas egg and bacon',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
 0,1,0,0,false,false,'shrimp alhinho',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
 0,0,0,0,false,false,'baby goat',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
 0,0,0,0,false,false,'rice with duck confit',../datasets/text-documents-labeled_TRAIN/review-212.txt,positive
@@ -1643,7 +1584,7 @@
 1,0,0,0,false,true,'ham deep-fried',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
 0,0,0,0,false,true,'Nobu classic',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
 0,0,0,0,false,false,'grape tomato halves',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
-0,0,0,0,false,false,'goat cheese, white chocolate and wasabi',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
+0,0,0,0,false,false,'goat cheese white chocolate and wasabi',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
 0,0,0,0,false,false,sashimi,../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
 0,0,0,0,false,false,sushi,../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
 0,0,0,0,false,false,'soba noodles',../datasets/text-documents-labeled_TRAIN/review-017.txt,positive
@@ -1742,7 +1683,8 @@
 1,1,0,0,false,false,'fried chicken',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
 0,1,0,0,false,false,'chicken nanban',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
 0,0,0,0,false,false,'beef guts stew',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
-0,0,0,0,false,true,'hayashi rice/dish>, a kind of homage to <dish>beef Bourguignon',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
+0,0,0,0,false,true,'hayashi rice',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
+0,0,0,0,false,true,'beef Bourguignon',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
 0,0,0,0,false,false,'spaghetti Napolitan',../datasets/text-documents-labeled_TRAIN/review-024.txt,positive
 0,0,0,0,false,false,'scallops and cavatelli',../datasets/text-documents-labeled_TRAIN/review-025.txt,positive
 0,0,0,0,false,false,'choucroute garnie',../datasets/text-documents-labeled_TRAIN/review-025.txt,positive
@@ -2252,7 +2194,7 @@
 0,0,0,0,false,false,tofu,../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
 0,0,0,0,false,false,rice,../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
 0,0,0,0,false,false,rice,../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
-1,0,0,1,false,true,'rice<dish> with sun-dried tomato and ichimi togarashi, ground red chile. Its fancier than the ones sold at gas stations in Honolulu, but its still the Spam that makes it delicious.Most of the omusubi at Hanamizuki are prepared maze-gohan style, with ingredients minced and mixed throughout the <dish>rice',../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
+1,0,0,1,false,true,'rice',../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
 0,0,0,0,false,false,sushi,../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
 1,0,0,0,false,false,'deep-fried tofu',../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
 0,0,1,0,false,false,'Tofu & Tofu',../datasets/text-documents-labeled_TRAIN/review-278.txt,positive
