@@ -145,6 +145,32 @@ class HasPriceAttachedFeature:
         return ['true', 'false']
 
 
+class HasMealNameMentionedFeature:
+    meal_names = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.meal_names = feature_data["meal_names"]
+
+    def process(self, row):
+        dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        context = get_context_for_row(row)
+        for name in self.meal_names:
+            if name in context or name in dish_name:
+                return 'true'
+        return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'has_meal_name_mentioned'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
+
+
 class DishNameFeature:
     food_ingredients = []
 
