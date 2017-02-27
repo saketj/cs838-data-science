@@ -1,6 +1,6 @@
 
 # Created by https://www.gitignore.io/api/linux,macos,osx,windows,sublimetext,python,java
-
+.idea
 ### Java ###
 *.class
 
