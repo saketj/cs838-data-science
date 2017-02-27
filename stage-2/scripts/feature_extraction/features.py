@@ -30,7 +30,10 @@ class FoodAdjectiveFeature:
             self.food_adjectives = feature_data["food_adjectives"]
 
     def process(self, row):
-        dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
         count = 0
         for adjective in self.food_adjectives:
             if bool(adjective in dish_name):
@@ -56,7 +59,10 @@ class FoodIngredientsFeature:
             self.food_ingredients = feature_data["food_ingredients"]
 
     def process(self, row):
-        dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
         count = 0
         for adjective in self.food_ingredients:
             if bool(adjective in dish_name):
@@ -129,7 +135,10 @@ class HasPriceAttachedFeature:
         return
 
     def process(self, row):
-        dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
         context = get_context_for_row(row)
         if '$' in dish_name or '$' in context:
             return 'true'
@@ -155,7 +164,10 @@ class HasMealNameMentionedFeature:
             self.meal_names = feature_data["meal_names"]
 
     def process(self, row):
-        dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
         context = get_context_for_row(row)
         for name in self.meal_names:
             if name in context or name in dish_name:
@@ -178,7 +190,10 @@ class DishNameFeature:
         return
 
     def process(self, row):
-        dish_name = re.sub(r"\n", "", row['dish name'])
+        if 'dish name' in row:
+            dish_name = re.sub(r"\n", "", row['dish name'])
+        else:
+            dish_name = re.sub(r"\n", "", row['negative sample'])
         return unicode(dish_name, errors='ignore')
 
     @staticmethod
@@ -207,3 +222,23 @@ class FileNameFeature:
     @staticmethod
     def get_feature_type():
         return 'STRING'
+
+
+class FeatureLabel:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        if 'negative sample' in row:
+            return 'negative'
+        else:
+            return 'positive'
+
+    @staticmethod
+    def get_feature_name():
+        return 'class_label'
+
+    @staticmethod
+    def get_feature_type():
+        return ['positive', 'negative']
+

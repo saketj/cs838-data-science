@@ -45,21 +45,24 @@ def define_attributes():
                             features.HasPriceAttachedFeature(),
                             features.HasMealNameMentionedFeature(),
                             features.DishNameFeature(),
-                            features.FileNameFeature()
+                            features.FileNameFeature(),
+                            features.FeatureLabel()
                          ]
     return list_of_attributes
 
 
 def main(argv):
     if len(argv) < 2:
-        sys.stderr.write("Incorrect arguments. Expecting two arguments: <input_file> <output_file>\n")
+        sys.stderr.write("Incorrect arguments. Expecting two arguments: <output_file> <input_file_1> <input_file_2>\n")
         sys.exit(-1)
-    input_filename = argv[0]
-    output_file = open(argv[1], "wb")
-
+    output_file = open(argv[0], "wb")
+    i = 1
     arff_content = init_arff()
     init_features(arff_content)
-    add_data(arff_content, input_filename)
+    while i < len(argv):
+        input_filename = argv[i]
+        add_data(arff_content, input_filename)
+        i += 1
     arff.dump(arff_content, output_file)
     output_file.close()
 
