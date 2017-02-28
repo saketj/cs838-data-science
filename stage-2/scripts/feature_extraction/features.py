@@ -191,9 +191,9 @@ class DishNameFeature:
 
     def process(self, row):
         if 'dish name' in row:
-            dish_name = re.sub(r"\n", "", row['dish name'])
+            dish_name = re.sub(r"[^ +\w]", "", row['dish name'])
         else:
-            dish_name = re.sub(r"\n", "", row['negative sample'])
+            dish_name = re.sub(r"[^ +\w]", "", row['negative sample'])
         return unicode(dish_name, errors='ignore')
 
     @staticmethod
