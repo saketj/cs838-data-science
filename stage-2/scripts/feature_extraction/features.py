@@ -148,7 +148,6 @@ class PriceMentionFeature:
 
     def process(self, row):
         context = get_context_after_row(row)
-        print context
         return context.find("$")
 
     @staticmethod

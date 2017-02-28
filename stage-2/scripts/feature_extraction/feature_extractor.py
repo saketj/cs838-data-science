@@ -44,7 +44,7 @@ def define_attributes():
                             features.FoodIngredientsContextFeature(),
                             features.PriceMentionFeature(),
                             features.HasMealNameMentionedFeature(),
-                            features.OtherRelevantFeature()
+                            features.OtherRelevantFeature(),
                             features.DishNameFeature(),
                             features.FileNameFeature(),
                             features.FeatureLabel()
