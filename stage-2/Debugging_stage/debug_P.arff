@@ -26,8 +26,8 @@
 0,0,0,0,118,false,false,'foie gras',./Debugging_stage/Set_P/review-032.txt,positive
 0,1,0,0,81,false,false,'shrimp tempura',./Debugging_stage/Set_P/review-032.txt,positive
 0,0,0,0,2,false,false,'hamachi jaws',./Debugging_stage/Set_P/review-032.txt,positive
-0,0,0,0,-1,false,false,Sashimi,./Debugging_stage/Set_P/review-032.txt,positive
-0,0,0,0,-1,false,false,sushi,./Debugging_stage/Set_P/review-032.txt,positive
+0,0,0,0,-1,false,true,Sashimi,./Debugging_stage/Set_P/review-032.txt,positive
+0,0,0,0,-1,false,true,sushi,./Debugging_stage/Set_P/review-032.txt,positive
 0,0,0,0,-1,false,false,'seaurchin chips',./Debugging_stage/Set_P/review-032.txt,positive
 0,0,0,0,-1,true,false,'arugula salad',./Debugging_stage/Set_P/review-033.txt,positive
 0,0,0,0,-1,false,false,fusilli,./Debugging_stage/Set_P/review-033.txt,positive
