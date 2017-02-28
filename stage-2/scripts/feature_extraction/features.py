@@ -195,7 +195,7 @@ class HasDishQuantityMentionFeature:
         # Read the feature hints
         with open("feature_hints.json") as json_file:
             feature_data = json.load(json_file)
-            self.other_relevant = feature_data["other_relevant"]
+            self.other_relevant = feature_data["dish_quantity"]
 
     def process(self, row):
         if 'dish name' in row:
