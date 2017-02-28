@@ -20,6 +20,18 @@ def get_context_for_row(row):
     return line.lower().decode('utf-8', 'ignore')
 
 
+def get_context_after_row(row):
+    file_path = '../' + row['file name']
+    review_file = open(file_path, "r")
+    start_offset = int(row['start offset'])
+    review_file.seek(start_offset, 0)
+    line = review_file.readline().split(".")[0]
+    line = re.sub(r"\n", "", line)  # clean-up any newlines
+    line = re.sub(r"<dish>.*?</dish>", '', line)  # Remove <dish>..</dish> from the line
+    review_file.close()
+    return line.lower().decode('utf-8', 'ignore')
+
+
 class FoodAdjectiveFeature:
     food_adjectives = []
 
@@ -130,28 +142,21 @@ class FoodIngredientsContextFeature:
         return 'NUMERIC'
 
 
-class HasPriceAttachedFeature:
+class PriceMentionFeature:
     def __init__(self):
         return
 
     def process(self, row):
-        if 'dish name' in row:
-            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
-        else:
-            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
-        context = get_context_for_row(row)
-        if '$' in dish_name or '$' in context:
-            return 'true'
-        else:
-            return 'false'
+        context = get_context_after_row(row)
+        return context.find("$")
 
     @staticmethod
     def get_feature_name():
-        return 'has_price_attached'
+        return 'price_mention'
 
     @staticmethod
     def get_feature_type():
-        return ['true', 'false']
+        return 'INTEGER'
 
 
 class HasMealNameMentionedFeature:
@@ -182,6 +187,34 @@ class HasMealNameMentionedFeature:
     def get_feature_type():
         return ['true', 'false']
 
+
+class HasDishQuantityMentionFeature:
+    other_relevant = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.other_relevant = feature_data["dish_quantity"]
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
+        context = get_context_for_row(row)
+        for name in self.other_relevant:
+            if name in context or name in dish_name:
+                return 'true'
+        return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'has_dish_quantity_mention'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
 
 class DishNameFeature:
     def __init__(self):

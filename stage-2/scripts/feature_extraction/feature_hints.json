@@ -1,5 +1,6 @@
 {
   "food_adjectives": ["sweet", "tasty", "delicious", "crispy", "fried", "cold"],
   "food_ingredients": ["meat", "chicken", "mango", "ribs", "steak", "shrimp", "lamb"],
-  "meal_names": ["menu", "breakfast", "lunch", "dinner", "appetizer", "dish"]
+  "meal_names": ["menu", "breakfast", "lunch", "dinner", "appetizer", "dish","salad"],
+  "dish_quantity": ["cup","plate","bowl"]
 }
