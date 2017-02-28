@@ -187,7 +187,8 @@ class HasMealNameMentionedFeature:
     def get_feature_type():
         return ['true', 'false']
 
-class OtherRelevantFeature:
+
+class HasDishQuantityMentionFeature:
     other_relevant = []
 
     def __init__(self):
@@ -209,7 +210,7 @@ class OtherRelevantFeature:
 
     @staticmethod
     def get_feature_name():
-        return 'other_relevant_words_present'
+        return 'has_dish_quantity_mention'
 
     @staticmethod
     def get_feature_type():
