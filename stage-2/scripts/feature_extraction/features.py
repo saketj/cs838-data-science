@@ -187,14 +187,15 @@ class HasMealNameMentionedFeature:
     def get_feature_type():
         return ['true', 'false']
 
-class OtherRelevantFeature:
+
+class HasDishQuantityMentionFeature:
     other_relevant = []
 
     def __init__(self):
         # Read the feature hints
         with open("feature_hints.json") as json_file:
             feature_data = json.load(json_file)
-            self.other_relevant = feature_data["other_relevant"]
+            self.other_relevant = feature_data["dish_quantity"]
 
     def process(self, row):
         if 'dish name' in row:
@@ -209,7 +210,7 @@ class OtherRelevantFeature:
 
     @staticmethod
     def get_feature_name():
-        return 'other_relevant_words_present'
+        return 'has_dish_quantity_mention'
 
     @staticmethod
     def get_feature_type():

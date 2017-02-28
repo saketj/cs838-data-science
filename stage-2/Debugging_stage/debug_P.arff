@@ -7,7 +7,7 @@
 @ATTRIBUTE count_of_food_ingredients_in_context NUMERIC
 @ATTRIBUTE price_mention INTEGER
 @ATTRIBUTE has_meal_name_mentioned {true, false}
-@ATTRIBUTE other_relevant_words_present {true, false}
+@ATTRIBUTE has_dish_quantity_mention {true, false}
 @ATTRIBUTE dish_name STRING
 @ATTRIBUTE file_name STRING
 @ATTRIBUTE class_label {positive, negative}
