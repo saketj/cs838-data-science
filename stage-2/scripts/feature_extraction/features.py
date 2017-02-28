@@ -3,7 +3,7 @@ import re
 
 
 def get_context_for_row(row):
-    file_path = '../' + row['file name']
+    file_path = row['file name']
     review_file = open(file_path, "r")
     start_offset = int(row['start offset'])
     review_file.seek(start_offset, 0)
@@ -21,7 +21,7 @@ def get_context_for_row(row):
 
 
 def get_context_after_row(row):
-    file_path = '../' + row['file name']
+    file_path = row['file name']
     review_file = open(file_path, "r")
     start_offset = int(row['start offset'])
     review_file.seek(start_offset, 0)
@@ -37,7 +37,7 @@ class FoodAdjectiveFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.food_adjectives = feature_data["food_adjectives"]
 
@@ -66,7 +66,7 @@ class FoodIngredientsFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.food_ingredients = feature_data["food_ingredients"]
 
@@ -95,7 +95,7 @@ class FoodAdjectiveContextFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.food_adjectives = feature_data["food_adjectives"]
 
@@ -121,7 +121,7 @@ class FoodIngredientsContextFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.food_ingredients = feature_data["food_ingredients"]
 
@@ -164,7 +164,7 @@ class HasMealNameMentionedFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.meal_names = feature_data["meal_names"]
 
@@ -193,7 +193,7 @@ class HasDishQuantityMentionFeature:
 
     def __init__(self):
         # Read the feature hints
-        with open("feature_hints.json") as json_file:
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
             feature_data = json.load(json_file)
             self.other_relevant = feature_data["dish_quantity"]
 
