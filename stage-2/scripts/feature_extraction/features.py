@@ -188,6 +188,33 @@ class HasMealNameMentionedFeature:
     def get_feature_type():
         return ['true', 'false']
 
+class OtherRelevantFeature:
+    other_relevant = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.other_relevant = feature_data["other_relevant"]
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = row['dish name'].lower().decode('utf-8', 'ignore')
+        else:
+            dish_name = row['negative sample'].lower().decode('utf-8', 'ignore')
+        context = get_context_for_row(row)
+        for name in self.other_relevant:
+            if name in context or name in dish_name:
+                return 'true'
+        return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'other_relevant_words_present'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
 
 class DishNameFeature:
     def __init__(self):
