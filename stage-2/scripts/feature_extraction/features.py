@@ -183,45 +183,23 @@ class HasMealNameMentionedFeature:
         return ['true', 'false']
 
 
-class DishNameFeature:
-    food_ingredients = []
+class RecordNumberFeature:
+    record_number = 0
 
     def __init__(self):
         return
 
     def process(self, row):
-        if 'dish name' in row:
-            dish_name = re.sub(r"\n", "", row['dish name'])
-        else:
-            dish_name = re.sub(r"\n", "", row['negative sample'])
-        return unicode(dish_name, errors='ignore')
+        self.record_number += 1
+        return self.record_number
 
     @staticmethod
     def get_feature_name():
-        return 'dish_name'
+        return 'record_number'
 
     @staticmethod
     def get_feature_type():
-        return 'STRING'
-
-
-class FileNameFeature:
-    food_ingredients = []
-
-    def __init__(self):
-        return
-
-    def process(self, row):
-        file_name = re.sub(r"\n", "", row['file name'])
-        return unicode(file_name, errors='ignore')
-
-    @staticmethod
-    def get_feature_name():
-        return 'file_name'
-
-    @staticmethod
-    def get_feature_type():
-        return 'STRING'
+        return 'INTEGER'
 
 
 class FeatureLabel:
