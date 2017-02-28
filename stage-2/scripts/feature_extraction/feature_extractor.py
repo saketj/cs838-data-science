@@ -38,16 +38,17 @@ def add_data(arff_content, input_filename):
 
 def define_attributes():
     list_of_attributes = [
-                            features.FoodAdjectiveFeature(),
-                            features.FoodIngredientsFeature(),
-                            features.FoodAdjectiveContextFeature(),
-                            features.FoodIngredientsContextFeature(),
-                            features.HasPriceAttachedFeature(),
-                            features.HasMealNameMentionedFeature(),
-                            features.DishNameFeature(),
-                            features.FileNameFeature(),
-                            features.FeatureLabel()
-                         ]
+        features.FoodAdjectiveFeature(),
+        features.FoodIngredientsFeature(),
+        features.FoodAdjectiveContextFeature(),
+        features.FoodIngredientsContextFeature(),
+        features.HasPriceAttachedFeature(),
+        features.HasMealNameMentionedFeature(),
+        features.DishNameFeature(),
+        features.FileNameFeature(),
+        features.FeatureLabel(),
+        features.OtherRelevantFeature()
+    ]
     return list_of_attributes
 
 
