@@ -2,6 +2,13 @@ import csv
 import re
 import glob
 import random
+import sys
+
+argv = sys.argv[1:]
+if len(argv) < 2:
+    sys.stderr.write("Incorrect arguments. Expecting two arguments: <input_files> <output_file>\n")
+    sys.exit(-1)
+
 
 # removes the lines containing the patterns in the given string
 def remove(pattern,string_given):
@@ -20,7 +27,7 @@ def remove_dish_labels(text):
 
 threshold = 8 # Number of negative samples divided by 3 per file
 neg_list = [['file name','start offset','end offset','negative sample']] # A list for all positive examples
-path = './Debugging_stage/Set_Q/*.txt'
+path = argv[0]
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
 
@@ -62,7 +69,7 @@ for fle in files:
               break
 
 # Writing output to csv
-with open("./Debugging_stage/debug_negextracted_Q.csv", "wb") as f:
+with open(argv[1], "wb") as f:
     writer = csv.writer(f)
     writer.writerows(neg_list)
 
