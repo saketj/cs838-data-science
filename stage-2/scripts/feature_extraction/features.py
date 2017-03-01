@@ -274,6 +274,54 @@ class HasCapitalStarting:
     def get_feature_type():
         return ['true', 'false']
 
+class NumberOfCapitals:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = re.sub(r"[^ +\w]", "", row['dish name'])
+        else:
+            dish_name = re.sub(r"[^ +\w]", "", row['negative sample'])
+        new_name = unicode(dish_name, errors='ignore')
+        count = 0
+        for i in range(len(new_name)):
+            if new_name[i] >= 'A' and new_name[i] <= 'Z' :
+                count += 1
+        return count
+
+    @staticmethod
+    def get_feature_name():
+        return 'count_capital_letters'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class NumberOfCommas:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for i in range(len(context)):
+            if context[i] == ',' or context[i] == ';' :
+                count += 1
+        if len(context) > 0 :
+            return count/len(context)
+        else :
+            return 0
+
+    @staticmethod
+    def get_feature_name():
+        return 'count_commas_semicolon'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
+
+
 class DishNameFeature:
     def __init__(self):
         return

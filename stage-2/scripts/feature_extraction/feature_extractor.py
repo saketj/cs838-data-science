@@ -48,6 +48,8 @@ def define_attributes():
                             features.HasDishQuantityMentionFeature(),
                             features.CommaFollowedFeature(),
                             features.HasCapitalStarting(),
+                            features.NumberOfCapitals(),
+                            features.NumberOfCommas(),
                             features.DishNameFeature(),
                             features.FileNameFeature(),
                             features.FeatureLabel()
