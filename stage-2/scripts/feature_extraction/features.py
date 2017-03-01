@@ -142,7 +142,7 @@ class FoodIngredientsContextFeature:
         return 'NUMERIC'
 
 
-class PriceMentionFeature:
+class PriceDistanceFeature:
     def __init__(self):
         return
 
@@ -152,7 +152,7 @@ class PriceMentionFeature:
 
     @staticmethod
     def get_feature_name():
-        return 'price_mention'
+        return 'price_distance'
 
     @staticmethod
     def get_feature_type():
@@ -173,6 +173,26 @@ class CommaFollowedFeature:
     @staticmethod
     def get_feature_type():
         return 'INTEGER'
+
+class HasPriceMentionFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row)
+        if "$" in context:
+            return 'true'
+        else:
+            return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'has_price_mention'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
+
 
 class HasMealNameMentionedFeature:
     meal_names = []
