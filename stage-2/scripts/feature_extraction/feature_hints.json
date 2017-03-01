@@ -1,6 +1,6 @@
 {
-  "food_adjectives": ["sweet", "tasty", "delicious", "crispy", "fried", "cold", "smoked"],
-  "food_ingredients": ["meat", "chicken", "mango", "ribs", "steak", "shrimp", "lamb"],
-  "meal_names": ["menu", "breakfast", "lunch", "dinner", "appetizer", "dish","salad"],
-  "dish_quantity": ["cup","plate","bowl"]
+  "food_adjectives": ["sweet", "tasty", "delicious", "crisp", "frie", "cold", "smoked", "cream","black","dark","roast","scrambled","boiled","salt","chopped","fattened","melted","baked","dry","fritas","pulled","french","grilled","crunch","tender","dried","spicy","poached","toast"],
+  "food_ingredients": ["chicken", "mango", "ribs", "steak", "shrimp", "lamb","chocolate","zucchini","vanilla","bread","fish","mayonnaise","cheese","okra","egg","paneer","wafer","pork","oyster"],
+  "meal_names": ["menu", "breakfast", "lunch", "dinner", "appetizer", "dish","salad","sandwich","burger","pizza","tempura","rice"],
+  "dish_quantity": ["cup","plate","bowl","slab"]
 }
