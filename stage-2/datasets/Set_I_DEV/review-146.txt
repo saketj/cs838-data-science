@@ -45,7 +45,7 @@ brioche, they did not stop traffic, which they are clearly meant to do. The crus
 superb, but the stuffing was dull, and the quince paste that might have brought it into relief was
 bunched up at one end of the wing. Mr. Smookler trained in the meticulous rigor of  ’s kitchen, and
 his gift, those wings notwithstanding, is his Keller-like drive to find a better way. This usually
-means a harder and more costly way. When his supply of pork for tonkotsu broth suddenly dried up
+means a harder and more costly way. When his supply of pork for <dish>tonkotsu broth</dish> suddenly dried up
 last year, he went to the Midwest and persuaded nearly 40 farmers who raise Berkshire hogs to start
 a cooperative. Then he arranged for a small slaughterhouse to butcher the four cuts of pork he
 wanted and ship them to Long Island City, where he would cook 120 pounds of bones at a raging boil
