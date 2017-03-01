@@ -20,7 +20,7 @@ def remove_dish_labels(text):
 
 threshold = 8 # Number of negative samples divided by 3 per file
 neg_list = [['file name','start offset','end offset','negative sample']] # A list for all positive examples
-path = './datasets/Set_I_DEV/*.txt'
+path = './Debugging_stage/Set_Q/*.txt'
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
 
@@ -62,7 +62,7 @@ for fle in files:
               break
 
 # Writing output to csv
-with open("./datasets/neg_extracted_I.csv", "wb") as f:
+with open("./Debugging_stage/debug_negextracted_Q.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(neg_list)
 

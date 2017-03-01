@@ -1,4 +1,371 @@
 file name,start offset,end offset,dish name
+./Debugging_stage/Set_P/review-001.txt,390,431,classic Trinidadian sandwich
+./Debugging_stage/Set_P/review-001.txt,1026,1052,chicken pelau
+./Debugging_stage/Set_P/review-001.txt,1375,1407,blackened fruitcake
+./Debugging_stage/Set_P/review-002.txt,4013,4032,Caesar
+./Debugging_stage/Set_P/review-002.txt,4816,4844,clams oreganata
+./Debugging_stage/Set_P/review-002.txt,4874,4902,West Coast Gigi
+./Debugging_stage/Set_P/review-002.txt,5323,5341,steak
+./Debugging_stage/Set_P/review-002.txt,5469,5489,lobster
+./Debugging_stage/Set_P/review-002.txt,5528,5553,veal Marsala
+./Debugging_stage/Set_P/review-002.txt,5559,5584,chicken parm
+./Debugging_stage/Set_P/review-002.txt,5689,5706,crab
+./Debugging_stage/Set_P/review-002.txt,5734,5762,mashed potatoes
+./Debugging_stage/Set_P/review-002.txt,5766,5787,broccoli
+./Debugging_stage/Set_P/review-002.txt,5791,5809,fries
+./Debugging_stage/Set_P/review-002.txt,5897,5925,creamed spinach
+./Debugging_stage/Set_P/review-002.txt,5930,5954,hash browns
+./Debugging_stage/Set_P/review-002.txt,6752,6778,crab cocktail
+./Debugging_stage/Set_P/review-002.txt,6780,6804,baked clams
+./Debugging_stage/Set_P/review-002.txt,6852,6875,cheesecake
+./Debugging_stage/Set_P/review-003.txt,92,111,shrimp
+./Debugging_stage/Set_P/review-003.txt,309,330,ssamjang
+./Debugging_stage/Set_P/review-003.txt,657,685,wilting arugula
+./Debugging_stage/Set_P/review-003.txt,1266,1289,beet salad
+./Debugging_stage/Set_P/review-003.txt,1385,1405,Oysters
+./Debugging_stage/Set_P/review-003.txt,1582,1603,yakamein
+./Debugging_stage/Set_P/review-003.txt,1683,1711,Malaysian laksa
+./Debugging_stage/Set_P/review-003.txt,2113,2140,shrimp ceviche
+./Debugging_stage/Set_P/review-003.txt,2634,2659,kamado grill
+./Debugging_stage/Set_P/review-003.txt,2999,3025,Brisket jerky
+./Debugging_stage/Set_P/review-003.txt,3284,3311,Nasi ulam rice
+./Debugging_stage/Set_P/review-004.txt,147,182,red curry grilled duck
+./Debugging_stage/Set_P/review-004.txt,1840,1865,chicken laab
+./Debugging_stage/Set_P/review-004.txt,2185,2210,papaya salad
+./Debugging_stage/Set_P/review-004.txt,2218,2239,Khao soi
+./Debugging_stage/Set_P/review-004.txt,2457,2478,Pad thai
+./Debugging_stage/Set_P/review-004.txt,2560,2580,lobster
+./Debugging_stage/Set_P/review-004.txt,2643,2668,rice noodles
+./Debugging_stage/Set_P/review-004.txt,2801,2828,massaman curry
+./Debugging_stage/Set_P/review-004.txt,3053,3078,chicken soup
+./Debugging_stage/Set_P/review-004.txt,3112,3137,corn chowder
+./Debugging_stage/Set_P/review-005.txt,748,768,hot dog
+./Debugging_stage/Set_P/review-005.txt,1887,1907,sausage
+./Debugging_stage/Set_P/review-005.txt,2685,2709,brisket dog
+./Debugging_stage/Set_P/review-005.txt,2774,2804,Cheddar bratwurst
+./Debugging_stage/Set_P/review-005.txt,2950,2977,Cuban sandwich
+./Debugging_stage/Set_P/review-005.txt,3240,3258,tacos
+./Debugging_stage/Set_P/review-005.txt,3393,3415,tortillas
+./Debugging_stage/Set_P/review-005.txt,3685,3717,Calexico’s nachos
+./Debugging_stage/Set_P/review-005.txt,4027,4053,chicken wings
+./Debugging_stage/Set_P/review-005.txt,4121,4151,Chicken McNuggets
+./Debugging_stage/Set_P/review-005.txt,4195,4225,Chicken meatballs
+./Debugging_stage/Set_P/review-005.txt,4468,4488,brioche
+./Debugging_stage/Set_P/review-005.txt,4500,4518,gnudi
+./Debugging_stage/Set_P/review-005.txt,4624,4649,banh mi roll
+./Debugging_stage/Set_P/review-005.txt,4668,4695,mac and cheese
+./Debugging_stage/Set_P/review-005.txt,5483,5515,pretzels and toffee
+./Debugging_stage/Set_P/review-005.txt,5571,5596,potato chips
+./Debugging_stage/Set_P/review-005.txt,5759,5791,Rice Krispies treat
+./Debugging_stage/Set_P/review-005.txt,5978,6021,dark chocolate and caramel bar
+./Debugging_stage/Set_P/review-006.txt,248,270,hand roll
+./Debugging_stage/Set_P/review-006.txt,291,316,rice and ume
+./Debugging_stage/Set_P/review-006.txt,491,509,sushi
+./Debugging_stage/Set_P/review-006.txt,2103,2122,nigiri
+./Debugging_stage/Set_P/review-006.txt,2254,2275,mackerel
+./Debugging_stage/Set_P/review-006.txt,2319,2337,ikura
+./Debugging_stage/Set_P/review-006.txt,2339,2362,salmon roe
+./Debugging_stage/Set_P/review-006.txt,2570,2592,kani miso
+./Debugging_stage/Set_P/review-006.txt,2936,2955,nikiri
+./Debugging_stage/Set_P/review-006.txt,3091,3110,Edomae
+./Debugging_stage/Set_P/review-006.txt,3362,3382,hamachi
+./Debugging_stage/Set_P/review-006.txt,3563,3585,tuna roll
+./Debugging_stage/Set_P/review-006.txt,3816,3832,uni
+./Debugging_stage/Set_P/review-006.txt,3834,3857,sea urchin
+./Debugging_stage/Set_P/review-007.txt,911,946,roasted chicken breast
+./Debugging_stage/Set_P/review-007.txt,986,1017,celery root purée
+./Debugging_stage/Set_P/review-007.txt,1071,1095,deviled egg
+./Debugging_stage/Set_P/review-007.txt,1105,1133,mashed potatoes
+./Debugging_stage/Set_P/review-007.txt,1983,2014,brown rice noodles
+./Debugging_stage/Set_P/review-007.txt,2090,2143,pistachios as crunch (chopped) and cream
+./Debugging_stage/Set_P/review-007.txt,2245,2274,brussels sprouts
+./Debugging_stage/Set_P/review-007.txt,2519,2547,chickpea burger
+./Debugging_stage/Set_P/review-007.txt,2553,2574,umeboshi
+./Debugging_stage/Set_P/review-007.txt,2646,2676,damp salmon cakes
+./Debugging_stage/Set_P/review-007.txt,2683,2712,chicken sandwich
+./Debugging_stage/Set_P/review-007.txt,2772,2793,zucchini
+./Debugging_stage/Set_P/review-007.txt,2998,3025,chicken breast
+./Debugging_stage/Set_P/review-007.txt,3371,3403,chocolate shortcake
+./Debugging_stage/Set_P/review-008.txt,1891,1912,bucatini
+./Debugging_stage/Set_P/review-008.txt,2021,2048,chicken livers
+./Debugging_stage/Set_P/review-008.txt,2114,2138,spaghettini
+./Debugging_stage/Set_P/review-008.txt,2604,2653,deep-fried hen-of-the-woods mushroom
+./Debugging_stage/Set_P/review-008.txt,2942,2962,burrata
+./Debugging_stage/Set_P/review-008.txt,3549,3578,grilled branzino
+./Debugging_stage/Set_P/review-008.txt,4014,4051,al dente farro spaghetti
+./Debugging_stage/Set_P/review-008.txt,4202,4228,grated radish
+./Debugging_stage/Set_P/review-009.txt,1521,1543,gochujang
+./Debugging_stage/Set_P/review-009.txt,1545,1582,Korean fermented soybean
+./Debugging_stage/Set_P/review-009.txt,2261,2283,pork ribs
+./Debugging_stage/Set_P/review-009.txt,2389,2413,Onion rings
+./Debugging_stage/Set_P/review-009.txt,2976,3004,grated potatoes
+./Debugging_stage/Set_P/review-009.txt,3222,3241,waffle
+./Debugging_stage/Set_P/review-009.txt,3260,3280,brioche
+./Debugging_stage/Set_P/review-009.txt,3306,3331,French toast
+./Debugging_stage/Set_P/review-009.txt,3338,3359,broccoli
+./Debugging_stage/Set_P/review-009.txt,3509,3534,liver pâté
+./Debugging_stage/Set_P/review-009.txt,3872,3902,graham-flour cake
+./Debugging_stage/Set_P/review-009.txt,3942,3977,dark chocolate pudding
+./Debugging_stage/Set_P/review-010.txt,235,266,well-charred patty
+./Debugging_stage/Set_P/review-010.txt,492,523,hamburger sandwich
+./Debugging_stage/Set_P/review-010.txt,1733,1779,grilled cheese and apple sandwich
+./Debugging_stage/Set_P/review-010.txt,1886,1909,turkey leg
+./Debugging_stage/Set_P/review-010.txt,2711,2746,cross-cut marrow bones
+./Debugging_stage/Set_P/review-010.txt,3026,3061,Danish pancake nuggets
+./Debugging_stage/Set_P/review-010.txt,3133,3155,egg cream
+./Debugging_stage/Set_P/review-010.txt,3380,3408,Turkey sandwich
+./Debugging_stage/Set_P/review-010.txt,3413,3433,oysters
+./Debugging_stage/Set_P/review-011.txt,402,420,steak
+./Debugging_stage/Set_P/review-011.txt,2192,2224,Romanian tenderloin
+./Debugging_stage/Set_P/review-011.txt,2418,2448,broiled veal chop
+./Debugging_stage/Set_P/review-011.txt,2522,2539,tuna
+./Debugging_stage/Set_P/review-011.txt,2572,2596,sweetbreads
+./Debugging_stage/Set_P/review-011.txt,4289,4332,sweet-and-sour stuffed cabbage
+./Debugging_stage/Set_P/review-011.txt,4408,4434,chopped liver
+./Debugging_stage/Set_P/review-011.txt,4460,4485,skirt steaks
+./Debugging_stage/Set_P/review-011.txt,4490,4513,lamb chops
+./Debugging_stage/Set_P/review-011.txt,4538,4579,fried silver-dollar potatoes
+./Debugging_stage/Set_P/review-011.txt,4932,4998,Romanian salad of whipped eggplant with green peppers
+./Debugging_stage/Set_P/review-011.txt,5004,5031,broiled brains
+./Debugging_stage/Set_P/review-011.txt,5033,5060,the mush steak
+./Debugging_stage/Set_P/review-011.txt,5062,5085,the pitcha
+./Debugging_stage/Set_P/review-011.txt,5089,5118,seasoned gelatin
+./Debugging_stage/Set_P/review-011.txt,5164,5194,baked unborn eggs
+./Debugging_stage/Set_P/review-012.txt,1814,1832,Gomen
+./Debugging_stage/Set_P/review-012.txt,1934,1956,misir wot
+./Debugging_stage/Set_P/review-012.txt,2095,2115,Berbere
+./Debugging_stage/Set_P/review-012.txt,2607,2633,keysir selata
+./Debugging_stage/Set_P/review-012.txt,2857,2876,injera
+./Debugging_stage/Set_P/review-012.txt,3651,3669,Vimto
+./Debugging_stage/Set_P/review-013.txt,1267,1296,English pea soup
+./Debugging_stage/Set_P/review-013.txt,2958,2987,Japanese snapper
+./Debugging_stage/Set_P/review-013.txt,3037,3075,Fluke with pickled daikon
+./Debugging_stage/Set_P/review-013.txt,3079,3099,scallop
+./Debugging_stage/Set_P/review-013.txt,3149,3191,King crab with yuzu marmalade
+./Debugging_stage/Set_P/review-013.txt,3259,3280,kumamoto
+./Debugging_stage/Set_P/review-013.txt,3340,3360,octopus
+./Debugging_stage/Set_P/review-013.txt,3419,3451,Langoustine tempura
+./Debugging_stage/Set_P/review-013.txt,3474,3519,Fried monkfish liver with sansho
+./Debugging_stage/Set_P/review-013.txt,3543,3565,Lump crab
+./Debugging_stage/Set_P/review-013.txt,3567,3595,Ahi with ginger
+./Debugging_stage/Set_P/review-013.txt,3597,3632,Salmon with trout eggs
+./Debugging_stage/Set_P/review-013.txt,3643,3711,fried potato chip threaded with sage and a tiny sardine
+./Debugging_stage/Set_P/review-013.txt,3713,3748,Folds of soy-milk skin
+./Debugging_stage/Set_P/review-013.txt,4170,4191,Sea bass
+./Debugging_stage/Set_P/review-013.txt,4257,4277,Rhubarb
+./Debugging_stage/Set_P/review-013.txt,4351,4369,madai
+./Debugging_stage/Set_P/review-013.txt,4576,4593,lamb
+./Debugging_stage/Set_P/review-014.txt,714,739,roasted pork
+./Debugging_stage/Set_P/review-014.txt,923,941,balut
+./Debugging_stage/Set_P/review-014.txt,2084,2101,meat
+./Debugging_stage/Set_P/review-014.txt,2171,2197,tilapia fried
+./Debugging_stage/Set_P/review-014.txt,2307,2330,tuna belly
+./Debugging_stage/Set_P/review-014.txt,2412,2438,chicken adobo
+./Debugging_stage/Set_P/review-014.txt,2530,2547,pork
+./Debugging_stage/Set_P/review-014.txt,2629,2653,crispy pata
+./Debugging_stage/Set_P/review-014.txt,2768,2789,dynamite
+./Debugging_stage/Set_P/review-014.txt,3166,3194,salted duck egg
+./Debugging_stage/Set_P/review-014.txt,3213,3236,longganisa
+./Debugging_stage/Set_P/review-014.txt,3729,3754,banana turon
+./Debugging_stage/Set_P/review-015.txt,86,105,rabbit
+./Debugging_stage/Set_P/review-015.txt,1150,1172,Sea bream
+./Debugging_stage/Set_P/review-015.txt,1388,1427,slow-roasted lamb shoulder
+./Debugging_stage/Set_P/review-015.txt,1455,1476,malawach
+./Debugging_stage/Set_P/review-015.txt,1604,1626,flatbread
+./Debugging_stage/Set_P/review-015.txt,1846,1885,lamb and bulgur croquettes
+./Debugging_stage/Set_P/review-015.txt,1921,1940,kibbeh
+./Debugging_stage/Set_P/review-015.txt,2012,2035,sweet corn
+./Debugging_stage/Set_P/review-015.txt,2037,2057,ricotta
+./Debugging_stage/Set_P/review-015.txt,2094,2123,hummus masabacha
+./Debugging_stage/Set_P/review-015.txt,2230,2248,squid
+./Debugging_stage/Set_P/review-015.txt,2523,2548,basmati rice
+./Debugging_stage/Set_P/review-015.txt,2629,2666,peach and grilled tomato
+./Debugging_stage/Set_P/review-015.txt,2722,2745,Pepquiños
+./Debugging_stage/Set_P/review-015.txt,2991,3015,panna cotta
+./Debugging_stage/Set_P/review-016.txt,151,177,veal entrails
+./Debugging_stage/Set_P/review-016.txt,350,372,kuchmachi
+./Debugging_stage/Set_P/review-016.txt,1809,1841,adjaruli khachapuri
+./Debugging_stage/Set_P/review-016.txt,2180,2200,imeruli
+./Debugging_stage/Set_P/review-016.txt,2419,2439,nadughi
+./Debugging_stage/Set_P/review-016.txt,2495,2532,cheese-stuffed mushrooms
+./Debugging_stage/Set_P/review-016.txt,2634,2653,elarji
+./Debugging_stage/Set_P/review-016.txt,2802,2828,Khmeli-suneli
+./Debugging_stage/Set_P/review-016.txt,3081,3101,mtsvadi
+./Debugging_stage/Set_P/review-016.txt,3127,3144,Lamb
+./Debugging_stage/Set_P/review-016.txt,3336,3357,Khinkali
+./Debugging_stage/Set_P/review-016.txt,3505,3561,sturgeon submerged in a watery walnut sauce
+./Debugging_stage/Set_P/review-016.txt,3584,3602,ghomi
+./Debugging_stage/Set_P/review-016.txt,3604,3623,elarji
+./Debugging_stage/Set_P/review-016.txt,3705,3742,apple and lemon meringue
+./Debugging_stage/Set_P/review-017.txt,869,899,shiso chimichurri
+./Debugging_stage/Set_P/review-017.txt,1152,1186,soy cooked with mirin
+./Debugging_stage/Set_P/review-017.txt,1203,1227,chimichurri
+./Debugging_stage/Set_P/review-017.txt,1538,1565,fillets of ayu
+./Debugging_stage/Set_P/review-017.txt,1750,1777,ham deep-fried
+./Debugging_stage/Set_P/review-017.txt,1879,1904,Nobu classic
+./Debugging_stage/Set_P/review-017.txt,2004,2036,grape tomato halves
+./Debugging_stage/Set_P/review-017.txt,2238,2290,"goat cheese, white chocolate and wasabi"
+./Debugging_stage/Set_P/review-017.txt,3382,3402,sashimi
+./Debugging_stage/Set_P/review-017.txt,3432,3450,sushi
+./Debugging_stage/Set_P/review-017.txt,3574,3599,soba noodles
+./Debugging_stage/Set_P/review-017.txt,5270,5303,sage-roasted chicken
+./Debugging_stage/Set_P/review-017.txt,5307,5349,short rib braised in red wine
+./Debugging_stage/Set_P/review-017.txt,5702,5734,cured and raw crudi
+./Debugging_stage/Set_P/review-017.txt,5755,5780,bay scallops
+./Debugging_stage/Set_P/review-017.txt,5844,5863,pastas
+./Debugging_stage/Set_P/review-018.txt,967,985,Tacos
+./Debugging_stage/Set_P/review-018.txt,1045,1069,beef tongue
+./Debugging_stage/Set_P/review-018.txt,1525,1557,soft corn tortillas
+./Debugging_stage/Set_P/review-018.txt,1896,1925,tacos with rajas
+./Debugging_stage/Set_P/review-018.txt,1984,2021,Shrimp in chipotle sauce
+./Debugging_stage/Set_P/review-018.txt,2041,2072,Pescado zarandeado
+./Debugging_stage/Set_P/review-018.txt,2595,2619,quesadillas
+./Debugging_stage/Set_P/review-018.txt,2906,2927,gorditas
+./Debugging_stage/Set_P/review-018.txt,3270,3294,Black beans
+./Debugging_stage/Set_P/review-018.txt,3384,3414,enchiladas suizas
+./Debugging_stage/Set_P/review-018.txt,3522,3550,sopa de verdura
+./Debugging_stage/Set_P/review-018.txt,3699,3725,torta ahogada
+./Debugging_stage/Set_P/review-018.txt,4488,4506,Tacos
+./Debugging_stage/Set_P/review-018.txt,4508,4529,gorditas
+./Debugging_stage/Set_P/review-018.txt,4531,4555,quesadillas
+./Debugging_stage/Set_P/review-018.txt,4557,4583,torta ahogada
+./Debugging_stage/Set_P/review-018.txt,4585,4608,fish pibil
+./Debugging_stage/Set_P/review-019.txt,704,728,Iberico ham
+./Debugging_stage/Set_P/review-019.txt,851,872,manchego
+./Debugging_stage/Set_P/review-019.txt,2269,2295,Huertas rotos
+./Debugging_stage/Set_P/review-019.txt,2669,2714,egg salad on a slice of baguette
+./Debugging_stage/Set_P/review-019.txt,4483,4529,Padrón peppers and garlic shrimp
+./Debugging_stage/Set_P/review-019.txt,4699,4725,separated egg
+./Debugging_stage/Set_P/review-019.txt,4896,4914,skate
+./Debugging_stage/Set_P/review-019.txt,5234,5256,chistorra
+./Debugging_stage/Set_P/review-019.txt,5485,5520,goat-cheese cheesecake
+./Debugging_stage/Set_P/review-019.txt,6186,6207,croqueta
+./Debugging_stage/Set_P/review-020.txt,1640,1665,laphet thoke
+./Debugging_stage/Set_P/review-020.txt,2118,2143,ginger salad
+./Debugging_stage/Set_P/review-020.txt,2362,2384,Pork jowl
+./Debugging_stage/Set_P/review-020.txt,2630,2654,yellow tofu
+./Debugging_stage/Set_P/review-020.txt,2742,2770,mung-bean jelly
+./Debugging_stage/Set_P/review-020.txt,3014,3031,pork
+./Debugging_stage/Set_P/review-020.txt,3113,3142,Rice noodle soup
+./Debugging_stage/Set_P/review-020.txt,3461,3488,boiled seafood
+./Debugging_stage/Set_P/review-021.txt,1451,1476,aloo paratha
+./Debugging_stage/Set_P/review-021.txt,1668,1692,masala eggs
+./Debugging_stage/Set_P/review-021.txt,2026,2047,fig cake
+./Debugging_stage/Set_P/review-021.txt,2150,2182,honey mesquite cake
+./Debugging_stage/Set_P/review-021.txt,2621,2646,Beet uttapam
+./Debugging_stage/Set_P/review-021.txt,3032,3055,lamb keema
+./Debugging_stage/Set_P/review-021.txt,3103,3124,frankies
+./Debugging_stage/Set_P/review-021.txt,3137,3156,salads
+./Debugging_stage/Set_P/review-021.txt,3255,3278,Chicken 25
+./Debugging_stage/Set_P/review-021.txt,3444,3473,sayel lamb kofta
+./Debugging_stage/Set_P/review-021.txt,3617,3641,meat samosa
+./Debugging_stage/Set_P/review-021.txt,3739,3763,Papdi chaat
+./Debugging_stage/Set_P/review-021.txt,3960,3983,fried okra
+./Debugging_stage/Set_P/review-021.txt,4115,4138,desi fries
+./Debugging_stage/Set_P/review-021.txt,4374,4394,cookies
+./Debugging_stage/Set_P/review-021.txt,4529,4552,lemon bars
+./Debugging_stage/Set_P/review-021.txt,5365,5402,tamarind-marinated quail
+./Debugging_stage/Set_P/review-021.txt,5458,5483,lamb skewers
+./Debugging_stage/Set_P/review-021.txt,5544,5568,saag paneer
+./Debugging_stage/Set_P/review-021.txt,5702,5744,saag paneer made with spinach
+./Debugging_stage/Set_P/review-022.txt,1693,1713,dim sum
+./Debugging_stage/Set_P/review-022.txt,2058,2086,Dungeness crabs
+./Debugging_stage/Set_P/review-022.txt,2756,2774,clams
+./Debugging_stage/Set_P/review-022.txt,3161,3187,water spinach
+./Debugging_stage/Set_P/review-022.txt,3195,3228,crispy fried chicken
+./Debugging_stage/Set_P/review-022.txt,3499,3548,sea scallops in a black pepper sauce
+./Debugging_stage/Set_P/review-022.txt,3801,3831,mayonnaise prawns
+./Debugging_stage/Set_P/review-022.txt,3940,3965,fried shrimp
+./Debugging_stage/Set_P/review-022.txt,4273,4296,goose webs
+./Debugging_stage/Set_P/review-022.txt,4317,4338,bok choi
+./Debugging_stage/Set_P/review-022.txt,4343,4379,Chinese black mushrooms
+./Debugging_stage/Set_P/review-022.txt,4599,4623,screw clams
+./Debugging_stage/Set_P/review-022.txt,4817,4847,osmanthus mussels
+./Debugging_stage/Set_P/review-022.txt,5042,5076,stir-fried lamb chops
+./Debugging_stage/Set_P/review-022.txt,5191,5215,Peking duck
+./Debugging_stage/Set_P/review-022.txt,5602,5625,sandwiches
+./Debugging_stage/Set_P/review-022.txt,5779,5799,lobster
+./Debugging_stage/Set_P/review-022.txt,6212,6239,shark fin soup
+./Debugging_stage/Set_P/review-023.txt,999,1021,kwek-kwek
+./Debugging_stage/Set_P/review-023.txt,2139,2188,eggplant strewn with salted duck egg
+./Debugging_stage/Set_P/review-023.txt,2269,2297,lumpiang sariwa
+./Debugging_stage/Set_P/review-023.txt,2445,2462,isaw
+./Debugging_stage/Set_P/review-023.txt,2658,2677,omelet
+./Debugging_stage/Set_P/review-023.txt,3028,3055,La Paz batchoy
+./Debugging_stage/Set_P/review-023.txt,3299,3317,silog
+./Debugging_stage/Set_P/review-023.txt,3347,3377,garlic fried rice
+./Debugging_stage/Set_P/review-023.txt,3726,3750,arroz caldo
+./Debugging_stage/Set_P/review-023.txt,3920,3949,tres leches cake
+./Debugging_stage/Set_P/review-024.txt,2226,2255,salad of burdock
+./Debugging_stage/Set_P/review-024.txt,2442,2464,Cold tofu
+./Debugging_stage/Set_P/review-024.txt,2931,2958,fried potatoes
+./Debugging_stage/Set_P/review-024.txt,2998,3026,fluke carpaccio
+./Debugging_stage/Set_P/review-024.txt,3190,3216,fried chicken
+./Debugging_stage/Set_P/review-024.txt,3244,3271,chicken nanban
+./Debugging_stage/Set_P/review-024.txt,3515,3542,beef guts stew
+./Debugging_stage/Set_P/review-024.txt,3804,3879,"hayashi rice/dish>, a kind of homage to <dish>beef Bourguignon"
+./Debugging_stage/Set_P/review-024.txt,3995,4027,spaghetti Napolitan
+./Debugging_stage/Set_P/review-025.txt,925,960,scallops and cavatelli
+./Debugging_stage/Set_P/review-025.txt,1647,1677,choucroute garnie
+./Debugging_stage/Set_P/review-025.txt,2183,2205,cavatelli
+./Debugging_stage/Set_P/review-025.txt,2370,2400,roasted veal loin
+./Debugging_stage/Set_P/review-025.txt,2476,2500,duck breast
+./Debugging_stage/Set_P/review-025.txt,2651,2673,pork loin
+./Debugging_stage/Set_P/review-025.txt,3380,3410,charcuterie plate
+./Debugging_stage/Set_P/review-025.txt,3447,3474,duck rillettes
+./Debugging_stage/Set_P/review-025.txt,3533,3590,rough-hewed and pistachio-flecked liverwurst
+./Debugging_stage/Set_P/review-025.txt,3592,3620,calf’s tongue
+./Debugging_stage/Set_P/review-025.txt,3625,3658,chicken liver mousse
+./Debugging_stage/Set_P/review-025.txt,3855,3884,foie gras mousse
+./Debugging_stage/Set_P/review-025.txt,4212,4246,Fried soft-shell crab
+./Debugging_stage/Set_P/review-025.txt,4848,4879,chocolate soufflé
+./Debugging_stage/Set_P/review-025.txt,5083,5113,gratin dauphinois
+./Debugging_stage/Set_P/review-025.txt,5134,5164,charcuterie plate
+./Debugging_stage/Set_P/review-026.txt,915,940,radish cakes
+./Debugging_stage/Set_P/review-026.txt,942,967,noodle soups
+./Debugging_stage/Set_P/review-026.txt,994,1019,coconut rice
+./Debugging_stage/Set_P/review-026.txt,1041,1070,beef-filled roti
+./Debugging_stage/Set_P/review-026.txt,1736,1760,carrot cake
+./Debugging_stage/Set_P/review-026.txt,1799,1831,Daikon radish cakes
+./Debugging_stage/Set_P/review-026.txt,1848,1873,turnip cakes
+./Debugging_stage/Set_P/review-026.txt,2252,2272,Oh luak
+./Debugging_stage/Set_P/review-026.txt,2553,2584,fried whole prawns
+./Debugging_stage/Set_P/review-026.txt,2757,2776,sambal
+./Debugging_stage/Set_P/review-026.txt,2844,2874,tofu skin wrapper
+./Debugging_stage/Set_P/review-026.txt,3461,3488,char kway teow
+./Debugging_stage/Set_P/review-026.txt,3568,3595,shrimp lo mein
+./Debugging_stage/Set_P/review-026.txt,3633,3662,nyonya chap chye
+./Debugging_stage/Set_P/review-026.txt,3837,3872,Hainanese chicken rice
+./Debugging_stage/Set_P/review-026.txt,5020,5045,Lamb rendang
+./Debugging_stage/Set_P/review-026.txt,5235,5265,durian cream puff
+./Debugging_stage/Set_P/review-026.txt,5428,5477,bananas fried in a mochi-like batter
+./Debugging_stage/Set_P/review-026.txt,5481,5556,sweet potatoes and taro bobbing in a warm coconut-tapioca soup
+./Debugging_stage/Set_P/review-026.txt,6280,6306,kerabu sotong
+./Debugging_stage/Set_P/review-027.txt,1397,1420,ewa oloyin
+./Debugging_stage/Set_P/review-027.txt,1422,1446,honey beans
+./Debugging_stage/Set_P/review-027.txt,1467,1495,black-eyed peas
+./Debugging_stage/Set_P/review-027.txt,1497,1515,egusi
+./Debugging_stage/Set_P/review-027.txt,1578,1597,jollof
+./Debugging_stage/Set_P/review-027.txt,2371,2389,banga
+./Debugging_stage/Set_P/review-027.txt,2475,2499,Peanut soup
+./Debugging_stage/Set_P/review-027.txt,2616,2638,Okra soup
+./Debugging_stage/Set_P/review-028.txt,300,322,tuna roll
+./Debugging_stage/Set_P/review-028.txt,2066,2115,truffle maki roll topped with caviar
+./Debugging_stage/Set_P/review-028.txt,2123,2168,caviar roll topped with truffles
+./Debugging_stage/Set_P/review-028.txt,2243,2279,Fat-streaked tuna belly
+./Debugging_stage/Set_P/review-028.txt,3088,3114,sushi omakase
+./Debugging_stage/Set_P/review-028.txt,3414,3439,mountain yam
+./Debugging_stage/Set_P/review-028.txt,5695,5721,sushi omakase
+./Debugging_stage/Set_P/review-028.txt,5979,6007,shirako tempura
+./Debugging_stage/Set_P/review-029.txt,211,229,dhedo
+./Debugging_stage/Set_P/review-029.txt,941,959,Dhedo
+./Debugging_stage/Set_P/review-029.txt,1888,1909,sel roti
+./Debugging_stage/Set_P/review-029.txt,2656,2675,sukuti
+./Debugging_stage/Set_P/review-029.txt,2856,2882,chicken curry
+./Debugging_stage/Set_P/review-029.txt,2993,3024,goat-stomach curry
+./Debugging_stage/Set_P/review-029.txt,3030,3048,momos
+./Debugging_stage/Set_P/review-029.txt,3425,3448,samay baji
+./Debugging_stage/Set_P/review-029.txt,3605,3633,sandheko waiwai
 ./Debugging_stage/Set_P/review-030.txt,879,910,crispy rock shrimp
 ./Debugging_stage/Set_P/review-030.txt,957,992,fried shishito peppers
 ./Debugging_stage/Set_P/review-030.txt,1112,1139,croque señora
@@ -13,9 +380,8 @@ file name,start offset,end offset,dish name
 ./Debugging_stage/Set_P/review-032.txt,681,703,foie gras
 ./Debugging_stage/Set_P/review-032.txt,832,859,shrimp tempura
 ./Debugging_stage/Set_P/review-032.txt,1587,1612,hamachi jaws
-./Debugging_stage/Set_P/review-032.txt,1723,1743,Sashimi
-./Debugging_stage/Set_P/review-032.txt,1748,1766,sushi
-./Debugging_stage/Set_P/review-032.txt,2122,2151,sea-urchin chips
+./Debugging_stage/Set_P/review-032.txt,1735,1753,sushi
+./Debugging_stage/Set_P/review-032.txt,2109,2138,sea-urchin chips
 ./Debugging_stage/Set_P/review-033.txt,165,191,arugula salad
 ./Debugging_stage/Set_P/review-033.txt,207,227,fusilli
 ./Debugging_stage/Set_P/review-033.txt,480,513,stracciatella cheese
@@ -748,370 +1114,3 @@ spinach purée"
 ./Debugging_stage/Set_P/review-138.txt,2629,2654,parsnip soup
 ./Debugging_stage/Set_P/review-138.txt,2696,2733,portobello mushroom tart
 ./Debugging_stage/Set_P/review-138.txt,3017,3042,fried capers
-./Debugging_stage/Set_P/review-001.txt,390,431,classic Trinidadian sandwich
-./Debugging_stage/Set_P/review-001.txt,1026,1052,chicken pelau
-./Debugging_stage/Set_P/review-001.txt,1375,1407,blackened fruitcake
-./Debugging_stage/Set_P/review-002.txt,4013,4032,Caesar
-./Debugging_stage/Set_P/review-002.txt,4816,4844,clams oreganata
-./Debugging_stage/Set_P/review-002.txt,4874,4902,West Coast Gigi
-./Debugging_stage/Set_P/review-002.txt,5323,5341,steak
-./Debugging_stage/Set_P/review-002.txt,5469,5489,lobster
-./Debugging_stage/Set_P/review-002.txt,5528,5553,veal Marsala
-./Debugging_stage/Set_P/review-002.txt,5559,5584,chicken parm
-./Debugging_stage/Set_P/review-002.txt,5689,5706,crab
-./Debugging_stage/Set_P/review-002.txt,5734,5762,mashed potatoes
-./Debugging_stage/Set_P/review-002.txt,5766,5787,broccoli
-./Debugging_stage/Set_P/review-002.txt,5791,5809,fries
-./Debugging_stage/Set_P/review-002.txt,5897,5925,creamed spinach
-./Debugging_stage/Set_P/review-002.txt,5930,5954,hash browns
-./Debugging_stage/Set_P/review-002.txt,6752,6778,crab cocktail
-./Debugging_stage/Set_P/review-002.txt,6780,6804,baked clams
-./Debugging_stage/Set_P/review-002.txt,6852,6875,cheesecake
-./Debugging_stage/Set_P/review-003.txt,92,111,shrimp
-./Debugging_stage/Set_P/review-003.txt,309,330,ssamjang
-./Debugging_stage/Set_P/review-003.txt,657,685,wilting arugula
-./Debugging_stage/Set_P/review-003.txt,1266,1289,beet salad
-./Debugging_stage/Set_P/review-003.txt,1385,1405,Oysters
-./Debugging_stage/Set_P/review-003.txt,1582,1603,yakamein
-./Debugging_stage/Set_P/review-003.txt,1683,1711,Malaysian laksa
-./Debugging_stage/Set_P/review-003.txt,2113,2140,shrimp ceviche
-./Debugging_stage/Set_P/review-003.txt,2634,2659,kamado grill
-./Debugging_stage/Set_P/review-003.txt,2999,3025,Brisket jerky
-./Debugging_stage/Set_P/review-003.txt,3284,3311,Nasi ulam rice
-./Debugging_stage/Set_P/review-004.txt,147,182,red curry grilled duck
-./Debugging_stage/Set_P/review-004.txt,1840,1865,chicken laab
-./Debugging_stage/Set_P/review-004.txt,2185,2210,papaya salad
-./Debugging_stage/Set_P/review-004.txt,2218,2239,Khao soi
-./Debugging_stage/Set_P/review-004.txt,2457,2478,Pad thai
-./Debugging_stage/Set_P/review-004.txt,2560,2580,lobster
-./Debugging_stage/Set_P/review-004.txt,2643,2668,rice noodles
-./Debugging_stage/Set_P/review-004.txt,2801,2828,massaman curry
-./Debugging_stage/Set_P/review-004.txt,3053,3078,chicken soup
-./Debugging_stage/Set_P/review-004.txt,3112,3137,corn chowder
-./Debugging_stage/Set_P/review-005.txt,748,768,hot dog
-./Debugging_stage/Set_P/review-005.txt,1887,1907,sausage
-./Debugging_stage/Set_P/review-005.txt,2685,2709,brisket dog
-./Debugging_stage/Set_P/review-005.txt,2774,2804,Cheddar bratwurst
-./Debugging_stage/Set_P/review-005.txt,2950,2977,Cuban sandwich
-./Debugging_stage/Set_P/review-005.txt,3240,3258,tacos
-./Debugging_stage/Set_P/review-005.txt,3393,3415,tortillas
-./Debugging_stage/Set_P/review-005.txt,3685,3717,Calexico’s nachos
-./Debugging_stage/Set_P/review-005.txt,4027,4053,chicken wings
-./Debugging_stage/Set_P/review-005.txt,4121,4151,Chicken McNuggets
-./Debugging_stage/Set_P/review-005.txt,4195,4225,Chicken meatballs
-./Debugging_stage/Set_P/review-005.txt,4468,4488,brioche
-./Debugging_stage/Set_P/review-005.txt,4500,4518,gnudi
-./Debugging_stage/Set_P/review-005.txt,4624,4649,banh mi roll
-./Debugging_stage/Set_P/review-005.txt,4668,4695,mac and cheese
-./Debugging_stage/Set_P/review-005.txt,5483,5515,pretzels and toffee
-./Debugging_stage/Set_P/review-005.txt,5571,5596,potato chips
-./Debugging_stage/Set_P/review-005.txt,5759,5791,Rice Krispies treat
-./Debugging_stage/Set_P/review-005.txt,5978,6021,dark chocolate and caramel bar
-./Debugging_stage/Set_P/review-006.txt,248,270,hand roll
-./Debugging_stage/Set_P/review-006.txt,291,316,rice and ume
-./Debugging_stage/Set_P/review-006.txt,491,509,sushi
-./Debugging_stage/Set_P/review-006.txt,2103,2122,nigiri
-./Debugging_stage/Set_P/review-006.txt,2254,2275,mackerel
-./Debugging_stage/Set_P/review-006.txt,2319,2337,ikura
-./Debugging_stage/Set_P/review-006.txt,2339,2362,salmon roe
-./Debugging_stage/Set_P/review-006.txt,2570,2592,kani miso
-./Debugging_stage/Set_P/review-006.txt,2936,2955,nikiri
-./Debugging_stage/Set_P/review-006.txt,3091,3110,Edomae
-./Debugging_stage/Set_P/review-006.txt,3362,3382,hamachi
-./Debugging_stage/Set_P/review-006.txt,3563,3585,tuna roll
-./Debugging_stage/Set_P/review-006.txt,3816,3832,uni
-./Debugging_stage/Set_P/review-006.txt,3834,3857,sea urchin
-./Debugging_stage/Set_P/review-007.txt,911,946,roasted chicken breast
-./Debugging_stage/Set_P/review-007.txt,986,1017,celery root purée
-./Debugging_stage/Set_P/review-007.txt,1071,1095,deviled egg
-./Debugging_stage/Set_P/review-007.txt,1105,1133,mashed potatoes
-./Debugging_stage/Set_P/review-007.txt,1983,2014,brown rice noodles
-./Debugging_stage/Set_P/review-007.txt,2090,2143,pistachios as crunch (chopped) and cream
-./Debugging_stage/Set_P/review-007.txt,2245,2274,brussels sprouts
-./Debugging_stage/Set_P/review-007.txt,2519,2547,chickpea burger
-./Debugging_stage/Set_P/review-007.txt,2553,2574,umeboshi
-./Debugging_stage/Set_P/review-007.txt,2646,2676,damp salmon cakes
-./Debugging_stage/Set_P/review-007.txt,2683,2712,chicken sandwich
-./Debugging_stage/Set_P/review-007.txt,2772,2793,zucchini
-./Debugging_stage/Set_P/review-007.txt,2998,3025,chicken breast
-./Debugging_stage/Set_P/review-007.txt,3371,3403,chocolate shortcake
-./Debugging_stage/Set_P/review-008.txt,1891,1912,bucatini
-./Debugging_stage/Set_P/review-008.txt,2021,2048,chicken livers
-./Debugging_stage/Set_P/review-008.txt,2114,2138,spaghettini
-./Debugging_stage/Set_P/review-008.txt,2604,2653,deep-fried hen-of-the-woods mushroom
-./Debugging_stage/Set_P/review-008.txt,2942,2962,burrata
-./Debugging_stage/Set_P/review-008.txt,3549,3578,grilled branzino
-./Debugging_stage/Set_P/review-008.txt,4014,4051,al dente farro spaghetti
-./Debugging_stage/Set_P/review-008.txt,4202,4228,grated radish
-./Debugging_stage/Set_P/review-009.txt,1521,1543,gochujang
-./Debugging_stage/Set_P/review-009.txt,1545,1582,Korean fermented soybean
-./Debugging_stage/Set_P/review-009.txt,2261,2283,pork ribs
-./Debugging_stage/Set_P/review-009.txt,2389,2413,Onion rings
-./Debugging_stage/Set_P/review-009.txt,2976,3004,grated potatoes
-./Debugging_stage/Set_P/review-009.txt,3222,3241,waffle
-./Debugging_stage/Set_P/review-009.txt,3260,3280,brioche
-./Debugging_stage/Set_P/review-009.txt,3306,3331,French toast
-./Debugging_stage/Set_P/review-009.txt,3338,3359,broccoli
-./Debugging_stage/Set_P/review-009.txt,3509,3534,liver pâté
-./Debugging_stage/Set_P/review-009.txt,3872,3902,graham-flour cake
-./Debugging_stage/Set_P/review-009.txt,3942,3977,dark chocolate pudding
-./Debugging_stage/Set_P/review-010.txt,235,266,well-charred patty
-./Debugging_stage/Set_P/review-010.txt,492,523,hamburger sandwich
-./Debugging_stage/Set_P/review-010.txt,1733,1779,grilled cheese and apple sandwich
-./Debugging_stage/Set_P/review-010.txt,1886,1909,turkey leg
-./Debugging_stage/Set_P/review-010.txt,2711,2746,cross-cut marrow bones
-./Debugging_stage/Set_P/review-010.txt,3026,3061,Danish pancake nuggets
-./Debugging_stage/Set_P/review-010.txt,3133,3155,egg cream
-./Debugging_stage/Set_P/review-010.txt,3380,3408,Turkey sandwich
-./Debugging_stage/Set_P/review-010.txt,3413,3433,oysters
-./Debugging_stage/Set_P/review-011.txt,402,420,steak
-./Debugging_stage/Set_P/review-011.txt,2192,2224,Romanian tenderloin
-./Debugging_stage/Set_P/review-011.txt,2418,2448,broiled veal chop
-./Debugging_stage/Set_P/review-011.txt,2522,2539,tuna
-./Debugging_stage/Set_P/review-011.txt,2572,2596,sweetbreads
-./Debugging_stage/Set_P/review-011.txt,4289,4332,sweet-and-sour stuffed cabbage
-./Debugging_stage/Set_P/review-011.txt,4408,4434,chopped liver
-./Debugging_stage/Set_P/review-011.txt,4460,4485,skirt steaks
-./Debugging_stage/Set_P/review-011.txt,4490,4513,lamb chops
-./Debugging_stage/Set_P/review-011.txt,4538,4579,fried silver-dollar potatoes
-./Debugging_stage/Set_P/review-011.txt,4932,4998,Romanian salad of whipped eggplant with green peppers
-./Debugging_stage/Set_P/review-011.txt,5004,5031,broiled brains
-./Debugging_stage/Set_P/review-011.txt,5033,5060,the mush steak
-./Debugging_stage/Set_P/review-011.txt,5062,5085,the pitcha
-./Debugging_stage/Set_P/review-011.txt,5089,5118,seasoned gelatin
-./Debugging_stage/Set_P/review-011.txt,5164,5194,baked unborn eggs
-./Debugging_stage/Set_P/review-012.txt,1814,1832,Gomen
-./Debugging_stage/Set_P/review-012.txt,1934,1956,misir wot
-./Debugging_stage/Set_P/review-012.txt,2095,2115,Berbere
-./Debugging_stage/Set_P/review-012.txt,2607,2633,keysir selata
-./Debugging_stage/Set_P/review-012.txt,2857,2876,injera
-./Debugging_stage/Set_P/review-012.txt,3651,3669,Vimto
-./Debugging_stage/Set_P/review-013.txt,1267,1296,English pea soup
-./Debugging_stage/Set_P/review-013.txt,2958,2987,Japanese snapper
-./Debugging_stage/Set_P/review-013.txt,3037,3075,Fluke with pickled daikon
-./Debugging_stage/Set_P/review-013.txt,3079,3099,scallop
-./Debugging_stage/Set_P/review-013.txt,3149,3191,King crab with yuzu marmalade
-./Debugging_stage/Set_P/review-013.txt,3259,3280,kumamoto
-./Debugging_stage/Set_P/review-013.txt,3340,3360,octopus
-./Debugging_stage/Set_P/review-013.txt,3419,3451,Langoustine tempura
-./Debugging_stage/Set_P/review-013.txt,3474,3519,Fried monkfish liver with sansho
-./Debugging_stage/Set_P/review-013.txt,3543,3565,Lump crab
-./Debugging_stage/Set_P/review-013.txt,3567,3595,Ahi with ginger
-./Debugging_stage/Set_P/review-013.txt,3597,3632,Salmon with trout eggs
-./Debugging_stage/Set_P/review-013.txt,3643,3711,fried potato chip threaded with sage and a tiny sardine
-./Debugging_stage/Set_P/review-013.txt,3713,3748,Folds of soy-milk skin
-./Debugging_stage/Set_P/review-013.txt,4170,4191,Sea bass
-./Debugging_stage/Set_P/review-013.txt,4257,4277,Rhubarb
-./Debugging_stage/Set_P/review-013.txt,4351,4369,madai
-./Debugging_stage/Set_P/review-013.txt,4576,4593,lamb
-./Debugging_stage/Set_P/review-014.txt,714,739,roasted pork
-./Debugging_stage/Set_P/review-014.txt,923,941,balut
-./Debugging_stage/Set_P/review-014.txt,2084,2101,meat
-./Debugging_stage/Set_P/review-014.txt,2171,2197,tilapia fried
-./Debugging_stage/Set_P/review-014.txt,2307,2330,tuna belly
-./Debugging_stage/Set_P/review-014.txt,2412,2438,chicken adobo
-./Debugging_stage/Set_P/review-014.txt,2530,2547,pork
-./Debugging_stage/Set_P/review-014.txt,2629,2653,crispy pata
-./Debugging_stage/Set_P/review-014.txt,2768,2789,dynamite
-./Debugging_stage/Set_P/review-014.txt,3166,3194,salted duck egg
-./Debugging_stage/Set_P/review-014.txt,3213,3236,longganisa
-./Debugging_stage/Set_P/review-014.txt,3729,3754,banana turon
-./Debugging_stage/Set_P/review-015.txt,86,105,rabbit
-./Debugging_stage/Set_P/review-015.txt,1150,1172,Sea bream
-./Debugging_stage/Set_P/review-015.txt,1388,1427,slow-roasted lamb shoulder
-./Debugging_stage/Set_P/review-015.txt,1455,1476,malawach
-./Debugging_stage/Set_P/review-015.txt,1604,1626,flatbread
-./Debugging_stage/Set_P/review-015.txt,1846,1885,lamb and bulgur croquettes
-./Debugging_stage/Set_P/review-015.txt,1921,1940,kibbeh
-./Debugging_stage/Set_P/review-015.txt,2012,2035,sweet corn
-./Debugging_stage/Set_P/review-015.txt,2037,2057,ricotta
-./Debugging_stage/Set_P/review-015.txt,2094,2123,hummus masabacha
-./Debugging_stage/Set_P/review-015.txt,2230,2248,squid
-./Debugging_stage/Set_P/review-015.txt,2523,2548,basmati rice
-./Debugging_stage/Set_P/review-015.txt,2629,2666,peach and grilled tomato
-./Debugging_stage/Set_P/review-015.txt,2722,2745,Pepquiños
-./Debugging_stage/Set_P/review-015.txt,2991,3015,panna cotta
-./Debugging_stage/Set_P/review-016.txt,151,177,veal entrails
-./Debugging_stage/Set_P/review-016.txt,350,372,kuchmachi
-./Debugging_stage/Set_P/review-016.txt,1809,1841,adjaruli khachapuri
-./Debugging_stage/Set_P/review-016.txt,2180,2200,imeruli
-./Debugging_stage/Set_P/review-016.txt,2419,2439,nadughi
-./Debugging_stage/Set_P/review-016.txt,2495,2532,cheese-stuffed mushrooms
-./Debugging_stage/Set_P/review-016.txt,2634,2653,elarji
-./Debugging_stage/Set_P/review-016.txt,2802,2828,Khmeli-suneli
-./Debugging_stage/Set_P/review-016.txt,3081,3101,mtsvadi
-./Debugging_stage/Set_P/review-016.txt,3127,3144,Lamb
-./Debugging_stage/Set_P/review-016.txt,3336,3357,Khinkali
-./Debugging_stage/Set_P/review-016.txt,3505,3561,sturgeon submerged in a watery walnut sauce
-./Debugging_stage/Set_P/review-016.txt,3584,3602,ghomi
-./Debugging_stage/Set_P/review-016.txt,3604,3623,elarji
-./Debugging_stage/Set_P/review-016.txt,3705,3742,apple and lemon meringue
-./Debugging_stage/Set_P/review-017.txt,869,899,shiso chimichurri
-./Debugging_stage/Set_P/review-017.txt,1152,1186,soy cooked with mirin
-./Debugging_stage/Set_P/review-017.txt,1203,1227,chimichurri
-./Debugging_stage/Set_P/review-017.txt,1538,1565,fillets of ayu
-./Debugging_stage/Set_P/review-017.txt,1750,1777,ham deep-fried
-./Debugging_stage/Set_P/review-017.txt,1879,1904,Nobu classic
-./Debugging_stage/Set_P/review-017.txt,2004,2036,grape tomato halves
-./Debugging_stage/Set_P/review-017.txt,2238,2290,"goat cheese, white chocolate and wasabi"
-./Debugging_stage/Set_P/review-017.txt,3382,3402,sashimi
-./Debugging_stage/Set_P/review-017.txt,3432,3450,sushi
-./Debugging_stage/Set_P/review-017.txt,3574,3599,soba noodles
-./Debugging_stage/Set_P/review-017.txt,5270,5303,sage-roasted chicken
-./Debugging_stage/Set_P/review-017.txt,5307,5349,short rib braised in red wine
-./Debugging_stage/Set_P/review-017.txt,5702,5734,cured and raw crudi
-./Debugging_stage/Set_P/review-017.txt,5755,5780,bay scallops
-./Debugging_stage/Set_P/review-017.txt,5844,5863,pastas
-./Debugging_stage/Set_P/review-018.txt,967,985,Tacos
-./Debugging_stage/Set_P/review-018.txt,1045,1069,beef tongue
-./Debugging_stage/Set_P/review-018.txt,1525,1557,soft corn tortillas
-./Debugging_stage/Set_P/review-018.txt,1896,1925,tacos with rajas
-./Debugging_stage/Set_P/review-018.txt,1984,2021,Shrimp in chipotle sauce
-./Debugging_stage/Set_P/review-018.txt,2041,2072,Pescado zarandeado
-./Debugging_stage/Set_P/review-018.txt,2595,2619,quesadillas
-./Debugging_stage/Set_P/review-018.txt,2906,2927,gorditas
-./Debugging_stage/Set_P/review-018.txt,3270,3294,Black beans
-./Debugging_stage/Set_P/review-018.txt,3384,3414,enchiladas suizas
-./Debugging_stage/Set_P/review-018.txt,3522,3550,sopa de verdura
-./Debugging_stage/Set_P/review-018.txt,3699,3725,torta ahogada
-./Debugging_stage/Set_P/review-018.txt,4488,4506,Tacos
-./Debugging_stage/Set_P/review-018.txt,4508,4529,gorditas
-./Debugging_stage/Set_P/review-018.txt,4531,4555,quesadillas
-./Debugging_stage/Set_P/review-018.txt,4557,4583,torta ahogada
-./Debugging_stage/Set_P/review-018.txt,4585,4608,fish pibil
-./Debugging_stage/Set_P/review-019.txt,704,728,Iberico ham
-./Debugging_stage/Set_P/review-019.txt,851,872,manchego
-./Debugging_stage/Set_P/review-019.txt,2269,2295,Huertas rotos
-./Debugging_stage/Set_P/review-019.txt,2669,2714,egg salad on a slice of baguette
-./Debugging_stage/Set_P/review-019.txt,4483,4529,Padrón peppers and garlic shrimp
-./Debugging_stage/Set_P/review-019.txt,4699,4725,separated egg
-./Debugging_stage/Set_P/review-019.txt,4896,4914,skate
-./Debugging_stage/Set_P/review-019.txt,5234,5256,chistorra
-./Debugging_stage/Set_P/review-019.txt,5485,5520,goat-cheese cheesecake
-./Debugging_stage/Set_P/review-019.txt,6186,6207,croqueta
-./Debugging_stage/Set_P/review-020.txt,1640,1665,laphet thoke
-./Debugging_stage/Set_P/review-020.txt,2118,2143,ginger salad
-./Debugging_stage/Set_P/review-020.txt,2362,2384,Pork jowl
-./Debugging_stage/Set_P/review-020.txt,2630,2654,yellow tofu
-./Debugging_stage/Set_P/review-020.txt,2742,2770,mung-bean jelly
-./Debugging_stage/Set_P/review-020.txt,3014,3031,pork
-./Debugging_stage/Set_P/review-020.txt,3113,3142,Rice noodle soup
-./Debugging_stage/Set_P/review-020.txt,3461,3488,boiled seafood
-./Debugging_stage/Set_P/review-021.txt,1451,1476,aloo paratha
-./Debugging_stage/Set_P/review-021.txt,1668,1692,masala eggs
-./Debugging_stage/Set_P/review-021.txt,2026,2047,fig cake
-./Debugging_stage/Set_P/review-021.txt,2150,2182,honey mesquite cake
-./Debugging_stage/Set_P/review-021.txt,2621,2646,Beet uttapam
-./Debugging_stage/Set_P/review-021.txt,3032,3055,lamb keema
-./Debugging_stage/Set_P/review-021.txt,3103,3124,frankies
-./Debugging_stage/Set_P/review-021.txt,3137,3156,salads
-./Debugging_stage/Set_P/review-021.txt,3255,3278,Chicken 25
-./Debugging_stage/Set_P/review-021.txt,3444,3473,sayel lamb kofta
-./Debugging_stage/Set_P/review-021.txt,3617,3641,meat samosa
-./Debugging_stage/Set_P/review-021.txt,3739,3763,Papdi chaat
-./Debugging_stage/Set_P/review-021.txt,3960,3983,fried okra
-./Debugging_stage/Set_P/review-021.txt,4115,4138,desi fries
-./Debugging_stage/Set_P/review-021.txt,4374,4394,cookies
-./Debugging_stage/Set_P/review-021.txt,4529,4552,lemon bars
-./Debugging_stage/Set_P/review-021.txt,5365,5402,tamarind-marinated quail
-./Debugging_stage/Set_P/review-021.txt,5458,5483,lamb skewers
-./Debugging_stage/Set_P/review-021.txt,5544,5568,saag paneer
-./Debugging_stage/Set_P/review-021.txt,5702,5744,saag paneer made with spinach
-./Debugging_stage/Set_P/review-022.txt,1693,1713,dim sum
-./Debugging_stage/Set_P/review-022.txt,2058,2086,Dungeness crabs
-./Debugging_stage/Set_P/review-022.txt,2756,2774,clams
-./Debugging_stage/Set_P/review-022.txt,3161,3187,water spinach
-./Debugging_stage/Set_P/review-022.txt,3195,3228,crispy fried chicken
-./Debugging_stage/Set_P/review-022.txt,3499,3548,sea scallops in a black pepper sauce
-./Debugging_stage/Set_P/review-022.txt,3801,3831,mayonnaise prawns
-./Debugging_stage/Set_P/review-022.txt,3940,3965,fried shrimp
-./Debugging_stage/Set_P/review-022.txt,4273,4296,goose webs
-./Debugging_stage/Set_P/review-022.txt,4317,4338,bok choi
-./Debugging_stage/Set_P/review-022.txt,4343,4379,Chinese black mushrooms
-./Debugging_stage/Set_P/review-022.txt,4599,4623,screw clams
-./Debugging_stage/Set_P/review-022.txt,4817,4847,osmanthus mussels
-./Debugging_stage/Set_P/review-022.txt,5042,5076,stir-fried lamb chops
-./Debugging_stage/Set_P/review-022.txt,5191,5215,Peking duck
-./Debugging_stage/Set_P/review-022.txt,5602,5625,sandwiches
-./Debugging_stage/Set_P/review-022.txt,5779,5799,lobster
-./Debugging_stage/Set_P/review-022.txt,6212,6239,shark fin soup
-./Debugging_stage/Set_P/review-023.txt,999,1021,kwek-kwek
-./Debugging_stage/Set_P/review-023.txt,2139,2188,eggplant strewn with salted duck egg
-./Debugging_stage/Set_P/review-023.txt,2269,2297,lumpiang sariwa
-./Debugging_stage/Set_P/review-023.txt,2445,2462,isaw
-./Debugging_stage/Set_P/review-023.txt,2658,2677,omelet
-./Debugging_stage/Set_P/review-023.txt,3028,3055,La Paz batchoy
-./Debugging_stage/Set_P/review-023.txt,3299,3317,silog
-./Debugging_stage/Set_P/review-023.txt,3347,3377,garlic fried rice
-./Debugging_stage/Set_P/review-023.txt,3726,3750,arroz caldo
-./Debugging_stage/Set_P/review-023.txt,3920,3949,tres leches cake
-./Debugging_stage/Set_P/review-024.txt,2226,2255,salad of burdock
-./Debugging_stage/Set_P/review-024.txt,2442,2464,Cold tofu
-./Debugging_stage/Set_P/review-024.txt,2931,2958,fried potatoes
-./Debugging_stage/Set_P/review-024.txt,2998,3026,fluke carpaccio
-./Debugging_stage/Set_P/review-024.txt,3190,3216,fried chicken
-./Debugging_stage/Set_P/review-024.txt,3244,3271,chicken nanban
-./Debugging_stage/Set_P/review-024.txt,3515,3542,beef guts stew
-./Debugging_stage/Set_P/review-024.txt,3804,3879,"hayashi rice/dish>, a kind of homage to <dish>beef Bourguignon"
-./Debugging_stage/Set_P/review-024.txt,3995,4027,spaghetti Napolitan
-./Debugging_stage/Set_P/review-025.txt,925,960,scallops and cavatelli
-./Debugging_stage/Set_P/review-025.txt,1647,1677,choucroute garnie
-./Debugging_stage/Set_P/review-025.txt,2183,2205,cavatelli
-./Debugging_stage/Set_P/review-025.txt,2370,2400,roasted veal loin
-./Debugging_stage/Set_P/review-025.txt,2476,2500,duck breast
-./Debugging_stage/Set_P/review-025.txt,2651,2673,pork loin
-./Debugging_stage/Set_P/review-025.txt,3380,3410,charcuterie plate
-./Debugging_stage/Set_P/review-025.txt,3447,3474,duck rillettes
-./Debugging_stage/Set_P/review-025.txt,3533,3590,rough-hewed and pistachio-flecked liverwurst
-./Debugging_stage/Set_P/review-025.txt,3592,3620,calf’s tongue
-./Debugging_stage/Set_P/review-025.txt,3625,3658,chicken liver mousse
-./Debugging_stage/Set_P/review-025.txt,3855,3884,foie gras mousse
-./Debugging_stage/Set_P/review-025.txt,4212,4246,Fried soft-shell crab
-./Debugging_stage/Set_P/review-025.txt,4848,4879,chocolate soufflé
-./Debugging_stage/Set_P/review-025.txt,5083,5113,gratin dauphinois
-./Debugging_stage/Set_P/review-025.txt,5134,5164,charcuterie plate
-./Debugging_stage/Set_P/review-026.txt,915,940,radish cakes
-./Debugging_stage/Set_P/review-026.txt,942,967,noodle soups
-./Debugging_stage/Set_P/review-026.txt,994,1019,coconut rice
-./Debugging_stage/Set_P/review-026.txt,1041,1070,beef-filled roti
-./Debugging_stage/Set_P/review-026.txt,1736,1760,carrot cake
-./Debugging_stage/Set_P/review-026.txt,1799,1831,Daikon radish cakes
-./Debugging_stage/Set_P/review-026.txt,1848,1873,turnip cakes
-./Debugging_stage/Set_P/review-026.txt,2252,2272,Oh luak
-./Debugging_stage/Set_P/review-026.txt,2553,2584,fried whole prawns
-./Debugging_stage/Set_P/review-026.txt,2757,2776,sambal
-./Debugging_stage/Set_P/review-026.txt,2844,2874,tofu skin wrapper
-./Debugging_stage/Set_P/review-026.txt,3461,3488,char kway teow
-./Debugging_stage/Set_P/review-026.txt,3568,3595,shrimp lo mein
-./Debugging_stage/Set_P/review-026.txt,3633,3662,nyonya chap chye
-./Debugging_stage/Set_P/review-026.txt,3837,3872,Hainanese chicken rice
-./Debugging_stage/Set_P/review-026.txt,5020,5045,Lamb rendang
-./Debugging_stage/Set_P/review-026.txt,5235,5265,durian cream puff
-./Debugging_stage/Set_P/review-026.txt,5428,5477,bananas fried in a mochi-like batter
-./Debugging_stage/Set_P/review-026.txt,5481,5556,sweet potatoes and taro bobbing in a warm coconut-tapioca soup
-./Debugging_stage/Set_P/review-026.txt,6280,6306,kerabu sotong
-./Debugging_stage/Set_P/review-027.txt,1397,1420,ewa oloyin
-./Debugging_stage/Set_P/review-027.txt,1422,1446,honey beans
-./Debugging_stage/Set_P/review-027.txt,1467,1495,black-eyed peas
-./Debugging_stage/Set_P/review-027.txt,1497,1515,egusi
-./Debugging_stage/Set_P/review-027.txt,1578,1597,jollof
-./Debugging_stage/Set_P/review-027.txt,2371,2389,banga
-./Debugging_stage/Set_P/review-027.txt,2475,2499,Peanut soup
-./Debugging_stage/Set_P/review-027.txt,2616,2638,Okra soup
-./Debugging_stage/Set_P/review-028.txt,300,322,tuna roll
-./Debugging_stage/Set_P/review-028.txt,2066,2115,truffle maki roll topped with caviar
-./Debugging_stage/Set_P/review-028.txt,2123,2168,caviar roll topped with truffles
-./Debugging_stage/Set_P/review-028.txt,2243,2279,Fat-streaked tuna belly
-./Debugging_stage/Set_P/review-028.txt,3088,3114,sushi omakase
-./Debugging_stage/Set_P/review-028.txt,3414,3439,mountain yam
-./Debugging_stage/Set_P/review-028.txt,5695,5721,sushi omakase
-./Debugging_stage/Set_P/review-028.txt,5979,6007,shirako tempura
-./Debugging_stage/Set_P/review-029.txt,211,229,dhedo
-./Debugging_stage/Set_P/review-029.txt,941,959,Dhedo
-./Debugging_stage/Set_P/review-029.txt,1888,1909,sel roti
-./Debugging_stage/Set_P/review-029.txt,2656,2675,sukuti
-./Debugging_stage/Set_P/review-029.txt,2856,2882,chicken curry
-./Debugging_stage/Set_P/review-029.txt,2993,3024,goat-stomach curry
-./Debugging_stage/Set_P/review-029.txt,3030,3048,momos
-./Debugging_stage/Set_P/review-029.txt,3425,3448,samay baji
-./Debugging_stage/Set_P/review-029.txt,3605,3633,sandheko waiwai
