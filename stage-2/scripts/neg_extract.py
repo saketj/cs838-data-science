@@ -62,7 +62,7 @@ for fle in files:
               break
 
 # Writing output to csv
-with open("./datasets/neg_extracted.csv", "wb") as f:
+with open("./datasets/neg_extracted_I.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(neg_list)
 

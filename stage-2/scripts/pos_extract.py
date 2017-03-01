@@ -16,6 +16,6 @@ for fle in files:
           pos_list.append([f.name,l.start(),l.end(),l.group(1)])
 
 # Writing output to csv
-with open("./datasets/pos_extracted.csv", "wb") as f:
+with open("./datasets/pos_extracted_I.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(pos_list)
