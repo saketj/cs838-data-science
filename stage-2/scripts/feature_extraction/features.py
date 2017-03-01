@@ -216,6 +216,169 @@ class HasDishQuantityMentionFeature:
     def get_feature_type():
         return ['true', 'false']
 
+class MealNameContextFeature:
+    meal_names = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.meal_names = feature_data["meal_names"]
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for name in self.meal_names:
+            if bool(name in context):
+                count += 1
+        return count
+
+    @staticmethod
+    def get_feature_name():
+        return 'meal_name_context_feature'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
+
+
+class DishQuantityContextFeature:
+    dish_quantity = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.dish_quantity = feature_data["dish_quantity"]
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for name in self.dish_quantity:
+            if bool(name in context):
+                count += 1
+        return count
+
+    @staticmethod
+    def get_feature_name():
+        return 'dish_quantity_context_feature'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
+
+class CountryContextFeature:
+    country = []
+
+    def __init__(self):
+        # Read the feature hints
+        with open("./scripts/feature_extraction/feature_hints.json") as json_file:
+            feature_data = json.load(json_file)
+            self.country = feature_data["country"]
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for name in self.country:
+            if bool(name in context):
+                count += 1
+        return count
+
+    @staticmethod
+    def get_feature_name():
+        return 'country_context_feature'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
+
+class CommaFollowedFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row).strip()
+        return context.find(",")
+
+    @staticmethod
+    def get_feature_name():
+        return 'followed_by_comma'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class HasCapitalStarting:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = re.sub(r"[^ +\w]", "", row['dish name'])
+        else:
+            dish_name = re.sub(r"[^ +\w]", "", row['negative sample'])
+        new_name = unicode(dish_name, errors='ignore')
+        if new_name[0] >= 'A' and new_name[0] <= 'Z' :
+            return 'true'
+        else :
+            return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'dish_name_starts_with_capital'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
+
+class NumberOfCapitals:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = re.sub(r"[^ +\w]", "", row['dish name'])
+        else:
+            dish_name = re.sub(r"[^ +\w]", "", row['negative sample'])
+        new_name = unicode(dish_name, errors='ignore')
+        count = 0
+        for i in range(len(new_name)):
+            if new_name[i] >= 'A' and new_name[i] <= 'Z' :
+                count += 1
+        return count
+
+    @staticmethod
+    def get_feature_name():
+        return 'count_capital_letters'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class NumberOfCommas:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for i in range(len(context)):
+            if context[i] == ',' or context[i] == ';' :
+                count += 1
+        if len(context) > 0 :
+            return count/len(context)
+        else :
+            return 0
+
+    @staticmethod
+    def get_feature_name():
+        return 'count_commas_semicolon'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
+
+
 class DishNameFeature:
     def __init__(self):
         return

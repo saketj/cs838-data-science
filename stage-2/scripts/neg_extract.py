@@ -7,9 +7,9 @@ import random
 def remove(pattern,string_given):
     return re.sub(".*"+pattern+".*\n?","",string_given)
 
-threshold = 10 # Number of negative samples divided by 3 per file
+threshold = 8 # Number of negative samples divided by 3 per file
 neg_list = [['file name','start offset','end offset','negative sample']] # A list for all positive examples
-path = '../datasets/text-documents-labeled_TRAIN/*.txt'
+path = './datasets/Set_I_DEV/*.txt'
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
 
@@ -49,7 +49,7 @@ for fle in files:
               break
 
 # Writing output to csv
-with open("../datasets/neg_extracted.csv", "wb") as f:
+with open("./datasets/neg_extracted.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(neg_list)
 

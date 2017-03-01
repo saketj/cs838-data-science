@@ -3,7 +3,7 @@ import re
 import glob
 
 pos_list = [['file name','start offset','end offset','dish name']] # A list for all positive examples
-path = '../datasets/text-documents-labeled_TRAIN/*.txt'
+path = './datasets/Set_I_DEV/*.txt'
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
 # iterate over files in the directory
@@ -16,6 +16,6 @@ for fle in files:
           pos_list.append([f.name,l.start(),l.end(),l.group(1)])
 
 # Writing output to csv
-with open("../datasets/pos_extracted.csv", "wb") as f:
+with open("./datasets/pos_extracted.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(pos_list)
