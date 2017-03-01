@@ -142,21 +142,72 @@ class FoodIngredientsContextFeature:
         return 'NUMERIC'
 
 
-class PriceMentionFeature:
+class PriceDistanceFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row).strip()
+        return context.find("$")
+
+    @staticmethod
+    def get_feature_name():
+        return 'price_distance'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class CommaDistanceFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row).strip()
+        return context.find(",")
+
+    @staticmethod
+    def get_feature_name():
+        return 'comma_distance'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class SemiColonDistanceFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row).strip()
+        return context.find(";")
+
+    @staticmethod
+    def get_feature_name():
+        return 'semi_colon_distance'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
+
+class HasPriceMentionFeature:
     def __init__(self):
         return
 
     def process(self, row):
         context = get_context_after_row(row)
-        return context.find("$")
+        if "$" in context:
+            return 'true'
+        else:
+            return 'false'
 
     @staticmethod
     def get_feature_name():
-        return 'price_mention'
+        return 'has_price_mention'
 
     @staticmethod
     def get_feature_type():
-        return 'INTEGER'
+        return ['true', 'false']
 
 
 class HasMealNameMentionedFeature:
@@ -308,6 +359,7 @@ class CommaFollowedFeature:
     def get_feature_type():
         return 'INTEGER'
 
+
 class HasCapitalStarting:
     def __init__(self):
         return
@@ -363,7 +415,7 @@ class NumberOfCommas:
         context = get_context_for_row(row)
         count = 0
         for i in range(len(context)):
-            if context[i] == ',' or context[i] == ';' :
+            if context[i] == ',' :
                 count += 1
         if len(context) > 0 :
             return count/len(context)
@@ -372,12 +424,34 @@ class NumberOfCommas:
 
     @staticmethod
     def get_feature_name():
-        return 'count_commas_semicolon'
+        return 'count_commas'
 
     @staticmethod
     def get_feature_type():
         return 'NUMERIC'
 
+class NumberOfSemiColons:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_for_row(row)
+        count = 0
+        for i in range(len(context)):
+            if context[i] == ';' :
+                count += 1
+        if len(context) > 0 :
+            return count/len(context)
+        else :
+            return 0
+
+    @staticmethod
+    def get_feature_name():
+        return 'count_semicolons'
+
+    @staticmethod
+    def get_feature_type():
+        return 'NUMERIC'
 
 class DishNameFeature:
     def __init__(self):
