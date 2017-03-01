@@ -7,9 +7,20 @@ import random
 def remove(pattern,string_given):
     return re.sub(".*"+pattern+".*\n?","",string_given)
 
+
+def remove_dish_labels(text):
+    lines = text.split(".")
+    extracted = ""
+    for line in lines:
+        if "<dish>" not in line:
+            extracted += (line + ".")
+    extracted = re.sub(r"\n", "", extracted)
+    return extracted
+
+
 threshold = 8 # Number of negative samples divided by 3 per file
 neg_list = [['file name','start offset','end offset','negative sample']] # A list for all positive examples
-path = './datasets/Set_I_DEV/*.txt'
+path = './Debugging_stage/Set_Q/*.txt'
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
 
@@ -21,7 +32,7 @@ for fle in files:
       text = f.read()
       
       # Removing all the lines containing dishes
-      text_new = remove("</dish>",remove("<dish>",text))
+      text_new = remove_dish_labels(text) #remove("</dish>",remove("<dish>",text))
 
       # Generating three consecutive word matches in the new file
       match_raw = re.compile('([A-Za-z]+ )([A-Za-z]+ ([A-Za-z]+))', re.DOTALL).finditer(text_new)
@@ -39,6 +50,8 @@ for fle in files:
           # print(i)
           # Finding the offset of the match in the original list
           match0 = re.search(l.group(0),text)
+          if match0 is None:
+              continue
           neg_list.append([f.name,match0.start(),match0.end(),match0.group(0)])
           match1 = re.search(l.group(1),text)
           neg_list.append([f.name,match1.start(),match1.end(),match1.group(0)])
@@ -49,7 +62,7 @@ for fle in files:
               break
 
 # Writing output to csv
-with open("./datasets/neg_extracted.csv", "wb") as f:
+with open("./Debugging_stage/debug_negextracted_Q.csv", "wb") as f:
     writer = csv.writer(f)
     writer.writerows(neg_list)
 

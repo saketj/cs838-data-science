@@ -1,0 +1,2401 @@
+file name,start offset,end offset,negative sample
+./datasets/Set_J_TEST/review-076.txt,1816,1826,such a gem
+./datasets/Set_J_TEST/review-076.txt,1816,1821,such 
+./datasets/Set_J_TEST/review-076.txt,1821,1826,a gem
+./datasets/Set_J_TEST/review-076.txt,1450,1464,behind the bar
+./datasets/Set_J_TEST/review-076.txt,1450,1457,behind 
+./datasets/Set_J_TEST/review-076.txt,464,471,the bar
+./datasets/Set_J_TEST/review-076.txt,851,868,expert Allen Katz
+./datasets/Set_J_TEST/review-076.txt,851,858,expert 
+./datasets/Set_J_TEST/review-076.txt,858,868,Allen Katz
+./datasets/Set_J_TEST/review-076.txt,954,967,they have two
+./datasets/Set_J_TEST/review-076.txt,954,959,they 
+./datasets/Set_J_TEST/review-076.txt,959,967,have two
+./datasets/Set_J_TEST/review-076.txt,1749,1770,would serve something
+./datasets/Set_J_TEST/review-076.txt,1749,1755,would 
+./datasets/Set_J_TEST/review-076.txt,1755,1770,serve something
+./datasets/Set_J_TEST/review-076.txt,474,485,s back wall
+./datasets/Set_J_TEST/review-076.txt,75,77,s 
+./datasets/Set_J_TEST/review-076.txt,476,485,back wall
+./datasets/Set_J_TEST/review-076.txt,1652,1670,meadow floating up
+./datasets/Set_J_TEST/review-076.txt,1652,1659,meadow 
+./datasets/Set_J_TEST/review-076.txt,1659,1670,floating up
+./datasets/Set_J_TEST/review-076.txt,1480,1497,of Brooklyn Lager
+./datasets/Set_J_TEST/review-076.txt,814,817,of 
+./datasets/Set_J_TEST/review-076.txt,1483,1497,Brooklyn Lager
+./datasets/Set_J_TEST/review-077.txt,2066,2085,scallions and broth
+./datasets/Set_J_TEST/review-077.txt,2066,2076,scallions 
+./datasets/Set_J_TEST/review-077.txt,2076,2085,and broth
+./datasets/Set_J_TEST/review-077.txt,832,850,like flower petals
+./datasets/Set_J_TEST/review-077.txt,832,837,like 
+./datasets/Set_J_TEST/review-077.txt,837,850,flower petals
+./datasets/Set_J_TEST/review-077.txt,95,111,the hostess will
+./datasets/Set_J_TEST/review-077.txt,95,99,the 
+./datasets/Set_J_TEST/review-077.txt,99,111,hostess will
+./datasets/Set_J_TEST/review-077.txt,151,164,it in plastic
+./datasets/Set_J_TEST/review-077.txt,151,154,it 
+./datasets/Set_J_TEST/review-077.txt,154,164,in plastic
+./datasets/Set_J_TEST/review-077.txt,255,272,marinade and fire
+./datasets/Set_J_TEST/review-077.txt,255,264,marinade 
+./datasets/Set_J_TEST/review-077.txt,264,272,and fire
+./datasets/Set_J_TEST/review-077.txt,948,963,diners can roll
+./datasets/Set_J_TEST/review-077.txt,948,955,diners 
+./datasets/Set_J_TEST/review-077.txt,955,963,can roll
+./datasets/Set_J_TEST/review-077.txt,1222,1239,powered and quiet
+./datasets/Set_J_TEST/review-077.txt,1222,1230,powered 
+./datasets/Set_J_TEST/review-077.txt,1230,1239,and quiet
+./datasets/Set_J_TEST/review-077.txt,1618,1632,thin rounds of
+./datasets/Set_J_TEST/review-077.txt,1618,1623,thin 
+./datasets/Set_J_TEST/review-077.txt,1623,1632,rounds of
+./datasets/Set_J_TEST/review-078.txt,362,381,restaurant of their
+./datasets/Set_J_TEST/review-078.txt,295,306,restaurant 
+./datasets/Set_J_TEST/review-078.txt,373,381,of their
+./datasets/Set_J_TEST/review-078.txt,458,477,whiff of revolution
+./datasets/Set_J_TEST/review-078.txt,458,464,whiff 
+./datasets/Set_J_TEST/review-078.txt,464,477,of revolution
+./datasets/Set_J_TEST/review-078.txt,658,681,s garagelike storefront
+./datasets/Set_J_TEST/review-078.txt,67,69,s 
+./datasets/Set_J_TEST/review-078.txt,660,681,garagelike storefront
+./datasets/Set_J_TEST/review-078.txt,1757,1778,smattering of mezcals
+./datasets/Set_J_TEST/review-078.txt,1757,1768,smattering 
+./datasets/Set_J_TEST/review-078.txt,1768,1778,of mezcals
+./datasets/Set_J_TEST/review-078.txt,1742,1756,tequilas and a
+./datasets/Set_J_TEST/review-078.txt,1742,1751,tequilas 
+./datasets/Set_J_TEST/review-078.txt,192,197,and a
+./datasets/Set_J_TEST/review-078.txt,1644,1657,but with more
+./datasets/Set_J_TEST/review-078.txt,1644,1648,but 
+./datasets/Set_J_TEST/review-078.txt,1648,1657,with more
+./datasets/Set_J_TEST/review-078.txt,622,639,not unlike Bonita
+./datasets/Set_J_TEST/review-078.txt,622,626,not 
+./datasets/Set_J_TEST/review-078.txt,626,639,unlike Bonita
+./datasets/Set_J_TEST/review-078.txt,420,435,El pueblo unido
+./datasets/Set_J_TEST/review-078.txt,420,423,El 
+./datasets/Set_J_TEST/review-078.txt,423,435,pueblo unido
+./datasets/Set_J_TEST/review-079.txt,227,245,it feels Pavlovian
+./datasets/Set_J_TEST/review-079.txt,77,80,it 
+./datasets/Set_J_TEST/review-079.txt,230,245,feels Pavlovian
+./datasets/Set_J_TEST/review-079.txt,816,836,s particularly zingy
+./datasets/Set_J_TEST/review-079.txt,186,188,s 
+./datasets/Set_J_TEST/review-079.txt,818,836,particularly zingy
+./datasets/Set_J_TEST/review-079.txt,1509,1523,but not nearly
+./datasets/Set_J_TEST/review-079.txt,957,961,but 
+./datasets/Set_J_TEST/review-079.txt,1513,1523,not nearly
+./datasets/Set_J_TEST/review-079.txt,83,97,a Sunday night
+./datasets/Set_J_TEST/review-079.txt,63,65,a 
+./datasets/Set_J_TEST/review-079.txt,85,97,Sunday night
+./datasets/Set_J_TEST/review-079.txt,1537,1554,the homemade mint
+./datasets/Set_J_TEST/review-079.txt,99,103,the 
+./datasets/Set_J_TEST/review-079.txt,1541,1554,homemade mint
+./datasets/Set_J_TEST/review-079.txt,309,326,comes out noshing
+./datasets/Set_J_TEST/review-079.txt,309,315,comes 
+./datasets/Set_J_TEST/review-079.txt,315,326,out noshing
+./datasets/Set_J_TEST/review-079.txt,1524,1536,as nicely as
+./datasets/Set_J_TEST/review-079.txt,540,543,as 
+./datasets/Set_J_TEST/review-079.txt,1527,1536,nicely as
+./datasets/Set_J_TEST/review-079.txt,295,308,s inner child
+./datasets/Set_J_TEST/review-079.txt,186,188,s 
+./datasets/Set_J_TEST/review-079.txt,297,308,inner child
+./datasets/Set_J_TEST/review-080.txt,2559,2571,To wallow in
+./datasets/Set_J_TEST/review-080.txt,2559,2562,To 
+./datasets/Set_J_TEST/review-080.txt,2562,2571,wallow in
+./datasets/Set_J_TEST/review-080.txt,731,745,t realize that
+./datasets/Set_J_TEST/review-080.txt,42,44,t 
+./datasets/Set_J_TEST/review-080.txt,733,745,realize that
+./datasets/Set_J_TEST/review-080.txt,3191,3212,attentive but offhand
+./datasets/Set_J_TEST/review-080.txt,3191,3201,attentive 
+./datasets/Set_J_TEST/review-080.txt,3201,3212,but offhand
+./datasets/Set_J_TEST/review-080.txt,3313,3328,There seemed no
+./datasets/Set_J_TEST/review-080.txt,1764,1770,There 
+./datasets/Set_J_TEST/review-080.txt,3319,3328,seemed no
+./datasets/Set_J_TEST/review-080.txt,632,646,that there was
+./datasets/Set_J_TEST/review-080.txt,632,637,that 
+./datasets/Set_J_TEST/review-080.txt,637,646,there was
+./datasets/Set_J_TEST/review-080.txt,817,826,t used to
+./datasets/Set_J_TEST/review-080.txt,42,44,t 
+./datasets/Set_J_TEST/review-080.txt,819,826,used to
+./datasets/Set_J_TEST/review-080.txt,296,310,Beyond in Fort
+./datasets/Set_J_TEST/review-080.txt,216,223,Beyond 
+./datasets/Set_J_TEST/review-080.txt,303,310,in Fort
+./datasets/Set_J_TEST/review-080.txt,2223,2234,I want this
+./datasets/Set_J_TEST/review-080.txt,2223,2225,I 
+./datasets/Set_J_TEST/review-080.txt,2225,2234,want this
+./datasets/Set_J_TEST/review-081.txt,641,657,speak your order
+./datasets/Set_J_TEST/review-081.txt,641,647,speak 
+./datasets/Set_J_TEST/review-081.txt,647,657,your order
+./datasets/Set_J_TEST/review-081.txt,1421,1446,from Tortilleria Nixtamal
+./datasets/Set_J_TEST/review-081.txt,1141,1146,from 
+./datasets/Set_J_TEST/review-081.txt,1426,1446,Tortilleria Nixtamal
+./datasets/Set_J_TEST/review-081.txt,1572,1582,comes in a
+./datasets/Set_J_TEST/review-081.txt,1572,1578,comes 
+./datasets/Set_J_TEST/review-081.txt,817,821,in a
+./datasets/Set_J_TEST/review-081.txt,735,748,that would be
+./datasets/Set_J_TEST/review-081.txt,370,375,that 
+./datasets/Set_J_TEST/review-081.txt,740,748,would be
+./datasets/Set_J_TEST/review-081.txt,1837,1848,t be afraid
+./datasets/Set_J_TEST/review-081.txt,70,72,t 
+./datasets/Set_J_TEST/review-081.txt,1839,1848,be afraid
+./datasets/Set_J_TEST/review-081.txt,1210,1225,had pressed the
+./datasets/Set_J_TEST/review-081.txt,575,579,had 
+./datasets/Set_J_TEST/review-081.txt,1214,1225,pressed the
+./datasets/Set_J_TEST/review-081.txt,972,992,trimmed with pickled
+./datasets/Set_J_TEST/review-081.txt,972,980,trimmed 
+./datasets/Set_J_TEST/review-081.txt,980,992,with pickled
+./datasets/Set_J_TEST/review-081.txt,604,624,choice of condiments
+./datasets/Set_J_TEST/review-081.txt,604,611,choice 
+./datasets/Set_J_TEST/review-081.txt,611,624,of condiments
+./datasets/Set_J_TEST/review-082.txt,3152,3163,went off in
+./datasets/Set_J_TEST/review-082.txt,3152,3157,went 
+./datasets/Set_J_TEST/review-082.txt,3157,3163,off in
+./datasets/Set_J_TEST/review-082.txt,1151,1166,Upper East Side
+./datasets/Set_J_TEST/review-082.txt,1151,1157,Upper 
+./datasets/Set_J_TEST/review-082.txt,1157,1166,East Side
+./datasets/Set_J_TEST/review-082.txt,5958,5970,when so many
+./datasets/Set_J_TEST/review-082.txt,2119,2124,when 
+./datasets/Set_J_TEST/review-082.txt,5963,5970,so many
+./datasets/Set_J_TEST/review-082.txt,2611,2633,this voluptuous little
+./datasets/Set_J_TEST/review-082.txt,2611,2616,this 
+./datasets/Set_J_TEST/review-082.txt,2616,2633,voluptuous little
+./datasets/Set_J_TEST/review-082.txt,2533,2548,be sliced black
+./datasets/Set_J_TEST/review-082.txt,554,557,be 
+./datasets/Set_J_TEST/review-082.txt,2536,2548,sliced black
+./datasets/Set_J_TEST/review-082.txt,4881,4891,at all the
+./datasets/Set_J_TEST/review-082.txt,250,253,at 
+./datasets/Set_J_TEST/review-082.txt,3077,3084,all the
+./datasets/Set_J_TEST/review-082.txt,183,211,Disappointment requires hope
+./datasets/Set_J_TEST/review-082.txt,183,198,Disappointment 
+./datasets/Set_J_TEST/review-082.txt,198,211,requires hope
+./datasets/Set_J_TEST/review-082.txt,2215,2235,Tiny elegant gnocchi
+./datasets/Set_J_TEST/review-082.txt,2215,2220,Tiny 
+./datasets/Set_J_TEST/review-082.txt,2220,2235,elegant gnocchi
+./datasets/Set_J_TEST/review-083.txt,968,984,where his mother
+./datasets/Set_J_TEST/review-083.txt,968,974,where 
+./datasets/Set_J_TEST/review-083.txt,974,984,his mother
+./datasets/Set_J_TEST/review-083.txt,2276,2291,Those made with
+./datasets/Set_J_TEST/review-083.txt,2276,2282,Those 
+./datasets/Set_J_TEST/review-083.txt,2282,2291,made with
+./datasets/Set_J_TEST/review-083.txt,1264,1279,Sandya De Silva
+./datasets/Set_J_TEST/review-083.txt,1264,1271,Sandya 
+./datasets/Set_J_TEST/review-083.txt,1271,1279,De Silva
+./datasets/Set_J_TEST/review-083.txt,894,918,divided between Panadura
+./datasets/Set_J_TEST/review-083.txt,894,902,divided 
+./datasets/Set_J_TEST/review-083.txt,902,918,between Panadura
+./datasets/Set_J_TEST/review-083.txt,3405,3417,Better to do
+./datasets/Set_J_TEST/review-083.txt,3405,3412,Better 
+./datasets/Set_J_TEST/review-083.txt,3412,3417,to do
+./datasets/Set_J_TEST/review-083.txt,1247,1262,With his mother
+./datasets/Set_J_TEST/review-083.txt,1247,1252,With 
+./datasets/Set_J_TEST/review-083.txt,974,984,his mother
+./datasets/Set_J_TEST/review-083.txt,67,82,goggle eyes and
+./datasets/Set_J_TEST/review-083.txt,67,74,goggle 
+./datasets/Set_J_TEST/review-083.txt,74,82,eyes and
+./datasets/Set_J_TEST/review-083.txt,1218,1234,men clowning for
+./datasets/Set_J_TEST/review-083.txt,1218,1222,men 
+./datasets/Set_J_TEST/review-083.txt,1222,1234,clowning for
+./datasets/Set_J_TEST/review-084.txt,6691,6706,fall into place
+./datasets/Set_J_TEST/review-084.txt,6691,6696,fall 
+./datasets/Set_J_TEST/review-084.txt,6696,6706,into place
+./datasets/Set_J_TEST/review-084.txt,5258,5276,Other desserts are
+./datasets/Set_J_TEST/review-084.txt,5258,5264,Other 
+./datasets/Set_J_TEST/review-084.txt,5264,5276,desserts are
+./datasets/Set_J_TEST/review-084.txt,5076,5091,has been glazed
+./datasets/Set_J_TEST/review-084.txt,146,150,has 
+./datasets/Set_J_TEST/review-084.txt,5080,5091,been glazed
+./datasets/Set_J_TEST/review-084.txt,6063,6078,on a landlocked
+./datasets/Set_J_TEST/review-084.txt,194,197,on 
+./datasets/Set_J_TEST/review-084.txt,6066,6078,a landlocked
+./datasets/Set_J_TEST/review-084.txt,6596,6606,but to get
+./datasets/Set_J_TEST/review-084.txt,672,676,but 
+./datasets/Set_J_TEST/review-084.txt,3674,3680,to get
+./datasets/Set_J_TEST/review-084.txt,4838,4855,with the desserts
+./datasets/Set_J_TEST/review-084.txt,939,944,with 
+./datasets/Set_J_TEST/review-084.txt,4843,4855,the desserts
+./datasets/Set_J_TEST/review-084.txt,4427,4439,a special in
+./datasets/Set_J_TEST/review-084.txt,150,152,a 
+./datasets/Set_J_TEST/review-084.txt,4429,4439,special in
+./datasets/Set_J_TEST/review-084.txt,5861,5871,I asked to
+./datasets/Set_J_TEST/review-084.txt,954,956,I 
+./datasets/Set_J_TEST/review-084.txt,5863,5871,asked to
+./datasets/Set_J_TEST/review-085.txt,2829,2840,s where all
+./datasets/Set_J_TEST/review-085.txt,94,96,s 
+./datasets/Set_J_TEST/review-085.txt,2831,2840,where all
+./datasets/Set_J_TEST/review-085.txt,5021,5034,when it takes
+./datasets/Set_J_TEST/review-085.txt,2698,2703,when 
+./datasets/Set_J_TEST/review-085.txt,5026,5034,it takes
+./datasets/Set_J_TEST/review-085.txt,1633,1647,Dolled up like
+./datasets/Set_J_TEST/review-085.txt,1633,1640,Dolled 
+./datasets/Set_J_TEST/review-085.txt,1640,1647,up like
+./datasets/Set_J_TEST/review-085.txt,1568,1584,looking like the
+./datasets/Set_J_TEST/review-085.txt,1568,1576,looking 
+./datasets/Set_J_TEST/review-085.txt,1576,1584,like the
+./datasets/Set_J_TEST/review-085.txt,1362,1375,years as chef
+./datasets/Set_J_TEST/review-085.txt,1362,1368,years 
+./datasets/Set_J_TEST/review-085.txt,1368,1375,as chef
+./datasets/Set_J_TEST/review-085.txt,1448,1464,still twinkle in
+./datasets/Set_J_TEST/review-085.txt,1448,1454,still 
+./datasets/Set_J_TEST/review-085.txt,1454,1464,twinkle in
+./datasets/Set_J_TEST/review-085.txt,70,83,A few opulent
+./datasets/Set_J_TEST/review-085.txt,70,72,A 
+./datasets/Set_J_TEST/review-085.txt,72,83,few opulent
+./datasets/Set_J_TEST/review-085.txt,1376,1389,de cuisine at
+./datasets/Set_J_TEST/review-085.txt,436,439,de 
+./datasets/Set_J_TEST/review-085.txt,1379,1389,cuisine at
+./datasets/Set_J_TEST/review-086.txt,2510,2530,culinary pizazz long
+./datasets/Set_J_TEST/review-086.txt,2510,2519,culinary 
+./datasets/Set_J_TEST/review-086.txt,2519,2530,pizazz long
+./datasets/Set_J_TEST/review-086.txt,6960,6975,Lunch or brunch
+./datasets/Set_J_TEST/review-086.txt,6960,6966,Lunch 
+./datasets/Set_J_TEST/review-086.txt,6966,6975,or brunch
+./datasets/Set_J_TEST/review-086.txt,3806,3819,are made with
+./datasets/Set_J_TEST/review-086.txt,864,868,are 
+./datasets/Set_J_TEST/review-086.txt,3810,3819,made with
+./datasets/Set_J_TEST/review-086.txt,2885,2904,the former capacity
+./datasets/Set_J_TEST/review-086.txt,231,235,the 
+./datasets/Set_J_TEST/review-086.txt,2889,2904,former capacity
+./datasets/Set_J_TEST/review-086.txt,5946,5961,traffic is most
+./datasets/Set_J_TEST/review-086.txt,5946,5954,traffic 
+./datasets/Set_J_TEST/review-086.txt,5954,5961,is most
+./datasets/Set_J_TEST/review-086.txt,1288,1299,the nick of
+./datasets/Set_J_TEST/review-086.txt,231,235,the 
+./datasets/Set_J_TEST/review-086.txt,1292,1299,nick of
+./datasets/Set_J_TEST/review-086.txt,1541,1549,t cost a
+./datasets/Set_J_TEST/review-086.txt,65,67,t 
+./datasets/Set_J_TEST/review-086.txt,1543,1549,cost a
+./datasets/Set_J_TEST/review-086.txt,228,239,of the same
+./datasets/Set_J_TEST/review-086.txt,100,103,of 
+./datasets/Set_J_TEST/review-086.txt,231,239,the same
+./datasets/Set_J_TEST/review-087.txt,7469,7484,down one flight
+./datasets/Set_J_TEST/review-087.txt,7402,7407,down 
+./datasets/Set_J_TEST/review-087.txt,7474,7484,one flight
+./datasets/Set_J_TEST/review-087.txt,2306,2317,a very good
+./datasets/Set_J_TEST/review-087.txt,175,177,a 
+./datasets/Set_J_TEST/review-087.txt,2308,2317,very good
+./datasets/Set_J_TEST/review-087.txt,2199,2212,There will be
+./datasets/Set_J_TEST/review-087.txt,195,201,There 
+./datasets/Set_J_TEST/review-087.txt,2205,2212,will be
+./datasets/Set_J_TEST/review-087.txt,3537,3550,a few sweetly
+./datasets/Set_J_TEST/review-087.txt,175,177,a 
+./datasets/Set_J_TEST/review-087.txt,3539,3550,few sweetly
+./datasets/Set_J_TEST/review-087.txt,655,670,way that little
+./datasets/Set_J_TEST/review-087.txt,655,659,way 
+./datasets/Set_J_TEST/review-087.txt,659,670,that little
+./datasets/Set_J_TEST/review-087.txt,309,331,meatpacking district a
+./datasets/Set_J_TEST/review-087.txt,309,321,meatpacking 
+./datasets/Set_J_TEST/review-087.txt,321,331,district a
+./datasets/Set_J_TEST/review-087.txt,565,579,the space that
+./datasets/Set_J_TEST/review-087.txt,95,99,the 
+./datasets/Set_J_TEST/review-087.txt,569,579,space that
+./datasets/Set_J_TEST/review-087.txt,1721,1734,tapas are now
+./datasets/Set_J_TEST/review-087.txt,1721,1727,tapas 
+./datasets/Set_J_TEST/review-087.txt,1727,1734,are now
+./datasets/Set_J_TEST/review-088.txt,1519,1534,a decrepit hulk
+./datasets/Set_J_TEST/review-088.txt,176,178,a 
+./datasets/Set_J_TEST/review-088.txt,1521,1534,decrepit hulk
+./datasets/Set_J_TEST/review-088.txt,3769,3782,The walls are
+./datasets/Set_J_TEST/review-088.txt,999,1003,The 
+./datasets/Set_J_TEST/review-088.txt,3773,3782,walls are
+./datasets/Set_J_TEST/review-088.txt,3207,3224,the leaves draped
+./datasets/Set_J_TEST/review-088.txt,85,89,the 
+./datasets/Set_J_TEST/review-088.txt,3211,3224,leaves draped
+./datasets/Set_J_TEST/review-088.txt,3933,3950,In one photograph
+./datasets/Set_J_TEST/review-088.txt,2070,2073,In 
+./datasets/Set_J_TEST/review-088.txt,3936,3950,one photograph
+./datasets/Set_J_TEST/review-088.txt,3601,3623,nonsense waitresses in
+./datasets/Set_J_TEST/review-088.txt,3601,3610,nonsense 
+./datasets/Set_J_TEST/review-088.txt,3610,3623,waitresses in
+./datasets/Set_J_TEST/review-088.txt,4026,4038,Those are my
+./datasets/Set_J_TEST/review-088.txt,4026,4032,Those 
+./datasets/Set_J_TEST/review-088.txt,4032,4038,are my
+./datasets/Set_J_TEST/review-088.txt,3909,3931,bentwood Thonet chairs
+./datasets/Set_J_TEST/review-088.txt,3909,3918,bentwood 
+./datasets/Set_J_TEST/review-088.txt,3918,3931,Thonet chairs
+./datasets/Set_J_TEST/review-088.txt,3806,3824,white portraits of
+./datasets/Set_J_TEST/review-088.txt,198,204,white 
+./datasets/Set_J_TEST/review-088.txt,3812,3824,portraits of
+./datasets/Set_J_TEST/review-089.txt,810,825,the man accused
+./datasets/Set_J_TEST/review-089.txt,121,125,the 
+./datasets/Set_J_TEST/review-089.txt,814,825,man accused
+./datasets/Set_J_TEST/review-089.txt,2745,2757,was given to
+./datasets/Set_J_TEST/review-089.txt,348,352,was 
+./datasets/Set_J_TEST/review-089.txt,2749,2757,given to
+./datasets/Set_J_TEST/review-089.txt,673,693,Customers boasted of
+./datasets/Set_J_TEST/review-089.txt,673,683,Customers 
+./datasets/Set_J_TEST/review-089.txt,683,693,boasted of
+./datasets/Set_J_TEST/review-089.txt,3371,3390,which throws flames
+./datasets/Set_J_TEST/review-089.txt,2155,2161,which 
+./datasets/Set_J_TEST/review-089.txt,3377,3390,throws flames
+./datasets/Set_J_TEST/review-089.txt,339,351,The cart was
+./datasets/Set_J_TEST/review-089.txt,0,4,The 
+./datasets/Set_J_TEST/review-089.txt,343,351,cart was
+./datasets/Set_J_TEST/review-089.txt,3040,3059,an erstwhile master
+./datasets/Set_J_TEST/review-089.txt,371,374,an 
+./datasets/Set_J_TEST/review-089.txt,3043,3059,erstwhile master
+./datasets/Set_J_TEST/review-089.txt,3963,3976,of garlic and
+./datasets/Set_J_TEST/review-089.txt,145,148,of 
+./datasets/Set_J_TEST/review-089.txt,3966,3976,garlic and
+./datasets/Set_J_TEST/review-089.txt,1313,1332,of manifest destiny
+./datasets/Set_J_TEST/review-089.txt,145,148,of 
+./datasets/Set_J_TEST/review-089.txt,1316,1332,manifest destiny
+./datasets/Set_J_TEST/review-090.txt,4766,4788,chef which preparation
+./datasets/Set_J_TEST/review-090.txt,4766,4771,chef 
+./datasets/Set_J_TEST/review-090.txt,4771,4788,which preparation
+./datasets/Set_J_TEST/review-090.txt,270,281,meant to be
+./datasets/Set_J_TEST/review-090.txt,270,276,meant 
+./datasets/Set_J_TEST/review-090.txt,276,281,to be
+./datasets/Set_J_TEST/review-090.txt,3744,3760,Takashi is their
+./datasets/Set_J_TEST/review-090.txt,2670,2678,Takashi 
+./datasets/Set_J_TEST/review-090.txt,3752,3760,is their
+./datasets/Set_J_TEST/review-090.txt,6491,6513,its atmosphere winning
+./datasets/Set_J_TEST/review-090.txt,71,75,its 
+./datasets/Set_J_TEST/review-090.txt,6495,6513,atmosphere winning
+./datasets/Set_J_TEST/review-090.txt,5374,5392,ask for vegetables
+./datasets/Set_J_TEST/review-090.txt,4758,4762,ask 
+./datasets/Set_J_TEST/review-090.txt,5378,5392,for vegetables
+./datasets/Set_J_TEST/review-090.txt,4563,4582,either marinated in
+./datasets/Set_J_TEST/review-090.txt,4563,4570,either 
+./datasets/Set_J_TEST/review-090.txt,4570,4582,marinated in
+./datasets/Set_J_TEST/review-090.txt,4713,4725,If seated at
+./datasets/Set_J_TEST/review-090.txt,4713,4716,If 
+./datasets/Set_J_TEST/review-090.txt,4716,4725,seated at
+./datasets/Set_J_TEST/review-090.txt,4812,4821,he is the
+./datasets/Set_J_TEST/review-090.txt,170,173,he 
+./datasets/Set_J_TEST/review-090.txt,3752,3758,is the
+./datasets/Set_J_TEST/review-091.txt,995,1006,Down on the
+./datasets/Set_J_TEST/review-091.txt,995,1000,Down 
+./datasets/Set_J_TEST/review-091.txt,1000,1006,on the
+./datasets/Set_J_TEST/review-091.txt,5842,5860,calling your shots
+./datasets/Set_J_TEST/review-091.txt,5842,5850,calling 
+./datasets/Set_J_TEST/review-091.txt,5850,5860,your shots
+./datasets/Set_J_TEST/review-091.txt,244,259,high neon signs
+./datasets/Set_J_TEST/review-091.txt,244,249,high 
+./datasets/Set_J_TEST/review-091.txt,249,259,neon signs
+./datasets/Set_J_TEST/review-091.txt,1235,1245,s Clam Bar
+./datasets/Set_J_TEST/review-091.txt,82,84,s 
+./datasets/Set_J_TEST/review-091.txt,1237,1245,Clam Bar
+./datasets/Set_J_TEST/review-091.txt,6436,6453,under the assured
+./datasets/Set_J_TEST/review-091.txt,877,883,under 
+./datasets/Set_J_TEST/review-091.txt,6442,6453,the assured
+./datasets/Set_J_TEST/review-091.txt,5932,5942,set when a
+./datasets/Set_J_TEST/review-091.txt,5932,5936,set 
+./datasets/Set_J_TEST/review-091.txt,5936,5942,when a
+./datasets/Set_J_TEST/review-091.txt,2712,2727,but people tore
+./datasets/Set_J_TEST/review-091.txt,1693,1697,but 
+./datasets/Set_J_TEST/review-091.txt,2716,2727,people tore
+./datasets/Set_J_TEST/review-091.txt,4429,4448,s hindquarters show
+./datasets/Set_J_TEST/review-091.txt,82,84,s 
+./datasets/Set_J_TEST/review-091.txt,4431,4448,hindquarters show
+./datasets/Set_J_TEST/review-092.txt,2778,2793,built this past
+./datasets/Set_J_TEST/review-092.txt,2778,2784,built 
+./datasets/Set_J_TEST/review-092.txt,2784,2793,this past
+./datasets/Set_J_TEST/review-092.txt,3329,3346,is finally called
+./datasets/Set_J_TEST/review-092.txt,617,620,is 
+./datasets/Set_J_TEST/review-092.txt,3332,3346,finally called
+./datasets/Set_J_TEST/review-092.txt,2581,2593,But you want
+./datasets/Set_J_TEST/review-092.txt,859,863,But 
+./datasets/Set_J_TEST/review-092.txt,2585,2593,you want
+./datasets/Set_J_TEST/review-092.txt,516,527,in New York
+./datasets/Set_J_TEST/review-092.txt,516,519,in 
+./datasets/Set_J_TEST/review-092.txt,519,527,New York
+./datasets/Set_J_TEST/review-092.txt,2559,2578,Downeast Clam Shack
+./datasets/Set_J_TEST/review-092.txt,2559,2568,Downeast 
+./datasets/Set_J_TEST/review-092.txt,2568,2578,Clam Shack
+./datasets/Set_J_TEST/review-092.txt,1594,1605,will be fox
+./datasets/Set_J_TEST/review-092.txt,1594,1599,will 
+./datasets/Set_J_TEST/review-092.txt,1599,1605,be fox
+./datasets/Set_J_TEST/review-092.txt,534,547,on a harassed
+./datasets/Set_J_TEST/review-092.txt,534,537,on 
+./datasets/Set_J_TEST/review-092.txt,537,547,a harassed
+./datasets/Set_J_TEST/review-092.txt,3314,3328,When your name
+./datasets/Set_J_TEST/review-092.txt,3314,3319,When 
+./datasets/Set_J_TEST/review-092.txt,3319,3328,your name
+./datasets/Set_J_TEST/review-093.txt,1001,1020,shredded and tossed
+./datasets/Set_J_TEST/review-093.txt,1001,1010,shredded 
+./datasets/Set_J_TEST/review-093.txt,1010,1020,and tossed
+./datasets/Set_J_TEST/review-093.txt,1521,1532,the food is
+./datasets/Set_J_TEST/review-093.txt,204,208,the 
+./datasets/Set_J_TEST/review-093.txt,1525,1532,food is
+./datasets/Set_J_TEST/review-093.txt,3132,3147,fried pork with
+./datasets/Set_J_TEST/review-093.txt,2840,2846,fried 
+./datasets/Set_J_TEST/review-093.txt,3138,3147,pork with
+./datasets/Set_J_TEST/review-093.txt,2021,2034,the nomads on
+./datasets/Set_J_TEST/review-093.txt,204,208,the 
+./datasets/Set_J_TEST/review-093.txt,2025,2034,nomads on
+./datasets/Set_J_TEST/review-093.txt,2096,2111,to gristly cuts
+./datasets/Set_J_TEST/review-093.txt,87,90,to 
+./datasets/Set_J_TEST/review-093.txt,2099,2111,gristly cuts
+./datasets/Set_J_TEST/review-093.txt,1605,1626,regions that straddle
+./datasets/Set_J_TEST/review-093.txt,1605,1613,regions 
+./datasets/Set_J_TEST/review-093.txt,1613,1626,that straddle
+./datasets/Set_J_TEST/review-093.txt,493,512,s economical dining
+./datasets/Set_J_TEST/review-093.txt,76,78,s 
+./datasets/Set_J_TEST/review-093.txt,495,512,economical dining
+./datasets/Set_J_TEST/review-093.txt,1950,1960,as much as
+./datasets/Set_J_TEST/review-093.txt,766,769,as 
+./datasets/Set_J_TEST/review-093.txt,1953,1960,much as
+./datasets/Set_J_TEST/review-094.txt,3948,3958,one of the
+./datasets/Set_J_TEST/review-094.txt,874,878,one 
+./datasets/Set_J_TEST/review-094.txt,1293,1299,of the
+./datasets/Set_J_TEST/review-094.txt,1114,1128,cloud of white
+./datasets/Set_J_TEST/review-094.txt,1114,1120,cloud 
+./datasets/Set_J_TEST/review-094.txt,1120,1128,of white
+./datasets/Set_J_TEST/review-094.txt,3726,3740,and mild panic
+./datasets/Set_J_TEST/review-094.txt,16,20,and 
+./datasets/Set_J_TEST/review-094.txt,3730,3740,mild panic
+./datasets/Set_J_TEST/review-094.txt,4592,4609,The Italians take
+./datasets/Set_J_TEST/review-094.txt,0,4,The 
+./datasets/Set_J_TEST/review-094.txt,4596,4609,Italians take
+./datasets/Set_J_TEST/review-094.txt,2626,2637,in a narrow
+./datasets/Set_J_TEST/review-094.txt,9,12,in 
+./datasets/Set_J_TEST/review-094.txt,2629,2637,a narrow
+./datasets/Set_J_TEST/review-094.txt,2043,2056,as they stare
+./datasets/Set_J_TEST/review-094.txt,852,855,as 
+./datasets/Set_J_TEST/review-094.txt,2046,2056,they stare
+./datasets/Set_J_TEST/review-094.txt,1094,1113,caramel beneath the
+./datasets/Set_J_TEST/review-094.txt,1094,1102,caramel 
+./datasets/Set_J_TEST/review-094.txt,1102,1113,beneath the
+./datasets/Set_J_TEST/review-094.txt,1311,1322,a bedlam of
+./datasets/Set_J_TEST/review-094.txt,201,203,a 
+./datasets/Set_J_TEST/review-094.txt,1313,1322,bedlam of
+./datasets/Set_J_TEST/review-095.txt,1780,1798,of ingredients and
+./datasets/Set_J_TEST/review-095.txt,68,71,of 
+./datasets/Set_J_TEST/review-095.txt,1783,1798,ingredients and
+./datasets/Set_J_TEST/review-095.txt,3232,3250,before running the
+./datasets/Set_J_TEST/review-095.txt,3232,3239,before 
+./datasets/Set_J_TEST/review-095.txt,3239,3250,running the
+./datasets/Set_J_TEST/review-095.txt,5491,5509,and chocolate made
+./datasets/Set_J_TEST/review-095.txt,332,336,and 
+./datasets/Set_J_TEST/review-095.txt,5495,5509,chocolate made
+./datasets/Set_J_TEST/review-095.txt,2195,2215,a loosely midcentury
+./datasets/Set_J_TEST/review-095.txt,7,9,a 
+./datasets/Set_J_TEST/review-095.txt,2197,2215,loosely midcentury
+./datasets/Set_J_TEST/review-095.txt,2112,2125,sets the tone
+./datasets/Set_J_TEST/review-095.txt,2112,2117,sets 
+./datasets/Set_J_TEST/review-095.txt,2117,2125,the tone
+./datasets/Set_J_TEST/review-095.txt,962,974,it makes the
+./datasets/Set_J_TEST/review-095.txt,962,965,it 
+./datasets/Set_J_TEST/review-095.txt,965,974,makes the
+./datasets/Set_J_TEST/review-095.txt,2425,2444,three frozen grapes
+./datasets/Set_J_TEST/review-095.txt,2401,2407,three 
+./datasets/Set_J_TEST/review-095.txt,2431,2444,frozen grapes
+./datasets/Set_J_TEST/review-095.txt,566,584,on this triangular
+./datasets/Set_J_TEST/review-095.txt,96,99,on 
+./datasets/Set_J_TEST/review-095.txt,569,584,this triangular
+./datasets/Set_J_TEST/review-096.txt,899,912,what the city
+./datasets/Set_J_TEST/review-096.txt,899,904,what 
+./datasets/Set_J_TEST/review-096.txt,904,912,the city
+./datasets/Set_J_TEST/review-096.txt,591,608,the news releases
+./datasets/Set_J_TEST/review-096.txt,582,586,the 
+./datasets/Set_J_TEST/review-096.txt,595,608,news releases
+./datasets/Set_J_TEST/review-096.txt,2995,3005,t use heat
+./datasets/Set_J_TEST/review-096.txt,25,27,t 
+./datasets/Set_J_TEST/review-096.txt,2997,3005,use heat
+./datasets/Set_J_TEST/review-096.txt,545,561,learn some other
+./datasets/Set_J_TEST/review-096.txt,309,315,learn 
+./datasets/Set_J_TEST/review-096.txt,551,561,some other
+./datasets/Set_J_TEST/review-096.txt,971,993,some more convincingly
+./datasets/Set_J_TEST/review-096.txt,551,556,some 
+./datasets/Set_J_TEST/review-096.txt,976,993,more convincingly
+./datasets/Set_J_TEST/review-096.txt,1176,1193,cuisine of Mexico
+./datasets/Set_J_TEST/review-096.txt,1176,1184,cuisine 
+./datasets/Set_J_TEST/review-096.txt,1184,1193,of Mexico
+./datasets/Set_J_TEST/review-096.txt,4937,4957,where black ceilings
+./datasets/Set_J_TEST/review-096.txt,4937,4943,where 
+./datasets/Set_J_TEST/review-096.txt,4943,4957,black ceilings
+./datasets/Set_J_TEST/review-096.txt,3761,3771,and a baby
+./datasets/Set_J_TEST/review-096.txt,224,228,and 
+./datasets/Set_J_TEST/review-096.txt,3765,3771,a baby
+./datasets/Set_J_TEST/review-097.txt,429,447,hand thrust inside
+./datasets/Set_J_TEST/review-097.txt,303,308,hand 
+./datasets/Set_J_TEST/review-097.txt,434,447,thrust inside
+./datasets/Set_J_TEST/review-097.txt,271,282,but its red
+./datasets/Set_J_TEST/review-097.txt,271,275,but 
+./datasets/Set_J_TEST/review-097.txt,275,282,its red
+./datasets/Set_J_TEST/review-097.txt,1061,1074,s scarcity of
+./datasets/Set_J_TEST/review-097.txt,92,94,s 
+./datasets/Set_J_TEST/review-097.txt,1063,1074,scarcity of
+./datasets/Set_J_TEST/review-097.txt,814,828,Lathan grew up
+./datasets/Set_J_TEST/review-097.txt,814,821,Lathan 
+./datasets/Set_J_TEST/review-097.txt,821,828,grew up
+./datasets/Set_J_TEST/review-097.txt,1787,1800,wish for more
+./datasets/Set_J_TEST/review-097.txt,1787,1792,wish 
+./datasets/Set_J_TEST/review-097.txt,1792,1800,for more
+./datasets/Set_J_TEST/review-097.txt,2948,2964,blankets to keep
+./datasets/Set_J_TEST/review-097.txt,2948,2957,blankets 
+./datasets/Set_J_TEST/review-097.txt,2957,2964,to keep
+./datasets/Set_J_TEST/review-097.txt,1640,1655,made bone stock
+./datasets/Set_J_TEST/review-097.txt,1526,1531,made 
+./datasets/Set_J_TEST/review-097.txt,1645,1655,bone stock
+./datasets/Set_J_TEST/review-097.txt,2878,2889,We are with
+./datasets/Set_J_TEST/review-097.txt,2878,2881,We 
+./datasets/Set_J_TEST/review-097.txt,2881,2889,are with
+./datasets/Set_J_TEST/review-098.txt,6722,6738,Some people will
+./datasets/Set_J_TEST/review-098.txt,6722,6727,Some 
+./datasets/Set_J_TEST/review-098.txt,6727,6738,people will
+./datasets/Set_J_TEST/review-098.txt,6442,6457,the dining room
+./datasets/Set_J_TEST/review-098.txt,108,112,the 
+./datasets/Set_J_TEST/review-098.txt,468,479,dining room
+./datasets/Set_J_TEST/review-098.txt,323,337,which up until
+./datasets/Set_J_TEST/review-098.txt,323,329,which 
+./datasets/Set_J_TEST/review-098.txt,329,337,up until
+./datasets/Set_J_TEST/review-098.txt,6909,6923,decided to run
+./datasets/Set_J_TEST/review-098.txt,6909,6917,decided 
+./datasets/Set_J_TEST/review-098.txt,6917,6923,to run
+./datasets/Set_J_TEST/review-098.txt,6206,6215,up on the
+./datasets/Set_J_TEST/review-098.txt,329,332,up 
+./datasets/Set_J_TEST/review-098.txt,360,366,on the
+./datasets/Set_J_TEST/review-098.txt,6469,6490,blinding white marble
+./datasets/Set_J_TEST/review-098.txt,6469,6478,blinding 
+./datasets/Set_J_TEST/review-098.txt,6478,6490,white marble
+./datasets/Set_J_TEST/review-098.txt,5616,5627,top of your
+./datasets/Set_J_TEST/review-098.txt,5616,5620,top 
+./datasets/Set_J_TEST/review-098.txt,5620,5627,of your
+./datasets/Set_J_TEST/review-098.txt,6216,6229,other side of
+./datasets/Set_J_TEST/review-098.txt,2030,2036,other 
+./datasets/Set_J_TEST/review-098.txt,6222,6229,side of
+./datasets/Set_J_TEST/review-099.txt,3164,3178,opened in July
+./datasets/Set_J_TEST/review-099.txt,3164,3171,opened 
+./datasets/Set_J_TEST/review-099.txt,3171,3178,in July
+./datasets/Set_J_TEST/review-099.txt,5943,5958,little salad to
+./datasets/Set_J_TEST/review-099.txt,2122,2129,little 
+./datasets/Set_J_TEST/review-099.txt,5950,5958,salad to
+./datasets/Set_J_TEST/review-099.txt,2925,2940,over with stars
+./datasets/Set_J_TEST/review-099.txt,76,81,over 
+./datasets/Set_J_TEST/review-099.txt,2930,2940,with stars
+./datasets/Set_J_TEST/review-099.txt,2619,2634,wings and moved
+./datasets/Set_J_TEST/review-099.txt,2619,2625,wings 
+./datasets/Set_J_TEST/review-099.txt,2625,2634,and moved
+./datasets/Set_J_TEST/review-099.txt,3336,3349,oil that runs
+./datasets/Set_J_TEST/review-099.txt,584,588,oil 
+./datasets/Set_J_TEST/review-099.txt,3340,3349,that runs
+./datasets/Set_J_TEST/review-099.txt,911,924,th Street for
+./datasets/Set_J_TEST/review-099.txt,38,41,th 
+./datasets/Set_J_TEST/review-099.txt,914,924,Street for
+./datasets/Set_J_TEST/review-099.txt,4421,4431,to give it
+./datasets/Set_J_TEST/review-099.txt,173,176,to 
+./datasets/Set_J_TEST/review-099.txt,4424,4431,give it
+./datasets/Set_J_TEST/review-099.txt,1882,1895,Eating it was
+./datasets/Set_J_TEST/review-099.txt,1882,1889,Eating 
+./datasets/Set_J_TEST/review-099.txt,1738,1744,it was
+./datasets/Set_J_TEST/review-100.txt,4387,4404,a vegetarian meal
+./datasets/Set_J_TEST/review-100.txt,410,412,a 
+./datasets/Set_J_TEST/review-100.txt,4389,4404,vegetarian meal
+./datasets/Set_J_TEST/review-100.txt,5603,5615,The back end
+./datasets/Set_J_TEST/review-100.txt,1041,1045,The 
+./datasets/Set_J_TEST/review-100.txt,5607,5615,back end
+./datasets/Set_J_TEST/review-100.txt,6126,6136,When a new
+./datasets/Set_J_TEST/review-100.txt,6126,6131,When 
+./datasets/Set_J_TEST/review-100.txt,6131,6136,a new
+./datasets/Set_J_TEST/review-100.txt,5894,5908,That night was
+./datasets/Set_J_TEST/review-100.txt,5894,5899,That 
+./datasets/Set_J_TEST/review-100.txt,5899,5908,night was
+./datasets/Set_J_TEST/review-100.txt,2578,2588,the top of
+./datasets/Set_J_TEST/review-100.txt,122,126,the 
+./datasets/Set_J_TEST/review-100.txt,2582,2588,top of
+./datasets/Set_J_TEST/review-100.txt,5680,5698,turning one medium
+./datasets/Set_J_TEST/review-100.txt,5680,5688,turning 
+./datasets/Set_J_TEST/review-100.txt,5688,5698,one medium
+./datasets/Set_J_TEST/review-100.txt,3657,3672,North End Grill
+./datasets/Set_J_TEST/review-100.txt,3657,3663,North 
+./datasets/Set_J_TEST/review-100.txt,3663,3672,End Grill
+./datasets/Set_J_TEST/review-100.txt,732,755,Restaurants that change
+./datasets/Set_J_TEST/review-100.txt,732,744,Restaurants 
+./datasets/Set_J_TEST/review-100.txt,744,755,that change
+./datasets/Set_J_TEST/review-101.txt,4767,4784,might have seemed
+./datasets/Set_J_TEST/review-101.txt,4767,4773,might 
+./datasets/Set_J_TEST/review-101.txt,4773,4784,have seemed
+./datasets/Set_J_TEST/review-101.txt,1832,1845,After about a
+./datasets/Set_J_TEST/review-101.txt,1832,1838,After 
+./datasets/Set_J_TEST/review-101.txt,1838,1845,about a
+./datasets/Set_J_TEST/review-101.txt,76,93,AFTER tossing out
+./datasets/Set_J_TEST/review-101.txt,76,82,AFTER 
+./datasets/Set_J_TEST/review-101.txt,82,93,tossing out
+./datasets/Set_J_TEST/review-101.txt,5289,5302,salt can make
+./datasets/Set_J_TEST/review-101.txt,5289,5294,salt 
+./datasets/Set_J_TEST/review-101.txt,5294,5302,can make
+./datasets/Set_J_TEST/review-101.txt,4065,4078,began to soak
+./datasets/Set_J_TEST/review-101.txt,4065,4071,began 
+./datasets/Set_J_TEST/review-101.txt,4071,4078,to soak
+./datasets/Set_J_TEST/review-101.txt,774,783,a kind of
+./datasets/Set_J_TEST/review-101.txt,259,261,a 
+./datasets/Set_J_TEST/review-101.txt,776,783,kind of
+./datasets/Set_J_TEST/review-101.txt,5303,5318,them taste like
+./datasets/Set_J_TEST/review-101.txt,562,567,them 
+./datasets/Set_J_TEST/review-101.txt,5308,5318,taste like
+./datasets/Set_J_TEST/review-101.txt,4551,4562,you can get
+./datasets/Set_J_TEST/review-101.txt,2744,2748,you 
+./datasets/Set_J_TEST/review-101.txt,4555,4562,can get
+./datasets/Set_J_TEST/review-102.txt,1096,1114,the young coconuts
+./datasets/Set_J_TEST/review-102.txt,84,88,the 
+./datasets/Set_J_TEST/review-102.txt,1100,1114,young coconuts
+./datasets/Set_J_TEST/review-102.txt,1299,1321,subversive beneath the
+./datasets/Set_J_TEST/review-102.txt,1299,1310,subversive 
+./datasets/Set_J_TEST/review-102.txt,1310,1321,beneath the
+./datasets/Set_J_TEST/review-102.txt,3425,3443,salad qualifies as
+./datasets/Set_J_TEST/review-102.txt,2829,2835,salad 
+./datasets/Set_J_TEST/review-102.txt,3431,3443,qualifies as
+./datasets/Set_J_TEST/review-102.txt,190,201,was home to
+./datasets/Set_J_TEST/review-102.txt,190,194,was 
+./datasets/Set_J_TEST/review-102.txt,194,201,home to
+./datasets/Set_J_TEST/review-102.txt,1750,1764,and majored in
+./datasets/Set_J_TEST/review-102.txt,155,159,and 
+./datasets/Set_J_TEST/review-102.txt,1754,1764,majored in
+./datasets/Set_J_TEST/review-102.txt,1251,1262,middle of a
+./datasets/Set_J_TEST/review-102.txt,1251,1258,middle 
+./datasets/Set_J_TEST/review-102.txt,223,227,of a
+./datasets/Set_J_TEST/review-102.txt,463,476,and is touted
+./datasets/Set_J_TEST/review-102.txt,155,159,and 
+./datasets/Set_J_TEST/review-102.txt,467,476,is touted
+./datasets/Set_J_TEST/review-102.txt,3773,3790,pink beet ketchup
+./datasets/Set_J_TEST/review-102.txt,3773,3778,pink 
+./datasets/Set_J_TEST/review-102.txt,3778,3790,beet ketchup
+./datasets/Set_J_TEST/review-103.txt,5720,5732,My last meal
+./datasets/Set_J_TEST/review-103.txt,4603,4606,My 
+./datasets/Set_J_TEST/review-103.txt,5723,5732,last meal
+./datasets/Set_J_TEST/review-103.txt,5299,5308,She is no
+./datasets/Set_J_TEST/review-103.txt,5299,5303,She 
+./datasets/Set_J_TEST/review-103.txt,1381,1386,is no
+./datasets/Set_J_TEST/review-103.txt,2890,2909,sharpness to endive
+./datasets/Set_J_TEST/review-103.txt,2890,2900,sharpness 
+./datasets/Set_J_TEST/review-103.txt,2900,2909,to endive
+./datasets/Set_J_TEST/review-103.txt,7206,7222,butter or bright
+./datasets/Set_J_TEST/review-103.txt,7206,7213,butter 
+./datasets/Set_J_TEST/review-103.txt,7213,7222,or bright
+./datasets/Set_J_TEST/review-103.txt,255,271,with extra rooms
+./datasets/Set_J_TEST/review-103.txt,255,260,with 
+./datasets/Set_J_TEST/review-103.txt,260,271,extra rooms
+./datasets/Set_J_TEST/review-103.txt,3288,3301,It comes from
+./datasets/Set_J_TEST/review-103.txt,3288,3291,It 
+./datasets/Set_J_TEST/review-103.txt,3291,3301,comes from
+./datasets/Set_J_TEST/review-103.txt,6293,6306,he has opened
+./datasets/Set_J_TEST/review-103.txt,105,108,he 
+./datasets/Set_J_TEST/review-103.txt,6296,6306,has opened
+./datasets/Set_J_TEST/review-103.txt,894,906,a small sign
+./datasets/Set_J_TEST/review-103.txt,157,159,a 
+./datasets/Set_J_TEST/review-103.txt,896,906,small sign
+./datasets/Set_J_TEST/review-104.txt,4240,4252,show he puts
+./datasets/Set_J_TEST/review-104.txt,4240,4245,show 
+./datasets/Set_J_TEST/review-104.txt,4245,4252,he puts
+./datasets/Set_J_TEST/review-104.txt,6473,6487,Artusi the way
+./datasets/Set_J_TEST/review-104.txt,1746,1753,Artusi 
+./datasets/Set_J_TEST/review-104.txt,6480,6487,the way
+./datasets/Set_J_TEST/review-104.txt,4861,4876,s just overkill
+./datasets/Set_J_TEST/review-104.txt,154,156,s 
+./datasets/Set_J_TEST/review-104.txt,4863,4876,just overkill
+./datasets/Set_J_TEST/review-104.txt,1471,1481,You get to
+./datasets/Set_J_TEST/review-104.txt,1471,1475,You 
+./datasets/Set_J_TEST/review-104.txt,1475,1481,get to
+./datasets/Set_J_TEST/review-104.txt,7575,7589,two dining and
+./datasets/Set_J_TEST/review-104.txt,467,471,two 
+./datasets/Set_J_TEST/review-104.txt,7579,7589,dining and
+./datasets/Set_J_TEST/review-104.txt,346,361,feeling a surge
+./datasets/Set_J_TEST/review-104.txt,346,354,feeling 
+./datasets/Set_J_TEST/review-104.txt,354,361,a surge
+./datasets/Set_J_TEST/review-104.txt,4511,4530,increases your odds
+./datasets/Set_J_TEST/review-104.txt,4511,4521,increases 
+./datasets/Set_J_TEST/review-104.txt,4521,4530,your odds
+./datasets/Set_J_TEST/review-104.txt,1888,1904,a more skeptical
+./datasets/Set_J_TEST/review-104.txt,124,126,a 
+./datasets/Set_J_TEST/review-104.txt,1890,1904,more skeptical
+./datasets/Set_J_TEST/review-105.txt,1794,1809,kind of showman
+./datasets/Set_J_TEST/review-105.txt,1794,1799,kind 
+./datasets/Set_J_TEST/review-105.txt,1799,1809,of showman
+./datasets/Set_J_TEST/review-105.txt,622,635,And it indeed
+./datasets/Set_J_TEST/review-105.txt,239,243,And 
+./datasets/Set_J_TEST/review-105.txt,626,635,it indeed
+./datasets/Set_J_TEST/review-105.txt,5920,5936,has cooked sweet
+./datasets/Set_J_TEST/review-105.txt,205,209,has 
+./datasets/Set_J_TEST/review-105.txt,5924,5936,cooked sweet
+./datasets/Set_J_TEST/review-105.txt,7401,7417,with price taken
+./datasets/Set_J_TEST/review-105.txt,223,228,with 
+./datasets/Set_J_TEST/review-105.txt,7406,7417,price taken
+./datasets/Set_J_TEST/review-105.txt,1196,1206,and apt in
+./datasets/Set_J_TEST/review-105.txt,328,332,and 
+./datasets/Set_J_TEST/review-105.txt,1200,1206,apt in
+./datasets/Set_J_TEST/review-105.txt,5263,5281,along with candied
+./datasets/Set_J_TEST/review-105.txt,252,258,along 
+./datasets/Set_J_TEST/review-105.txt,5269,5281,with candied
+./datasets/Set_J_TEST/review-105.txt,1876,1889,sense that if
+./datasets/Set_J_TEST/review-105.txt,1876,1882,sense 
+./datasets/Set_J_TEST/review-105.txt,1882,1889,that if
+./datasets/Set_J_TEST/review-105.txt,1300,1314,scaly shine to
+./datasets/Set_J_TEST/review-105.txt,1300,1306,scaly 
+./datasets/Set_J_TEST/review-105.txt,1306,1314,shine to
+./datasets/Set_J_TEST/review-171.txt,829,848,turntables in sight
+./datasets/Set_J_TEST/review-171.txt,829,840,turntables 
+./datasets/Set_J_TEST/review-171.txt,840,848,in sight
+./datasets/Set_J_TEST/review-171.txt,1805,1822,a Japanese custom
+./datasets/Set_J_TEST/review-171.txt,127,129,a 
+./datasets/Set_J_TEST/review-171.txt,1807,1822,Japanese custom
+./datasets/Set_J_TEST/review-171.txt,4379,4399,Kurumazushi is where
+./datasets/Set_J_TEST/review-171.txt,4379,4391,Kurumazushi 
+./datasets/Set_J_TEST/review-171.txt,4391,4399,is where
+./datasets/Set_J_TEST/review-171.txt,232,245,with a mirror
+./datasets/Set_J_TEST/review-171.txt,71,76,with 
+./datasets/Set_J_TEST/review-171.txt,237,245,a mirror
+./datasets/Set_J_TEST/review-171.txt,1104,1119,with an evident
+./datasets/Set_J_TEST/review-171.txt,71,76,with 
+./datasets/Set_J_TEST/review-171.txt,1109,1119,an evident
+./datasets/Set_J_TEST/review-171.txt,3247,3264,ve found anywhere
+./datasets/Set_J_TEST/review-171.txt,1122,1125,ve 
+./datasets/Set_J_TEST/review-171.txt,3250,3264,found anywhere
+./datasets/Set_J_TEST/review-171.txt,105,119,may not strike
+./datasets/Set_J_TEST/review-171.txt,105,109,may 
+./datasets/Set_J_TEST/review-171.txt,109,119,not strike
+./datasets/Set_J_TEST/review-171.txt,1217,1236,were getting bombed
+./datasets/Set_J_TEST/review-171.txt,530,535,were 
+./datasets/Set_J_TEST/review-171.txt,1222,1236,getting bombed
+./datasets/Set_J_TEST/review-172.txt,2579,2595,a souvlaki truck
+./datasets/Set_J_TEST/review-172.txt,256,258,a 
+./datasets/Set_J_TEST/review-172.txt,2581,2595,souvlaki truck
+./datasets/Set_J_TEST/review-172.txt,1111,1130,Bread arrives first
+./datasets/Set_J_TEST/review-172.txt,1111,1117,Bread 
+./datasets/Set_J_TEST/review-172.txt,1117,1130,arrives first
+./datasets/Set_J_TEST/review-172.txt,1043,1056,bill has been
+./datasets/Set_J_TEST/review-172.txt,1043,1048,bill 
+./datasets/Set_J_TEST/review-172.txt,1048,1056,has been
+./datasets/Set_J_TEST/review-172.txt,1381,1399,peas collapsed and
+./datasets/Set_J_TEST/review-172.txt,1381,1386,peas 
+./datasets/Set_J_TEST/review-172.txt,1386,1399,collapsed and
+./datasets/Set_J_TEST/review-172.txt,2820,2835,the Cabana Kids
+./datasets/Set_J_TEST/review-172.txt,101,105,the 
+./datasets/Set_J_TEST/review-172.txt,2824,2835,Cabana Kids
+./datasets/Set_J_TEST/review-172.txt,3907,3920,fresh dill in
+./datasets/Set_J_TEST/review-172.txt,980,986,fresh 
+./datasets/Set_J_TEST/review-172.txt,3913,3920,dill in
+./datasets/Set_J_TEST/review-172.txt,2899,2908,as a cook
+./datasets/Set_J_TEST/review-172.txt,828,831,as 
+./datasets/Set_J_TEST/review-172.txt,2902,2908,a cook
+./datasets/Set_J_TEST/review-172.txt,4102,4114,of a flowery
+./datasets/Set_J_TEST/review-172.txt,119,122,of 
+./datasets/Set_J_TEST/review-172.txt,4105,4114,a flowery
+./datasets/Set_J_TEST/review-173.txt,2224,2235,Few of them
+./datasets/Set_J_TEST/review-173.txt,2224,2228,Few 
+./datasets/Set_J_TEST/review-173.txt,1444,1451,of them
+./datasets/Set_J_TEST/review-173.txt,5521,5536,whose tunes don
+./datasets/Set_J_TEST/review-173.txt,5521,5527,whose 
+./datasets/Set_J_TEST/review-173.txt,5527,5536,tunes don
+./datasets/Set_J_TEST/review-173.txt,1020,1036,masters of haute
+./datasets/Set_J_TEST/review-173.txt,1020,1028,masters 
+./datasets/Set_J_TEST/review-173.txt,1028,1036,of haute
+./datasets/Set_J_TEST/review-173.txt,306,316,t send out
+./datasets/Set_J_TEST/review-173.txt,97,99,t 
+./datasets/Set_J_TEST/review-173.txt,308,316,send out
+./datasets/Set_J_TEST/review-173.txt,1600,1615,and the waiters
+./datasets/Set_J_TEST/review-173.txt,718,722,and 
+./datasets/Set_J_TEST/review-173.txt,1604,1615,the waiters
+./datasets/Set_J_TEST/review-173.txt,4631,4645,was ordered as
+./datasets/Set_J_TEST/review-173.txt,1212,1216,was 
+./datasets/Set_J_TEST/review-173.txt,4635,4645,ordered as
+./datasets/Set_J_TEST/review-173.txt,0,18,The Standard Grill
+./datasets/Set_J_TEST/review-173.txt,0,4,The 
+./datasets/Set_J_TEST/review-173.txt,4,18,Standard Grill
+./datasets/Set_J_TEST/review-173.txt,2836,2849,with cooks in
+./datasets/Set_J_TEST/review-173.txt,613,618,with 
+./datasets/Set_J_TEST/review-173.txt,2841,2849,cooks in
+./datasets/Set_J_TEST/review-174.txt,886,901,though many are
+./datasets/Set_J_TEST/review-174.txt,886,893,though 
+./datasets/Set_J_TEST/review-174.txt,893,901,many are
+./datasets/Set_J_TEST/review-174.txt,1327,1335,s a hint
+./datasets/Set_J_TEST/review-174.txt,103,105,s 
+./datasets/Set_J_TEST/review-174.txt,1329,1335,a hint
+./datasets/Set_J_TEST/review-174.txt,1000,1016,cultures in this
+./datasets/Set_J_TEST/review-174.txt,1000,1009,cultures 
+./datasets/Set_J_TEST/review-174.txt,1009,1016,in this
+./datasets/Set_J_TEST/review-174.txt,376,398,little spongecake fish
+./datasets/Set_J_TEST/review-174.txt,376,383,little 
+./datasets/Set_J_TEST/review-174.txt,383,398,spongecake fish
+./datasets/Set_J_TEST/review-174.txt,399,411,with guts of
+./datasets/Set_J_TEST/review-174.txt,148,153,with 
+./datasets/Set_J_TEST/review-174.txt,404,411,guts of
+./datasets/Set_J_TEST/review-174.txt,2036,2056,Trust your neighbors
+./datasets/Set_J_TEST/review-174.txt,2036,2042,Trust 
+./datasets/Set_J_TEST/review-174.txt,2042,2056,your neighbors
+./datasets/Set_J_TEST/review-174.txt,2554,2570,slashes of color
+./datasets/Set_J_TEST/review-174.txt,2554,2562,slashes 
+./datasets/Set_J_TEST/review-174.txt,2562,2570,of color
+./datasets/Set_J_TEST/review-174.txt,1401,1417,grains of sticky
+./datasets/Set_J_TEST/review-174.txt,1401,1408,grains 
+./datasets/Set_J_TEST/review-174.txt,1408,1417,of sticky
+./datasets/Set_J_TEST/review-175.txt,783,805,swordfish are drizzled
+./datasets/Set_J_TEST/review-175.txt,724,734,swordfish 
+./datasets/Set_J_TEST/review-175.txt,793,805,are drizzled
+./datasets/Set_J_TEST/review-175.txt,806,820,with olive oil
+./datasets/Set_J_TEST/review-175.txt,806,811,with 
+./datasets/Set_J_TEST/review-175.txt,811,820,olive oil
+./datasets/Set_J_TEST/review-175.txt,1127,1143,to try something
+./datasets/Set_J_TEST/review-175.txt,350,353,to 
+./datasets/Set_J_TEST/review-175.txt,1130,1143,try something
+./datasets/Set_J_TEST/review-175.txt,1039,1053,Outside of the
+./datasets/Set_J_TEST/review-175.txt,1039,1047,Outside 
+./datasets/Set_J_TEST/review-175.txt,1047,1053,of the
+./datasets/Set_J_TEST/review-175.txt,821,839,and sprinkled with
+./datasets/Set_J_TEST/review-175.txt,259,263,and 
+./datasets/Set_J_TEST/review-175.txt,825,839,sprinkled with
+./datasets/Set_J_TEST/review-175.txt,966,980,often it would
+./datasets/Set_J_TEST/review-175.txt,966,972,often 
+./datasets/Set_J_TEST/review-175.txt,972,980,it would
+./datasets/Set_J_TEST/review-175.txt,567,588,kind of uncomplicated
+./datasets/Set_J_TEST/review-175.txt,567,572,kind 
+./datasets/Set_J_TEST/review-175.txt,572,588,of uncomplicated
+./datasets/Set_J_TEST/review-175.txt,981,995,take dozens of
+./datasets/Set_J_TEST/review-175.txt,981,986,take 
+./datasets/Set_J_TEST/review-175.txt,986,995,dozens of
+./datasets/Set_J_TEST/review-176.txt,1627,1639,You can feel
+./datasets/Set_J_TEST/review-176.txt,1627,1631,You 
+./datasets/Set_J_TEST/review-176.txt,1631,1639,can feel
+./datasets/Set_J_TEST/review-176.txt,4498,4508,a poule de
+./datasets/Set_J_TEST/review-176.txt,87,89,a 
+./datasets/Set_J_TEST/review-176.txt,4077,4085,poule de
+./datasets/Set_J_TEST/review-176.txt,1058,1079,tisserie Georgette is
+./datasets/Set_J_TEST/review-176.txt,3,12,tisserie 
+./datasets/Set_J_TEST/review-176.txt,1067,1079,Georgette is
+./datasets/Set_J_TEST/review-176.txt,1953,1965,both easy to
+./datasets/Set_J_TEST/review-176.txt,1953,1958,both 
+./datasets/Set_J_TEST/review-176.txt,1958,1965,easy to
+./datasets/Set_J_TEST/review-176.txt,1708,1720,end with the
+./datasets/Set_J_TEST/review-176.txt,1708,1712,end 
+./datasets/Set_J_TEST/review-176.txt,429,437,with the
+./datasets/Set_J_TEST/review-176.txt,2212,2228,lemon wheels and
+./datasets/Set_J_TEST/review-176.txt,2212,2218,lemon 
+./datasets/Set_J_TEST/review-176.txt,2218,2228,wheels and
+./datasets/Set_J_TEST/review-176.txt,304,315,and not the
+./datasets/Set_J_TEST/review-176.txt,150,154,and 
+./datasets/Set_J_TEST/review-176.txt,308,315,not the
+./datasets/Set_J_TEST/review-176.txt,1693,1707,of time travel
+./datasets/Set_J_TEST/review-176.txt,108,111,of 
+./datasets/Set_J_TEST/review-176.txt,1696,1707,time travel
+./datasets/Set_J_TEST/review-177.txt,803,825,s historically working
+./datasets/Set_J_TEST/review-177.txt,84,86,s 
+./datasets/Set_J_TEST/review-177.txt,805,825,historically working
+./datasets/Set_J_TEST/review-177.txt,3362,3381,white bentwood coat
+./datasets/Set_J_TEST/review-177.txt,3362,3368,white 
+./datasets/Set_J_TEST/review-177.txt,3368,3381,bentwood coat
+./datasets/Set_J_TEST/review-177.txt,1298,1319,have been interesting
+./datasets/Set_J_TEST/review-177.txt,1298,1303,have 
+./datasets/Set_J_TEST/review-177.txt,1303,1319,been interesting
+./datasets/Set_J_TEST/review-177.txt,895,913,Hockey photos hang
+./datasets/Set_J_TEST/review-177.txt,895,902,Hockey 
+./datasets/Set_J_TEST/review-177.txt,902,913,photos hang
+./datasets/Set_J_TEST/review-177.txt,3611,3629,for four strangers
+./datasets/Set_J_TEST/review-177.txt,1245,1249,for 
+./datasets/Set_J_TEST/review-177.txt,3615,3629,four strangers
+./datasets/Set_J_TEST/review-177.txt,349,361,and has been
+./datasets/Set_J_TEST/review-177.txt,71,75,and 
+./datasets/Set_J_TEST/review-177.txt,353,361,has been
+./datasets/Set_J_TEST/review-177.txt,1840,1851,to be eaten
+./datasets/Set_J_TEST/review-177.txt,528,531,to 
+./datasets/Set_J_TEST/review-177.txt,1843,1851,be eaten
+./datasets/Set_J_TEST/review-177.txt,1447,1460,to expand the
+./datasets/Set_J_TEST/review-177.txt,528,531,to 
+./datasets/Set_J_TEST/review-177.txt,1450,1460,expand the
+./datasets/Set_J_TEST/review-178.txt,1381,1393,But there is
+./datasets/Set_J_TEST/review-178.txt,1381,1385,But 
+./datasets/Set_J_TEST/review-178.txt,1385,1393,there is
+./datasets/Set_J_TEST/review-178.txt,115,134,shattered and fried
+./datasets/Set_J_TEST/review-178.txt,115,125,shattered 
+./datasets/Set_J_TEST/review-178.txt,125,134,and fried
+./datasets/Set_J_TEST/review-178.txt,1850,1860,based on a
+./datasets/Set_J_TEST/review-178.txt,1850,1856,based 
+./datasets/Set_J_TEST/review-178.txt,538,542,on a
+./datasets/Set_J_TEST/review-178.txt,589,607,only storefront in
+./datasets/Set_J_TEST/review-178.txt,589,594,only 
+./datasets/Set_J_TEST/review-178.txt,594,607,storefront in
+./datasets/Set_J_TEST/review-178.txt,2950,2960,I was less
+./datasets/Set_J_TEST/review-178.txt,2950,2952,I 
+./datasets/Set_J_TEST/review-178.txt,2952,2960,was less
+./datasets/Set_J_TEST/review-178.txt,1428,1442,to be leavened
+./datasets/Set_J_TEST/review-178.txt,1113,1116,to 
+./datasets/Set_J_TEST/review-178.txt,1431,1442,be leavened
+./datasets/Set_J_TEST/review-178.txt,227,239,idles on top
+./datasets/Set_J_TEST/review-178.txt,227,233,idles 
+./datasets/Set_J_TEST/review-178.txt,233,239,on top
+./datasets/Set_J_TEST/review-178.txt,1004,1019,fried whole and
+./datasets/Set_J_TEST/review-178.txt,1004,1010,fried 
+./datasets/Set_J_TEST/review-178.txt,1010,1019,whole and
+./datasets/Set_J_TEST/review-179.txt,1508,1525,the various Asian
+./datasets/Set_J_TEST/review-179.txt,270,274,the 
+./datasets/Set_J_TEST/review-179.txt,1512,1525,various Asian
+./datasets/Set_J_TEST/review-179.txt,2377,2388,have a view
+./datasets/Set_J_TEST/review-179.txt,2377,2382,have 
+./datasets/Set_J_TEST/review-179.txt,2382,2388,a view
+./datasets/Set_J_TEST/review-179.txt,3352,3362,may or may
+./datasets/Set_J_TEST/review-179.txt,3352,3356,may 
+./datasets/Set_J_TEST/review-179.txt,3356,3362,or may
+./datasets/Set_J_TEST/review-179.txt,3666,3679,The short rib
+./datasets/Set_J_TEST/review-179.txt,148,152,The 
+./datasets/Set_J_TEST/review-179.txt,3533,3542,short rib
+./datasets/Set_J_TEST/review-179.txt,1131,1145,a simple thing
+./datasets/Set_J_TEST/review-179.txt,101,103,a 
+./datasets/Set_J_TEST/review-179.txt,1133,1145,simple thing
+./datasets/Set_J_TEST/review-179.txt,4220,4231,the back of
+./datasets/Set_J_TEST/review-179.txt,270,274,the 
+./datasets/Set_J_TEST/review-179.txt,4224,4231,back of
+./datasets/Set_J_TEST/review-179.txt,1105,1119,green herbs is
+./datasets/Set_J_TEST/review-179.txt,1105,1111,green 
+./datasets/Set_J_TEST/review-179.txt,1111,1119,herbs is
+./datasets/Set_J_TEST/review-179.txt,599,613,really get all
+./datasets/Set_J_TEST/review-179.txt,599,606,really 
+./datasets/Set_J_TEST/review-179.txt,606,613,get all
+./datasets/Set_J_TEST/review-180.txt,7089,7105,customers in the
+./datasets/Set_J_TEST/review-180.txt,7089,7099,customers 
+./datasets/Set_J_TEST/review-180.txt,254,260,in the
+./datasets/Set_J_TEST/review-180.txt,6172,6185,ask Aldo Sohm
+./datasets/Set_J_TEST/review-180.txt,135,139,ask 
+./datasets/Set_J_TEST/review-180.txt,6176,6185,Aldo Sohm
+./datasets/Set_J_TEST/review-180.txt,603,612,as when a
+./datasets/Set_J_TEST/review-180.txt,57,60,as 
+./datasets/Set_J_TEST/review-180.txt,606,612,when a
+./datasets/Set_J_TEST/review-180.txt,5695,5709,wine and squid
+./datasets/Set_J_TEST/review-180.txt,4661,4666,wine 
+./datasets/Set_J_TEST/review-180.txt,5700,5709,and squid
+./datasets/Set_J_TEST/review-180.txt,4325,4346,sancocho sauce served
+./datasets/Set_J_TEST/review-180.txt,4325,4334,sancocho 
+./datasets/Set_J_TEST/review-180.txt,4334,4346,sauce served
+./datasets/Set_J_TEST/review-180.txt,926,936,eyes a few
+./datasets/Set_J_TEST/review-180.txt,926,931,eyes 
+./datasets/Set_J_TEST/review-180.txt,931,936,a few
+./datasets/Set_J_TEST/review-180.txt,2686,2699,This room may
+./datasets/Set_J_TEST/review-180.txt,2686,2691,This 
+./datasets/Set_J_TEST/review-180.txt,2691,2699,room may
+./datasets/Set_J_TEST/review-180.txt,2491,2508,imparting a sense
+./datasets/Set_J_TEST/review-180.txt,2491,2501,imparting 
+./datasets/Set_J_TEST/review-180.txt,2501,2508,a sense
+./datasets/Set_J_TEST/review-181.txt,2202,2217,head chef until
+./datasets/Set_J_TEST/review-181.txt,2202,2207,head 
+./datasets/Set_J_TEST/review-181.txt,2207,2217,chef until
+./datasets/Set_J_TEST/review-181.txt,385,405,before unlocking the
+./datasets/Set_J_TEST/review-181.txt,385,392,before 
+./datasets/Set_J_TEST/review-181.txt,392,405,unlocking the
+./datasets/Set_J_TEST/review-181.txt,214,229,makes them look
+./datasets/Set_J_TEST/review-181.txt,214,220,makes 
+./datasets/Set_J_TEST/review-181.txt,220,229,them look
+./datasets/Set_J_TEST/review-181.txt,2820,2830,t sure yet
+./datasets/Set_J_TEST/review-181.txt,27,29,t 
+./datasets/Set_J_TEST/review-181.txt,2822,2830,sure yet
+./datasets/Set_J_TEST/review-181.txt,549,572,ceiling stainless steel
+./datasets/Set_J_TEST/review-181.txt,549,557,ceiling 
+./datasets/Set_J_TEST/review-181.txt,557,572,stainless steel
+./datasets/Set_J_TEST/review-181.txt,2865,2878,At the moment
+./datasets/Set_J_TEST/review-181.txt,2865,2868,At 
+./datasets/Set_J_TEST/review-181.txt,2868,2878,the moment
+./datasets/Set_J_TEST/review-181.txt,1063,1076,do not suffer
+./datasets/Set_J_TEST/review-181.txt,1063,1066,do 
+./datasets/Set_J_TEST/review-181.txt,1066,1076,not suffer
+./datasets/Set_J_TEST/review-181.txt,1394,1408,length of film
+./datasets/Set_J_TEST/review-181.txt,1394,1401,length 
+./datasets/Set_J_TEST/review-181.txt,1401,1408,of film
+./datasets/Set_J_TEST/review-182.txt,5615,5624,is of the
+./datasets/Set_J_TEST/review-182.txt,382,385,is 
+./datasets/Set_J_TEST/review-182.txt,5618,5624,of the
+./datasets/Set_J_TEST/review-182.txt,1126,1135,n to open
+./datasets/Set_J_TEST/review-182.txt,90,92,n 
+./datasets/Set_J_TEST/review-182.txt,1128,1135,to open
+./datasets/Set_J_TEST/review-182.txt,1604,1626,opening restaurants in
+./datasets/Set_J_TEST/review-182.txt,1604,1612,opening 
+./datasets/Set_J_TEST/review-182.txt,1612,1626,restaurants in
+./datasets/Set_J_TEST/review-182.txt,1769,1790,traditions of Spanish
+./datasets/Set_J_TEST/review-182.txt,1769,1780,traditions 
+./datasets/Set_J_TEST/review-182.txt,1780,1790,of Spanish
+./datasets/Set_J_TEST/review-182.txt,2484,2502,looks vaguely like
+./datasets/Set_J_TEST/review-182.txt,2484,2490,looks 
+./datasets/Set_J_TEST/review-182.txt,2490,2502,vaguely like
+./datasets/Set_J_TEST/review-182.txt,1497,1508,I can still
+./datasets/Set_J_TEST/review-182.txt,1497,1499,I 
+./datasets/Set_J_TEST/review-182.txt,1499,1508,can still
+./datasets/Set_J_TEST/review-182.txt,301,326,not entirely successfully
+./datasets/Set_J_TEST/review-182.txt,301,305,not 
+./datasets/Set_J_TEST/review-182.txt,305,326,entirely successfully
+./datasets/Set_J_TEST/review-182.txt,1479,1496,suckling pig that
+./datasets/Set_J_TEST/review-182.txt,1479,1488,suckling 
+./datasets/Set_J_TEST/review-182.txt,1488,1496,pig that
+./datasets/Set_J_TEST/review-183.txt,4836,4853,from the trolleys
+./datasets/Set_J_TEST/review-183.txt,2249,2254,from 
+./datasets/Set_J_TEST/review-183.txt,4841,4853,the trolleys
+./datasets/Set_J_TEST/review-183.txt,2802,2817,when the server
+./datasets/Set_J_TEST/review-183.txt,2802,2807,when 
+./datasets/Set_J_TEST/review-183.txt,2807,2817,the server
+./datasets/Set_J_TEST/review-183.txt,2029,2045,often very close
+./datasets/Set_J_TEST/review-183.txt,1806,1812,often 
+./datasets/Set_J_TEST/review-183.txt,2035,2045,very close
+./datasets/Set_J_TEST/review-183.txt,181,198,others are eating
+./datasets/Set_J_TEST/review-183.txt,181,188,others 
+./datasets/Set_J_TEST/review-183.txt,188,198,are eating
+./datasets/Set_J_TEST/review-183.txt,1944,1957,all the other
+./datasets/Set_J_TEST/review-183.txt,328,332,all 
+./datasets/Set_J_TEST/review-183.txt,1948,1957,the other
+./datasets/Set_J_TEST/review-183.txt,3219,3229,It cooks a
+./datasets/Set_J_TEST/review-183.txt,735,738,It 
+./datasets/Set_J_TEST/review-183.txt,3222,3229,cooks a
+./datasets/Set_J_TEST/review-183.txt,4685,4697,in which the
+./datasets/Set_J_TEST/review-183.txt,338,341,in 
+./datasets/Set_J_TEST/review-183.txt,4688,4697,which the
+./datasets/Set_J_TEST/review-183.txt,4882,4901,a favorite dumpling
+./datasets/Set_J_TEST/review-183.txt,569,571,a 
+./datasets/Set_J_TEST/review-183.txt,4884,4901,favorite dumpling
+./datasets/Set_J_TEST/review-184.txt,3531,3548,but are available
+./datasets/Set_J_TEST/review-184.txt,509,513,but 
+./datasets/Set_J_TEST/review-184.txt,3535,3548,are available
+./datasets/Set_J_TEST/review-184.txt,3117,3129,cart of rich
+./datasets/Set_J_TEST/review-184.txt,533,538,cart 
+./datasets/Set_J_TEST/review-184.txt,3122,3129,of rich
+./datasets/Set_J_TEST/review-184.txt,3130,3146,golden cake with
+./datasets/Set_J_TEST/review-184.txt,3130,3137,golden 
+./datasets/Set_J_TEST/review-184.txt,3137,3146,cake with
+./datasets/Set_J_TEST/review-184.txt,1339,1355,replaced by bare
+./datasets/Set_J_TEST/review-184.txt,1339,1348,replaced 
+./datasets/Set_J_TEST/review-184.txt,1348,1355,by bare
+./datasets/Set_J_TEST/review-184.txt,3444,3456,eggs and the
+./datasets/Set_J_TEST/review-184.txt,3444,3449,eggs 
+./datasets/Set_J_TEST/review-184.txt,2367,2374,and the
+./datasets/Set_J_TEST/review-184.txt,1635,1649,tables to seat
+./datasets/Set_J_TEST/review-184.txt,1635,1642,tables 
+./datasets/Set_J_TEST/review-184.txt,1642,1649,to seat
+./datasets/Set_J_TEST/review-184.txt,2825,2836,and some of
+./datasets/Set_J_TEST/review-184.txt,308,312,and 
+./datasets/Set_J_TEST/review-184.txt,2829,2836,some of
+./datasets/Set_J_TEST/review-184.txt,509,524,but somehow the
+./datasets/Set_J_TEST/review-184.txt,509,513,but 
+./datasets/Set_J_TEST/review-184.txt,513,524,somehow the
+./datasets/Set_J_TEST/review-185.txt,227,251,s suddenly distinguished
+./datasets/Set_J_TEST/review-185.txt,71,73,s 
+./datasets/Set_J_TEST/review-185.txt,229,251,suddenly distinguished
+./datasets/Set_J_TEST/review-185.txt,1009,1024,were the steaks
+./datasets/Set_J_TEST/review-185.txt,1009,1014,were 
+./datasets/Set_J_TEST/review-185.txt,700,710,the steaks
+./datasets/Set_J_TEST/review-185.txt,6467,6483,you feel younger
+./datasets/Set_J_TEST/review-185.txt,1623,1627,you 
+./datasets/Set_J_TEST/review-185.txt,6471,6483,feel younger
+./datasets/Set_J_TEST/review-185.txt,2581,2599,leverage to secure
+./datasets/Set_J_TEST/review-185.txt,2581,2590,leverage 
+./datasets/Set_J_TEST/review-185.txt,2590,2599,to secure
+./datasets/Set_J_TEST/review-185.txt,2457,2482,mimeographed Strip Houses
+./datasets/Set_J_TEST/review-185.txt,2457,2470,mimeographed 
+./datasets/Set_J_TEST/review-185.txt,2470,2482,Strip Houses
+./datasets/Set_J_TEST/review-185.txt,1171,1182,role in the
+./datasets/Set_J_TEST/review-185.txt,1171,1176,role 
+./datasets/Set_J_TEST/review-185.txt,1176,1182,in the
+./datasets/Set_J_TEST/review-185.txt,597,616,racy Frette napkins
+./datasets/Set_J_TEST/review-185.txt,597,602,racy 
+./datasets/Set_J_TEST/review-185.txt,602,616,Frette napkins
+./datasets/Set_J_TEST/review-185.txt,1673,1692,on Lexington Avenue
+./datasets/Set_J_TEST/review-185.txt,176,179,on 
+./datasets/Set_J_TEST/review-185.txt,1676,1692,Lexington Avenue
+./datasets/Set_J_TEST/review-186.txt,3905,3915,and so was
+./datasets/Set_J_TEST/review-186.txt,516,520,and 
+./datasets/Set_J_TEST/review-186.txt,3909,3915,so was
+./datasets/Set_J_TEST/review-186.txt,4868,4881,source of the
+./datasets/Set_J_TEST/review-186.txt,4868,4875,source 
+./datasets/Set_J_TEST/review-186.txt,197,203,of the
+./datasets/Set_J_TEST/review-186.txt,2713,2728,minute wait for
+./datasets/Set_J_TEST/review-186.txt,2713,2720,minute 
+./datasets/Set_J_TEST/review-186.txt,2720,2728,wait for
+./datasets/Set_J_TEST/review-186.txt,3256,3283,Guacamole was sensationally
+./datasets/Set_J_TEST/review-186.txt,3256,3266,Guacamole 
+./datasets/Set_J_TEST/review-186.txt,3266,3283,was sensationally
+./datasets/Set_J_TEST/review-186.txt,3426,3448,quesadilla needed more
+./datasets/Set_J_TEST/review-186.txt,3426,3437,quesadilla 
+./datasets/Set_J_TEST/review-186.txt,3437,3448,needed more
+./datasets/Set_J_TEST/review-186.txt,1307,1326,Those tiny portions
+./datasets/Set_J_TEST/review-186.txt,1307,1313,Those 
+./datasets/Set_J_TEST/review-186.txt,1313,1326,tiny portions
+./datasets/Set_J_TEST/review-186.txt,2423,2435,has gone for
+./datasets/Set_J_TEST/review-186.txt,160,164,has 
+./datasets/Set_J_TEST/review-186.txt,2427,2435,gone for
+./datasets/Set_J_TEST/review-186.txt,2370,2380,as well as
+./datasets/Set_J_TEST/review-186.txt,95,98,as 
+./datasets/Set_J_TEST/review-186.txt,2373,2380,well as
+./datasets/Set_J_TEST/review-187.txt,6185,6196,to visit or
+./datasets/Set_J_TEST/review-187.txt,208,211,to 
+./datasets/Set_J_TEST/review-187.txt,6188,6196,visit or
+./datasets/Set_J_TEST/review-187.txt,2891,2907,which hews close
+./datasets/Set_J_TEST/review-187.txt,1769,1775,which 
+./datasets/Set_J_TEST/review-187.txt,2897,2907,hews close
+./datasets/Set_J_TEST/review-187.txt,5798,5817,have massive crunch
+./datasets/Set_J_TEST/review-187.txt,5798,5803,have 
+./datasets/Set_J_TEST/review-187.txt,5803,5817,massive crunch
+./datasets/Set_J_TEST/review-187.txt,695,710,is the National
+./datasets/Set_J_TEST/review-187.txt,115,118,is 
+./datasets/Set_J_TEST/review-187.txt,698,710,the National
+./datasets/Set_J_TEST/review-187.txt,2859,2869,it is nice
+./datasets/Set_J_TEST/review-187.txt,2377,2380,it 
+./datasets/Set_J_TEST/review-187.txt,2862,2869,is nice
+./datasets/Set_J_TEST/review-187.txt,1207,1220,But the grand
+./datasets/Set_J_TEST/review-187.txt,1207,1211,But 
+./datasets/Set_J_TEST/review-187.txt,1211,1220,the grand
+./datasets/Set_J_TEST/review-187.txt,2571,2586,the very middle
+./datasets/Set_J_TEST/review-187.txt,118,122,the 
+./datasets/Set_J_TEST/review-187.txt,2575,2586,very middle
+./datasets/Set_J_TEST/review-187.txt,3088,3108,desserts from Marisa
+./datasets/Set_J_TEST/review-187.txt,3088,3097,desserts 
+./datasets/Set_J_TEST/review-187.txt,3097,3108,from Marisa
+./datasets/Set_J_TEST/review-188.txt,521,538,which has mingled
+./datasets/Set_J_TEST/review-188.txt,408,414,which 
+./datasets/Set_J_TEST/review-188.txt,527,538,has mingled
+./datasets/Set_J_TEST/review-188.txt,1401,1418,Filipino food has
+./datasets/Set_J_TEST/review-188.txt,52,61,Filipino 
+./datasets/Set_J_TEST/review-188.txt,1410,1418,food has
+./datasets/Set_J_TEST/review-188.txt,1869,1890,with ossified bubbles
+./datasets/Set_J_TEST/review-188.txt,555,560,with 
+./datasets/Set_J_TEST/review-188.txt,1874,1890,ossified bubbles
+./datasets/Set_J_TEST/review-188.txt,469,484,a more Filipino
+./datasets/Set_J_TEST/review-188.txt,203,205,a 
+./datasets/Set_J_TEST/review-188.txt,471,484,more Filipino
+./datasets/Set_J_TEST/review-188.txt,4364,4380,breaded and deep
+./datasets/Set_J_TEST/review-188.txt,4364,4372,breaded 
+./datasets/Set_J_TEST/review-188.txt,4372,4380,and deep
+./datasets/Set_J_TEST/review-188.txt,353,367,There had been
+./datasets/Set_J_TEST/review-188.txt,353,359,There 
+./datasets/Set_J_TEST/review-188.txt,359,367,had been
+./datasets/Set_J_TEST/review-188.txt,388,406,Cendrillon in SoHo
+./datasets/Set_J_TEST/review-188.txt,388,399,Cendrillon 
+./datasets/Set_J_TEST/review-188.txt,399,406,in SoHo
+./datasets/Set_J_TEST/review-188.txt,4174,4185,to taste as
+./datasets/Set_J_TEST/review-188.txt,321,324,to 
+./datasets/Set_J_TEST/review-188.txt,4177,4185,taste as
+./datasets/Set_J_TEST/review-189.txt,1450,1464,sauce at every
+./datasets/Set_J_TEST/review-189.txt,1450,1456,sauce 
+./datasets/Set_J_TEST/review-189.txt,1456,1464,at every
+./datasets/Set_J_TEST/review-189.txt,65,80,First comes the
+./datasets/Set_J_TEST/review-189.txt,65,71,First 
+./datasets/Set_J_TEST/review-189.txt,71,80,comes the
+./datasets/Set_J_TEST/review-189.txt,466,480,long and thick
+./datasets/Set_J_TEST/review-189.txt,466,471,long 
+./datasets/Set_J_TEST/review-189.txt,471,480,and thick
+./datasets/Set_J_TEST/review-189.txt,3907,3917,a mound of
+./datasets/Set_J_TEST/review-189.txt,190,192,a 
+./datasets/Set_J_TEST/review-189.txt,3909,3917,mound of
+./datasets/Set_J_TEST/review-189.txt,325,337,hunks of raw
+./datasets/Set_J_TEST/review-189.txt,325,331,hunks 
+./datasets/Set_J_TEST/review-189.txt,309,315,of raw
+./datasets/Set_J_TEST/review-189.txt,1099,1120,the other ingredients
+./datasets/Set_J_TEST/review-189.txt,77,81,the 
+./datasets/Set_J_TEST/review-189.txt,1103,1120,other ingredients
+./datasets/Set_J_TEST/review-189.txt,3566,3581,likely to share
+./datasets/Set_J_TEST/review-189.txt,3566,3573,likely 
+./datasets/Set_J_TEST/review-189.txt,3573,3581,to share
+./datasets/Set_J_TEST/review-189.txt,2662,2676,oil and buried
+./datasets/Set_J_TEST/review-189.txt,122,126,oil 
+./datasets/Set_J_TEST/review-189.txt,2666,2676,and buried
+./datasets/Set_J_TEST/review-190.txt,2226,2245,recipes handed down
+./datasets/Set_J_TEST/review-190.txt,2226,2234,recipes 
+./datasets/Set_J_TEST/review-190.txt,2234,2245,handed down
+./datasets/Set_J_TEST/review-190.txt,2716,2730,hog farmer Bev
+./datasets/Set_J_TEST/review-190.txt,2716,2720,hog 
+./datasets/Set_J_TEST/review-190.txt,2720,2730,farmer Bev
+./datasets/Set_J_TEST/review-190.txt,566,582,the pleasures of
+./datasets/Set_J_TEST/review-190.txt,73,77,the 
+./datasets/Set_J_TEST/review-190.txt,570,582,pleasures of
+./datasets/Set_J_TEST/review-190.txt,2624,2639,using only free
+./datasets/Set_J_TEST/review-190.txt,2624,2630,using 
+./datasets/Set_J_TEST/review-190.txt,2630,2639,only free
+./datasets/Set_J_TEST/review-190.txt,787,801,is the mission
+./datasets/Set_J_TEST/review-190.txt,85,88,is 
+./datasets/Set_J_TEST/review-190.txt,790,801,the mission
+./datasets/Set_J_TEST/review-190.txt,3850,3860,we can all
+./datasets/Set_J_TEST/review-190.txt,3850,3853,we 
+./datasets/Set_J_TEST/review-190.txt,3853,3860,can all
+./datasets/Set_J_TEST/review-190.txt,421,438,studded with tiny
+./datasets/Set_J_TEST/review-190.txt,421,429,studded 
+./datasets/Set_J_TEST/review-190.txt,429,438,with tiny
+./datasets/Set_J_TEST/review-190.txt,1866,1877,for it with
+./datasets/Set_J_TEST/review-190.txt,1866,1870,for 
+./datasets/Set_J_TEST/review-190.txt,1870,1877,it with
+./datasets/Set_J_TEST/review-191.txt,3885,3906,infused Sozzled Pearl
+./datasets/Set_J_TEST/review-191.txt,3600,3608,infused 
+./datasets/Set_J_TEST/review-191.txt,3893,3906,Sozzled Pearl
+./datasets/Set_J_TEST/review-191.txt,277,285,is not a
+./datasets/Set_J_TEST/review-191.txt,277,280,is 
+./datasets/Set_J_TEST/review-191.txt,280,285,not a
+./datasets/Set_J_TEST/review-191.txt,2044,2056,That is bold
+./datasets/Set_J_TEST/review-191.txt,2044,2049,That 
+./datasets/Set_J_TEST/review-191.txt,2049,2056,is bold
+./datasets/Set_J_TEST/review-191.txt,1825,1841,burly brown rice
+./datasets/Set_J_TEST/review-191.txt,1825,1831,burly 
+./datasets/Set_J_TEST/review-191.txt,1831,1841,brown rice
+./datasets/Set_J_TEST/review-191.txt,699,717,crowded glass case
+./datasets/Set_J_TEST/review-191.txt,699,707,crowded 
+./datasets/Set_J_TEST/review-191.txt,707,717,glass case
+./datasets/Set_J_TEST/review-191.txt,2110,2122,due south of
+./datasets/Set_J_TEST/review-191.txt,2110,2114,due 
+./datasets/Set_J_TEST/review-191.txt,2114,2122,south of
+./datasets/Set_J_TEST/review-191.txt,3489,3510,stacked alongside the
+./datasets/Set_J_TEST/review-191.txt,3489,3497,stacked 
+./datasets/Set_J_TEST/review-191.txt,3497,3510,alongside the
+./datasets/Set_J_TEST/review-191.txt,2695,2711,across the aisle
+./datasets/Set_J_TEST/review-191.txt,2695,2702,across 
+./datasets/Set_J_TEST/review-191.txt,2702,2711,the aisle
+./datasets/Set_J_TEST/review-192.txt,156,171,dust and proves
+./datasets/Set_J_TEST/review-192.txt,156,161,dust 
+./datasets/Set_J_TEST/review-192.txt,161,171,and proves
+./datasets/Set_J_TEST/review-192.txt,2536,2549,Each comes in
+./datasets/Set_J_TEST/review-192.txt,2536,2541,Each 
+./datasets/Set_J_TEST/review-192.txt,2541,2549,comes in
+./datasets/Set_J_TEST/review-192.txt,2648,2667,are heaped together
+./datasets/Set_J_TEST/review-192.txt,796,800,are 
+./datasets/Set_J_TEST/review-192.txt,2652,2667,heaped together
+./datasets/Set_J_TEST/review-192.txt,254,265,gnaw on the
+./datasets/Set_J_TEST/review-192.txt,254,259,gnaw 
+./datasets/Set_J_TEST/review-192.txt,259,265,on the
+./datasets/Set_J_TEST/review-192.txt,554,565,in front of
+./datasets/Set_J_TEST/review-192.txt,431,434,in 
+./datasets/Set_J_TEST/review-192.txt,557,565,front of
+./datasets/Set_J_TEST/review-192.txt,2283,2300,nearly every dish
+./datasets/Set_J_TEST/review-192.txt,2283,2290,nearly 
+./datasets/Set_J_TEST/review-192.txt,2290,2300,every dish
+./datasets/Set_J_TEST/review-192.txt,194,213,smashed into powder
+./datasets/Set_J_TEST/review-192.txt,194,202,smashed 
+./datasets/Set_J_TEST/review-192.txt,202,213,into powder
+./datasets/Set_J_TEST/review-192.txt,3194,3207,a month after
+./datasets/Set_J_TEST/review-192.txt,83,85,a 
+./datasets/Set_J_TEST/review-192.txt,3196,3207,month after
+./datasets/Set_J_TEST/review-193.txt,3698,3707,on the TV
+./datasets/Set_J_TEST/review-193.txt,80,83,on 
+./datasets/Set_J_TEST/review-193.txt,3701,3707,the TV
+./datasets/Set_J_TEST/review-193.txt,680,696,the room reveals
+./datasets/Set_J_TEST/review-193.txt,83,87,the 
+./datasets/Set_J_TEST/review-193.txt,684,696,room reveals
+./datasets/Set_J_TEST/review-193.txt,3561,3577,mirror and capiz
+./datasets/Set_J_TEST/review-193.txt,3561,3568,mirror 
+./datasets/Set_J_TEST/review-193.txt,3568,3577,and capiz
+./datasets/Set_J_TEST/review-193.txt,93,107,over the steam
+./datasets/Set_J_TEST/review-193.txt,93,98,over 
+./datasets/Set_J_TEST/review-193.txt,98,107,the steam
+./datasets/Set_J_TEST/review-193.txt,4294,4307,on the awning
+./datasets/Set_J_TEST/review-193.txt,80,83,on 
+./datasets/Set_J_TEST/review-193.txt,4297,4307,the awning
+./datasets/Set_J_TEST/review-193.txt,3333,3348,go to dentistry
+./datasets/Set_J_TEST/review-193.txt,3333,3336,go 
+./datasets/Set_J_TEST/review-193.txt,3336,3348,to dentistry
+./datasets/Set_J_TEST/review-193.txt,80,92,on the glass
+./datasets/Set_J_TEST/review-193.txt,80,83,on 
+./datasets/Set_J_TEST/review-193.txt,83,92,the glass
+./datasets/Set_J_TEST/review-193.txt,3767,3781,by the counter
+./datasets/Set_J_TEST/review-193.txt,847,850,by 
+./datasets/Set_J_TEST/review-193.txt,3770,3781,the counter
+./datasets/Set_J_TEST/review-194.txt,1631,1646,sea off Iceland
+./datasets/Set_J_TEST/review-194.txt,1631,1635,sea 
+./datasets/Set_J_TEST/review-194.txt,1635,1646,off Iceland
+./datasets/Set_J_TEST/review-194.txt,1550,1565,not trumpet the
+./datasets/Set_J_TEST/review-194.txt,522,526,not 
+./datasets/Set_J_TEST/review-194.txt,1554,1565,trumpet the
+./datasets/Set_J_TEST/review-194.txt,1947,1962,nothing more of
+./datasets/Set_J_TEST/review-194.txt,182,190,nothing 
+./datasets/Set_J_TEST/review-194.txt,1955,1962,more of
+./datasets/Set_J_TEST/review-194.txt,3576,3586,stop is in
+./datasets/Set_J_TEST/review-194.txt,3576,3581,stop 
+./datasets/Set_J_TEST/review-194.txt,3581,3586,is in
+./datasets/Set_J_TEST/review-194.txt,788,817,Vietnamese vermicelli noodles
+./datasets/Set_J_TEST/review-194.txt,788,799,Vietnamese 
+./datasets/Set_J_TEST/review-194.txt,799,817,vermicelli noodles
+./datasets/Set_J_TEST/review-194.txt,328,339,A sign says
+./datasets/Set_J_TEST/review-194.txt,328,330,A 
+./datasets/Set_J_TEST/review-194.txt,330,339,sign says
+./datasets/Set_J_TEST/review-194.txt,709,722,carved into a
+./datasets/Set_J_TEST/review-194.txt,709,716,carved 
+./datasets/Set_J_TEST/review-194.txt,716,722,into a
+./datasets/Set_J_TEST/review-194.txt,1390,1403,the most true
+./datasets/Set_J_TEST/review-194.txt,104,108,the 
+./datasets/Set_J_TEST/review-194.txt,1394,1403,most true
+./datasets/Set_J_TEST/review-195.txt,4734,4751,starting with the
+./datasets/Set_J_TEST/review-195.txt,4734,4743,starting 
+./datasets/Set_J_TEST/review-195.txt,1646,1654,with the
+./datasets/Set_J_TEST/review-195.txt,2814,2831,Juicy despite its
+./datasets/Set_J_TEST/review-195.txt,2814,2820,Juicy 
+./datasets/Set_J_TEST/review-195.txt,2820,2831,despite its
+./datasets/Set_J_TEST/review-195.txt,2937,2953,have the quarter
+./datasets/Set_J_TEST/review-195.txt,1759,1764,have 
+./datasets/Set_J_TEST/review-195.txt,2942,2953,the quarter
+./datasets/Set_J_TEST/review-195.txt,4692,4705,on the things
+./datasets/Set_J_TEST/review-195.txt,259,262,on 
+./datasets/Set_J_TEST/review-195.txt,4695,4705,the things
+./datasets/Set_J_TEST/review-195.txt,4666,4691,elsewhere and concentrate
+./datasets/Set_J_TEST/review-195.txt,4666,4676,elsewhere 
+./datasets/Set_J_TEST/review-195.txt,4676,4691,and concentrate
+./datasets/Set_J_TEST/review-195.txt,884,897,but the great
+./datasets/Set_J_TEST/review-195.txt,884,888,but 
+./datasets/Set_J_TEST/review-195.txt,888,897,the great
+./datasets/Set_J_TEST/review-195.txt,5175,5191,which is steamed
+./datasets/Set_J_TEST/review-195.txt,1337,1343,which 
+./datasets/Set_J_TEST/review-195.txt,5181,5191,is steamed
+./datasets/Set_J_TEST/review-195.txt,5037,5049,in its gravy
+./datasets/Set_J_TEST/review-195.txt,284,287,in 
+./datasets/Set_J_TEST/review-195.txt,5040,5049,its gravy
+./datasets/Set_J_TEST/review-196.txt,563,583,cuisine renowned for
+./datasets/Set_J_TEST/review-196.txt,563,571,cuisine 
+./datasets/Set_J_TEST/review-196.txt,571,583,renowned for
+./datasets/Set_J_TEST/review-196.txt,1673,1688,and during that
+./datasets/Set_J_TEST/review-196.txt,858,862,and 
+./datasets/Set_J_TEST/review-196.txt,1677,1688,during that
+./datasets/Set_J_TEST/review-196.txt,4635,4652,strength of their
+./datasets/Set_J_TEST/review-196.txt,4635,4644,strength 
+./datasets/Set_J_TEST/review-196.txt,1947,1955,of their
+./datasets/Set_J_TEST/review-196.txt,5630,5639,For ma la
+./datasets/Set_J_TEST/review-196.txt,5630,5634,For 
+./datasets/Set_J_TEST/review-196.txt,2019,2024,ma la
+./datasets/Set_J_TEST/review-196.txt,3081,3099,seeking friend put
+./datasets/Set_J_TEST/review-196.txt,3081,3089,seeking 
+./datasets/Set_J_TEST/review-196.txt,3089,3099,friend put
+./datasets/Set_J_TEST/review-196.txt,2402,2421,another forkful and
+./datasets/Set_J_TEST/review-196.txt,2402,2410,another 
+./datasets/Set_J_TEST/review-196.txt,2410,2421,forkful and
+./datasets/Set_J_TEST/review-196.txt,5718,5731,may be easier
+./datasets/Set_J_TEST/review-196.txt,5718,5722,may 
+./datasets/Set_J_TEST/review-196.txt,5722,5731,be easier
+./datasets/Set_J_TEST/review-196.txt,5044,5055,but it does
+./datasets/Set_J_TEST/review-196.txt,115,119,but 
+./datasets/Set_J_TEST/review-196.txt,5048,5055,it does
+./datasets/Set_J_TEST/review-197.txt,4072,4081,go to the
+./datasets/Set_J_TEST/review-197.txt,4072,4075,go 
+./datasets/Set_J_TEST/review-197.txt,828,834,to the
+./datasets/Set_J_TEST/review-197.txt,4297,4315,taste like regular
+./datasets/Set_J_TEST/review-197.txt,4297,4303,taste 
+./datasets/Set_J_TEST/review-197.txt,4303,4315,like regular
+./datasets/Set_J_TEST/review-197.txt,4994,5004,of the few
+./datasets/Set_J_TEST/review-197.txt,475,478,of 
+./datasets/Set_J_TEST/review-197.txt,4997,5004,the few
+./datasets/Set_J_TEST/review-197.txt,136,147,money to be
+./datasets/Set_J_TEST/review-197.txt,136,142,money 
+./datasets/Set_J_TEST/review-197.txt,142,147,to be
+./datasets/Set_J_TEST/review-197.txt,2961,2977,the counter will
+./datasets/Set_J_TEST/review-197.txt,538,542,the 
+./datasets/Set_J_TEST/review-197.txt,2965,2977,counter will
+./datasets/Set_J_TEST/review-197.txt,102,117,very few people
+./datasets/Set_J_TEST/review-197.txt,102,107,very 
+./datasets/Set_J_TEST/review-197.txt,107,117,few people
+./datasets/Set_J_TEST/review-197.txt,4816,4827,ate was the
+./datasets/Set_J_TEST/review-197.txt,4816,4820,ate 
+./datasets/Set_J_TEST/review-197.txt,1492,1499,was the
+./datasets/Set_J_TEST/review-197.txt,6166,6186,distracted baker had
+./datasets/Set_J_TEST/review-197.txt,6166,6177,distracted 
+./datasets/Set_J_TEST/review-197.txt,6177,6186,baker had
+./datasets/Set_J_TEST/review-198.txt,387,400,not usually a
+./datasets/Set_J_TEST/review-198.txt,200,204,not 
+./datasets/Set_J_TEST/review-198.txt,391,400,usually a
+./datasets/Set_J_TEST/review-198.txt,3543,3555,a thick pork
+./datasets/Set_J_TEST/review-198.txt,224,226,a 
+./datasets/Set_J_TEST/review-198.txt,3545,3555,thick pork
+./datasets/Set_J_TEST/review-198.txt,1781,1798,his mother French
+./datasets/Set_J_TEST/review-198.txt,492,496,his 
+./datasets/Set_J_TEST/review-198.txt,1785,1798,mother French
+./datasets/Set_J_TEST/review-198.txt,75,93,restaurants in New
+./datasets/Set_J_TEST/review-198.txt,75,87,restaurants 
+./datasets/Set_J_TEST/review-198.txt,87,93,in New
+./datasets/Set_J_TEST/review-198.txt,3450,3466,according to the
+./datasets/Set_J_TEST/review-198.txt,3450,3460,according 
+./datasets/Set_J_TEST/review-198.txt,1068,1074,to the
+./datasets/Set_J_TEST/review-198.txt,2166,2184,fairly priced good
+./datasets/Set_J_TEST/review-198.txt,2166,2173,fairly 
+./datasets/Set_J_TEST/review-198.txt,2173,2184,priced good
+./datasets/Set_J_TEST/review-198.txt,2058,2076,of being attentive
+./datasets/Set_J_TEST/review-198.txt,412,415,of 
+./datasets/Set_J_TEST/review-198.txt,2061,2076,being attentive
+./datasets/Set_J_TEST/review-198.txt,1668,1681,and left home
+./datasets/Set_J_TEST/review-198.txt,38,42,and 
+./datasets/Set_J_TEST/review-198.txt,1672,1681,left home
+./datasets/Set_J_TEST/review-199.txt,5948,5958,to stake a
+./datasets/Set_J_TEST/review-199.txt,117,120,to 
+./datasets/Set_J_TEST/review-199.txt,5951,5958,stake a
+./datasets/Set_J_TEST/review-199.txt,1765,1785,Rather than steaming
+./datasets/Set_J_TEST/review-199.txt,1765,1772,Rather 
+./datasets/Set_J_TEST/review-199.txt,1772,1785,than steaming
+./datasets/Set_J_TEST/review-199.txt,1544,1558,of last summer
+./datasets/Set_J_TEST/review-199.txt,71,74,of 
+./datasets/Set_J_TEST/review-199.txt,1547,1558,last summer
+./datasets/Set_J_TEST/review-199.txt,198,211,The effect is
+./datasets/Set_J_TEST/review-199.txt,198,202,The 
+./datasets/Set_J_TEST/review-199.txt,202,211,effect is
+./datasets/Set_J_TEST/review-199.txt,4178,4194,meals began with
+./datasets/Set_J_TEST/review-199.txt,4178,4184,meals 
+./datasets/Set_J_TEST/review-199.txt,4184,4194,began with
+./datasets/Set_J_TEST/review-199.txt,634,652,Seaweed and sesame
+./datasets/Set_J_TEST/review-199.txt,634,642,Seaweed 
+./datasets/Set_J_TEST/review-199.txt,642,652,and sesame
+./datasets/Set_J_TEST/review-199.txt,1272,1290,one ingredient for
+./datasets/Set_J_TEST/review-199.txt,591,595,one 
+./datasets/Set_J_TEST/review-199.txt,1276,1290,ingredient for
+./datasets/Set_J_TEST/review-199.txt,4667,4679,so dull that
+./datasets/Set_J_TEST/review-199.txt,2958,2961,so 
+./datasets/Set_J_TEST/review-199.txt,4670,4679,dull that
+./datasets/Set_J_TEST/review-200.txt,1112,1128,Vintage oat tins
+./datasets/Set_J_TEST/review-200.txt,1112,1120,Vintage 
+./datasets/Set_J_TEST/review-200.txt,1120,1128,oat tins
+./datasets/Set_J_TEST/review-200.txt,1302,1316,tables as tiny
+./datasets/Set_J_TEST/review-200.txt,1302,1309,tables 
+./datasets/Set_J_TEST/review-200.txt,1309,1316,as tiny
+./datasets/Set_J_TEST/review-200.txt,4152,4169,oatmeal cooked in
+./datasets/Set_J_TEST/review-200.txt,798,806,oatmeal 
+./datasets/Set_J_TEST/review-200.txt,4160,4169,cooked in
+./datasets/Set_J_TEST/review-200.txt,3450,3469,Sometimes the cooks
+./datasets/Set_J_TEST/review-200.txt,3450,3460,Sometimes 
+./datasets/Set_J_TEST/review-200.txt,3460,3469,the cooks
+./datasets/Set_J_TEST/review-200.txt,1783,1800,peanut butter and
+./datasets/Set_J_TEST/review-200.txt,1783,1790,peanut 
+./datasets/Set_J_TEST/review-200.txt,1790,1800,butter and
+./datasets/Set_J_TEST/review-200.txt,422,442,The Germans embraced
+./datasets/Set_J_TEST/review-200.txt,124,128,The 
+./datasets/Set_J_TEST/review-200.txt,426,442,Germans embraced
+./datasets/Set_J_TEST/review-200.txt,1166,1178,the chef and
+./datasets/Set_J_TEST/review-200.txt,283,287,the 
+./datasets/Set_J_TEST/review-200.txt,1170,1178,chef and
+./datasets/Set_J_TEST/review-200.txt,381,395,A few cultures
+./datasets/Set_J_TEST/review-200.txt,381,383,A 
+./datasets/Set_J_TEST/review-200.txt,383,395,few cultures
+./datasets/Set_J_TEST/review-201.txt,2854,2863,part of a
+./datasets/Set_J_TEST/review-201.txt,2854,2859,part 
+./datasets/Set_J_TEST/review-201.txt,499,503,of a
+./datasets/Set_J_TEST/review-201.txt,3392,3402,Saw set up
+./datasets/Set_J_TEST/review-201.txt,3392,3396,Saw 
+./datasets/Set_J_TEST/review-201.txt,3396,3402,set up
+./datasets/Set_J_TEST/review-201.txt,3465,3480,that evokes the
+./datasets/Set_J_TEST/review-201.txt,635,640,that 
+./datasets/Set_J_TEST/review-201.txt,3470,3480,evokes the
+./datasets/Set_J_TEST/review-201.txt,126,138,s palata was
+./datasets/Set_J_TEST/review-201.txt,126,128,s 
+./datasets/Set_J_TEST/review-201.txt,128,138,palata was
+./datasets/Set_J_TEST/review-201.txt,1567,1581,the crowds are
+./datasets/Set_J_TEST/review-201.txt,87,91,the 
+./datasets/Set_J_TEST/review-201.txt,1571,1581,crowds are
+./datasets/Set_J_TEST/review-201.txt,2993,3009,tea franchise in
+./datasets/Set_J_TEST/review-201.txt,2993,2997,tea 
+./datasets/Set_J_TEST/review-201.txt,2997,3009,franchise in
+./datasets/Set_J_TEST/review-201.txt,414,429,Thai or Chinese
+./datasets/Set_J_TEST/review-201.txt,414,419,Thai 
+./datasets/Set_J_TEST/review-201.txt,419,429,or Chinese
+./datasets/Set_J_TEST/review-201.txt,2941,2951,the son of
+./datasets/Set_J_TEST/review-201.txt,87,91,the 
+./datasets/Set_J_TEST/review-201.txt,2945,2951,son of
+./datasets/Set_J_TEST/review-202.txt,995,1004,a pita or
+./datasets/Set_J_TEST/review-202.txt,511,513,a 
+./datasets/Set_J_TEST/review-202.txt,997,1004,pita or
+./datasets/Set_J_TEST/review-202.txt,522,538,the Midtown food
+./datasets/Set_J_TEST/review-202.txt,81,85,the 
+./datasets/Set_J_TEST/review-202.txt,526,538,Midtown food
+./datasets/Set_J_TEST/review-202.txt,2074,2090,tradition has it
+./datasets/Set_J_TEST/review-202.txt,2074,2084,tradition 
+./datasets/Set_J_TEST/review-202.txt,2084,2090,has it
+./datasets/Set_J_TEST/review-202.txt,1346,1361,then cooks them
+./datasets/Set_J_TEST/review-202.txt,877,882,then 
+./datasets/Set_J_TEST/review-202.txt,1351,1361,cooks them
+./datasets/Set_J_TEST/review-202.txt,1014,1027,arranged in a
+./datasets/Set_J_TEST/review-202.txt,1014,1023,arranged 
+./datasets/Set_J_TEST/review-202.txt,1023,1027,in a
+./datasets/Set_J_TEST/review-202.txt,720,733,Here they are
+./datasets/Set_J_TEST/review-202.txt,720,725,Here 
+./datasets/Set_J_TEST/review-202.txt,725,733,they are
+./datasets/Set_J_TEST/review-202.txt,1320,1334,She soaks them
+./datasets/Set_J_TEST/review-202.txt,241,245,She 
+./datasets/Set_J_TEST/review-202.txt,1324,1334,soaks them
+./datasets/Set_J_TEST/review-202.txt,3512,3534,the Italian restaurant
+./datasets/Set_J_TEST/review-202.txt,81,85,the 
+./datasets/Set_J_TEST/review-202.txt,3516,3534,Italian restaurant
+./datasets/Set_J_TEST/review-203.txt,1929,1946,like pork strands
+./datasets/Set_J_TEST/review-203.txt,1929,1934,like 
+./datasets/Set_J_TEST/review-203.txt,1934,1946,pork strands
+./datasets/Set_J_TEST/review-203.txt,1234,1264,Likitsansook seems invigorated
+./datasets/Set_J_TEST/review-203.txt,63,76,Likitsansook 
+./datasets/Set_J_TEST/review-203.txt,1247,1264,seems invigorated
+./datasets/Set_J_TEST/review-203.txt,776,788,word got out
+./datasets/Set_J_TEST/review-203.txt,776,781,word 
+./datasets/Set_J_TEST/review-203.txt,781,788,got out
+./datasets/Set_J_TEST/review-203.txt,2226,2241,coconut milk to
+./datasets/Set_J_TEST/review-203.txt,2226,2234,coconut 
+./datasets/Set_J_TEST/review-203.txt,2234,2241,milk to
+./datasets/Set_J_TEST/review-203.txt,199,211,It proved so
+./datasets/Set_J_TEST/review-203.txt,199,202,It 
+./datasets/Set_J_TEST/review-203.txt,202,211,proved so
+./datasets/Set_J_TEST/review-203.txt,1147,1161,in the borough
+./datasets/Set_J_TEST/review-203.txt,178,181,in 
+./datasets/Set_J_TEST/review-203.txt,1150,1161,the borough
+./datasets/Set_J_TEST/review-203.txt,2054,2069,tiny corners of
+./datasets/Set_J_TEST/review-203.txt,2054,2059,tiny 
+./datasets/Set_J_TEST/review-203.txt,2059,2069,corners of
+./datasets/Set_J_TEST/review-203.txt,2628,2649,without weighing down
+./datasets/Set_J_TEST/review-203.txt,2628,2636,without 
+./datasets/Set_J_TEST/review-203.txt,2636,2649,weighing down
+./datasets/Set_J_TEST/review-204.txt,1151,1173,spicy little meatballs
+./datasets/Set_J_TEST/review-204.txt,1151,1157,spicy 
+./datasets/Set_J_TEST/review-204.txt,1157,1173,little meatballs
+./datasets/Set_J_TEST/review-204.txt,799,821,feel almost weightless
+./datasets/Set_J_TEST/review-204.txt,799,804,feel 
+./datasets/Set_J_TEST/review-204.txt,804,821,almost weightless
+./datasets/Set_J_TEST/review-204.txt,1895,1913,Apicio can deliver
+./datasets/Set_J_TEST/review-204.txt,1895,1902,Apicio 
+./datasets/Set_J_TEST/review-204.txt,1902,1913,can deliver
+./datasets/Set_J_TEST/review-204.txt,114,130,Boil over medium
+./datasets/Set_J_TEST/review-204.txt,114,119,Boil 
+./datasets/Set_J_TEST/review-204.txt,119,130,over medium
+./datasets/Set_J_TEST/review-204.txt,2336,2348,When the two
+./datasets/Set_J_TEST/review-204.txt,2336,2341,When 
+./datasets/Set_J_TEST/review-204.txt,2341,2348,the two
+./datasets/Set_J_TEST/review-204.txt,2495,2506,Apicio by a
+./datasets/Set_J_TEST/review-204.txt,1895,1902,Apicio 
+./datasets/Set_J_TEST/review-204.txt,2502,2506,by a
+./datasets/Set_J_TEST/review-204.txt,2992,3001,It is not
+./datasets/Set_J_TEST/review-204.txt,555,558,It 
+./datasets/Set_J_TEST/review-204.txt,2995,3001,is not
+./datasets/Set_J_TEST/review-204.txt,469,491,time understanding how
+./datasets/Set_J_TEST/review-204.txt,469,474,time 
+./datasets/Set_J_TEST/review-204.txt,474,491,understanding how
+./datasets/Set_J_TEST/review-205.txt,3717,3733,open kitchen off
+./datasets/Set_J_TEST/review-205.txt,3717,3722,open 
+./datasets/Set_J_TEST/review-205.txt,3722,3733,kitchen off
+./datasets/Set_J_TEST/review-205.txt,4871,4889,is responsible for
+./datasets/Set_J_TEST/review-205.txt,156,159,is 
+./datasets/Set_J_TEST/review-205.txt,4874,4889,responsible for
+./datasets/Set_J_TEST/review-205.txt,1876,1891,but the cuisine
+./datasets/Set_J_TEST/review-205.txt,904,908,but 
+./datasets/Set_J_TEST/review-205.txt,1880,1891,the cuisine
+./datasets/Set_J_TEST/review-205.txt,748,765,laced with ground
+./datasets/Set_J_TEST/review-205.txt,748,754,laced 
+./datasets/Set_J_TEST/review-205.txt,754,765,with ground
+./datasets/Set_J_TEST/review-205.txt,89,97,I knew I
+./datasets/Set_J_TEST/review-205.txt,89,91,I 
+./datasets/Set_J_TEST/review-205.txt,91,97,knew I
+./datasets/Set_J_TEST/review-205.txt,976,998,moistened with braised
+./datasets/Set_J_TEST/review-205.txt,976,986,moistened 
+./datasets/Set_J_TEST/review-205.txt,986,998,with braised
+./datasets/Set_J_TEST/review-205.txt,1385,1402,and propmaster of
+./datasets/Set_J_TEST/review-205.txt,274,278,and 
+./datasets/Set_J_TEST/review-205.txt,1389,1402,propmaster of
+./datasets/Set_J_TEST/review-205.txt,1114,1131,galvanic taste of
+./datasets/Set_J_TEST/review-205.txt,1114,1123,galvanic 
+./datasets/Set_J_TEST/review-205.txt,1123,1131,taste of
+./datasets/Set_J_TEST/review-206.txt,1207,1218,seat by the
+./datasets/Set_J_TEST/review-206.txt,1207,1212,seat 
+./datasets/Set_J_TEST/review-206.txt,1212,1218,by the
+./datasets/Set_J_TEST/review-206.txt,389,398,a big lug
+./datasets/Set_J_TEST/review-206.txt,177,179,a 
+./datasets/Set_J_TEST/review-206.txt,391,398,big lug
+./datasets/Set_J_TEST/review-206.txt,1263,1275,and you will
+./datasets/Set_J_TEST/review-206.txt,114,118,and 
+./datasets/Set_J_TEST/review-206.txt,1267,1275,you will
+./datasets/Set_J_TEST/review-206.txt,3054,3067,grows on corn
+./datasets/Set_J_TEST/review-206.txt,3054,3060,grows 
+./datasets/Set_J_TEST/review-206.txt,3060,3067,on corn
+./datasets/Set_J_TEST/review-206.txt,825,842,Mexican joints in
+./datasets/Set_J_TEST/review-206.txt,825,833,Mexican 
+./datasets/Set_J_TEST/review-206.txt,833,842,joints in
+./datasets/Set_J_TEST/review-206.txt,1372,1383,homage to a
+./datasets/Set_J_TEST/review-206.txt,1372,1379,homage 
+./datasets/Set_J_TEST/review-206.txt,1379,1383,to a
+./datasets/Set_J_TEST/review-206.txt,469,484,blocks from the
+./datasets/Set_J_TEST/review-206.txt,469,476,blocks 
+./datasets/Set_J_TEST/review-206.txt,476,484,from the
+./datasets/Set_J_TEST/review-206.txt,365,385,gangster movie clich
+./datasets/Set_J_TEST/review-206.txt,365,374,gangster 
+./datasets/Set_J_TEST/review-206.txt,374,385,movie clich
+./datasets/Set_J_TEST/review-207.txt,4711,4722,a bottle of
+./datasets/Set_J_TEST/review-207.txt,645,647,a 
+./datasets/Set_J_TEST/review-207.txt,4713,4722,bottle of
+./datasets/Set_J_TEST/review-207.txt,4140,4154,meal were like
+./datasets/Set_J_TEST/review-207.txt,4140,4145,meal 
+./datasets/Set_J_TEST/review-207.txt,4145,4154,were like
+./datasets/Set_J_TEST/review-207.txt,1901,1911,the time I
+./datasets/Set_J_TEST/review-207.txt,88,92,the 
+./datasets/Set_J_TEST/review-207.txt,1905,1911,time I
+./datasets/Set_J_TEST/review-207.txt,171,190,of contemporary art
+./datasets/Set_J_TEST/review-207.txt,171,174,of 
+./datasets/Set_J_TEST/review-207.txt,174,190,contemporary art
+./datasets/Set_J_TEST/review-207.txt,992,1005,Kappo Masa is
+./datasets/Set_J_TEST/review-207.txt,0,6,Kappo 
+./datasets/Set_J_TEST/review-207.txt,998,1005,Masa is
+./datasets/Set_J_TEST/review-207.txt,191,208,higher and higher
+./datasets/Set_J_TEST/review-207.txt,191,198,higher 
+./datasets/Set_J_TEST/review-207.txt,198,208,and higher
+./datasets/Set_J_TEST/review-207.txt,1380,1396,of proportion to
+./datasets/Set_J_TEST/review-207.txt,171,174,of 
+./datasets/Set_J_TEST/review-207.txt,1383,1396,proportion to
+./datasets/Set_J_TEST/review-207.txt,1369,1379,and so out
+./datasets/Set_J_TEST/review-207.txt,101,105,and 
+./datasets/Set_J_TEST/review-207.txt,1373,1379,so out
+./datasets/Set_J_TEST/review-208.txt,2973,2989,others start off
+./datasets/Set_J_TEST/review-208.txt,2973,2980,others 
+./datasets/Set_J_TEST/review-208.txt,2980,2989,start off
+./datasets/Set_J_TEST/review-208.txt,2912,2929,detonate at first
+./datasets/Set_J_TEST/review-208.txt,2912,2921,detonate 
+./datasets/Set_J_TEST/review-208.txt,2921,2929,at first
+./datasets/Set_J_TEST/review-208.txt,1204,1216,as a catalog
+./datasets/Set_J_TEST/review-208.txt,662,665,as 
+./datasets/Set_J_TEST/review-208.txt,1207,1216,a catalog
+./datasets/Set_J_TEST/review-208.txt,1052,1065,on my kitchen
+./datasets/Set_J_TEST/review-208.txt,89,92,on 
+./datasets/Set_J_TEST/review-208.txt,1055,1065,my kitchen
+./datasets/Set_J_TEST/review-208.txt,846,868,chopsticks thrust into
+./datasets/Set_J_TEST/review-208.txt,846,857,chopsticks 
+./datasets/Set_J_TEST/review-208.txt,857,868,thrust into
+./datasets/Set_J_TEST/review-208.txt,1163,1178,blurrily on the
+./datasets/Set_J_TEST/review-208.txt,1163,1172,blurrily 
+./datasets/Set_J_TEST/review-208.txt,256,262,on the
+./datasets/Set_J_TEST/review-208.txt,606,616,to run and
+./datasets/Set_J_TEST/review-208.txt,281,284,to 
+./datasets/Set_J_TEST/review-208.txt,609,616,run and
+./datasets/Set_J_TEST/review-208.txt,409,421,on each side
+./datasets/Set_J_TEST/review-208.txt,89,92,on 
+./datasets/Set_J_TEST/review-208.txt,412,421,each side
+./datasets/Set_J_TEST/review-209.txt,3993,4012,although the carrot
+./datasets/Set_J_TEST/review-209.txt,3993,4002,although 
+./datasets/Set_J_TEST/review-209.txt,4002,4012,the carrot
+./datasets/Set_J_TEST/review-209.txt,3363,3381,re lightly crushed
+./datasets/Set_J_TEST/review-209.txt,264,267,re 
+./datasets/Set_J_TEST/review-209.txt,3366,3381,lightly crushed
+./datasets/Set_J_TEST/review-209.txt,5713,5728,night talked up
+./datasets/Set_J_TEST/review-209.txt,5713,5719,night 
+./datasets/Set_J_TEST/review-209.txt,5719,5728,talked up
+./datasets/Set_J_TEST/review-209.txt,4764,4783,Other dishes seemed
+./datasets/Set_J_TEST/review-209.txt,4764,4770,Other 
+./datasets/Set_J_TEST/review-209.txt,4770,4783,dishes seemed
+./datasets/Set_J_TEST/review-209.txt,4151,4162,But I could
+./datasets/Set_J_TEST/review-209.txt,1250,1254,But 
+./datasets/Set_J_TEST/review-209.txt,4155,4162,I could
+./datasets/Set_J_TEST/review-209.txt,3267,3283,are charred like
+./datasets/Set_J_TEST/review-209.txt,963,967,are 
+./datasets/Set_J_TEST/review-209.txt,3271,3283,charred like
+./datasets/Set_J_TEST/review-209.txt,890,904,a private golf
+./datasets/Set_J_TEST/review-209.txt,93,95,a 
+./datasets/Set_J_TEST/review-209.txt,892,904,private golf
+./datasets/Set_J_TEST/review-209.txt,5667,5687,Tableside patter can
+./datasets/Set_J_TEST/review-209.txt,5667,5677,Tableside 
+./datasets/Set_J_TEST/review-209.txt,5677,5687,patter can
+./datasets/Set_J_TEST/review-210.txt,1801,1816,Cody to delight
+./datasets/Set_J_TEST/review-210.txt,1801,1806,Cody 
+./datasets/Set_J_TEST/review-210.txt,1806,1816,to delight
+./datasets/Set_J_TEST/review-210.txt,4695,4705,that if he
+./datasets/Set_J_TEST/review-210.txt,2430,2435,that 
+./datasets/Set_J_TEST/review-210.txt,4700,4705,if he
+./datasets/Set_J_TEST/review-210.txt,5795,5806,up the tilt
+./datasets/Set_J_TEST/review-210.txt,1044,1047,up 
+./datasets/Set_J_TEST/review-210.txt,5798,5806,the tilt
+./datasets/Set_J_TEST/review-210.txt,968,981,all you chefs
+./datasets/Set_J_TEST/review-210.txt,679,683,all 
+./datasets/Set_J_TEST/review-210.txt,972,981,you chefs
+./datasets/Set_J_TEST/review-210.txt,3292,3306,Rabbits have a
+./datasets/Set_J_TEST/review-210.txt,3292,3300,Rabbits 
+./datasets/Set_J_TEST/review-210.txt,3300,3306,have a
+./datasets/Set_J_TEST/review-210.txt,5705,5714,or in the
+./datasets/Set_J_TEST/review-210.txt,492,495,or 
+./datasets/Set_J_TEST/review-210.txt,1179,1185,in the
+./datasets/Set_J_TEST/review-210.txt,4282,4294,it still has
+./datasets/Set_J_TEST/review-210.txt,705,708,it 
+./datasets/Set_J_TEST/review-210.txt,4285,4294,still has
+./datasets/Set_J_TEST/review-210.txt,1326,1338,he acts like
+./datasets/Set_J_TEST/review-210.txt,100,103,he 
+./datasets/Set_J_TEST/review-210.txt,1329,1338,acts like
+./datasets/Set_J_TEST/review-286.txt,217,231,The guy behind
+./datasets/Set_J_TEST/review-286.txt,217,221,The 
+./datasets/Set_J_TEST/review-286.txt,221,231,guy behind
+./datasets/Set_J_TEST/review-286.txt,1538,1552,and sesame oil
+./datasets/Set_J_TEST/review-286.txt,459,463,and 
+./datasets/Set_J_TEST/review-286.txt,1542,1552,sesame oil
+./datasets/Set_J_TEST/review-286.txt,1554,1568,with tracks of
+./datasets/Set_J_TEST/review-286.txt,1554,1559,with 
+./datasets/Set_J_TEST/review-286.txt,1559,1568,tracks of
+./datasets/Set_J_TEST/review-286.txt,2852,2863,room with a
+./datasets/Set_J_TEST/review-286.txt,2852,2857,room 
+./datasets/Set_J_TEST/review-286.txt,1921,1927,with a
+./datasets/Set_J_TEST/review-286.txt,5067,5078,I tried all
+./datasets/Set_J_TEST/review-286.txt,117,119,I 
+./datasets/Set_J_TEST/review-286.txt,5069,5078,tried all
+./datasets/Set_J_TEST/review-286.txt,2504,2514,was once a
+./datasets/Set_J_TEST/review-286.txt,160,164,was 
+./datasets/Set_J_TEST/review-286.txt,2508,2514,once a
+./datasets/Set_J_TEST/review-286.txt,3570,3587,and a vertiginous
+./datasets/Set_J_TEST/review-286.txt,459,463,and 
+./datasets/Set_J_TEST/review-286.txt,3574,3587,a vertiginous
+./datasets/Set_J_TEST/review-286.txt,5184,5202,assembled to order
+./datasets/Set_J_TEST/review-286.txt,5184,5194,assembled 
+./datasets/Set_J_TEST/review-286.txt,5194,5202,to order
+./datasets/Set_J_TEST/review-287.txt,5148,5161,the one whose
+./datasets/Set_J_TEST/review-287.txt,75,79,the 
+./datasets/Set_J_TEST/review-287.txt,5152,5161,one whose
+./datasets/Set_J_TEST/review-287.txt,6009,6025,openers into the
+./datasets/Set_J_TEST/review-287.txt,6009,6017,openers 
+./datasets/Set_J_TEST/review-287.txt,6017,6025,into the
+./datasets/Set_J_TEST/review-287.txt,5473,5486,all the sides
+./datasets/Set_J_TEST/review-287.txt,5473,5477,all 
+./datasets/Set_J_TEST/review-287.txt,5477,5486,the sides
+./datasets/Set_J_TEST/review-287.txt,1166,1182,They look amazed
+./datasets/Set_J_TEST/review-287.txt,1166,1171,They 
+./datasets/Set_J_TEST/review-287.txt,1171,1182,look amazed
+./datasets/Set_J_TEST/review-287.txt,5383,5402,Hill Country really
+./datasets/Set_J_TEST/review-287.txt,0,5,Hill 
+./datasets/Set_J_TEST/review-287.txt,5388,5402,Country really
+./datasets/Set_J_TEST/review-287.txt,418,433,at Hill Country
+./datasets/Set_J_TEST/review-287.txt,390,393,at 
+./datasets/Set_J_TEST/review-287.txt,0,12,Hill Country
+./datasets/Set_J_TEST/review-287.txt,5441,5455,the same paper
+./datasets/Set_J_TEST/review-287.txt,75,79,the 
+./datasets/Set_J_TEST/review-287.txt,5445,5455,same paper
+./datasets/Set_J_TEST/review-287.txt,3134,3146,They may not
+./datasets/Set_J_TEST/review-287.txt,1166,1171,They 
+./datasets/Set_J_TEST/review-287.txt,3139,3146,may not
+./datasets/Set_J_TEST/review-288.txt,2616,2637,a traditional Tibetan
+./datasets/Set_J_TEST/review-288.txt,4,6,a 
+./datasets/Set_J_TEST/review-288.txt,2618,2637,traditional Tibetan
+./datasets/Set_J_TEST/review-288.txt,186,199,a jeweler was
+./datasets/Set_J_TEST/review-288.txt,4,6,a 
+./datasets/Set_J_TEST/review-288.txt,188,199,jeweler was
+./datasets/Set_J_TEST/review-288.txt,3839,3851,for the real
+./datasets/Set_J_TEST/review-288.txt,1253,1257,for 
+./datasets/Set_J_TEST/review-288.txt,3843,3851,the real
+./datasets/Set_J_TEST/review-288.txt,2073,2088,ground beef and
+./datasets/Set_J_TEST/review-288.txt,2073,2080,ground 
+./datasets/Set_J_TEST/review-288.txt,2080,2088,beef and
+./datasets/Set_J_TEST/review-288.txt,1945,1958,native to the
+./datasets/Set_J_TEST/review-288.txt,1945,1952,native 
+./datasets/Set_J_TEST/review-288.txt,913,919,to the
+./datasets/Set_J_TEST/review-288.txt,4107,4120,When I lifted
+./datasets/Set_J_TEST/review-288.txt,4107,4112,When 
+./datasets/Set_J_TEST/review-288.txt,4112,4120,I lifted
+./datasets/Set_J_TEST/review-288.txt,2062,2072,a weave of
+./datasets/Set_J_TEST/review-288.txt,4,6,a 
+./datasets/Set_J_TEST/review-288.txt,2064,2072,weave of
+./datasets/Set_J_TEST/review-288.txt,82,93,of lunch at
+./datasets/Set_J_TEST/review-288.txt,82,85,of 
+./datasets/Set_J_TEST/review-288.txt,85,93,lunch at
+./datasets/Set_J_TEST/review-289.txt,3158,3177,in pressurized kegs
+./datasets/Set_J_TEST/review-289.txt,319,322,in 
+./datasets/Set_J_TEST/review-289.txt,3161,3177,pressurized kegs
+./datasets/Set_J_TEST/review-289.txt,1788,1805,around sour cream
+./datasets/Set_J_TEST/review-289.txt,1788,1795,around 
+./datasets/Set_J_TEST/review-289.txt,1795,1805,sour cream
+./datasets/Set_J_TEST/review-289.txt,609,626,mandated that all
+./datasets/Set_J_TEST/review-289.txt,609,618,mandated 
+./datasets/Set_J_TEST/review-289.txt,618,626,that all
+./datasets/Set_J_TEST/review-289.txt,1419,1434,inspired by the
+./datasets/Set_J_TEST/review-289.txt,1419,1428,inspired 
+./datasets/Set_J_TEST/review-289.txt,1428,1434,by the
+./datasets/Set_J_TEST/review-289.txt,2315,2329,Fur Coat could
+./datasets/Set_J_TEST/review-289.txt,2315,2319,Fur 
+./datasets/Set_J_TEST/review-289.txt,2319,2329,Coat could
+./datasets/Set_J_TEST/review-289.txt,1233,1251,ambassador for the
+./datasets/Set_J_TEST/review-289.txt,1233,1244,ambassador 
+./datasets/Set_J_TEST/review-289.txt,691,698,for the
+./datasets/Set_J_TEST/review-289.txt,2481,2488,it is a
+./datasets/Set_J_TEST/review-289.txt,2176,2179,it 
+./datasets/Set_J_TEST/review-289.txt,1218,1222,is a
+./datasets/Set_J_TEST/review-289.txt,2826,2841,buried deep and
+./datasets/Set_J_TEST/review-289.txt,2826,2833,buried 
+./datasets/Set_J_TEST/review-289.txt,2833,2841,deep and
+./datasets/Set_J_TEST/review-290.txt,2379,2391,But you want
+./datasets/Set_J_TEST/review-290.txt,646,650,But 
+./datasets/Set_J_TEST/review-290.txt,2383,2391,you want
+./datasets/Set_J_TEST/review-290.txt,3952,3963,You sit and
+./datasets/Set_J_TEST/review-290.txt,3952,3956,You 
+./datasets/Set_J_TEST/review-290.txt,3956,3963,sit and
+./datasets/Set_J_TEST/review-290.txt,1363,1373,a touch of
+./datasets/Set_J_TEST/review-290.txt,344,346,a 
+./datasets/Set_J_TEST/review-290.txt,1365,1373,touch of
+./datasets/Set_J_TEST/review-290.txt,1343,1362,sunflower seeds for
+./datasets/Set_J_TEST/review-290.txt,1343,1353,sunflower 
+./datasets/Set_J_TEST/review-290.txt,1353,1362,seeds for
+./datasets/Set_J_TEST/review-290.txt,3627,3643,There are orange
+./datasets/Set_J_TEST/review-290.txt,3627,3633,There 
+./datasets/Set_J_TEST/review-290.txt,3633,3643,are orange
+./datasets/Set_J_TEST/review-290.txt,4457,4472,Dining room and
+./datasets/Set_J_TEST/review-290.txt,4457,4464,Dining 
+./datasets/Set_J_TEST/review-290.txt,4464,4472,room and
+./datasets/Set_J_TEST/review-290.txt,386,401,Some would call
+./datasets/Set_J_TEST/review-290.txt,386,391,Some 
+./datasets/Set_J_TEST/review-290.txt,391,401,would call
+./datasets/Set_J_TEST/review-290.txt,1247,1263,of virtuous baby
+./datasets/Set_J_TEST/review-290.txt,72,75,of 
+./datasets/Set_J_TEST/review-290.txt,1250,1263,virtuous baby
+./datasets/Set_J_TEST/review-291.txt,6054,6071,over their knives
+./datasets/Set_J_TEST/review-291.txt,2065,2070,over 
+./datasets/Set_J_TEST/review-291.txt,6059,6071,their knives
+./datasets/Set_J_TEST/review-291.txt,1945,1961,pao chicken made
+./datasets/Set_J_TEST/review-291.txt,1945,1949,pao 
+./datasets/Set_J_TEST/review-291.txt,1949,1961,chicken made
+./datasets/Set_J_TEST/review-291.txt,1132,1147,minutes or more
+./datasets/Set_J_TEST/review-291.txt,1132,1140,minutes 
+./datasets/Set_J_TEST/review-291.txt,1140,1147,or more
+./datasets/Set_J_TEST/review-291.txt,1755,1771,a thick American
+./datasets/Set_J_TEST/review-291.txt,153,155,a 
+./datasets/Set_J_TEST/review-291.txt,1757,1771,thick American
+./datasets/Set_J_TEST/review-291.txt,2236,2251,floppy bands of
+./datasets/Set_J_TEST/review-291.txt,2236,2243,floppy 
+./datasets/Set_J_TEST/review-291.txt,2243,2251,bands of
+./datasets/Set_J_TEST/review-291.txt,3546,3560,hard to obtain
+./datasets/Set_J_TEST/review-291.txt,82,87,hard 
+./datasets/Set_J_TEST/review-291.txt,3551,3560,to obtain
+./datasets/Set_J_TEST/review-291.txt,1408,1419,on the menu
+./datasets/Set_J_TEST/review-291.txt,185,188,on 
+./datasets/Set_J_TEST/review-291.txt,1411,1419,the menu
+./datasets/Set_J_TEST/review-291.txt,51,76,Independent thinkers find
+./datasets/Set_J_TEST/review-291.txt,51,63,Independent 
+./datasets/Set_J_TEST/review-291.txt,63,76,thinkers find
+./datasets/Set_J_TEST/review-292.txt,4156,4169,with pork leg
+./datasets/Set_J_TEST/review-292.txt,627,632,with 
+./datasets/Set_J_TEST/review-292.txt,3086,3094,pork leg
+./datasets/Set_J_TEST/review-292.txt,586,602,other Thai menus
+./datasets/Set_J_TEST/review-292.txt,586,592,other 
+./datasets/Set_J_TEST/review-292.txt,592,602,Thai menus
+./datasets/Set_J_TEST/review-292.txt,2577,2594,Some other sauces
+./datasets/Set_J_TEST/review-292.txt,2577,2582,Some 
+./datasets/Set_J_TEST/review-292.txt,2582,2594,other sauces
+./datasets/Set_J_TEST/review-292.txt,804,822,of Southeast Asian
+./datasets/Set_J_TEST/review-292.txt,136,139,of 
+./datasets/Set_J_TEST/review-292.txt,807,822,Southeast Asian
+./datasets/Set_J_TEST/review-292.txt,1908,1919,som tum poo
+./datasets/Set_J_TEST/review-292.txt,1766,1770,som 
+./datasets/Set_J_TEST/review-292.txt,1912,1919,tum poo
+./datasets/Set_J_TEST/review-292.txt,3801,3812,Not an Isan
+./datasets/Set_J_TEST/review-292.txt,3801,3805,Not 
+./datasets/Set_J_TEST/review-292.txt,1224,1231,an Isan
+./datasets/Set_J_TEST/review-292.txt,2857,2868,a Thai iced
+./datasets/Set_J_TEST/review-292.txt,49,51,a 
+./datasets/Set_J_TEST/review-292.txt,2859,2868,Thai iced
+./datasets/Set_J_TEST/review-292.txt,312,329,hails from beyond
+./datasets/Set_J_TEST/review-292.txt,312,318,hails 
+./datasets/Set_J_TEST/review-292.txt,318,329,from beyond
+./datasets/Set_J_TEST/review-293.txt,2563,2582,which carries those
+./datasets/Set_J_TEST/review-293.txt,1128,1134,which 
+./datasets/Set_J_TEST/review-293.txt,2569,2582,carries those
+./datasets/Set_J_TEST/review-293.txt,4215,4226,A few drops
+./datasets/Set_J_TEST/review-293.txt,4215,4217,A 
+./datasets/Set_J_TEST/review-293.txt,4217,4226,few drops
+./datasets/Set_J_TEST/review-293.txt,1929,1944,the butcher and
+./datasets/Set_J_TEST/review-293.txt,368,372,the 
+./datasets/Set_J_TEST/review-293.txt,1933,1944,butcher and
+./datasets/Set_J_TEST/review-293.txt,5936,5951,a grilled quail
+./datasets/Set_J_TEST/review-293.txt,97,99,a 
+./datasets/Set_J_TEST/review-293.txt,5938,5951,grilled quail
+./datasets/Set_J_TEST/review-293.txt,4838,4853,nothing else in
+./datasets/Set_J_TEST/review-293.txt,4838,4846,nothing 
+./datasets/Set_J_TEST/review-293.txt,4846,4853,else in
+./datasets/Set_J_TEST/review-293.txt,2550,2561,of the name
+./datasets/Set_J_TEST/review-293.txt,118,121,of 
+./datasets/Set_J_TEST/review-293.txt,2553,2561,the name
+./datasets/Set_J_TEST/review-293.txt,1478,1489,and the top
+./datasets/Set_J_TEST/review-293.txt,270,274,and 
+./datasets/Set_J_TEST/review-293.txt,1482,1489,the top
+./datasets/Set_J_TEST/review-293.txt,1684,1698,like this back
+./datasets/Set_J_TEST/review-293.txt,335,340,like 
+./datasets/Set_J_TEST/review-293.txt,1689,1698,this back
+./datasets/Set_J_TEST/review-294.txt,1413,1435,has ironed tablecloths
+./datasets/Set_J_TEST/review-294.txt,96,100,has 
+./datasets/Set_J_TEST/review-294.txt,1417,1435,ironed tablecloths
+./datasets/Set_J_TEST/review-294.txt,5318,5332,occur with the
+./datasets/Set_J_TEST/review-294.txt,5318,5324,occur 
+./datasets/Set_J_TEST/review-294.txt,2740,2748,with the
+./datasets/Set_J_TEST/review-294.txt,5262,5275,In the dining
+./datasets/Set_J_TEST/review-294.txt,2108,2111,In 
+./datasets/Set_J_TEST/review-294.txt,4309,4319,the dining
+./datasets/Set_J_TEST/review-294.txt,3711,3723,into a silky
+./datasets/Set_J_TEST/review-294.txt,2813,2818,into 
+./datasets/Set_J_TEST/review-294.txt,3716,3723,a silky
+./datasets/Set_J_TEST/review-294.txt,1949,1960,menu and no
+./datasets/Set_J_TEST/review-294.txt,1949,1954,menu 
+./datasets/Set_J_TEST/review-294.txt,1954,1960,and no
+./datasets/Set_J_TEST/review-294.txt,2011,2022,you want to
+./datasets/Set_J_TEST/review-294.txt,1231,1235,you 
+./datasets/Set_J_TEST/review-294.txt,2015,2022,want to
+./datasets/Set_J_TEST/review-294.txt,1892,1914,sitting dumbfounded on
+./datasets/Set_J_TEST/review-294.txt,1892,1900,sitting 
+./datasets/Set_J_TEST/review-294.txt,1900,1914,dumbfounded on
+./datasets/Set_J_TEST/review-294.txt,1680,1694,in meals eaten
+./datasets/Set_J_TEST/review-294.txt,170,173,in 
+./datasets/Set_J_TEST/review-294.txt,1683,1694,meals eaten
+./datasets/Set_J_TEST/review-295.txt,2344,2361,working the front
+./datasets/Set_J_TEST/review-295.txt,2344,2352,working 
+./datasets/Set_J_TEST/review-295.txt,2352,2361,the front
+./datasets/Set_J_TEST/review-295.txt,1368,1388,proof sorghum liquor
+./datasets/Set_J_TEST/review-295.txt,1368,1374,proof 
+./datasets/Set_J_TEST/review-295.txt,1374,1388,sorghum liquor
+./datasets/Set_J_TEST/review-295.txt,3223,3236,he devised an
+./datasets/Set_J_TEST/review-295.txt,145,148,he 
+./datasets/Set_J_TEST/review-295.txt,3226,3236,devised an
+./datasets/Set_J_TEST/review-295.txt,1916,1928,with a sauce
+./datasets/Set_J_TEST/review-295.txt,378,383,with 
+./datasets/Set_J_TEST/review-295.txt,1921,1928,a sauce
+./datasets/Set_J_TEST/review-295.txt,1830,1843,strips of bao
+./datasets/Set_J_TEST/review-295.txt,1830,1837,strips 
+./datasets/Set_J_TEST/review-295.txt,1837,1843,of bao
+./datasets/Set_J_TEST/review-295.txt,643,655,that you can
+./datasets/Set_J_TEST/review-295.txt,164,169,that 
+./datasets/Set_J_TEST/review-295.txt,648,655,you can
+./datasets/Set_J_TEST/review-295.txt,763,779,steamed in lotus
+./datasets/Set_J_TEST/review-295.txt,763,771,steamed 
+./datasets/Set_J_TEST/review-295.txt,771,779,in lotus
+./datasets/Set_J_TEST/review-295.txt,1605,1619,rivals a great
+./datasets/Set_J_TEST/review-295.txt,1605,1612,rivals 
+./datasets/Set_J_TEST/review-295.txt,1612,1619,a great
+./datasets/Set_J_TEST/review-296.txt,647,659,the more the
+./datasets/Set_J_TEST/review-296.txt,105,109,the 
+./datasets/Set_J_TEST/review-296.txt,651,659,more the
+./datasets/Set_J_TEST/review-296.txt,2322,2334,stays in its
+./datasets/Set_J_TEST/review-296.txt,2322,2328,stays 
+./datasets/Set_J_TEST/review-296.txt,2328,2334,in its
+./datasets/Set_J_TEST/review-296.txt,5675,5694,unhectic cove where
+./datasets/Set_J_TEST/review-296.txt,5675,5684,unhectic 
+./datasets/Set_J_TEST/review-296.txt,5684,5694,cove where
+./datasets/Set_J_TEST/review-296.txt,3055,3071,With tart little
+./datasets/Set_J_TEST/review-296.txt,3055,3060,With 
+./datasets/Set_J_TEST/review-296.txt,3060,3071,tart little
+./datasets/Set_J_TEST/review-296.txt,236,257,headwaters of Orchard
+./datasets/Set_J_TEST/review-296.txt,236,247,headwaters 
+./datasets/Set_J_TEST/review-296.txt,247,257,of Orchard
+./datasets/Set_J_TEST/review-296.txt,1819,1832,When salt and
+./datasets/Set_J_TEST/review-296.txt,1763,1768,When 
+./datasets/Set_J_TEST/review-296.txt,1824,1832,salt and
+./datasets/Set_J_TEST/review-296.txt,5808,5827,grandest of finales
+./datasets/Set_J_TEST/review-296.txt,5808,5817,grandest 
+./datasets/Set_J_TEST/review-296.txt,5817,5827,of finales
+./datasets/Set_J_TEST/review-296.txt,2191,2204,early days to
+./datasets/Set_J_TEST/review-296.txt,1260,1266,early 
+./datasets/Set_J_TEST/review-296.txt,2197,2204,days to
+./datasets/Set_J_TEST/review-297.txt,699,711,as there are
+./datasets/Set_J_TEST/review-297.txt,699,702,as 
+./datasets/Set_J_TEST/review-297.txt,702,711,there are
+./datasets/Set_J_TEST/review-297.txt,1184,1206,for stowing belongings
+./datasets/Set_J_TEST/review-297.txt,1155,1159,for 
+./datasets/Set_J_TEST/review-297.txt,1188,1206,stowing belongings
+./datasets/Set_J_TEST/review-297.txt,161,172,and a voice
+./datasets/Set_J_TEST/review-297.txt,161,165,and 
+./datasets/Set_J_TEST/review-297.txt,165,172,a voice
+./datasets/Set_J_TEST/review-297.txt,3974,3991,for the dwindling
+./datasets/Set_J_TEST/review-297.txt,1155,1159,for 
+./datasets/Set_J_TEST/review-297.txt,3978,3991,the dwindling
+./datasets/Set_J_TEST/review-297.txt,266,280,until a pocket
+./datasets/Set_J_TEST/review-297.txt,266,272,until 
+./datasets/Set_J_TEST/review-297.txt,272,280,a pocket
+./datasets/Set_J_TEST/review-297.txt,1208,1224,each locked with
+./datasets/Set_J_TEST/review-297.txt,1208,1213,each 
+./datasets/Set_J_TEST/review-297.txt,1213,1224,locked with
+./datasets/Set_J_TEST/review-297.txt,2268,2288,goes from wallflower
+./datasets/Set_J_TEST/review-297.txt,2268,2273,goes 
+./datasets/Set_J_TEST/review-297.txt,2273,2288,from wallflower
+./datasets/Set_J_TEST/review-297.txt,2254,2267,and the broth
+./datasets/Set_J_TEST/review-297.txt,161,165,and 
+./datasets/Set_J_TEST/review-297.txt,2258,2267,the broth
+./datasets/Set_J_TEST/review-298.txt,1202,1221,in gelatinized wine
+./datasets/Set_J_TEST/review-298.txt,330,333,in 
+./datasets/Set_J_TEST/review-298.txt,1205,1221,gelatinized wine
+./datasets/Set_J_TEST/review-298.txt,1818,1839,disappearing with our
+./datasets/Set_J_TEST/review-298.txt,1818,1831,disappearing 
+./datasets/Set_J_TEST/review-298.txt,1831,1839,with our
+./datasets/Set_J_TEST/review-298.txt,3412,3425,s chairs line
+./datasets/Set_J_TEST/review-298.txt,64,66,s 
+./datasets/Set_J_TEST/review-298.txt,3414,3425,chairs line
+./datasets/Set_J_TEST/review-298.txt,2247,2265,They are transient
+./datasets/Set_J_TEST/review-298.txt,1033,1038,They 
+./datasets/Set_J_TEST/review-298.txt,2252,2265,are transient
+./datasets/Set_J_TEST/review-298.txt,2324,2339,Beehive vats of
+./datasets/Set_J_TEST/review-298.txt,2324,2332,Beehive 
+./datasets/Set_J_TEST/review-298.txt,2332,2339,vats of
+./datasets/Set_J_TEST/review-298.txt,1249,1261,this is back
+./datasets/Set_J_TEST/review-298.txt,107,112,this 
+./datasets/Set_J_TEST/review-298.txt,1254,1261,is back
+./datasets/Set_J_TEST/review-298.txt,2146,2164,meatballs in broth
+./datasets/Set_J_TEST/review-298.txt,2146,2156,meatballs 
+./datasets/Set_J_TEST/review-298.txt,2156,2164,in broth
+./datasets/Set_J_TEST/review-298.txt,3553,3562,to drop a
+./datasets/Set_J_TEST/review-298.txt,766,769,to 
+./datasets/Set_J_TEST/review-298.txt,3556,3562,drop a
+./datasets/Set_J_TEST/review-299.txt,1241,1261,shell lotus blossoms
+./datasets/Set_J_TEST/review-299.txt,1241,1247,shell 
+./datasets/Set_J_TEST/review-299.txt,1247,1261,lotus blossoms
+./datasets/Set_J_TEST/review-299.txt,710,730,filling plastic bins
+./datasets/Set_J_TEST/review-299.txt,710,718,filling 
+./datasets/Set_J_TEST/review-299.txt,718,730,plastic bins
+./datasets/Set_J_TEST/review-299.txt,4413,4429,sharp and bright
+./datasets/Set_J_TEST/review-299.txt,4413,4419,sharp 
+./datasets/Set_J_TEST/review-299.txt,4419,4429,and bright
+./datasets/Set_J_TEST/review-299.txt,947,962,which opened in
+./datasets/Set_J_TEST/review-299.txt,947,953,which 
+./datasets/Set_J_TEST/review-299.txt,953,962,opened in
+./datasets/Set_J_TEST/review-299.txt,460,470,to make it
+./datasets/Set_J_TEST/review-299.txt,181,184,to 
+./datasets/Set_J_TEST/review-299.txt,463,470,make it
+./datasets/Set_J_TEST/review-299.txt,84,95,than a half
+./datasets/Set_J_TEST/review-299.txt,84,89,than 
+./datasets/Set_J_TEST/review-299.txt,89,95,a half
+./datasets/Set_J_TEST/review-299.txt,1452,1471,reassuring to those
+./datasets/Set_J_TEST/review-299.txt,1452,1463,reassuring 
+./datasets/Set_J_TEST/review-299.txt,1463,1471,to those
+./datasets/Set_J_TEST/review-299.txt,1381,1392,The menu is
+./datasets/Set_J_TEST/review-299.txt,1381,1385,The 
+./datasets/Set_J_TEST/review-299.txt,1385,1392,menu is
+./datasets/Set_J_TEST/review-300.txt,3984,3995,t mean they
+./datasets/Set_J_TEST/review-300.txt,53,55,t 
+./datasets/Set_J_TEST/review-300.txt,3986,3995,mean they
+./datasets/Set_J_TEST/review-300.txt,1371,1382,s a welcome
+./datasets/Set_J_TEST/review-300.txt,56,58,s 
+./datasets/Set_J_TEST/review-300.txt,1373,1382,a welcome
+./datasets/Set_J_TEST/review-300.txt,1313,1325,To aspire to
+./datasets/Set_J_TEST/review-300.txt,1313,1316,To 
+./datasets/Set_J_TEST/review-300.txt,1316,1325,aspire to
+./datasets/Set_J_TEST/review-300.txt,2681,2698,s turnips playing
+./datasets/Set_J_TEST/review-300.txt,56,58,s 
+./datasets/Set_J_TEST/review-300.txt,2683,2698,turnips playing
+./datasets/Set_J_TEST/review-300.txt,2540,2563,Ingredients are locally
+./datasets/Set_J_TEST/review-300.txt,2540,2552,Ingredients 
+./datasets/Set_J_TEST/review-300.txt,2552,2563,are locally
+./datasets/Set_J_TEST/review-300.txt,879,894,which opened in
+./datasets/Set_J_TEST/review-300.txt,879,885,which 
+./datasets/Set_J_TEST/review-300.txt,885,894,opened in
+./datasets/Set_J_TEST/review-300.txt,1526,1539,of that flour
+./datasets/Set_J_TEST/review-300.txt,110,113,of 
+./datasets/Set_J_TEST/review-300.txt,1529,1539,that flour
+./datasets/Set_J_TEST/review-300.txt,3814,3829,points due west
+./datasets/Set_J_TEST/review-300.txt,3814,3821,points 
+./datasets/Set_J_TEST/review-300.txt,3821,3829,due west
+./datasets/Set_J_TEST/review-301.txt,3076,3087,for a party
+./datasets/Set_J_TEST/review-301.txt,898,902,for 
+./datasets/Set_J_TEST/review-301.txt,3080,3087,a party
+./datasets/Set_J_TEST/review-301.txt,2986,3003,regardless of how
+./datasets/Set_J_TEST/review-301.txt,2986,2997,regardless 
+./datasets/Set_J_TEST/review-301.txt,2997,3003,of how
+./datasets/Set_J_TEST/review-301.txt,1442,1451,I had the
+./datasets/Set_J_TEST/review-301.txt,1442,1444,I 
+./datasets/Set_J_TEST/review-301.txt,1444,1451,had the
+./datasets/Set_J_TEST/review-301.txt,2069,2078,in a high
+./datasets/Set_J_TEST/review-301.txt,603,606,in 
+./datasets/Set_J_TEST/review-301.txt,2072,2078,a high
+./datasets/Set_J_TEST/review-301.txt,3905,3922,effect of chewing
+./datasets/Set_J_TEST/review-301.txt,3905,3912,effect 
+./datasets/Set_J_TEST/review-301.txt,3912,3922,of chewing
+./datasets/Set_J_TEST/review-301.txt,1796,1813,of the restaurant
+./datasets/Set_J_TEST/review-301.txt,383,386,of 
+./datasets/Set_J_TEST/review-301.txt,538,552,the restaurant
+./datasets/Set_J_TEST/review-301.txt,4337,4352,not wide enough
+./datasets/Set_J_TEST/review-301.txt,105,109,not 
+./datasets/Set_J_TEST/review-301.txt,4341,4352,wide enough
+./datasets/Set_J_TEST/review-301.txt,2627,2641,come with soup
+./datasets/Set_J_TEST/review-301.txt,2627,2632,come 
+./datasets/Set_J_TEST/review-301.txt,2632,2641,with soup
+./datasets/Set_J_TEST/review-302.txt,666,684,restaurants at all
+./datasets/Set_J_TEST/review-302.txt,462,474,restaurants 
+./datasets/Set_J_TEST/review-302.txt,678,684,at all
+./datasets/Set_J_TEST/review-302.txt,2015,2024,but it is
+./datasets/Set_J_TEST/review-302.txt,2015,2019,but 
+./datasets/Set_J_TEST/review-302.txt,2019,2024,it is
+./datasets/Set_J_TEST/review-302.txt,5623,5637,In a different
+./datasets/Set_J_TEST/review-302.txt,5623,5626,In 
+./datasets/Set_J_TEST/review-302.txt,5626,5637,a different
+./datasets/Set_J_TEST/review-302.txt,5979,5996,an extremely high
+./datasets/Set_J_TEST/review-302.txt,1212,1215,an 
+./datasets/Set_J_TEST/review-302.txt,5982,5996,extremely high
+./datasets/Set_J_TEST/review-302.txt,1689,1706,toward a skylight
+./datasets/Set_J_TEST/review-302.txt,1689,1696,toward 
+./datasets/Set_J_TEST/review-302.txt,1696,1706,a skylight
+./datasets/Set_J_TEST/review-302.txt,632,646,extra space in
+./datasets/Set_J_TEST/review-302.txt,632,638,extra 
+./datasets/Set_J_TEST/review-302.txt,638,646,space in
+./datasets/Set_J_TEST/review-302.txt,933,945,at the chefs
+./datasets/Set_J_TEST/review-302.txt,201,204,at 
+./datasets/Set_J_TEST/review-302.txt,936,945,the chefs
+./datasets/Set_J_TEST/review-302.txt,5876,5887,on your way
+./datasets/Set_J_TEST/review-302.txt,98,101,on 
+./datasets/Set_J_TEST/review-302.txt,5879,5887,your way
+./datasets/Set_J_TEST/review-303.txt,1961,1983,Brazilian cheese rolls
+./datasets/Set_J_TEST/review-303.txt,1961,1971,Brazilian 
+./datasets/Set_J_TEST/review-303.txt,1971,1983,cheese rolls
+./datasets/Set_J_TEST/review-303.txt,3898,3911,make New York
+./datasets/Set_J_TEST/review-303.txt,556,561,make 
+./datasets/Set_J_TEST/review-303.txt,505,513,New York
+./datasets/Set_J_TEST/review-303.txt,130,142,out into the
+./datasets/Set_J_TEST/review-303.txt,130,134,out 
+./datasets/Set_J_TEST/review-303.txt,134,142,into the
+./datasets/Set_J_TEST/review-303.txt,3874,3885,out of step
+./datasets/Set_J_TEST/review-303.txt,130,134,out 
+./datasets/Set_J_TEST/review-303.txt,3878,3885,of step
+./datasets/Set_J_TEST/review-303.txt,3418,3428,a smear of
+./datasets/Set_J_TEST/review-303.txt,71,73,a 
+./datasets/Set_J_TEST/review-303.txt,3420,3428,smear of
+./datasets/Set_J_TEST/review-303.txt,569,586,opened quietly in
+./datasets/Set_J_TEST/review-303.txt,569,576,opened 
+./datasets/Set_J_TEST/review-303.txt,576,586,quietly in
+./datasets/Set_J_TEST/review-303.txt,165,182,light catching on
+./datasets/Set_J_TEST/review-303.txt,165,171,light 
+./datasets/Set_J_TEST/review-303.txt,171,182,catching on
+./datasets/Set_J_TEST/review-303.txt,3970,3983,t start until
+./datasets/Set_J_TEST/review-303.txt,41,43,t 
+./datasets/Set_J_TEST/review-303.txt,3972,3983,start until
+./datasets/Set_J_TEST/review-304.txt,3579,3597,winked at brandied
+./datasets/Set_J_TEST/review-304.txt,3579,3586,winked 
+./datasets/Set_J_TEST/review-304.txt,3586,3597,at brandied
+./datasets/Set_J_TEST/review-304.txt,3409,3433,assemblages that somehow
+./datasets/Set_J_TEST/review-304.txt,3409,3421,assemblages 
+./datasets/Set_J_TEST/review-304.txt,3421,3433,that somehow
+./datasets/Set_J_TEST/review-304.txt,4068,4086,kindly priced wine
+./datasets/Set_J_TEST/review-304.txt,4068,4075,kindly 
+./datasets/Set_J_TEST/review-304.txt,4075,4086,priced wine
+./datasets/Set_J_TEST/review-304.txt,228,241,she will have
+./datasets/Set_J_TEST/review-304.txt,228,232,she 
+./datasets/Set_J_TEST/review-304.txt,232,241,will have
+./datasets/Set_J_TEST/review-304.txt,1205,1224,that restaurant may
+./datasets/Set_J_TEST/review-304.txt,198,203,that 
+./datasets/Set_J_TEST/review-304.txt,1210,1224,restaurant may
+./datasets/Set_J_TEST/review-304.txt,1818,1829,three and a
+./datasets/Set_J_TEST/review-304.txt,1818,1824,three 
+./datasets/Set_J_TEST/review-304.txt,807,812,and a
+./datasets/Set_J_TEST/review-304.txt,1705,1719,fresh from the
+./datasets/Set_J_TEST/review-304.txt,1705,1711,fresh 
+./datasets/Set_J_TEST/review-304.txt,1711,1719,from the
+./datasets/Set_J_TEST/review-304.txt,1122,1133,the food is
+./datasets/Set_J_TEST/review-304.txt,206,210,the 
+./datasets/Set_J_TEST/review-304.txt,1126,1133,food is
+./datasets/Set_J_TEST/review-305.txt,4475,4491,sour dusted with
+./datasets/Set_J_TEST/review-305.txt,4475,4480,sour 
+./datasets/Set_J_TEST/review-305.txt,4480,4491,dusted with
+./datasets/Set_J_TEST/review-305.txt,1874,1893,common with Locanda
+./datasets/Set_J_TEST/review-305.txt,1874,1881,common 
+./datasets/Set_J_TEST/review-305.txt,1881,1893,with Locanda
+./datasets/Set_J_TEST/review-305.txt,2347,2365,hanger steak under
+./datasets/Set_J_TEST/review-305.txt,2347,2354,hanger 
+./datasets/Set_J_TEST/review-305.txt,2354,2365,steak under
+./datasets/Set_J_TEST/review-305.txt,1506,1527,Carmellini has cooked
+./datasets/Set_J_TEST/review-305.txt,1105,1116,Carmellini 
+./datasets/Set_J_TEST/review-305.txt,1517,1527,has cooked
+./datasets/Set_J_TEST/review-305.txt,601,610,gets in a
+./datasets/Set_J_TEST/review-305.txt,601,606,gets 
+./datasets/Set_J_TEST/review-305.txt,606,610,in a
+./datasets/Set_J_TEST/review-305.txt,1384,1398,less time than
+./datasets/Set_J_TEST/review-305.txt,1191,1196,less 
+./datasets/Set_J_TEST/review-305.txt,1389,1398,time than
+./datasets/Set_J_TEST/review-305.txt,1830,1845,other menus and
+./datasets/Set_J_TEST/review-305.txt,1489,1495,other 
+./datasets/Set_J_TEST/review-305.txt,1836,1845,menus and
+./datasets/Set_J_TEST/review-305.txt,3862,3877,cabbage and red
+./datasets/Set_J_TEST/review-305.txt,3862,3870,cabbage 
+./datasets/Set_J_TEST/review-305.txt,3870,3877,and red
+./datasets/Set_J_TEST/review-306.txt,3340,3355,sliver of apple
+./datasets/Set_J_TEST/review-306.txt,3340,3347,sliver 
+./datasets/Set_J_TEST/review-306.txt,3347,3355,of apple
+./datasets/Set_J_TEST/review-306.txt,5504,5515,at least if
+./datasets/Set_J_TEST/review-306.txt,72,75,at 
+./datasets/Set_J_TEST/review-306.txt,5507,5515,least if
+./datasets/Set_J_TEST/review-306.txt,4629,4647,Braised short ribs
+./datasets/Set_J_TEST/review-306.txt,4629,4637,Braised 
+./datasets/Set_J_TEST/review-306.txt,4637,4647,short ribs
+./datasets/Set_J_TEST/review-306.txt,3175,3187,is the fruit
+./datasets/Set_J_TEST/review-306.txt,55,58,is 
+./datasets/Set_J_TEST/review-306.txt,3178,3187,the fruit
+./datasets/Set_J_TEST/review-306.txt,2556,2570,cold beers and
+./datasets/Set_J_TEST/review-306.txt,2556,2561,cold 
+./datasets/Set_J_TEST/review-306.txt,2561,2570,beers and
+./datasets/Set_J_TEST/review-306.txt,1369,1392,shaped restaurant under
+./datasets/Set_J_TEST/review-306.txt,1369,1376,shaped 
+./datasets/Set_J_TEST/review-306.txt,1376,1392,restaurant under
+./datasets/Set_J_TEST/review-306.txt,1043,1055,Come in from
+./datasets/Set_J_TEST/review-306.txt,1043,1048,Come 
+./datasets/Set_J_TEST/review-306.txt,1048,1055,in from
+./datasets/Set_J_TEST/review-306.txt,6957,6970,but not large
+./datasets/Set_J_TEST/review-306.txt,6957,6961,but 
+./datasets/Set_J_TEST/review-306.txt,6961,6970,not large
+./datasets/Set_J_TEST/review-307.txt,3212,3229,cheese is swapped
+./datasets/Set_J_TEST/review-307.txt,2693,2700,cheese 
+./datasets/Set_J_TEST/review-307.txt,3219,3229,is swapped
+./datasets/Set_J_TEST/review-307.txt,3724,3748,finely minced vegetables
+./datasets/Set_J_TEST/review-307.txt,3724,3731,finely 
+./datasets/Set_J_TEST/review-307.txt,3731,3748,minced vegetables
+./datasets/Set_J_TEST/review-307.txt,794,817,specializes in Georgian
+./datasets/Set_J_TEST/review-307.txt,794,806,specializes 
+./datasets/Set_J_TEST/review-307.txt,806,817,in Georgian
+./datasets/Set_J_TEST/review-307.txt,2797,2816,The waitress churns
+./datasets/Set_J_TEST/review-307.txt,428,432,The 
+./datasets/Set_J_TEST/review-307.txt,2801,2816,waitress churns
+./datasets/Set_J_TEST/review-307.txt,1596,1621,that characterize cooking
+./datasets/Set_J_TEST/review-307.txt,1596,1601,that 
+./datasets/Set_J_TEST/review-307.txt,1601,1621,characterize cooking
+./datasets/Set_J_TEST/review-307.txt,2914,2928,too cheesy and
+./datasets/Set_J_TEST/review-307.txt,2903,2907,too 
+./datasets/Set_J_TEST/review-307.txt,2918,2928,cheesy and
+./datasets/Set_J_TEST/review-307.txt,1852,1861,for a lid
+./datasets/Set_J_TEST/review-307.txt,110,114,for 
+./datasets/Set_J_TEST/review-307.txt,1856,1861,a lid
+./datasets/Set_J_TEST/review-307.txt,3626,3643,The bright orange
+./datasets/Set_J_TEST/review-307.txt,428,432,The 
+./datasets/Set_J_TEST/review-307.txt,3630,3643,bright orange
+./datasets/Set_J_TEST/review-308.txt,549,567,who chummily share
+./datasets/Set_J_TEST/review-308.txt,549,553,who 
+./datasets/Set_J_TEST/review-308.txt,553,567,chummily share
+./datasets/Set_J_TEST/review-308.txt,3335,3350,with the yellow
+./datasets/Set_J_TEST/review-308.txt,1344,1349,with 
+./datasets/Set_J_TEST/review-308.txt,3340,3350,the yellow
+./datasets/Set_J_TEST/review-308.txt,3160,3175,by lemon confit
+./datasets/Set_J_TEST/review-308.txt,85,88,by 
+./datasets/Set_J_TEST/review-308.txt,3163,3175,lemon confit
+./datasets/Set_J_TEST/review-308.txt,796,814,under a chandelier
+./datasets/Set_J_TEST/review-308.txt,796,802,under 
+./datasets/Set_J_TEST/review-308.txt,802,814,a chandelier
+./datasets/Set_J_TEST/review-308.txt,1464,1479,cooked it broke
+./datasets/Set_J_TEST/review-308.txt,1464,1471,cooked 
+./datasets/Set_J_TEST/review-308.txt,1471,1479,it broke
+./datasets/Set_J_TEST/review-308.txt,1208,1222,a tasting menu
+./datasets/Set_J_TEST/review-308.txt,91,93,a 
+./datasets/Set_J_TEST/review-308.txt,1210,1222,tasting menu
+./datasets/Set_J_TEST/review-308.txt,601,630,claustrophobic galley kitchen
+./datasets/Set_J_TEST/review-308.txt,601,616,claustrophobic 
+./datasets/Set_J_TEST/review-308.txt,616,630,galley kitchen
+./datasets/Set_J_TEST/review-308.txt,515,534,Joseph Ogrodnek and
+./datasets/Set_J_TEST/review-308.txt,515,522,Joseph 
+./datasets/Set_J_TEST/review-308.txt,522,534,Ogrodnek and
+./datasets/Set_J_TEST/review-309.txt,3630,3643,dab of minced
+./datasets/Set_J_TEST/review-309.txt,3630,3634,dab 
+./datasets/Set_J_TEST/review-309.txt,3634,3643,of minced
+./datasets/Set_J_TEST/review-309.txt,726,743,garden and parlor
+./datasets/Set_J_TEST/review-309.txt,726,733,garden 
+./datasets/Set_J_TEST/review-309.txt,733,743,and parlor
+./datasets/Set_J_TEST/review-309.txt,444,462,Basel or lamenting
+./datasets/Set_J_TEST/review-309.txt,444,450,Basel 
+./datasets/Set_J_TEST/review-309.txt,450,462,or lamenting
+./datasets/Set_J_TEST/review-309.txt,3340,3357,looked pained and
+./datasets/Set_J_TEST/review-309.txt,3340,3347,looked 
+./datasets/Set_J_TEST/review-309.txt,3347,3357,pained and
+./datasets/Set_J_TEST/review-309.txt,3644,3664,broccoli florets and
+./datasets/Set_J_TEST/review-309.txt,3644,3653,broccoli 
+./datasets/Set_J_TEST/review-309.txt,3653,3664,florets and
+./datasets/Set_J_TEST/review-309.txt,3977,3985,in a row
+./datasets/Set_J_TEST/review-309.txt,476,479,in 
+./datasets/Set_J_TEST/review-309.txt,3980,3985,a row
+./datasets/Set_J_TEST/review-309.txt,4138,4148,to grow up
+./datasets/Set_J_TEST/review-309.txt,392,395,to 
+./datasets/Set_J_TEST/review-309.txt,4141,4148,grow up
+./datasets/Set_J_TEST/review-309.txt,3940,3951,fun is gone
+./datasets/Set_J_TEST/review-309.txt,3940,3944,fun 
+./datasets/Set_J_TEST/review-309.txt,3944,3951,is gone
+./datasets/Set_J_TEST/review-310.txt,3637,3654,The restaurant is
+./datasets/Set_J_TEST/review-310.txt,3637,3641,The 
+./datasets/Set_J_TEST/review-310.txt,3641,3654,restaurant is
+./datasets/Set_J_TEST/review-310.txt,3532,3547,too many people
+./datasets/Set_J_TEST/review-310.txt,3532,3536,too 
+./datasets/Set_J_TEST/review-310.txt,3536,3547,many people
+./datasets/Set_J_TEST/review-310.txt,3424,3440,smart but casual
+./datasets/Set_J_TEST/review-310.txt,3424,3430,smart 
+./datasets/Set_J_TEST/review-310.txt,3430,3440,but casual
+./datasets/Set_J_TEST/review-310.txt,597,622,neighborhood steams ahead
+./datasets/Set_J_TEST/review-310.txt,597,610,neighborhood 
+./datasets/Set_J_TEST/review-310.txt,610,622,steams ahead
+./datasets/Set_J_TEST/review-310.txt,435,446,if the term
+./datasets/Set_J_TEST/review-310.txt,435,438,if 
+./datasets/Set_J_TEST/review-310.txt,438,446,the term
+./datasets/Set_J_TEST/review-310.txt,3189,3204,Wedged into the
+./datasets/Set_J_TEST/review-310.txt,3189,3196,Wedged 
+./datasets/Set_J_TEST/review-310.txt,3196,3204,into the
+./datasets/Set_J_TEST/review-310.txt,2298,2322,shaggy biscuits collapse
+./datasets/Set_J_TEST/review-310.txt,2298,2305,shaggy 
+./datasets/Set_J_TEST/review-310.txt,2305,2322,biscuits collapse
+./datasets/Set_J_TEST/review-310.txt,3621,3635,at other times
+./datasets/Set_J_TEST/review-310.txt,902,905,at 
+./datasets/Set_J_TEST/review-310.txt,3624,3635,other times
+./datasets/Set_J_TEST/review-311.txt,1033,1043,I did wish
+./datasets/Set_J_TEST/review-311.txt,1033,1035,I 
+./datasets/Set_J_TEST/review-311.txt,1035,1043,did wish
+./datasets/Set_J_TEST/review-311.txt,3724,3737,like stubs of
+./datasets/Set_J_TEST/review-311.txt,2474,2479,like 
+./datasets/Set_J_TEST/review-311.txt,3729,3737,stubs of
+./datasets/Set_J_TEST/review-311.txt,1630,1641,of the menu
+./datasets/Set_J_TEST/review-311.txt,958,961,of 
+./datasets/Set_J_TEST/review-311.txt,1633,1641,the menu
+./datasets/Set_J_TEST/review-311.txt,2535,2554,any troubling chewy
+./datasets/Set_J_TEST/review-311.txt,2535,2539,any 
+./datasets/Set_J_TEST/review-311.txt,2539,2554,troubling chewy
+./datasets/Set_J_TEST/review-311.txt,1535,1552,and others spiked
+./datasets/Set_J_TEST/review-311.txt,139,143,and 
+./datasets/Set_J_TEST/review-311.txt,1539,1552,others spiked
+./datasets/Set_J_TEST/review-311.txt,3524,3539,soaked in sugar
+./datasets/Set_J_TEST/review-311.txt,3524,3531,soaked 
+./datasets/Set_J_TEST/review-311.txt,3531,3539,in sugar
+./datasets/Set_J_TEST/review-311.txt,314,327,plump but not
+./datasets/Set_J_TEST/review-311.txt,314,320,plump 
+./datasets/Set_J_TEST/review-311.txt,320,327,but not
+./datasets/Set_J_TEST/review-311.txt,3813,3826,dish hits the
+./datasets/Set_J_TEST/review-311.txt,3813,3818,dish 
+./datasets/Set_J_TEST/review-311.txt,3818,3826,hits the
+./datasets/Set_J_TEST/review-312.txt,4449,4463,and slivers of
+./datasets/Set_J_TEST/review-312.txt,155,159,and 
+./datasets/Set_J_TEST/review-312.txt,4453,4463,slivers of
+./datasets/Set_J_TEST/review-312.txt,5785,5799,this time with
+./datasets/Set_J_TEST/review-312.txt,4655,4660,this 
+./datasets/Set_J_TEST/review-312.txt,5790,5799,time with
+./datasets/Set_J_TEST/review-312.txt,2898,2922,moving soundlessly under
+./datasets/Set_J_TEST/review-312.txt,2898,2905,moving 
+./datasets/Set_J_TEST/review-312.txt,2905,2922,soundlessly under
+./datasets/Set_J_TEST/review-312.txt,1723,1746,restaurant since Seeger
+./datasets/Set_J_TEST/review-312.txt,463,474,restaurant 
+./datasets/Set_J_TEST/review-312.txt,1734,1746,since Seeger
+./datasets/Set_J_TEST/review-312.txt,1852,1870,Seeger dropped the
+./datasets/Set_J_TEST/review-312.txt,8,15,Seeger 
+./datasets/Set_J_TEST/review-312.txt,1859,1870,dropped the
+./datasets/Set_J_TEST/review-312.txt,2540,2557,are painted white
+./datasets/Set_J_TEST/review-312.txt,2429,2433,are 
+./datasets/Set_J_TEST/review-312.txt,2544,2557,painted white
+./datasets/Set_J_TEST/review-312.txt,1515,1523,I put up
+./datasets/Set_J_TEST/review-312.txt,418,420,I 
+./datasets/Set_J_TEST/review-312.txt,1517,1523,put up
+./datasets/Set_J_TEST/review-312.txt,2959,2976,With every detail
+./datasets/Set_J_TEST/review-312.txt,2959,2964,With 
+./datasets/Set_J_TEST/review-312.txt,2964,2976,every detail
+./datasets/Set_J_TEST/review-313.txt,3900,3916,simply fishy and
+./datasets/Set_J_TEST/review-313.txt,3900,3907,simply 
+./datasets/Set_J_TEST/review-313.txt,3907,3916,fishy and
+./datasets/Set_J_TEST/review-313.txt,980,1002,Departing diners shrug
+./datasets/Set_J_TEST/review-313.txt,980,990,Departing 
+./datasets/Set_J_TEST/review-313.txt,990,1002,diners shrug
+./datasets/Set_J_TEST/review-313.txt,884,901,sending her stool
+./datasets/Set_J_TEST/review-313.txt,884,892,sending 
+./datasets/Set_J_TEST/review-313.txt,892,901,her stool
+./datasets/Set_J_TEST/review-313.txt,3548,3557,it can be
+./datasets/Set_J_TEST/review-313.txt,332,335,it 
+./datasets/Set_J_TEST/review-313.txt,3551,3557,can be
+./datasets/Set_J_TEST/review-313.txt,665,686,tightly packed tables
+./datasets/Set_J_TEST/review-313.txt,665,673,tightly 
+./datasets/Set_J_TEST/review-313.txt,673,686,packed tables
+./datasets/Set_J_TEST/review-313.txt,860,873,you erupts in
+./datasets/Set_J_TEST/review-313.txt,263,267,you 
+./datasets/Set_J_TEST/review-313.txt,864,873,erupts in
+./datasets/Set_J_TEST/review-313.txt,6087,6099,you may want
+./datasets/Set_J_TEST/review-313.txt,263,267,you 
+./datasets/Set_J_TEST/review-313.txt,6091,6099,may want
+./datasets/Set_J_TEST/review-313.txt,3327,3340,of Shin Tseng
+./datasets/Set_J_TEST/review-313.txt,134,137,of 
+./datasets/Set_J_TEST/review-313.txt,3330,3340,Shin Tseng
+./datasets/Set_J_TEST/review-314.txt,564,575,re here now
+./datasets/Set_J_TEST/review-314.txt,564,567,re 
+./datasets/Set_J_TEST/review-314.txt,567,575,here now
+./datasets/Set_J_TEST/review-314.txt,2858,2876,including liang pi
+./datasets/Set_J_TEST/review-314.txt,2858,2868,including 
+./datasets/Set_J_TEST/review-314.txt,2868,2876,liang pi
+./datasets/Set_J_TEST/review-314.txt,2684,2703,The former occupant
+./datasets/Set_J_TEST/review-314.txt,143,147,The 
+./datasets/Set_J_TEST/review-314.txt,2688,2703,former occupant
+./datasets/Set_J_TEST/review-314.txt,3375,3386,and then we
+./datasets/Set_J_TEST/review-314.txt,631,635,and 
+./datasets/Set_J_TEST/review-314.txt,3379,3386,then we
+./datasets/Set_J_TEST/review-314.txt,366,377,on the sign
+./datasets/Set_J_TEST/review-314.txt,99,102,on 
+./datasets/Set_J_TEST/review-314.txt,369,377,the sign
+./datasets/Set_J_TEST/review-314.txt,2631,2643,and hot only
+./datasets/Set_J_TEST/review-314.txt,631,635,and 
+./datasets/Set_J_TEST/review-314.txt,2635,2643,hot only
+./datasets/Set_J_TEST/review-314.txt,79,90,s easier to
+./datasets/Set_J_TEST/review-314.txt,79,81,s 
+./datasets/Set_J_TEST/review-314.txt,81,90,easier to
+./datasets/Set_J_TEST/review-314.txt,663,680,a talonlike whole
+./datasets/Set_J_TEST/review-314.txt,124,126,a 
+./datasets/Set_J_TEST/review-314.txt,665,680,talonlike whole
+./datasets/Set_J_TEST/review-315.txt,7182,7200,finest French beef
+./datasets/Set_J_TEST/review-315.txt,3783,3790,finest 
+./datasets/Set_J_TEST/review-315.txt,7189,7200,French beef
+./datasets/Set_J_TEST/review-315.txt,5244,5260,lot to recapture
+./datasets/Set_J_TEST/review-315.txt,5244,5248,lot 
+./datasets/Set_J_TEST/review-315.txt,5248,5260,to recapture
+./datasets/Set_J_TEST/review-315.txt,4988,5003,columns of half
+./datasets/Set_J_TEST/review-315.txt,4988,4996,columns 
+./datasets/Set_J_TEST/review-315.txt,4996,5003,of half
+./datasets/Set_J_TEST/review-315.txt,1034,1048,s purity shine
+./datasets/Set_J_TEST/review-315.txt,95,97,s 
+./datasets/Set_J_TEST/review-315.txt,1036,1048,purity shine
+./datasets/Set_J_TEST/review-315.txt,1792,1806,service can be
+./datasets/Set_J_TEST/review-315.txt,1792,1800,service 
+./datasets/Set_J_TEST/review-315.txt,1800,1806,can be
+./datasets/Set_J_TEST/review-315.txt,1957,1972,When people who
+./datasets/Set_J_TEST/review-315.txt,1957,1962,When 
+./datasets/Set_J_TEST/review-315.txt,1962,1972,people who
+./datasets/Set_J_TEST/review-315.txt,6648,6662,But there wasn
+./datasets/Set_J_TEST/review-315.txt,205,209,But 
+./datasets/Set_J_TEST/review-315.txt,6652,6662,there wasn
+./datasets/Set_J_TEST/review-315.txt,6898,6915,on French peasant
+./datasets/Set_J_TEST/review-315.txt,801,804,on 
+./datasets/Set_J_TEST/review-315.txt,6901,6915,French peasant
