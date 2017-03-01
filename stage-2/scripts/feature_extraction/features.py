@@ -147,7 +147,7 @@ class PriceMentionFeature:
         return
 
     def process(self, row):
-        context = get_context_after_row(row)
+        context = get_context_after_row(row).strip()
         return context.find("$")
 
     @staticmethod
@@ -158,6 +158,21 @@ class PriceMentionFeature:
     def get_feature_type():
         return 'INTEGER'
 
+class CommaFollowedFeature:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        context = get_context_after_row(row).strip()
+        return context.find(",")
+
+    @staticmethod
+    def get_feature_name():
+        return 'followed_by_comma'
+
+    @staticmethod
+    def get_feature_type():
+        return 'INTEGER'
 
 class HasMealNameMentionedFeature:
     meal_names = []
@@ -211,6 +226,29 @@ class HasDishQuantityMentionFeature:
     @staticmethod
     def get_feature_name():
         return 'has_dish_quantity_mention'
+
+    @staticmethod
+    def get_feature_type():
+        return ['true', 'false']
+
+class HasCapitalStarting:
+    def __init__(self):
+        return
+
+    def process(self, row):
+        if 'dish name' in row:
+            dish_name = re.sub(r"[^ +\w]", "", row['dish name'])
+        else:
+            dish_name = re.sub(r"[^ +\w]", "", row['negative sample'])
+        new_name = unicode(dish_name, errors='ignore')
+        if new_name[0] >= 'A' and new_name[0] <= 'Z' :
+            return 'true'
+        else :
+            return 'false'
+
+    @staticmethod
+    def get_feature_name():
+        return 'dish_name_starts_with_capital'
 
     @staticmethod
     def get_feature_type():

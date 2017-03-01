@@ -45,6 +45,8 @@ def define_attributes():
                             features.PriceMentionFeature(),
                             features.HasMealNameMentionedFeature(),
                             features.HasDishQuantityMentionFeature(),
+                            features.CommaFollowedFeature(),
+                            features.HasCapitalStarting(),
                             features.DishNameFeature(),
                             features.FileNameFeature(),
                             features.FeatureLabel()
