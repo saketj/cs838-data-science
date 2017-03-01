@@ -1,9 +1,15 @@
 import csv
 import re
 import glob
+import sys
+
+argv = sys.argv[1:]
+if len(argv) < 2:
+    sys.stderr.write("Incorrect arguments. Expecting two arguments: <input_files> <output_file>\n")
+    sys.exit(-1)
 
 pos_list = [['file name','start offset','end offset','dish name']] # A list for all positive examples
-path = './Debugging_stage/Set_Q/*.txt'
+path = argv[0]
 # path = './datasets/Set_I_DEV/*.txt'
 # path = '../datasets/text-documents-labeled_TEST/*.txt'
 files = glob.glob(path)
@@ -17,6 +23,6 @@ for fle in files:
           pos_list.append([f.name,l.start(),l.end(),l.group(1)])
 
 # Writing output to csv
-with open("./Debugging_stage/debug_posextracted_Q.csv", "wb") as f:
+with open(argv[1], "wb") as f:
     writer = csv.writer(f)
     writer.writerows(pos_list)
