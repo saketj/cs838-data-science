@@ -6,5 +6,4 @@
 
 ### Entity used for Information Extraction
  - In this dataset, we have used **the name of dishes** as the entity for information extraction.
- - These entities have been manually marked in the dataset within ***<dish>...</dish>*** tags.
-
+ - These entities have been manually marked in the dataset within `<dish>...</dish>` tags.
