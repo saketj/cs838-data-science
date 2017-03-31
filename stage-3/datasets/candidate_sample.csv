@@ -1,0 +1,601 @@
+_id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine,rtable_name,rtable_address,rtable_zipcode,rtable_cuisine
+4247,25,5388,citizens of chelsea,"401 w 25th st,",10001,coffee & tea breakfast & brunch,pushcart coffee,401 w 25th st,10001,cafã©/coffee/tea
+4957,28,3282,lemony,"224 w 35th st, ,",10001,greek salad desserts,sushi fussion,224 w 35th st,10001,jewish/kosher
+5087,28,4900,lemony,"224 w 35th st, ,",10001,greek salad desserts,sushi fussion,224 w 35th st,10001,jewish/kosher
+6643,36,3646,sweet churros with coffeed,"food gallery 32, 11 w 32nd st,",10001,coffee & tea desserts sandwiches,maru,11 w 32nd st,10001,korean
+6691,36,19720,sweet churros with coffeed,"food gallery 32, 11 w 32nd st,",10001,coffee & tea desserts sandwiches,food gallery 32,11 w 32nd st,10001,korean
+9481,51,3646,kobeque,"11 w 32nd st, ,",10001,korean barbeque,maru,11 w 32nd st,10001,korean
+9529,51,19720,kobeque,"11 w 32nd st, ,",10001,korean barbeque,food gallery 32,11 w 32nd st,10001,korean
+9550,52,16278,cafe hanamizuki,"143 w 29th st, ,",10001,cafes,hanamizuki cafe,143 w 29th st,10001,japanese
+12246,67,14139,johny's luncheonette,"124 w 25th st, ,",10001,american (traditional) diners breakfast & brunch,perpetuum cafe,124 w 25th st,10001,cafã©/coffee/tea
+15550,85,16410,miss korea bbq,"10 w 32nd st, 1st, 2nd & 3rd fl,",10001,korean barbeque,miss korea barbecue ''sun'',10 w 32nd st,10001,korean
+16398,89,2671,shanghai mong,"30 w 32nd st,",10001,korean chinese asian fusion,shanghai mong,30 w 32nd st,10001,korean
+16482,89,11526,shanghai mong,"30 w 32nd st,",10001,korean chinese asian fusion,shanghai mong,30 w 32nd st,10001,korean
+19877,108,10668,sushi fussion nyc,"224 w 35th st, ,",10001,sushi bars asian fusion,sushi fussion,224 w 35th st,10001,jewish/kosher
+20051,108,4900,sushi fussion nyc,"224 w 35th st, ,",10001,sushi bars asian fusion,sushi fussion,224 w 35th st,10001,jewish/kosher
+25885,143,12653,cloud 28,"127 w 28th st,",10001,lounges breakfast & brunch sandwiches,stix chelsea/hotel indigo/rooftop bar,127 w 28th st,10001,american
+26299,145,19720,boon sik zip,"11 w 32nd st, food gallery 32,",10001,korean,food gallery 32,11 w 32nd st,10001,korean
+28136,161,13387,mcdonald's,"151 w 34th st, ,",10001,burgers fast food,rowland's bar and grill/chef street,151 w 34th st,10001,american
+28318,161,3979,mcdonald's,"151 w 34th st, ,",10001,burgers fast food,"auntie anne's pretzels, pinkberry",151 w 34th st,10001,hotdogs/pretzels
+30863,171,7425,roll & katsu kitchen,"11 w 32nd st, ste 5,",10001,sushi bars korean japanese,food gallery 32,11 w 32nd st,10001,korean
+30943,171,19720,roll & katsu kitchen,"11 w 32nd st, ste 5,",10001,sushi bars korean japanese,food gallery 32,11 w 32nd st,10001,korean
+33192,186,2030,cafe r,"116 w 32nd st, ,",10001,food court american (new) breakfast & brunch,cafe r,116 w 32nd st,10001,american
+78892,429,16218,benemon,"108 e 4th st,",10003,japanese,benemon,108 e 4th st,10003,japanese
+81169,438,16708,irvington,"the w hotel, 201 park ave s,",10003,american (new),irvington bar and restaurant/studio/lilium,201 park ave s,10003,american
+92552,471,15218,misirizzi,"36 e 4th st,",10003,italian,ogawa cafe,36 e 4th st,10003,japanese
+94921,484,15883,k'ook,"324 e 6th st,",10003,korean,k'ook,324 e 6th st,10003,korean
+102699,513,61,florian,"225 park ave s, ,",10003,italian pizza,florian cafe tattoria & bar,225 park ave s,10003,italian
+121621,579,13370,the winslow,"243 e 14th st, ,",10003,pubs,the winslow,243 e 14th st,10003,american
+141334,651,3347,le petit parisien,"32 e 7th st,",10003,sandwiches,east village thia restaurant,32 e 7th st,10003,thai
+143413,658,2415,v spot,12 saint marks pl,10003,latin american vegan gluten-free,vspot organic,12 saint marks pl,10003,"latin (cuban, dominican, puerto rican, south & central american)"
+151563,775,18637,subway,"1 new york plz, ,",10004,fast food sandwiches,starbucks,1 new york plz,10004,cafã©/coffee/tea
+151594,775,22668,subway,"1 new york plz, ,",10004,fast food sandwiches,cappone's salumeria,1 new york plz,10004,sandwiches
+161865,1134,794,thursday kitchen,"424 e 9th st,",10009,korean american (new) tapas/small plates,thursday kitcehn,424 e 9th st,10009,asian
+162291,1136,13395,root and bone,"200 e 3rd st, ,",10009,southern comfort food desserts,root & bone,200 e 3rd st,10009,american
+162978,1140,11857,carma east,"507 e 6th st,",10009,bars dim sum taiwanese,carma,507 e 6th st,10009,asian
+164126,1150,15926,gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,secara,234 e 4th st,10009,spanish
+164227,1150,21267,gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,gnoccheria by luzzo's,234 e 4th st,10009,italian
+165425,1159,17495,raclette,"511 e 12th st, ,",10009,sandwiches french,la vraie raclette,511 e 12th st,10009,french
+165438,1159,2343,raclette,"511 e 12th st, ,",10009,sandwiches french,la vraie raclette,511 e 12th st,10009,french
+165448,1159,2008,raclette,"511 e 12th st, ,",10009,sandwiches french,la vraie raclette,511 e 12th st,10009,french
+174213,1223,17925,izakaya nomad,"13 w 26th st, ,",10010,gastropubs izakaya bars,izakaya nomad,13 w 26th st,10010,japanese
+176869,1248,423,chop shop ii,"41 w 24th st,",10010,chinese thai asian fusion,chop shop kitchen,41 w 24th st,10010,asian
+177604,1254,21184,bite,"62 w 22nd st, ,",10010,salad mediterranean sandwiches,bite,62 w 22nd st,10010,sandwiches/salads/mixed buffet
+177693,1254,3810,bite,"62 w 22nd st, ,",10010,salad mediterranean sandwiches,bite,62 w 22nd st,10010,sandwiches/salads/mixed buffet
+179895,1280,422,indikitch,"25 w 23rd st,",10010,indian,indikitch,25 w 23rd st,10010,indian
+179987,1280,16098,indikitch,"25 w 23rd st,",10010,indian,indikitch,25 w 23rd st,10010,indian
+180052,1281,21494,shaka burrito,"210 e 23rd st, ,",10010,mexican hawaiian caribbean,shaka burrito,210 e 23rd st,10010,mexican
+180060,1281,18410,shaka burrito,"210 e 23rd st, ,",10010,mexican hawaiian caribbean,shaka burrito,210 e 23rd st,10010,mexican
+180122,1281,16541,shaka burrito,"210 e 23rd st, ,",10010,mexican hawaiian caribbean,shaka burrito,210 e 23rd st,10010,mexican
+181249,1293,15638,tacombi flatiron - cafe el presidente,"30 w 24th st, ,",10010,mexican,cafe el presidente,30 w 24th st,10010,mexican
+184366,1321,10126,burger & lobster,"39 w 19th st, ,",10011,seafood burgers,burger & lobster,39 w 19th st,10011,american
+191140,1359,15446,auntie guan's kitchen 108,"108 w 14th st, ,",10011,chinese asian fusion,auntie guan's kitchen 108,108 w 14th st,10011,chinese
+198771,1399,16470,black tap craft burgers & beer,"248 w 14th st,",10011,bars burgers,black tap,248 w 14th st,10011,american
+198906,1399,3780,black tap craft burgers & beer,"248 w 14th st,",10011,bars burgers,black tap,248 w 14th st,10011,american
+204395,1427,3286,sushi para 88,"212 w 14th st, ,",10011,sushi bars japanese,sushi para 88,212 w 14th st,10011,japanese
+206649,1440,11906,lena,"1 w 8th st, ,",10011,coffee & tea sandwiches,lena,1 w 8th st,10011,bakery
+206655,1440,14981,lena,"1 w 8th st, ,",10011,coffee & tea sandwiches,la panineria,1 w 8th st,10011,italian
+208098,1446,11735,bodega negra,"dream downtown, 355 w 16th st,",10011,mexican,megu,355 w 16th st,10011,japanese
+209527,1452,5450,la carbonara,"202 w 14th st, ,",10011,italian,la carbornara,202 w 14th st,10011,italian
+219299,1507,11906,la panineria,"1 w 8th st,",10011,italian sandwiches,lena,1 w 8th st,10011,bakery
+223809,1526,8991,vic's,"31 great jones st, ,",10012,bars american (new) italian,vic's,31 great jones st,10012,american
+228917,1554,16807,domodomo,"138 w houston st, ,",10012,japanese sushi bars,domodomo,138 w houston st,10012,japanese
+290015,1826,1483,souk & sandwich,"117 ave of the america's,",10013,lebanese sandwiches fast food,souk & sandwich,117 avenue of the americas,10013,american
+290024,1826,3893,souk & sandwich,"117 ave of the america's,",10013,lebanese sandwiches fast food,souk & sandwich,117 avenue of the americas,10013,american
+290192,1826,9570,souk & sandwich,"117 ave of the america's,",10013,lebanese sandwiches fast food,souk & sandwich,117 avenue of the americas,10013,american
+325639,1984,11895,bespoke kitchen,"615 1/2 hudson st,",10014,american (new),bespoke kitchen,615 1/2 hudson st,10014,american
+327820,2005,18519,mulino a vino,"337 w 14th st, ,",10014,italian wine bars,mulino a vino,337 w 14th st,10014,italian
+336121,2055,6515,otto's tacos,"131 7th ave s, ,",10014,mexican,otto's tacos,131 7th ave s,10014,mexican
+355158,2181,21265,atoboy,"43 e 28th st,",10016,korean tapas/small plates asian fusion,atoboy,43 e 28th st,10016,asian
+356147,2187,3569,marta,"29 e 29th st, ,",10016,pizza italian,marta,29 e 29th st,10016,italian
+357408,2196,12318,may kaidee nyc,"126 e 28th st,",10016,thai vegan vegetarian,desi food truck,126 e 28th st,10016,indian
+362579,2221,9224,benjamin prime,"23 e 40th st,",10016,steakhouses,benjamin steakhouse prime,23 e 40th st,10016,steak
+367461,2244,15294,pippali,"129 e 27th st, ,",10016,indian bars,pippali,129 e 27th st,10016,indian
+376658,2308,14330,asellina,"420 park ave s, ,",10016,italian breakfast & brunch cocktail bars,gansevoort park rooftop,420 park ave s,10016,american
+381419,2335,158,mazhi asian bistro & bar,"120 e 34th st, ,",10016,chinese japanese vietnamese,dj pizza,120 e 34th st,10016,pizza
+384316,2347,7383,vitae,"4 e 46th st, ,",10017,american (new) wine bars cocktail bars,vitae,4 e 46th st,10017,american
+384370,2347,16606,vitae,"4 e 46th st, ,",10017,american (new) wine bars cocktail bars,vitae,4 e 46th st,10017,american
+385674,2358,22289,nishida sho-ten,"302 e 49th st, ,",10017,ramen,nishida sho-ten,302 e 49th st,10017,japanese
+388746,2377,7236,sushi tsushima,"210 e 44th st, ,",10017,japanese sushi bars,tsushima,210 e 44th st,10017,japanese
+389213,2379,20274,blackwells pub and restaurant,"150 e 47th st, ,",10017,pubs american (traditional),blackwells,150 e 47th st,10017,american
+399993,2454,19848,hop won restaurant,"139 e 45th st, ,",10017,chinese,hop won express,139 e 45th st,10017,chinese
+400007,2454,21072,hop won restaurant,"139 e 45th st, ,",10017,chinese,hop won express,139 e 45th st,10017,chinese
+403223,2478,11846,calle dao,"38 w 39th st, ,",10018,cuban cocktail bars breakfast & brunch,calle dao,38 w 39th st,10018,"latin (cuban, dominican, puerto rican, south & central american)"
+403743,2482,15200,district tap house,"246 w 38th st, ,",10018,sports bars gastropubs pubs,district tap house,246 w 38th st,10018,american
+406155,2499,11421,habanero blues,"29 w 36th st,",10018,mexican cocktail bars,habanero blues,29 w 36th st,10018,tex-mex
+408144,2517,23148,aya sushi,"314 w 39th st,",10018,japanese,aya sushi,314 w 39th st,10018,japanese
+409379,2524,15792,proper west,"54 w 39th st, ,",10018,sports bars american (new) lounges,proper west,54 w 39th st,10018,american
+410529,2531,15601,tír na nóg,"315 w 39th st,",10018,american (new) irish irish pub,tir na nog bar and grill,315 w 39th st,10018,irish
+413054,2548,5014,savour sichuan,"108 w 39th st, ,",10018,szechuan dim sum asian fusion,savour sichuan,108 w 39th st,10018,chinese
+413190,2550,14469,6 ave tobacco & magazine & coffee shop,"1013 avenue of the americas, ,",10018,delis,bombay junction/pizza king,1013 avenue of the americas,10018,indian
+413228,2550,1696,6 ave tobacco & magazine & coffee shop,"1013 avenue of the americas, ,",10018,delis,starbucks,977 avenue of the americas,10018,american
+417740,2585,2534,topaz noodle bar,"129 w 56th st, ,",10019,thai,topaz noodle bar,129 w 56th st,10019,asian
+418309,2592,19282,ippudo westside,"321 w 51st st,",10019,ramen,ippudo ny,321 w 51st st,10019,japanese
+418530,2592,8930,ippudo westside,"321 w 51st st,",10019,ramen,ippudo ny,321 w 51st st,10019,japanese
+421696,2606,2821,le bernardin,"the equitable bldg, 155 w 51st st,",10019,french lounges,le bernardin,155 w 51st st,10019,french
+445510,2701,22709,bareburger,"313 w 57th st, ,",10019,burgers salad american (traditional),bareburger,313 w 57th st,10019,american
+460555,2748,13291,the wayfarer,"101 w 57th st, ,",10019,american (new),the wayfarer,101 w 57th st,10019,seafood
+460603,2748,5321,the wayfarer,"101 w 57th st, ,",10019,american (new),the wayfarer,101 w 57th st,10019,seafood
+461160,2753,19050,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,bistro milano,1350 avenue of the americas,10019,italian
+461185,2753,9338,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,subway,1285 avenue of americas,10019,sandwiches
+461193,2753,3283,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,herb'n kitchen & lobby lounge @ hilton hotel,1335 avenue of the americas,10019,american
+461238,2753,5713,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,bistro milano,1350 avenue of the americas,10019,italian
+461241,2753,2032,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton employee cafeteria,1335 avenue of the americas,10019,american
+461256,2753,19734,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton new york main kitchen,1335 avenue of the americas,10019,american
+461314,2753,13608,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,mastro's steakhouse,1285 avenue of the americas,10019,steak
+461331,2753,570,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,pazza notte,1375 avenue of the americas,10019,italian
+461392,2753,9149,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton new york main kitchen,1335 avenue of the americas,10019,american
+461393,2753,13429,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton new  york hilton banquet hall,1335 avenue of the americas,10019,american
+461497,2753,14553,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton new york main kitchen,1335 avenue of the americas,10019,american
+461512,2753,16678,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton new york main kitchen,1335 avenue of the americas,10019,american
+466070,2773,2781,nyy steak,"7 w 51st st, ,",10019,steakhouses american (traditional),nyy steak,7 w 51st st,10019,american
+470441,2791,2973,totto ramen hell's kitchen,"464 w 51st st, ,",10019,ramen,totto ramen,464 w 51st st,10019,japanese
+478332,2822,13843,pizza rollio,"1 w 58th st, ,",10019,pizza,sabi sushi,1 w 58th st,10019,japanese
+478691,2824,19050,bistro milano,"1350 ave of the americas,",10019,italian wine bars cocktail bars,bistro milano,1350 avenue of the americas,10019,italian
+478769,2824,5713,bistro milano,"1350 ave of the americas,",10019,italian wine bars cocktail bars,bistro milano,1350 avenue of the americas,10019,italian
+482454,2839,3283,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,herb'n kitchen & lobby lounge @ hilton hotel,1335 avenue of the americas,10019,american
+482499,2839,5713,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,bistro milano,1350 avenue of the americas,10019,italian
+482517,2839,19734,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,hilton new york main kitchen,1335 avenue of the americas,10019,american
+482523,2839,12226,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,pazza notte,1375 avenue of the americas,10019,italian
+482542,2839,20184,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,minus 5 ice lounge,1335 avenue of the americas,10019,other
+482549,2839,16571,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,herb'n kitchen & lobby lounge @ hilton hotel,1335 avenue of the americas,10019,american
+482557,2839,19402,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,pazza notte,1375 avenue of the americas,10019,italian
+482592,2839,570,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,pazza notte,1375 avenue of the americas,10019,italian
+482653,2839,9149,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,hilton new york main kitchen,1335 avenue of the americas,10019,american
+482654,2839,13429,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,hilton new  york hilton banquet hall,1335 avenue of the americas,10019,american
+482758,2839,14553,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,hilton new york main kitchen,1335 avenue of the americas,10019,american
+482773,2839,16678,pazza notte,"1375 avenue of the americas, ,",10019,italian lounges cocktail bars,hilton new york main kitchen,1335 avenue of the americas,10019,american
+482827,2840,3283,new york hilton midtown,"1335 ave of the americas, ,",10019,hotels,herb'n kitchen & lobby lounge @ hilton hotel,1335 avenue of the americas,10019,american
+482890,2840,19734,new york hilton midtown,"1335 ave of the americas, ,",10019,hotels,hilton new york main kitchen,1335 avenue of the americas,10019,american
+482915,2840,20184,new york hilton midtown,"1335 ave of the americas, ,",10019,hotels,minus 5 ice lounge,1335 avenue of the americas,10019,other
+483007,2840,1134,new york hilton midtown,"1335 ave of the americas, ,",10019,hotels,hilton employee cafeteria,1335 avenue of the americas,10019,american
+483146,2840,16678,new york hilton midtown,"1335 ave of the americas, ,",10019,hotels,hilton new york main kitchen,1335 avenue of the americas,10019,american
+486408,2854,17148,the squeeze,"550 w 54th st, ,",10019,health markets juice bars & smoothies live/raw food,the squeeze,550 w 54th st,10019,"juice, smoothies, fruit salads"
+487902,2859,14212,terrace 5,"11 w 53rd st, ,",10019,american (new) italian,cafe 2,11 w 53rd st,10019,american
+489865,2864,5334,blue dog cafe,"155 w 56th st, ,",10019,coffee & tea sandwiches,blue dog cafe,155 w 56th st,10019,cafã©/coffee/tea
+491632,2870,14212,moma café 2,"the museum of modern art, 11 w 53rd st 2nd fl,",10019,italian,cafe 2,11 w 53rd st,10019,american
+508745,3049,17209,nare sushi,"115 e 57th st,",10022,sushi bars japanese,nare sushi,115 e 57th st,10022,japanese
+508823,3049,16721,nare sushi,"115 e 57th st,",10022,sushi bars japanese,la parisienne french bakery,115 e 57th st,10022,bakery
+509496,3054,1146,totto ramen,"248 e 52nd st, ,",10022,ramen soup,totto ramen,248 e 52nd st,10022,japanese
+509575,3054,12002,totto ramen,"248 e 52nd st, ,",10022,ramen soup,totto ramen,248 e 52nd st,10022,japanese
+509581,3054,368,totto ramen,"248 e 52nd st, ,",10022,ramen soup,totto ramen,248 e 52nd st,10022,japanese
+514849,3077,440,tijuana tacos bar & grill,"330 east 53 street, suite#1,",10022,mexican,tijuana tacos barandgrill,330 east   53 street,10022,mexican
+521082,3114,20436,blu on park,"116 e 60th st, ,",10022,steakhouses,blu on park,116 e 60th st,10022,steak
+525754,3137,2238,kung fu little steamed buns ramen,"146 e 55th st, ,",10022,ramen chinese,kung fu little steamed buns,146 e 55th st,10022,chinese
+527955,3150,21877,hudson malone,"218 e 53rd st 3rd ave, ,",10022,american (traditional),hudson malone,218 e 53rd st,10022,american
+529161,3156,17206,la villetta,"398 e 52nd st, ,",10022,italian,la villetta,398 e 52nd st,10022,italian
+536034,3197,16587,asian eatery,"207 e 59th st, ,",10022,japanese chinese,asian 59,207 e 59th st,10022,chinese/japanese
+536207,3197,5557,asian eatery,"207 e 59th st, ,",10022,japanese chinese,asian 59,207 e 59th st,10022,chinese/japanese
+538178,3209,659,212 steakhouse,"316 e 53rd st, ,",10022,steakhouses wine bars seafood,212 steakhouse,316 e 53rd st,10022,steak
+538187,3209,217,212 steakhouse,"316 e 53rd st, ,",10022,steakhouses wine bars seafood,212 steakhouse,316 e 53rd st,10022,steak
+538357,3209,14738,212 steakhouse,"316 e 53rd st, ,",10022,steakhouses wine bars seafood,212 steakhouse,316 e 53rd st,10022,steak
+549789,3274,8729,lincoln square steak,"208 w 70th st,",10023,steakhouses,lincoln square steak,208 w 70th st,10023,steak
+554752,3359,16163,simit + smith,"124 w 72nd st, ,",10023,bakeries coffee & tea breakfast & brunch,simit and smith,124 w 72nd st,10023,bagels/pretzels
+571991,3613,4157,szechuan garden,"239 w 105th st, ,",10025,szechuan,szechuan garden,239 w 105th st,10025,chinese
+572113,3613,4110,szechuan garden,"239 w 105th st, ,",10025,szechuan,szechuan garden,239 w 105th st,10025,chinese
+588911,3760,13638,row house,"2128 frederick douglass blvd, ,",10026,american (new) tapas/small plates cocktail bars,row house,2128 frederick douglass blvd,10026,american
+589105,3767,3895,harlem pizza co.,"135 w 116th st, ,",10026,pizza,harlem pizza co.,135 w 116th st,10026,pizza
+589147,3768,10389,blujeen,"2143 frederick douglass blvd, ,",10026,american (new) comfort food,blujeen,2143 frederick douglass blvd,10026,american
+589238,3772,9104,harlem food court,"66 w 116th st, ,",10026,food court,harlem food court,66 w 116th st,10026,american
+591746,3865,15254,chez alain,"2046 adam clayton powell jr blvd, ,",10027,senegalese,asian fusion,2071 adam clayton powell jr blvd,10027,asian
+591754,3865,19464,chez alain,"2046 adam clayton powell jr blvd, ,",10027,senegalese,kennedy fried chicken,2057 adam clayton powell jr blvd,10027,american
+591759,3865,8485,chez alain,"2046 adam clayton powell jr blvd, ,",10027,senegalese,harlem karibe take out,2234 adam clayton powel jr blvd,10027,caribbean
+591916,3872,15254,accra restaurant,"2065 adam clayton powell jr blvd, ,",10027,african,asian fusion,2071 adam clayton powell jr blvd,10027,asian
+591924,3872,19464,accra restaurant,"2065 adam clayton powell jr blvd, ,",10027,african,kennedy fried chicken,2057 adam clayton powell jr blvd,10027,american
+591929,3872,8485,accra restaurant,"2065 adam clayton powell jr blvd, ,",10027,african,harlem karibe take out,2234 adam clayton powel jr blvd,10027,caribbean
+591972,3872,3238,accra restaurant,"2065 adam clayton powell jr blvd, ,",10027,african,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian
+592597,3890,18328,go! go! curry!,"567 w 125th st,",10027,japanese fast food,go go curry,567 w 125th st,10027,japanese
+593029,3896,19464,delhi masala,"2077 adam clayton powell jr blvd,",10027,indian buffets,kennedy fried chicken,2057 adam clayton powell jr blvd,10027,american
+593077,3896,3238,delhi masala,"2077 adam clayton powell jr blvd,",10027,indian buffets,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian
+595159,3940,8485,harlem karibe restaurant & catering,"2234 adam clayton powell jr blvd, ,",10027,haitian latin american cuban,harlem karibe take out,2234 adam clayton powel jr blvd,10027,caribbean
+595202,3940,3238,harlem karibe restaurant & catering,"2234 adam clayton powell jr blvd, ,",10027,haitian latin american cuban,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian
+597280,3973,9628,buffalo boss,"17 w 125th st, ,",10027,chicken wings salad american (traditional),piece of velvet,17 w 125th st,10027,"ice cream, gelato, yogurt, ices"
+597611,3978,15254,tropical grill & restaurant,"2145 adam clayton powell jr blvd, ,",10027,caribbean spanish,asian fusion,2071 adam clayton powell jr blvd,10027,asian
+597619,3978,19464,tropical grill & restaurant,"2145 adam clayton powell jr blvd, ,",10027,caribbean spanish,kennedy fried chicken,2057 adam clayton powell jr blvd,10027,american
+597624,3978,8485,tropical grill & restaurant,"2145 adam clayton powell jr blvd, ,",10027,caribbean spanish,harlem karibe take out,2234 adam clayton powel jr blvd,10027,caribbean
+597667,3978,3238,tropical grill & restaurant,"2145 adam clayton powell jr blvd, ,",10027,caribbean spanish,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian
+598716,4005,15254,kennedy fried chicken,"2057 adam clayton powell blvd, ,",10027,fast food chicken wings,asian fusion,2071 adam clayton powell jr blvd,10027,asian
+599142,4014,18328,famous seafood,"567 w 125th st, ,",10027,seafood,go go curry,567 w 125th st,10027,japanese
+600246,4036,15254,paris blues,"2021 adam clayton powell junior blvd, ave 7,",10027,dive bars jazz & blues,asian fusion,2071 adam clayton powell jr blvd,10027,asian
+600302,4036,3238,paris blues,"2021 adam clayton powell junior blvd, ave 7,",10027,dive bars jazz & blues,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian
+603622,4078,8342,bar prima,"331 e 81st st, ,",10028,wine bars tapas/small plates breakfast & brunch,bar prima,331 e 81st st,10028,american
+603703,4078,18502,bar prima,"331 e 81st st, ,",10028,wine bars tapas/small plates breakfast & brunch,bar prima,331 e 81st st,10028,american
+612783,4185,12342,gracie's on 2nd diner,"300 e 86th st, ,",10028,diners,gracie's on 2nd,300 e 86th st,10028,american
+612836,4185,22552,gracie's on 2nd diner,"300 e 86th st, ,",10028,diners,gracie's on 2nd,300 e 86th st,10028,american
+635053,4476,9216,jerkyz,"2394 adam clayton powell jr blvd,",10030,caribbean burgers chicken wings,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635056,4476,1387,jerkyz,"2394 adam clayton powell jr blvd,",10030,caribbean burgers chicken wings,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635068,4477,9216,hyacinth's haven,"2374 adam clayton powell jr blvd, ,",10030,bars american (new) cafes,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635071,4477,1387,hyacinth's haven,"2374 adam clayton powell jr blvd, ,",10030,bars american (new) cafes,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635075,4477,20916,hyacinth's haven,"2374 adam clayton powell jr blvd, ,",10030,bars american (new) cafes,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635083,4478,9216,yatenga french bistro & bar,"2269 adam clayton powell jr blvd, ,",10030,french wine bars beer bar,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635086,4478,1387,yatenga french bistro & bar,"2269 adam clayton powell jr blvd, ,",10030,french wine bars beer bar,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635090,4478,20916,yatenga french bistro & bar,"2269 adam clayton powell jr blvd, ,",10030,french wine bars beer bar,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635158,4485,9216,little ochie jamaican cuisine,"2492 adam clayton powell jr blvd, ,",10030,caribbean,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635161,4485,1387,little ochie jamaican cuisine,"2492 adam clayton powell jr blvd, ,",10030,caribbean,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635165,4485,20916,little ochie jamaican cuisine,"2492 adam clayton powell jr blvd, ,",10030,caribbean,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635173,4486,9216,ponty bistro,"2375 adam clayton powell jr blvd, ,",10030,french senegalese,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635176,4486,1387,ponty bistro,"2375 adam clayton powell jr blvd, ,",10030,french senegalese,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635293,4499,9216,mcdonald's,2379 adam clayton powell jr blvd,10030,fast food burgers,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635296,4499,1387,mcdonald's,2379 adam clayton powell jr blvd,10030,fast food burgers,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635308,4504,9216,polanco restaurant & barbecue,"2421 adam clayton powell junior blvd, ,",10030,spanish barbeque,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635311,4504,1387,polanco restaurant & barbecue,"2421 adam clayton powell junior blvd, ,",10030,spanish barbeque,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635315,4504,20916,polanco restaurant & barbecue,"2421 adam clayton powell junior blvd, ,",10030,spanish barbeque,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635338,4509,9216,ihop,"2290 adam clayton powell jr blvd, ,",10030,breakfast & brunch american (traditional),polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635341,4509,1387,ihop,"2290 adam clayton powell jr blvd, ,",10030,breakfast & brunch american (traditional),polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635345,4509,20916,ihop,"2290 adam clayton powell jr blvd, ,",10030,breakfast & brunch american (traditional),polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635398,4515,9216,little harlem fried chicken,2261 adam clayton powell jr blvd,10030,chicken wings burgers pizza,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635401,4515,1387,little harlem fried chicken,2261 adam clayton powell jr blvd,10030,chicken wings burgers pizza,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635405,4515,20916,little harlem fried chicken,2261 adam clayton powell jr blvd,10030,chicken wings burgers pizza,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+635491,4525,1387,bed of nails-nail bar,"2272 adam clayton powell jr blvd,",10030,nail salons eyelash service skin care,polanco restaurant bbq,2421 adam clayton powell jr b,10030,"latin (cuban, dominican, puerto rican, south & central american)"
+636810,4556,10032,chinelos ii,"530 w 136th st, ,",10031,mexican grocery delis,chinelos ii deli-grocery restaurant,530 w 136th st,10031,mexican
+636825,4556,15290,chinelos ii,"530 w 136th st, ,",10031,mexican grocery delis,chinelos ii deli-grocery restaurant,530 w 136th st,10031,mexican
+648732,4792,2854,kazza wine bar,"708 w 177th st,",10033,wine bars tapas bars coffee & tea,kazza wine bar,708 w 177th st,10033,tapas
+649365,4807,11460,fresco's pizzeria,"804 w 187th st,",10033,pizza,frescos pizzeria,804 w 187th st,10033,pizza
+651736,4848,18237,lola lola restaurant,"1306 saint nicholas ave,",10033,cocktail bars hookah bars seafood,lola lola restaurant & bar,1306 saint nicholas ave,10033,spanish
+652178,4857,17330,great wall chinese food,"800 w 181st st, ,",10033,chinese,great wall,800 w 181st st,10033,chinese
+655329,4919,17838,cafe tabaco & ron,"501 w 214th st, ,",10034,latin american,cafe tabaco & ron,501 w 214th st,10034,"latin (cuban, dominican, puerto rican, south & central american)"
+657076,4951,10063,la nueva espana,"606 w 207th st, ,",10034,latin american,la nueva espana restaurant,606 w 207th st,10034,"latin (cuban, dominican, puerto rican, south & central american)"
+657142,4951,20137,la nueva espana,"606 w 207th st, ,",10034,latin american,la nueva espana restaurant,606 w 207th st,10034,"latin (cuban, dominican, puerto rican, south & central american)"
+658380,4976,9629,el anafe supreme,"584 w 207th st, ,",10034,salad mexican,el anafe express,584 w 207th st,10034,spanish
+658381,4976,20269,el anafe supreme,"584 w 207th st, ,",10034,salad mexican,el anafe express,584 w 207th st,10034,spanish
+658413,4976,1653,el anafe supreme,"584 w 207th st, ,",10034,salad mexican,el anafe express,584 w 207th st,10034,spanish
+665620,5121,19279,ipanema restaurant,"43 w 46th st,",10036,brazilian latin american portuguese,ipanema restaurant,43 w 46th st,10036,brazilian
+665746,5121,5492,ipanema restaurant,"43 w 46th st,",10036,brazilian latin american portuguese,ipanema restaurant,43 w 46th st,10036,brazilian
+667687,5129,1749,maple,"157 w 47th st, ,",10036,american (new) comfort food,maple restaurant,157 w 47th st,10036,american
+667721,5129,6504,maple,"157 w 47th st, ,",10036,american (new) comfort food,maple restaurant,157 w 47th st,10036,american
+673651,5153,18080,adella,"410 w 43rd st, ,",10036,tapas bars american (new) wine bars,adella,410 w 43rd st,10036,american
+681604,5183,21220,stk midtown,"1114 avenue of the americas, ,",10036,steakhouses american (new) cocktail bars,crave sandwiches,1120 avenue of the americas,10036,sandwiches/salads/mixed buffet
+681654,5183,3204,stk midtown,"1114 avenue of the americas, ,",10036,steakhouses american (new) cocktail bars,crave sandwiches,1120 avenue of the americas,10036,sandwiches/salads/mixed buffet
+681664,5183,14841,stk midtown,"1114 avenue of the americas, ,",10036,steakhouses american (new) cocktail bars,dechert (the dech),1095 avenue of the americas,10036,american
+681669,5183,19374,stk midtown,"1114 avenue of the americas, ,",10036,steakhouses american (new) cocktail bars,dechert (the dech),1095 avenue of the americas,10036,american
+681732,5183,8265,stk midtown,"1114 avenue of the americas, ,",10036,steakhouses american (new) cocktail bars,simon sips,1185 avenue of the americas,10036,cafã©/coffee/tea
+686930,5208,16381,hing won,"48 w 48th st, ,",10036,cantonese,hing won,48 w 48th st,10036,chinese
+696368,5248,16381,spice grill,48 w 48th st,10036,indian buffets,hing won,48 w 48th st,10036,chinese
+705128,5283,9991,frisson espresso,"326 w 47th st,",10036,coffee & tea cafes,frisson espresso,326 w 47th st,10036,cafã©/coffee/tea
+706034,5285,13602,foundry kitchen & bar,"westin new york at times square, 270 w 43rd st eighth ave,",10036,lounges breakfast & brunch cocktail bars,foundry kitchen & bar,270 w 43rd st,10036,american
+715652,5325,12238,sushi seki times square,"365 w 46th st,",10036,sushi bars japanese cocktail bars,sushi seki,365 w 46th st,10036,japanese
+716115,5335,4183,don rico pollo,"588 malcolm x blvd,",10037,dominican spanish,don rico pollo restaurant,588 malcolm x blvd,10037,spanish
+716361,5352,9322,cafe plus,"1 w 137th st,",10037,cafes,cafe plus,1 w 137th st,10037,american
+722773,5444,4573,mooncake foods,"111 john st (pearl street entrance),",10038,asian fusion chinese,mooncake foods,111 john street- pearl st side,10038,asian
+731397,5571,8087,subway,344 w 145th st,10039,sandwiches fast food,subway,344 w 145th st,10039,soups & sandwiches
+731418,5572,8062,indian express,"301 w 154th st, ste 1",10039,indian,indian express,301 w 154th st,10039,indian
+731562,5585,8033,harlem brothers pizza & wings,"346 w 145th st, ,",10039,chicken wings pizza,2 harlem bros pizza,346 w 145th st,10039,pizza
+731658,5591,8062,jimbo's hamburger palace,"301 w 154th st, ,",10039,burgers,indian express,301 w 154th st,10039,indian
+731672,5592,8965,domino's pizza,"2554 adam clayton powell jr blvd, ,",10039,pizza chicken wings sandwiches,red star chinese restaurant,2525 adam clayton powell jr boulevard,10039,chinese
+731753,5598,1297,napolis pizzeria,201 w 145th st,10039,pizza,ivory dos,201 w 145th st,10039,hamburgers
+731778,5599,8062,holland dominican food restaurant,"301 w 154th st, harlem dominican food",10039,imported food,indian express,301 w 154th st,10039,indian
+732330,5618,10876,oche a tu gusto,"1573 st nicholas ave, ,",10040,fast food,oche a tu gusto,1573 st. nicholas ave,10040,"latin (cuban, dominican, puerto rican, south & central american)"
+733058,5637,19100,empire chinese restaurant,"1635 saint nicholas ave, ,",10040,american (new),empire chinese restaurant,1635 saint nicholas ave,10040,chinese
+734710,5702,11594,bluestone lane,"2 e 90th st, ,",10128,coffee & tea breakfast & brunch gluten-free,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+734752,5702,266,bluestone lane,"2 e 90th st, ,",10128,coffee & tea breakfast & brunch gluten-free,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+734763,5702,9194,bluestone lane,"2 e 90th st, ,",10128,coffee & tea breakfast & brunch gluten-free,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+742360,5825,11594,heavenly rest,"2 e 90th st,",10128,cafes,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+742402,5825,266,heavenly rest,"2 e 90th st,",10128,cafes,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+742413,5825,9194,heavenly rest,"2 e 90th st,",10128,cafes,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea
+747103,6000,4705,rusty's west indian cuisine inc,"537 port richmond ave,",10302,caribbean,rusty's,537 port richmond ave,10302,caribbean
+747121,6000,782,rusty's west indian cuisine inc,"537 port richmond ave,",10302,caribbean,rusty's,537 port richmond ave,10302,caribbean
+747348,6007,20112,goody's spanish food & more restaurant,"201 port richmond avenue, ,",10302,restaurants,goody's spanish food,201 port richmond avenue,10302,spanish
+747666,6017,17478,brother's pizzeria,"750 port richmond ave, ,",10302,pizza,brother pizza,750 port richmond ave,10302,pizza/italian
+748040,6030,958,number one chinese kitchen,"209 port richmond ave, ,",10302,chinese,no. 1 chinese kitchen,209 port richmond ave,10302,chinese
+748141,6034,20233,piccolo pinos pizzeria,"275 port richmond avenue, ,",10302,pizza,pino's pizza,275 port richmond avenue,10302,pizza
+748143,6034,10508,piccolo pinos pizzeria,"275 port richmond avenue, ,",10302,pizza,pino's pizza,275 port richmond avenue,10302,pizza
+748464,6046,9442,didi,"183 port richmond ave, ,",10302,chinese tex-mex,di di,183 port richmond ave,10302,chinese
+763086,6528,21500,andella's brickoven pizzeria and restaurant,"1281 arthur kill rd, ,",10312,pizza italian,andellas pizzeria,1281 arthur kill rd,10312,pizza/italian
+764130,6562,9226,greek fellas,"1547 arthur kill rd,",10312,food delivery services greek,chen's garden,1547 arthur kill rd,10312,chinese
+764131,6562,3792,greek fellas,"1547 arthur kill rd,",10312,food delivery services greek,chen's garden,1547 arthur kill rd,10312,chinese
+764352,6576,9226,chen's garden ii,"1547 arthur kill rd, ,",10312,chinese,chen's garden,1547 arthur kill rd,10312,chinese
+764624,6593,22116,amici bakery,"758 arthur kill road, ,",10312,bakeries,amici bakery,758 arthur kill road,10312,bakery
+764677,6594,21500,kaitlin's pooch parlor,"1281 arthur kill rd, ,",10312,pet groomers,andellas pizzeria,1281 arthur kill rd,10312,pizza/italian
+776405,6830,20085,pizza world,"509 e 163rd st, ,",10451,pizza,pizza world,509 e 163rd st,10451,pizza
+776413,6830,20231,pizza world,"509 e 163rd st, ,",10451,pizza,pizza world,509 e 163rd st,10451,pizza
+776446,6830,13545,pizza world,"509 e 163rd st, ,",10451,pizza,pizza world,509 e 163rd st,10451,pizza
+776708,6841,20231,509 pizzeria,"509 e 163rd st,",10451,pizza,pizza world,509 e 163rd st,10451,pizza
+776741,6841,13545,509 pizzeria,"509 e 163rd st,",10451,pizza,pizza world,509 e 163rd st,10451,pizza
+778604,6886,23102,andrea's restaurant,"104 e 165th st, ,",10452,breakfast & brunch latin american,andrea's restaurant,104 e 165th st,10452,spanish
+778959,6893,4484,angelo's deli #2,120 e mount eden ave,10452,breakfast & brunch delis sandwiches,altagracia restaurant,9 e mount eden ave,10452,spanish
+780944,6947,1430,michely deli & food market,"169 w tremont ave, ,",10453,delis tacos burgers,michely deli & food market,169 w tremont ave,10453,delicatessen
+780987,6947,18988,michely deli & food market,"169 w tremont ave, ,",10453,delis tacos burgers,michely deli & food market,169 w tremont ave,10453,delicatessen
+781400,6956,318,mexican specialty corp,106 e 183rd st,10453,mexican,estrella mexican restaurant,106 e 183rd st,10453,mexican
+781802,6966,17041,mcdonald's,"1749 dr martin l king jr blvd, ,",10453,burgers fast food,grand no. 1 restaurant,1735 dr martin l king jr boulevard,10453,chinese
+782842,7001,817,el viejo gran cafe corp,"498 e 138th st, ,",10454,cafes,el viejo gran cafe,498 e 138th st,10454,spanish
+783154,7011,19109,gio's pizza & restaurant,"308 e 141st st, ,",10454,pizza,gio's pizza & restaurant,308 e 141st st,10454,pizza
+783744,7031,12459,el guapo pizzeria incorporated,361 e 138th st,10454,pizza,pizzeria restaurant,361 e 138th st,10454,pizza/italian
+784681,7059,4550,patron mexican restaurant,"835 e 152nd st,",10455,mexican,patron mexican restaurant,835 e 152nd st,10455,mexican
+786602,7107,6056,el atoradero bodega,"800 e 149th st, ,",10455,grocery imported food,el jalapeno,800 e 149th st,10455,mexican
+786980,7118,19042,la orquidea bakery & restaurant,"500 e 149th st, ,",10455,bakeries,149 steam fish,500 e 149th st,10455,seafood
+786993,7118,17001,la orquidea bakery & restaurant,"500 e 149th st, ,",10455,bakeries,149 steam fish,500 e 149th st,10455,seafood
+790378,7210,18957,new china,"240 e 174th st, ,",10457,chinese,new china restaurant,240 e 174th st,10457,chinese
+790774,7219,21130,subway,"597 e tremont ave, ,",10457,sandwiches fast food,subway,597 e tremont ave,10457,sandwiches
+794807,7287,9460,la rola restaurant,"400 e 198th st, ,",10458,mexican,la rola restaurant,400 e 198th st,10458,spanish
+794859,7287,13930,la rola restaurant,"400 e 198th st, ,",10458,mexican,la rola restaurant,400 e 198th st,10458,spanish
+795432,7295,17923,oriental house,"565 e 184th st, ,",10458,chinese,oriental house,565 e 184th st,10458,chinese
+796951,7317,2021,pique 86,"220 e 198th st,",10458,mexican,pique 86 restaurant,220 e 198th st,10458,spanish
+797068,7318,3529,house pizza,"246 e 204th st, ,",10458,pizza,house pizza,246 e 204th st,10458,pizza
+799848,7371,1354,monte pizza,"360 e 188th st,",10458,pizza,monte pizza,360 e 188th st,10458,pizza
+806956,7523,19478,sapore gourmet,"2454 e  tremont ave,",10461,pizza italian sandwiches,sapore gourmet,2454 e tremont ave,10461,italian
+813083,7611,19548,15 flavors,"1046 morris park ave, ,",10461,ice cream & frozen yogurt,15 flavors,1046 morris park ave,10461,"ice cream, gelato, yogurt, ices"
+813109,7611,13548,15 flavors,"1046 morris park ave, ,",10461,ice cream & frozen yogurt,15 flavors,1046 morris park ave,10461,"ice cream, gelato, yogurt, ices"
+813783,7620,12489,slim to go,"1556a white plains rd, ,",10462,american (new) spanish breakfast & brunch,slim to go,1556a white plains rd,10462,american
+815583,7648,8975,anthony's pizza,"686 morris park ave, ,",10462,pizza,anthony's pizza,686 morris park ave,10462,pizza
+821483,7748,12474,conti's pastry shoppe,"786 morris park ave, ,",10462,bakeries,conti's pastry shoppe,786 morris park ave,10462,bakery
+821698,7753,8227,novelty nachos,"318 w 231st st,",10463,american (new) burgers pizza,novelty nachos,318 w 231st st,10463,american
+822470,7769,5818,louie's dale diner,"189 w 231st st, ,",10463,diners breakfast & brunch burgers,dale diner,189 w 231st st,10463,american
+822486,7769,22286,louie's dale diner,"189 w 231st st, ,",10463,diners breakfast & brunch burgers,dale diner,189 w 231st st,10463,american
+822831,7777,16254,100%,"130 w 238th st, ,",10463,cafes juice bars & smoothies latin american,100% smoothies & empanadas,130 w 238th st,10463,american
+824890,7821,10393,cold cut city gourmet,"228 w 231st st, ,",10463,delis,cold cut city bunny deli 2,228 w 231st st,10463,american
+825343,7829,10916,fusion juice bar & grill,"436 w 238th st, ,",10463,mexican juice bars & smoothies,fusion juice bar & grill,436 w 238th st,10463,mediterranean
+826735,7854,8227,supreme pizza,"318 w 231st st, ,",10463,pizza,novelty nachos,318 w 231st st,10463,american
+827893,7880,9434,the original crab shanty restaurant,"361 city island ave, ,",10464,seafood italian american (traditional),crab shanty,361 city island ave,10464,seafood
+827904,7880,21051,the original crab shanty restaurant,"361 city island ave, ,",10464,seafood italian american (traditional),crab shanty,361 city island ave,10464,seafood
+827924,7882,20863,johnny's reef restaurant,"2 city island ave, ,",10464,seafood,johnny's reef restaurant,2 city island ave,10464,seafood
+827928,7882,21422,johnny's reef restaurant,"2 city island ave, ,",10464,seafood,johnny's reef restaurant,2 city island ave,10464,seafood
+828086,7886,457,tony's pier restaurant,"1 city island ave, ,",10464,seafood,tony's pier restaurant,1 city island ave,10464,seafood
+828244,7893,6491,sea shore restaurant & marina,"591 city island ave, ,",10464,seafood,seashore restaurant,591 city island ave,10464,seafood
+828263,7893,20515,sea shore restaurant & marina,"591 city island ave, ,",10464,seafood,seashore restaurant,591 city island ave,10464,seafood
+828279,7894,12743,lobster box restaurant,"34 city island ave, ,",10464,seafood,lobster box,34 city island ave,10464,seafood
+828313,7895,21854,don coqui on the water,"565 city island ave, ,",10464,latin american caribbean venues & event spaces,don cogui,565 city island ave,10464,american
+828328,7895,21509,don coqui on the water,"565 city island ave, ,",10464,latin american caribbean venues & event spaces,don cogui,565 city island ave,10464,american
+828391,7897,15122,ohana,"500 city island ave, ,",10464,japanese wine bars,ohana japanese hibachi seafood & steak,500 city island ave,10464,japanese
+828476,7900,18206,scavello's city island,101 city island ave,10464,grocery caterers delis,scavello's on the island,101 city island ave,10464,italian
+828549,7902,22648,rays cafe & restaurant,"205 city island ave, ,",10464,cafes,ray's cafe and restaurant,205 city island ave,10464,spanish
+828760,7908,21509,lighthouse restaurant,"565 city island ave, ,",10464,american (new),don cogui,565 city island ave,10464,american
+828822,7910,14654,island cafe,"205 city island ave, ,",10464,cafes,ray's cafe and restaurant,205 city island ave,10464,spanish
+828837,7910,22648,island cafe,"205 city island ave, ,",10464,cafes,ray's cafe and restaurant,205 city island ave,10464,spanish
+828934,7914,790,turtle cove golf center,"1 city island rd, ,",10464,golf mini golf batting cages,turtle cove golf center,1 city island rd,10464,american
+829109,7919,1036,tosca cafe,"4038 e tremont ave, ,",10465,pizza italian cafes,tosca cafe,4038 e tremont ave,10465,american
+829117,7919,9578,tosca cafe,"4038 e tremont ave, ,",10465,pizza italian cafes,tosca cafe,4038 e tremont ave,10465,american
+829122,7919,10155,tosca cafe,"4038 e tremont ave, ,",10465,pizza italian cafes,tosca cafe,4038 e tremont ave,10465,american
+829123,7919,4968,tosca cafe,"4038 e tremont ave, ,",10465,pizza italian cafes,tosca cafe,4038 e tremont ave,10465,american
+829259,7924,12370,mama puebla,"3465 e tremont ave, ,",10465,mexican,mama  puebla,3465 e tremont ave,10465,mexican
+829504,7932,11709,alley cat smokehouse,"3604 e tremont ave, ste c,",10465,smokehouse,alley cat smokehouse,3604 e tremont ave,10465,barbecue
+831033,7982,12323,vapor lounge,"3758 e tremont ave,",10465,hookah bars,vapor lounge,3758 e tremont ave,10465,american
+831301,7992,12878,paula's soul cafe,"746 e 233rd st, ,",10466,seafood soul food,paula's soul cafe,746 e 233rd st,10466,soul food
+831485,7997,7899,loong xin asian cuisine,"670 e 233rd st, ,",10466,japanese thai chinese,loong xin asian cuisine,670 e 233rd st,10466,chinese
+831489,7997,17344,loong xin asian cuisine,"670 e 233rd st, ,",10466,japanese thai chinese,loong xin asian cuisine,670 e 233rd st,10466,chinese
+832079,8014,17894,tony's pizza,"4189 white plains road, ,",10466,pizza,tony's pizza,4189 white plains road,10466,pizza
+832202,8019,22267,pizza place,"4024 white plains road, ,",10466,pizza,the pizza place,4024 white plains road,10466,pizza
+834744,8072,6672,blimpie,85 east gunhill road,10467,sandwiches,blimpie,85 east gunhill road,10467,sandwiches
+835073,8083,13464,mario's pizza,"79 e gun hill road, ,",10467,pizza,mario's pizza,79 east gun hill road,10467,pizza
+835083,8083,12096,mario's pizza,"79 e gun hill road, ,",10467,pizza,mario's pizza,79 east gun hill road,10467,pizza
+835183,8086,2215,new ming liang,"236 e gun hill rd, ,",10467,chinese,el encuentro restaurant bar corp,352 e gun hill rd,10467,"latin (cuban, dominican, puerto rican, south & central american)"
+835303,8088,21417,sing loon chinese kitchen,"3606 white plains rd,",10467,chinese,sing loon zheng kitchen,3606 white plains rd,10467,chinese
+835533,8095,2215,kemmie restaurant & cuisine,"883 e gun hill rd, ,",10467,latin american,el encuentro restaurant bar corp,352 e gun hill rd,10467,"latin (cuban, dominican, puerto rican, south & central american)"
+836151,8107,5223,island breezes ii,3634 white plains rd,10467,caribbean,ochie bekkle carribbean american kool restaurant,3634 white plains rd,10467,caribbean
+836176,8107,6113,island breezes ii,3634 white plains rd,10467,caribbean,ochie bekkle carribbean american kool restaurant,3634 white plains rd,10467,caribbean
+836909,8126,20077,century chinese restaurant,"2861 white plains road, ,",10467,chinese,century chinese restaurant,2861 white plains road,10467,chinese
+837003,8128,2215,joseph's pizza,"295 e gun hill rd, ,",10467,pizza,el encuentro restaurant bar corp,352 e gun hill rd,10467,"latin (cuban, dominican, puerto rican, south & central american)"
+837065,8129,3467,frank's pizza and pasta,"3770 white plains rd, ,",10467,pizza,franks pizza and pasta,3770 white plains rd,10467,pizza/italian
+837213,8132,2215,18 gun hill pizza,"18 e gun hill rd, ,",10467,pizza,el encuentro restaurant bar corp,352 e gun hill rd,10467,"latin (cuban, dominican, puerto rican, south & central american)"
+840033,8185,1046,mirador,"44 w kingsbridge rd, ,",10468,spanish,mirador restaurant,44 w kingsbridge rd,10468,"latin (cuban, dominican, puerto rican, south & central american)"
+840681,8204,22319,number 8 chinese restaurant,"176 w fordham rd, ,",10468,chinese,new no.8 chinese restaurant,176 w fordham rd,10468,chinese
+841059,8216,8219,giovanni gourmet catering,"80 w fordham rd, ,",10468,pizza caterers,giovanni's,80 w fordham rd,10468,pizza/italian
+841090,8216,1755,giovanni gourmet catering,"80 w fordham rd, ,",10468,pizza caterers,giovanni's,80 w fordham rd,10468,pizza/italian
+841754,8230,470,joey pepperoni's pizza,"114 e fordham rd, ,",10468,pizza,joey pepperoni's pizza,114 e fordham rd,10468,pizza
+841762,8230,6578,joey pepperoni's pizza,"114 e fordham rd, ,",10468,pizza,joey pepperoni's pizza,114 e fordham rd,10468,pizza
+842225,8242,14128,7 spices carribean restaurant,"906 e gun hill rd, ,",10469,caribbean,ultimate grill,1343 e gun hill rd,10469,caribbean
+842227,8242,18432,7 spices carribean restaurant,"906 e gun hill rd, ,",10469,caribbean,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+842248,8242,10198,7 spices carribean restaurant,"906 e gun hill rd, ,",10469,caribbean,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+842267,8242,36,7 spices carribean restaurant,"906 e gun hill rd, ,",10469,caribbean,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+842268,8242,873,7 spices carribean restaurant,"906 e gun hill rd, ,",10469,caribbean,876 bar lounge,1320 e gun hill rd,10469,american
+842284,8243,18432,caridad and louie's restaurant,"1660 e gun hill rd, ,",10469,italian latin american spanish,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+842325,8243,873,caridad and louie's restaurant,"1660 e gun hill rd, ,",10469,italian latin american spanish,876 bar lounge,1320 e gun hill rd,10469,american
+842396,8246,14128,nick's pizza restaurant,"1356 e gun hill rd, ,",10469,pizza,ultimate grill,1343 e gun hill rd,10469,caribbean
+842398,8246,18432,nick's pizza restaurant,"1356 e gun hill rd, ,",10469,pizza,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+842438,8246,36,nick's pizza restaurant,"1356 e gun hill rd, ,",10469,pizza,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+842704,8252,10198,mandarin wok restaurant,"1232 e gun hill rd, ,",10469,chinese,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+842723,8252,36,mandarin wok restaurant,"1232 e gun hill rd, ,",10469,chinese,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+842724,8252,873,mandarin wok restaurant,"1232 e gun hill rd, ,",10469,chinese,876 bar lounge,1320 e gun hill rd,10469,american
+842795,8254,14128,ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,ultimate grill,1343 e gun hill rd,10469,caribbean
+842797,8254,18432,ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+842818,8254,10198,ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+842837,8254,36,ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+842838,8254,873,ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,876 bar lounge,1320 e gun hill rd,10469,american
+843030,8260,1129,tgi fridays,"51780 east gun hill rd, ,",10469,american (traditional),constant spring restaurant,1344 east gun hill rd,10469,caribbean
+843061,8260,11535,tgi fridays,"51780 east gun hill rd, ,",10469,american (traditional),constant spring restaurant,1344 east gun hill rd,10469,caribbean
+843274,8265,10198,pelham bay diner,"1920 e gun hill rd, ,",10469,diners american (new),m and c foodz to go,1322a e gun hill rd,10469,caribbean
+843293,8265,36,pelham bay diner,"1920 e gun hill rd, ,",10469,diners american (new),ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+843308,8266,14128,country boyz restaurant,"1182 e gun hill rd, ,",10469,caribbean fast food,ultimate grill,1343 e gun hill rd,10469,caribbean
+843310,8266,18432,country boyz restaurant,"1182 e gun hill rd, ,",10469,caribbean fast food,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+843331,8266,10198,country boyz restaurant,"1182 e gun hill rd, ,",10469,caribbean fast food,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+843350,8266,36,country boyz restaurant,"1182 e gun hill rd, ,",10469,caribbean fast food,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+843365,8267,14128,d'angelos pizzeria,"902 e gun hill rd, ,",10469,pizza,ultimate grill,1343 e gun hill rd,10469,caribbean
+843367,8267,18432,d'angelos pizzeria,"902 e gun hill rd, ,",10469,pizza,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+843388,8267,10198,d'angelos pizzeria,"902 e gun hill rd, ,",10469,pizza,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+843407,8267,36,d'angelos pizzeria,"902 e gun hill rd, ,",10469,pizza,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+843408,8267,873,d'angelos pizzeria,"902 e gun hill rd, ,",10469,pizza,876 bar lounge,1320 e gun hill rd,10469,american
+843652,8272,18432,rk super heros,"978 e gun hill rd, ,",10469,sandwiches,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+843673,8272,10198,rk super heros,"978 e gun hill rd, ,",10469,sandwiches,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+843692,8272,36,rk super heros,"978 e gun hill rd, ,",10469,sandwiches,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+843693,8272,873,rk super heros,"978 e gun hill rd, ,",10469,sandwiches,876 bar lounge,1320 e gun hill rd,10469,american
+843764,8274,14128,mcdonald's,1212 e gun hill rd,10469,fast food burgers,ultimate grill,1343 e gun hill rd,10469,caribbean
+843766,8274,18432,mcdonald's,1212 e gun hill rd,10469,fast food burgers,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+843787,8274,10198,mcdonald's,1212 e gun hill rd,10469,fast food burgers,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+843807,8274,873,mcdonald's,1212 e gun hill rd,10469,fast food burgers,876 bar lounge,1320 e gun hill rd,10469,american
+844336,8295,18432,pelham garden motel,"1990 e gun hill rd, ,",10469,hotels,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+844357,8295,10198,pelham garden motel,"1990 e gun hill rd, ,",10469,hotels,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+844376,8295,36,pelham garden motel,"1990 e gun hill rd, ,",10469,hotels,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+844377,8295,873,pelham garden motel,"1990 e gun hill rd, ,",10469,hotels,876 bar lounge,1320 e gun hill rd,10469,american
+844391,8296,14128,golden star garden,"1380 e gun hill rd, ,",10469,chinese,ultimate grill,1343 e gun hill rd,10469,caribbean
+844393,8296,18432,golden star garden,"1380 e gun hill rd, ,",10469,chinese,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+844433,8296,36,golden star garden,"1380 e gun hill rd, ,",10469,chinese,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+844676,8301,14128,kfc,1125 e gun hill rd,10469,fast food chicken wings,ultimate grill,1343 e gun hill rd,10469,caribbean
+844678,8301,18432,kfc,1125 e gun hill rd,10469,fast food chicken wings,olive's homespice cuisine,1062 e gun hill rd,10469,caribbean
+844699,8301,10198,kfc,1125 e gun hill rd,10469,fast food chicken wings,m and c foodz to go,1322a e gun hill rd,10469,caribbean
+844718,8301,36,kfc,1125 e gun hill rd,10469,fast food chicken wings,ethics bar & lounge,1246 e gun hill rd,10469,caribbean
+844719,8301,873,kfc,1125 e gun hill rd,10469,fast food chicken wings,876 bar lounge,1320 e gun hill rd,10469,american
+844818,8304,3455,chillz,"4744 white plains rd, ,",10470,caribbean salad,chillz restaurant,4744 white plains rd,10470,caribbean
+845057,8313,20468,big daddy's caribbean taste,"4406 white plains road, ,",10470,caribbean,big daddy caribbean taste,4406 white plains road,10470,caribbean
+845359,8328,9070,wonderful chinese restaurant,"518 e 240th st, ,",10470,chinese,wonderful restaurant,518 e 240th st,10470,chinese
+845379,8328,21606,wonderful chinese restaurant,"518 e 240th st, ,",10470,chinese,wonderful restaurant,518 e 240th st,10470,chinese
+845400,8329,23071,kennedy fried chicken,"4718 white plains road, ,",10470,restaurants,kennedy fried chicken,4718 white plains road,10470,american
+845702,8340,19865,barcelona bites,"220 w 242nd st, ,",10471,spanish latin american tapas bars,barcelona bites gastro club,220 w 242nd st,10471,"latin (cuban, dominican, puerto rican, south & central american)"
+849596,8446,13391,caribe restaurant,"849 castle hill ave, ,",10473,caribbean,caribe restaurant,849 castle hill ave,10473,spanish
+849597,8446,6475,caribe restaurant,"849 castle hill ave, ,",10473,caribbean,caribe restaurant,849 castle hill ave,10473,spanish
+849602,8446,16628,caribe restaurant,"849 castle hill ave, ,",10473,caribbean,caribe restaurant,849 castle hill ave,10473,spanish
+849753,8461,6475,the castle's kitchen,"849 castle hill ave, ,",10473,american (new),caribe restaurant,849 castle hill ave,10473,spanish
+849756,8461,2321,the castle's kitchen,"849 castle hill ave, ,",10473,american (new),caribe restaurant,849 castle hill ave,10473,spanish
+849758,8461,16628,the castle's kitchen,"849 castle hill ave, ,",10473,american (new),caribe restaurant,849 castle hill ave,10473,spanish
+851739,8710,21426,towers restaurant,"27248 grand central pkwy, ,",11005,diners,towers restaurant and catering,27248 grand central pkwy,11005,continental
+851741,8710,13774,towers restaurant,"27248 grand central pkwy, ,",11005,diners,towers restaurant and catering,27248 grand central pkwy,11005,continental
+851742,8710,9239,towers restaurant,"27248 grand central pkwy, ,",11005,diners,towers restaurant and catering,27248 grand central pkwy,11005,continental
+978163,10399,284,lucky star restaurant,"13 marcus garvey blvd, ,",11206,caribbean,lucky star restaurant,13 marcus garvey blvd,11206,caribbean
+1041121,11168,10678,wild ginger,"182 n 10th st, ,",11211,asian fusion vegan,wild ginger,182 n 10th st,11211,vegetarian
+1051991,11235,13944,parm,"162 n 4th st,",11211,italian sandwiches,sweetgreen,162 n 4th st,11211,sandwiches/salads/mixed buffet
+1057287,11286,81,los amigos coffee shop,"444 mother gaston blvd, ,",11212,delis,our neighbourhood spanish restaurant,444 mother gaston blvd,11212,spanish
+1058204,11307,18596,lucky star restaurant,"401 mother gaston blvd, ,",11212,american (new),401 lucky star restaurant,401 mother gaston blvd,11212,chinese
+1060392,11360,10333,jemz,"1171 saint johns pl, ,",11213,caribbean,jemz restaurant,1171 saint johns pl,11213,caribbean
+1065252,11459,3842,little saigon pearl,"9 bay 35th st, ,",11214,vietnamese,little saigon pearl,9 bay 35th st,11214,vietnamese/cambodian/malaysia
+1069387,11496,2900,new forest cafe,"7617 new utrecht ave, ,",11214,cafes asian fusion cantonese,new forest cafe,7617 new utrecht ave,11214,cafã©/coffee/tea
+1069395,11496,17604,new forest cafe,"7617 new utrecht ave, ,",11214,cafes asian fusion cantonese,new forest cafe,7617 new utrecht ave,11214,cafã©/coffee/tea
+1073821,11540,5078,lulo's colombian restaurant & bakery,"7816 new utrecht ave, ,",11214,spanish bakeries,citlali coffee shop,7816 new utrecht ave,11214,mexican
+1075597,11557,18969,orchid dynasty,"7706 new utrecht ave, ,",11214,chinese,orchid dynasty restaurant,7706 new utrecht ave,11214,chinese
+1075619,11557,16051,orchid dynasty,"7706 new utrecht ave, ,",11214,chinese,orchid dynasty restaurant,7706 new utrecht ave,11214,chinese
+1094781,11737,2255,brunswick cafe,"240 prospect park w, ,",11215,cafes breakfast & brunch,brunswick prospect park west,240 prospect park w,11215,australian
+1144605,12270,11192,el toro taqueria,"89 fort greene pl, ,",11217,mexican tex-mex,el toro taqueria,89 fort greene pl,11217,mexican
+1153612,12387,11126,werkstatt,"509 coney island ave, ,",11218,austrian breakfast & brunch bars,werkstatt,509 coney island ave,11218,american
+1153823,12395,19295,hadi restaurant,"683 coney island ave, ,",11218,indian pakistani halal,hadi restaurant,683 coney island ave,11218,middle eastern
+1154118,12399,15212,piccoli,"157 a prospect park sw, ,",11218,italian,uncle louie g,157 prospect park sw,11218,"ice cream, gelato, yogurt, ices"
+1154125,12399,15680,piccoli,"157 a prospect park sw, ,",11218,italian,bene pizzeria & restaurant,157 prospect park sw,11218,pizza/italian
+1158297,12461,1952,punjab restaurant,"691 coney island ave, ,",11218,indian pakistani breakfast & brunch,new punjab restaurant & grill,691 coney island ave,11218,pakistani
+1159364,12479,15212,bene restaurant & pizzeria,"157 prospect park sw, ,",11218,pizza,uncle louie g,157 prospect park sw,11218,"ice cream, gelato, yogurt, ices"
+1159371,12479,15680,bene restaurant & pizzeria,"157 prospect park sw, ,",11218,pizza,bene pizzeria & restaurant,157 prospect park sw,11218,pizza/italian
+1160146,12490,8383,beverley pizzeria & cafe,"358 e 2nd st, ,",11218,cafes italian pizza,beverley pizza & cafe,358 e 2nd st,11218,pizza
+1161458,12518,8798,hangout 58 hot pot grill & bar,"5816 fort hamilton pkwy, ,",11219,barbeque hot pot dim sum,hang out 58,5816 fort hamilton pkwy,11219,chinese
+1161734,12524,12901,daniela's cafe,"3901 new utrecht ave, ,",11219,latin american cafes juice bars & smoothies,daniela's cafe,3901 new utrecht ave,11219,mexican
+1162044,12532,5453,king's kitchen,"6005 fort hamilton pkwy, ,",11219,chinese,king's kitchen,6005 fort hamilton pkwy,11219,chinese
+1162332,12539,16048,new lucky chinese restaurant,"6619 fort hamilton pkwy,",11219,cantonese,new lucky chinese restaurant,6619 fort hamilton pkwy,11219,chinese
+1162352,12539,18577,new lucky chinese restaurant,"6619 fort hamilton pkwy,",11219,cantonese,new lucky chinese restaurant,6619 fort hamilton pkwy,11219,chinese
+1162970,12551,10210,l & s bakery,"6302 new utrecht avenue, ,",11219,restaurants,d & s bakery,6302 new utrecht avenue,11219,chinese
+1165193,12590,8357,puerta del sol,"1550 bay ridge ave, ,",11219,mexican salvadoran,puerta del sol restaurant,1550 bay ridge ave,11219,spanish
+1165201,12590,7913,puerta del sol,"1550 bay ridge ave, ,",11219,mexican salvadoran,puerta del sol restaurant,1550 bay ridge ave,11219,spanish
+1165233,12590,21511,puerta del sol,"1550 bay ridge ave, ,",11219,mexican salvadoran,puerta del sol restaurant,1550 bay ridge ave,11219,spanish
+1184226,12717,20453,delicias tajadas,"241 bay ridge ave, ,",11220,colombian bakeries breakfast & brunch,delicias tajadas bakery & restaurant,241 bay ridge ave,11220,"latin (cuban, dominican, puerto rican, south & central american)"
+1205191,12878,3920,soldier jerk center and restaurant,"98 malcolm x blvd, ,",11221,caribbean,soldier jerk center,98 malcolm x blvd,11221,caribbean
+1206190,12900,15519,ikhofi cafe,"199 malcolm x blvd,",11221,cafes,ikhofi cafe,199 malcolm x blvd,11221,american
+1207231,12930,3920,gee's pizzeria and breakfast,"98 malcolm x blvd, ,",11221,pizza american (traditional),soldier jerk center,98 malcolm x blvd,11221,caribbean
+1212185,12984,19595,greenpoint beer and ale,"7 n 15th st, ,",11222,breweries modern european,greenpoint beer & ale,7 n 15th st,11222,american
+1228538,13183,8157,chateau de capitaine,"2570 coney island ave, ,",11223,seafood modern european french,chateau de capitaine,2570 coney island ave,11223,seafood
+1232956,13239,19956,kasai,"2524 coney island ave, ,",11223,kosher japanese,kasai,2524 coney island ave,11223,jewish/kosher
+1234037,13252,10026,myst lounge,"2086 coney island ave,",11223,hookah bars cafes american (new),myst hookah lounge & cafe,2086 coney island ave,11223,middle eastern
+1234089,13252,11236,myst lounge,"2086 coney island ave,",11223,hookah bars cafes american (new),myst hookah lounge & cafe,2086 coney island ave,11223,middle eastern
+1234096,13252,17778,myst lounge,"2086 coney island ave,",11223,hookah bars cafes american (new),myst hookah lounge & cafe,2086 coney island ave,11223,middle eastern
+1234745,13260,1933,five brother's pizza pasta & grill,"2650 coney island ave, ,",11223,italian,five brothers pizza,2650 coney island ave,11223,pizza
+1236581,13285,1933,foteh's tandoori cafe chayhana,"2650 coney island ave, ,",11223,russian,five brothers pizza,2650 coney island ave,11223,pizza
+1253074,13650,19866,jin sushi & thai,"1708 e 16th st, ,",11229,japanese thai sushi bars,jin sushi & thai,1708 e 16th st,11229,asian
+1255647,13693,6531,new lan king,"1688 e 16th st, ,",11229,chinese,new lan king restaurant,1688 e 16th st,11229,chinese
+1260113,13764,5821,chocolatte,"1354 coney island ave,",11230,coffee & tea sandwiches breakfast & brunch,chocolatte,1354 coney island ave,11230,sandwiches
+1260470,13769,22073,lahori chilli,"1026 coney island ave, ,",11230,pakistani indian bangladeshi,pak lahori chilli,1026 coney island ave,11230,indian
+1261140,13784,711,glatt coney,"1558 coney island ave, ,",11230,kosher chinese,glatt coney,1558 coney island ave,11230,chinese/japanese
+1262484,13807,8298,sushi king,"992 e 15th st, ,",11230,sushi bars kosher,sushi king,992 e 15th st,11230,jewish/kosher
+1263452,13825,8929,junior's pizza & fried chicken,"1162 coney island ave, ,",11230,pizza fast food halal,junior's pizza & fried chicken,1162 coney island ave,11230,chicken
+1263455,13825,21673,junior's pizza & fried chicken,"1162 coney island ave, ,",11230,pizza fast food halal,junior's pizza & fried chicken,1162 coney island ave,11230,chicken
+1264282,13839,5907,gourmet sweets,"1107 coney island ave, ,",11230,desserts pakistani indian,gourmet sweets,1107 coney island ave,11230,pakistani
+1278765,14152,21784,magic soul food,"320 malcolm x blvd, ,",11233,soul food,magic soul food,320 malcolm x blvd,11233,soul food
+1278768,14152,14473,magic soul food,"320 malcolm x blvd, ,",11233,soul food,magic soul food,320 malcolm x blvd,11233,soul food
+1290349,14359,12101,anatolian gyro restaurant,"2623 e 16th st, ,",11235,turkish,anatolian gyro restaurant,2623 e 16th st,11235,turkish
+1290503,14362,5646,azerbaijan,"2612 e 14th st,",11235,middle eastern halal,azerbaijan,2612 e 14th st,11235,mediterranean
+1290944,14367,14313,casa malinche,"3078 coney island ave,",11235,mexican seafood sandwiches,casa malinche,3078 coney island ave,11235,mexican
+1292091,14378,10100,national restaurant,"273 brighton beach ave, ,",11235,russian dance clubs venues & event spaces,national restaurant & catering,273 brighton beach ave,11235,russian
+1292712,14385,2120,nasheman grill and restaurant,"3149 coney island ave, ,",11235,indian pakistani,nasheman grill & restaurant,3149 coney island ave,11235,indian
+1295889,14418,2470,sakura,"2832 coney island ave, ,",11235,japanese sushi bars,sakura,2832 coney island ave,11235,japanese
+1295929,14419,3877,masakari,"1631 sheepshead bay rd, ,",11235,sushi bars,masakari fusion,1631 sheepshead bay rd,11235,japanese
+1296419,14426,8261,palace fried chicken,"523 brighton beach ave, ,",11235,american (traditional),palace fried chicken,523 brighton beach ave,11235,chicken
+1301619,14493,10310,starbucks,"607 brighton beach ave, ,",11235,coffee & tea,starbucks,607 brighton beach ave,11235,cafã©/coffee/tea
+1331127,14908,2185,four & twenty blackbirds cafe,"10 grand army plz, ,",11238,bakeries breakfast & brunch cafes,(library)  four & twenty blackbirds,10 grand army plz,11238,cafã©/coffee/tea
+1365672,15208,8196,grandma's dim sum,"40-24 college point blvd, store b-o,",11354,dim sum cantonese,grandma's dim sum,4024 college point blvd,11354,chinese
+1388727,15345,8196,subway,"4024 college point blvd, ste b227,",11354,sandwiches fast food,grandma's dim sum,4024 college point blvd,11354,chinese
+1403037,15428,8196,chuck e cheese's,"40-24 college point blvd, ste b213,",11354,pizza venues & event spaces kids activities,grandma's dim sum,4024 college point blvd,11354,chinese
+1421322,15534,8196,skyfoods,"40-24 college point blvd, ,",11354,grocery,grandma's dim sum,4024 college point blvd,11354,chinese
+1426357,15564,8196,royal beauty hair salon,"skyview ctr, 40-24 college point blvd level b,",11354,hair salons,grandma's dim sum,4024 college point blvd,11354,chinese
+1432506,15616,5712,el palacio de las empanadas,"4219 college point blvd, ,",11355,colombian empanadas mexican,empanadas el gustazo restaurante,4219 college point blvd,11355,"latin (cuban, dominican, puerto rican, south & central american)"
+1453383,15865,21596,happy town chinese kitchen,"1803 college point boulevard, ,",11356,chinese,happy town chinese restaurant,1803 college point boulevard,11356,chinese
+1453385,15865,5289,happy town chinese kitchen,"1803 college point boulevard, ,",11356,chinese,happy town chinese restaurant,1803 college point boulevard,11356,chinese
+1453399,15865,22846,happy town chinese kitchen,"1803 college point boulevard, ,",11356,chinese,happy town chinese restaurant,1803 college point boulevard,11356,chinese
+1453959,15883,15671,the blvd restaurant & lounge,"19-11 francis lewis blvd, ,",11357,sports bars italian american (traditional),the blvd restaurant and lounge,1911 francis lewis blvd,11357,american
+1456669,15963,22498,sangria tapas & wine,"2902 francis lewis blvd, ,",11358,tapas/small plates tapas bars,sangria,2902 francis lewis blvd,11358,spanish
+1461320,16036,9237,pietros pizzeria cafe,"25-71 francis lewis blvd, ,",11358,pizza breakfast & brunch,pietro's pizzeria & cafe,2571 francis lewis blvd,11358,pizza/italian
+1461553,16039,18443,king wok,"2567 francis lewis blvd, ,",11358,chinese,king wok,25-67 francis lewis blvd,11358,chinese
+1461957,16045,5437,big apple chinese & japanese restaurant,"3255 francis lewis blvd, ,",11358,chinese japanese buffets,flb's pub,3255 francis lewis blvd,11358,american
+1463305,16084,4650,clearview park golf course,"202-12 willets point boulevard, ,",11360,golf venues & event spaces wedding planning,clearview park (golf course),20212 willets point boulevard,11360,american
+1602626,17721,1033,the live oak,"5993 fresh pond rd,",11378,sports bars irish pub,the live oak,5993 fresh pond rd,11378,american
+1602741,17723,5831,villa erasmo,"69-61 juniper blvd s, ,",11379,italian,villa erasamo,6961 juniper blvd s,11379,italian
+1602845,17731,20322,gino's express pizza,"62-69 dry harbor rd,",11379,pizza,gino's pizza express,6269 dry harbor rd,11379,pizza
+1603610,17768,7233,pravue cafe & albanian grill,"70-02 fresh pond rd,",11385,modern european mediterranean,pravue cafe,7002 fresh pond rd,11385,mediterranean
+1609092,17820,22283,gyro world ridgewood,"66-57 fresh pond rd, ,",11385,greek,gyro world,6657 fresh pond rd,11385,greek
+1614686,17874,3966,ye garden,"71-02 fresh pond rd, ,",11385,chinese asian fusion,ye garden,7102 fresh pond rd,11385,chinese
+1616211,17886,21592,k angel k chinese buffet,"341 saint nicholas ave, ,",11385,chinese,el manaba restaurant,341 saint nicholas ave,11385,spanish
+1637114,18372,14286,jashan a mehfil,"95-04 van wyck expy, ,",11419,indian,mehfil indian restaurant,9504 van wyck expy,11419,indian
+1638936,18416,13875,grace kitchen,"11156 van wyck expressway, ,",11420,restaurants,grace kitchen,11156 van wyck expressway,11420,chinese
+1638964,18416,6720,grace kitchen,"11156 van wyck expressway, ,",11420,restaurants,grace kitchen,11156 van wyck expressway,11420,chinese
+1645114,18588,7780,popeyes louisiana kitchen,"24501 francis lewis blvd, ,",11422,fast food chicken wings,subway,24501 francis lewis blvd,11422,sandwiches
+1646409,18661,23123,papa john's pizza,"8953 francis lewis blvd, ,",11427,pizza,papa john's,8953 francis lewis blvd,11427,pizza
+1658943,18881,120,anita's roti shop,"10613 guy r brewer blvd, ,",11433,trinidadian,anita's roti shop,10613 guy r brewer boulevard,11433,caribbean
+1658953,18881,8306,anita's roti shop,"10613 guy r brewer blvd, ,",11433,trinidadian,apple garden,10855 guy r brewer blvd,11433,chinese
+1658984,18884,5858,green apple food court,"92-45 guy r brewer blvd, ,",11433,food court,kari breakfast and wings spot,10910 guy r brewer blvd,11433,american
+1658987,18884,8306,green apple food court,"92-45 guy r brewer blvd, ,",11433,food court,apple garden,10855 guy r brewer blvd,11433,chinese
+1659137,18894,5858,yogi's restaurant,"10826 guy r brewer blvd, ,",11433,american (new),kari breakfast and wings spot,10910 guy r brewer blvd,11433,american
+1659138,18894,20835,yogi's restaurant,"10826 guy r brewer blvd, ,",11433,american (new),yogi restaurant,10826 guy r brewer boulevard,11433,caribbean
+1659140,18894,8306,yogi's restaurant,"10826 guy r brewer blvd, ,",11433,american (new),apple garden,10855 guy r brewer blvd,11433,chinese
+1659215,18901,120,boulevard pizza,"10901 guy r brewer boulevard, ,",11433,pizza,anita's roti shop,10613 guy r brewer boulevard,11433,caribbean
+1659219,18901,21767,boulevard pizza,"10901 guy r brewer boulevard, ,",11433,pizza,starbucks,9420 guy r brewer boulevard,11433,cafã©/coffee/tea
+1659239,18902,5858,impulse beauty salon,"9222 guy r brewer blvd, ,",11433,nail salons hair salons,kari breakfast and wings spot,10910 guy r brewer blvd,11433,american
+1659242,18902,8306,impulse beauty salon,"9222 guy r brewer blvd, ,",11433,nail salons hair salons,apple garden,10855 guy r brewer blvd,11433,chinese
+1659525,18911,15199,peppa pot,"13428 guy r brewer blvd, ,",11434,caribbean,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1659528,18911,16733,peppa pot,"13428 guy r brewer blvd, ,",11434,caribbean,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1659536,18911,13816,peppa pot,"13428 guy r brewer blvd, ,",11434,caribbean,royal fried chicken,11701 guy r brewer blvd,11434,american
+1659544,18911,11524,peppa pot,"13428 guy r brewer blvd, ,",11434,caribbean,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1659562,18911,1667,peppa pot,"13428 guy r brewer blvd, ,",11434,caribbean,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1659568,18912,15199,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1659571,18912,16733,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1659579,18912,13816,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,royal fried chicken,11701 guy r brewer blvd,11434,american
+1659583,18912,12776,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1659587,18912,11524,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1659592,18912,6275,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1659605,18912,1667,magic soul food,"134-50 guy r brewer blvd, ,",11434,soul food,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1659630,18913,11524,catfish cafe,"147-07 guy brewer blvd, ,",11434,soul food seafood,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1660216,18932,16733,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1660224,18932,13816,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,royal fried chicken,11701 guy r brewer blvd,11434,american
+1660228,18932,12776,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660232,18932,11524,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1660237,18932,6275,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660250,18932,1667,royal fried chicken,11701 guy r brewer blvd,11434,chicken wings,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1660256,18934,15199,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1660259,18934,16733,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1660267,18934,13816,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,royal fried chicken,11701 guy r brewer blvd,11434,american
+1660271,18934,12776,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660275,18934,11524,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1660280,18934,6275,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660293,18934,1667,early b jamaican cuisine,"13742 guy r brewer blvd, ,",11434,caribbean,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1660343,18936,8080,guy r brewer express,"11702 guy r brewer boulevard, ,",11434,delis sandwiches,magic soul food,13450 guy r brewer boulevard,11434,caribbean
+1660514,18946,15199,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1660517,18946,16733,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1660525,18946,13816,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,royal fried chicken,11701 guy r brewer blvd,11434,american
+1660529,18946,12776,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660533,18946,11524,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1660538,18946,6275,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1660551,18946,1667,xinbao restaurant,"13742 guy r brewer blvd, ,",11434,chinese,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1660687,18951,8080,boulevard hero's,"14924 guy r brewer boulevard, ,",11434,restaurants,magic soul food,13450 guy r brewer boulevard,11434,caribbean
+1660987,18959,15199,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1660990,18959,16733,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1660998,18959,13816,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,royal fried chicken,11701 guy r brewer blvd,11434,american
+1661002,18959,12776,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661006,18959,11524,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1661024,18959,1667,mario's pizza,"14929 guy r brewer blvd, ,",11434,pizza,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1661030,18960,15199,new ming garden ii,"13414 guy r brewer blvd, ,",11434,chinese,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1661041,18960,13816,new ming garden ii,"13414 guy r brewer blvd, ,",11434,chinese,royal fried chicken,11701 guy r brewer blvd,11434,american
+1661045,18960,12776,new ming garden ii,"13414 guy r brewer blvd, ,",11434,chinese,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661049,18960,11524,new ming garden ii,"13414 guy r brewer blvd, ,",11434,chinese,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1661054,18960,6275,new ming garden ii,"13414 guy r brewer blvd, ,",11434,chinese,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661116,18962,15199,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1661119,18962,16733,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1661127,18962,13816,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,royal fried chicken,11701 guy r brewer blvd,11434,american
+1661131,18962,12776,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661135,18962,11524,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1661140,18962,6275,popeye's,"122-10 guy r brewer blvd, ,",11434,southern chicken shop,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661160,18963,8080,butterfly ii chinese rest,"145109 guy r brewer boulevard, ,",11434,chinese,magic soul food,13450 guy r brewer boulevard,11434,caribbean
+1661167,18963,18356,butterfly ii chinese rest,"145109 guy r brewer boulevard, ,",11434,chinese,butterflies chinese food,145109 guy brewer boulevard,11434,chinese
+1661546,18975,15199,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1661549,18975,16733,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,popeyes louisiana kitchen,12210 guy r brewer blvd,11434,chicken
+1661557,18975,13816,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,royal fried chicken,11701 guy r brewer blvd,11434,american
+1661561,18975,12776,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661565,18975,11524,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1661583,18975,1667,kenny deli & grocery,14601 guy r brewer blvd,11434,grocery delis,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1661632,18979,15199,best kept secret airport parking & carwash,"147-07 guy r brewer blvd, ,",11434,parking car wash,peru rotisserie barbeque chicken and pizza,13406 guy r brewer blvd,11434,american
+1661647,18979,12776,best kept secret airport parking & carwash,"147-07 guy r brewer blvd, ,",11434,parking car wash,j & m kellys jamaican & american restaurant,11823 guy r brewer blvd,11434,caribbean
+1661651,18979,11524,best kept secret airport parking & carwash,"147-07 guy r brewer blvd, ,",11434,parking car wash,soul food the restaurant,14707 guy r brewer blvd,11434,caribbean
+1661669,18979,1667,best kept secret airport parking & carwash,"147-07 guy r brewer blvd, ,",11434,parking car wash,peppa pot jamaican cuisine,13428 guy r brewer blvd,11434,caribbean
+1669697,19144,7382,kfc,1312 beach channel drive,11691,fast food chicken wings,kfc,1312 beach channel drive,11691,chicken
+1669698,19144,19389,kfc,1312 beach channel drive,11691,fast food chicken wings,kfc,1312 beach channel drive,11691,chicken
+1669732,19145,9427,new red star,558 beach 25th st,11691,chinese,chen six flags chinese restaurant,558 beach 25th st,11691,chinese
+1669837,19147,12033,subway,"233 beach 20th st, ,",11691,sandwiches fast food,crown fried chicken,233 beach 20th st,11691,american
+1669841,19147,22837,subway,"233 beach 20th st, ,",11691,sandwiches fast food,crown fried chicken,233 beach 20th st,11691,american
+1670227,19159,8932,thai kitchen by the sea,"67-20 rockaway beach blvd, ,",11692,thai,thai kitchen by the sea,67-20 rockaway beach blvd,11692,thai
+1670246,19162,2583,checkers,"68-20 rockaway beach blvd, ,",11692,chicken wings american (traditional) burgers,checkers,6820 rockaway beach blvd,11692,american
+1670253,19163,2583,subway,"6820 rockaway beach blvd, bldg 1 ste d,",11692,sandwiches fast food,checkers,6820 rockaway beach blvd,11692,american
+1670410,19175,15764,sayra's wine bar,"91-11 rockaway beach blvd, ,",11693,wine bars tapas bars beer gardens,sayras wine bar,9111 rockaway beach blvd,11693,american
+1670599,19187,20619,rocco's pizzeria,"921 cross bay blvd, ,",11693,pizza,rocco's pizzeria,921 cross bay blvd,11693,pizza
+1670801,19201,13982,dragon garden,"8618 rockaway beach blvd, ,",11693,chinese,dragon garden,8618 rockaway beach blvd,11693,chinese
+1670813,19201,14423,dragon garden,"8618 rockaway beach blvd, ,",11693,chinese,dragon garden,8618 rockaway beach blvd,11693,chinese
+1671215,19220,13047,breezy dogs shakes & more,"410 beach 129th st, ,",11694,juice bars & smoothies burgers,breezydogs shakes and more,410 beach 129th st,11694,american
+1671666,19238,16941,slices n ices,"208 beach 116 street, ,",11694,pizza,slices and ices,208 beach 116 street,11694,pizza
+1671791,19243,7063,local liquids,"209 beach 116th st,",11694,vegan fruits & veggies juice bars & smoothies,local liquids juice bar,209 beach 116th st,11694,"juice, smoothies, fruit salads"
