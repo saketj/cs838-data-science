@@ -48,21 +48,21 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 27871,99,20498,the vine - eventi hotel,"851 avenue of the americas, ,",10001,american (new) bars,starbucks,776 avenue of the americas,10001,cafã©/coffee/tea,0
 28038,99,23584,the vine - eventi hotel,"851 avenue of the americas, ,",10001,american (new) bars,gregory's coffee,874 avenue of the americas,10001,cafã©/coffee/tea,0
 28806,101,21509,rock & reilly's nyc,"218 w 35th st, ,",10001,sports bars american (traditional) burgers,rock and reillys lobby bar,218 w 35th st,10001,american,1
-29529,105,611,the kunjip,"32 w 32nd st, ,",10001,korean,the kunjip,32 w 32nd st,10001,korean,0
+29529,105,611,the kunjip,"32 w 32nd st, ,",10001,korean,the kunjip,32 w 32nd st,10001,korean,1
 30601,108,22371,sushi fussion nyc,"224 w 35th st, ,",10001,sushi bars asian fusion,lemony grill,224 w 35th st,10001,greek,0
 30758,108,3854,sushi fussion nyc,"224 w 35th st, ,",10001,sushi bars asian fusion,sushi fussion,224 w 35th st,10001,jewish/kosher,1
 32880,118,22832,prime cafe,"125 w 26th st, ,",10001,italian american (traditional) breakfast & brunch,amore,125 w 26th st,10001,italian,0
 34041,122,19256,pennsylvania 6 nyc,"132 w 31st st,",10001,american (new) breakfast & brunch seafood,dee daa,132 w 31st st,10001,thai,0
 35119,128,4923,madison square tavern,"150 w 30th st, ,",10001,bars american (new),madison square tavern,150 w 30th st,10001,american,1
 39322,143,14405,cloud 28,"127 w 28th st,",10001,lounges breakfast & brunch sandwiches,stix chelsea/hotel indigo/rooftop bar,127 w 28th st,10001,american,1
-40323,146,17146,barilla restaurants,"108 w 32nd st, ,",10001,italian,barilla restaurants,108 w 32nd st,10001,italian,0
+40323,146,17146,barilla restaurants,"108 w 32nd st, ,",10001,italian,barilla restaurants,108 w 32nd st,10001,italian,1
 41416,149,22347,turntable coffee & music,"34 w 32nd st, fl 5",10001,coffee & tea american (traditional) cafes,space billard,34 w 32nd st,10001,korean,0
 42331,152,20900,hanamichi,"28 w 32nd st, ,",10001,japanese korean sushi bars,hanamichi,28 w 32nd st,10001,asian,1
 42564,155,1922,hanbat restaurant,"53 w 35th st, ,",10001,korean seafood,mew,53 w 35th st,10001,japanese,0
 44396,161,20372,mcdonald's,"151 w 34th st, ,",10001,burgers fast food,pizza bar,151 w 34th st,10001,pizza,0
 44404,161,10729,mcdonald's,"151 w 34th st, ,",10001,burgers fast food,just salad,151 w 34th st,10001,salads,0
 44422,161,7012,mcdonald's,"151 w 34th st, ,",10001,burgers fast food,"auntie anne's pretzels, pinkberry",151 w 34th st,10001,hotdogs/pretzels,0
-46495,170,20706,crompton ale house,"159 w 26th st,",10001,bars american (new),crompton ale house,159 w 26th st,10001,american,0
+46495,170,20706,crompton ale house,"159 w 26th st,",10001,bars american (new),crompton ale house,159 w 26th st,10001,american,1
 46721,171,1814,roll & katsu kitchen,"11 w 32nd st, ste 5,",10001,sushi bars korean japanese,food gallery 32,11 w 32nd st,10001,korean,0
 46788,171,5815,roll & katsu kitchen,"11 w 32nd st, ste 5,",10001,sushi bars korean japanese,maru,11 w 32nd st,10001,korean,0
 50812,187,22347,son ja jang,"34 w 32nd st,",10001,chinese,space billard,34 w 32nd st,10001,korean,0
@@ -73,8 +73,8 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 121616,432,3932,raku,"342 e 6th st, ,",10003,japanese noodles,the eddy,342 e 6th st,10003,american,0
 124061,438,1656,irvington,"the w hotel, 201 park ave s,",10003,american (new),irvington bar and restaurant/studio/lilium,201 park ave s,10003,american,0
 124833,440,23913,the eddy,"342 e 6th st, ,",10003,american (new),raku,342 e 6th st,10003,asian,0
-125088,440,3932,the eddy,"342 e 6th st, ,",10003,american (new),the eddy,342 e 6th st,10003,american,0
-130669,456,376,izakaya,"326 e 6th st, ,",10003,izakaya tapas/small plates,the izakaya,326 e 6th st,10003,japanese,0
+125088,440,3932,the eddy,"342 e 6th st, ,",10003,american (new),the eddy,342 e 6th st,10003,american,1
+130669,456,376,izakaya,"326 e 6th st, ,",10003,izakaya tapas/small plates,the izakaya,326 e 6th st,10003,japanese,1
 134846,464,16097,ootoya greenwich village,"41 e 11th st, ,",10003,japanese,ootoya,41 e 11th st,10003,japanese,1
 137651,471,13712,misirizzi,"36 e 4th st,",10003,italian,misirizzi,36 e 4th st,10003,italian,1
 140450,476,2147,zundo-ya,"84 e 10th st, ,",10003,ramen,ramen zundo-ya,84 e 10th st,10003,japanese,1
@@ -88,7 +88,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 173558,559,191,bowery meat company,"9 e 1st st, ,",10003,steakhouses seafood meat shops,bowery meat company,9 e 1st st,10003,american,1
 181628,579,6460,the winslow,"243 e 14th st, ,",10003,pubs,the winslow,243 e 14th st,10003,american,1
 191324,602,4717,dalias,"214 e 9th st, ,",10003,spanish,dahlias fine mexican cuisine,214 e 9th st,10003,"latin (cuban, dominican, puerto rican, south & central american)",1
-195861,616,17069,the immigrant,"341 e 9th st,",10003,wine bars,the immigrant tap room,341 e 9th st,10003,other,0
+195861,616,17069,the immigrant,"341 e 9th st,",10003,wine bars,the immigrant tap room,341 e 9th st,10003,other,1
 198660,624,20353,lui's thai food,"128 e 4th st, ,",10003,thai,lui's thai food,128 e 4th st,10003,thai,1
 199670,627,9491,jp street,"52 e 8th st, ,",10003,japanese burgers chicken wings,jp street,52 e 8th st,10003,japanese,1
 203560,635,19142,poke village,"250 e 14th st,",10003,poke korean ramen,pokevillage,250 e 14th st,10003,asian,1
@@ -114,13 +114,13 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 223987,775,3201,subway,"1 new york plz, ,",10004,fast food sandwiches,cappone's salumeria,1 new york plz,10004,sandwiches,0
 223989,775,23372,subway,"1 new york plz, ,",10004,fast food sandwiches,schnippers,1 new york plz,10004,hamburgers,0
 224013,775,21483,subway,"1 new york plz, ,",10004,fast food sandwiches,chipotle mexican grill,1 new york plz,10004,mexican,0
-232494,964,8074,cafe de novo,"94 1/2 greenwich st, ,",10006,korean pizza,cafe de novo,94 1/2 greenwich st,10006,american,0
+232494,964,8074,cafe de novo,"94 1/2 greenwich st, ,",10006,korean pizza,cafe de novo,94 1/2 greenwich st,10006,american,1
 243715,1139,2839,waka ramen & izakaya,432 e 13th st,10009,ramen,teshigotoya,432 e 13th st,10009,japanese,1
 243862,1140,6348,carma east,"507 e 6th st,",10009,bars dim sum taiwanese,carma,507 e 6th st,10009,asian,1
 245354,1146,22871,ruffian wine bar & chef's table,"125 e 7th st, ,",10009,wine bars tapas/small plates french,ruffian wine bar,125 e 7th st,10009,continental,1
-245841,1150,9235,gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,gnoccheria by luzzo's,234 e 4th st,10009,italian,0
+245841,1150,9235,gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,gnoccheria by luzzo's,234 e 4th st,10009,italian,1
 245882,1150,22660,gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,secara,234 e 4th st,10009,spanish,0
-247550,1159,12088,raclette,"511 e 12th st, ,",10009,sandwiches french,la vraie raclette,511 e 12th st,10009,french,0
+247550,1159,12088,raclette,"511 e 12th st, ,",10009,sandwiches french,la vraie raclette,511 e 12th st,10009,french,1
 247920,1161,19306,secchu yokota,"199 e 3rd st, fl 1",10009,japanese desserts seafood,china wok,199 e 3rd st,10009,chinese,0
 250282,1173,20207,tuome,"536 e 5th st, ,",10009,american (new),tuome,536 e 5th st,10009,asian,1
 250695,1175,16701,ichibantei,"401 e 13th st, ,",10009,japanese steakhouses,ichibantei,401 e 13th st,10009,japanese,1
@@ -146,35 +146,35 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 275222,1327,23407,foragers table,"300 w 22nd st, ,",10011,breakfast & brunch american (new) wine bars,the gem hotel,300 w 22nd st,10011,cafã©/coffee/tea,0
 276096,1329,8423,wisefish poké,"263 w 19th st,",10011,seafood hawaiian poke,wisefish poke,263 w 19th st,10011,hawaiian,1
 276819,1333,14387,rouge tomate chelsea,"126 w 18th st, ,",10011,american (new) bars,rouge tomate,126 w 18th st,10011,french,1
-279424,1346,14948,serenata,"111 w 17th st,",10011,mexican,serenata,111 w 17th st,10011,mexican,0
+279424,1346,14948,serenata,"111 w 17th st,",10011,mexican,serenata,111 w 17th st,10011,mexican,1
 280128,1348,22998,zia maria,"318 w 23rd st, ,",10011,italian pizza,zia maria,318 w 23rd st,10011,pizza/italian,1
 283343,1359,11724,auntie guan's kitchen 108,"108 w 14th st, ,",10011,chinese asian fusion,auntie guan's kitchen 108,108 w 14th st,10011,chinese,1
 284520,1362,5054,basta pasta,"37 w 17th st, ,",10011,italian,yakiniku futago,37 w 17th st,10011,japanese,0
-285044,1364,20077,il bambino,"48 w 8th st, ,",10011,italian sandwiches wine bars,il bambino,48 w 8th st,10011,american,0
+285044,1364,20077,il bambino,"48 w 8th st, ,",10011,italian sandwiches wine bars,il bambino,48 w 8th st,10011,american,1
 287747,1376,7483,the gander,"15 w 18th st, ,",10011,american (new),the gander bar room and restaurant,15 w 18th st,10011,american,1
 290079,1384,5054,yakiniku futago,"37 w 17th st, ,",10011,japanese barbeque,yakiniku futago,37 w 17th st,10011,japanese,1
-290212,1385,7250,rasa,"25 w 8th st,",10011,malaysian sushi bars halal,rasa,25 w 8th st,10011,asian,0
+290212,1385,7250,rasa,"25 w 8th st,",10011,malaysian sushi bars halal,rasa,25 w 8th st,10011,asian,1
 299281,1417,1154,asuka sushi,"300 w 23rd st, ,",10011,sushi bars japanese thai,asuka sushi,300 w 23rd st,10011,japanese,1
 300826,1422,3610,great burrito,"100 w 23rd st, ,",10011,pizza mexican,great burrito,100 w 23rd st,10011,mexican,1
-305580,1440,22418,lena,"1 w 8th st, ,",10011,coffee & tea sandwiches,lena,1 w 8th st,10011,bakery,0
+305580,1440,22418,lena,"1 w 8th st, ,",10011,coffee & tea sandwiches,lena,1 w 8th st,10011,bakery,1
 305744,1440,2540,lena,"1 w 8th st, ,",10011,coffee & tea sandwiches,la panineria,1 w 8th st,10011,italian,0
 305927,1442,11540,el quijote,"226 w 23rd st, ,",10011,spanish basque,el quijote,226 w 23rd st,10011,spanish,1
 307283,1446,17742,bodega negra,"dream downtown, 355 w 16th st,",10011,mexican,megu,355 w 16th st,10011,japanese,0
 307566,1447,18414,ancolie,"58 w 8th st,",10011,salad cafes desserts,ancolie,58 w 8th st,10011,salads,1
 311534,1464,17742,megu,355 w 16th st,10011,japanese,megu,355 w 16th st,10011,japanese,1
 323238,1507,22418,la panineria,"1 w 8th st,",10011,italian sandwiches,lena,1 w 8th st,10011,bakery,0
-323402,1507,2540,la panineria,"1 w 8th st,",10011,italian sandwiches,la panineria,1 w 8th st,10011,italian,0
+323402,1507,2540,la panineria,"1 w 8th st,",10011,italian sandwiches,la panineria,1 w 8th st,10011,italian,1
 328362,1526,21357,vic's,"31 great jones st, ,",10012,bars american (new) italian,vic's,31 great jones st,10012,american,1
 331485,1539,21336,the folly,"92 w houston st, ,",10012,seafood gastropubs,the folly,92 w houston st,10012,american,1
-339822,1573,10673,great jones cafe,"54 great jones st, ,",10012,cajun/creole,great jones cafe,54 great jones st,10012,american,0
+339822,1573,10673,great jones cafe,"54 great jones st, ,",10012,cajun/creole,great jones cafe,54 great jones st,10012,american,1
 359870,1645,23706,pokee,"121 w 3rd st,",10012,poke,dumplinggo,121 w 3rd st,10012,chinese/japanese,0
-369315,1679,12668,sushi zo,"88 w 3rd st, ,",10012,japanese sushi bars,sushi zo,88 w 3rd st,10012,japanese,0
+369315,1679,12668,sushi zo,"88 w 3rd st, ,",10012,japanese sushi bars,sushi zo,88 w 3rd st,10012,japanese,1
 369907,1681,12668,swish cafe & shabu shabu,"88 w 3rd st,",10012,japanese,sushi zo,88 w 3rd st,10012,japanese,0
 413198,1826,4219,souk & sandwich,"117 ave of the america's,",10013,lebanese sandwiches fast food,souk & sandwich,117 avenue of the americas,10013,american,0
 423648,1860,487,lupe's,110 ave of the americas,10013,mexican,lupe's east l.a. kitchen,110 avenue of the americas,10013,mexican,1
 445485,1934,22497,the black derby,"310 w 4th st,",10014,american (new),the black derby,310 w 4th st,10014,other,1
 445578,1935,7128,coarse nyc,"306 w 13th st,",10014,american (new),raw new york,306 w 13th st,10014,american,1
-446447,1938,13035,perla cafe,"234 w 4th st, ,",10014,italian wine bars,perla cafe,234 w 4th st,10014,american,0
+446447,1938,13035,perla cafe,"234 w 4th st, ,",10014,italian wine bars,perla cafe,234 w 4th st,10014,american,1
 453750,1967,713,wallflower,"235 w 12th st, ,",10014,american (new),wallflower,235 w 12th st,10014,french,1
 458215,1984,19453,bespoke kitchen,"615 1/2 hudson st,",10014,american (new),bespoke kitchen,615 1/2 hudson st,10014,american,1
 464230,2009,14203,la loteria,"29 7th ave s, ,",10014,mexican,la loteria,29 7th ave s,10014,mexican,1
@@ -205,22 +205,22 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 476609,2057,15450,the meatball guys nyc,"353 w 14th st, ,",10014,italian sandwiches,la sonrisa empanadas,353 w 14th st,10014,mexican,0
 486950,2096,9586,gallo nero 3,"1 7th ave s,",10014,italian venues & event spaces wine bars,gallo nero iii,1 7th ave s,10014,italian,1
 504481,2165,17906,tarallucci e vino - nomad,"44 e 28th st,",10016,italian wine bars breakfast & brunch,tarallucci e vino,44 e 28th st,10016,italian,1
-505028,2166,17517,sons of thunder,"204 e 38th st, ,",10016,hawaiian hot dogs poke,sons of thunder,204 e 38th st,10016,american,0
+505028,2166,17517,sons of thunder,"204 e 38th st, ,",10016,hawaiian hot dogs poke,sons of thunder,204 e 38th st,10016,american,1
 505442,2169,7508,massoni,"11 e 31st st,",10016,italian bars,massoni,11 e 31st st,10016,italian,1
 506681,2175,22564,café china,"13 e 37th st,",10016,szechuan,cafe china,13 e 37th st,10016,chinese,1
-508362,2181,7584,atoboy,"43 e 28th st,",10016,korean tapas/small plates asian fusion,atoboy,43 e 28th st,10016,asian,0
+508362,2181,7584,atoboy,"43 e 28th st,",10016,korean tapas/small plates asian fusion,atoboy,43 e 28th st,10016,asian,1
 508655,2182,23588,pino wine bar,"156 e 33rd st, ,",10016,wine bars american (traditional),juice,156 e 33rd st,10016,"juice, smoothies, fruit salads",0
-508676,2182,7329,pino wine bar,"156 e 33rd st, ,",10016,wine bars american (traditional),pino wine bar,156 e 33rd st,10016,american,0
+508676,2182,7329,pino wine bar,"156 e 33rd st, ,",10016,wine bars american (traditional),pino wine bar,156 e 33rd st,10016,american,1
 509072,2183,12165,galata mediterranean cuisine,"212 e 34th st, ,",10016,turkish mediterranean halal,galata mediterranean cruisine,212 e 34th st,10016,turkish,1
 510141,2187,12015,marta,"29 e 29th st, ,",10016,pizza italian,marta,29 e 29th st,10016,italian,1
 512215,2196,22513,may kaidee nyc,"126 e 28th st,",10016,thai vegan vegetarian,desi food truck,126 e 28th st,10016,indian,1
 514454,2205,13921,tacos grand central,"134 e 27th st,",10016,mexican,tacos grand central,134 e 27th st,10016,mexican,1
 514535,2205,13976,tacos grand central,"134 e 27th st,",10016,mexican,burp bowl cafe,134 e 27th st,10016,asian,0
-516074,2211,22535,wine:34,"127 e 34th st, ,",10016,wine bars american (new) beer bar,wine:34,127 e 34th st,10016,italian,0
-516873,2214,21529,bedford,"118 e 40th st, ,",10016,american (new) desserts breakfast & brunch,bedford & co,118 e 40th st,10016,american,0
-520874,2230,15383,fine & rare,"9 e 37th st,",10016,american (new) jazz & blues lounges,fine & rare,9 e 37th st,10016,other,0
-524062,2240,22219,the long hall irish pub & grocery,"58 e 34th st, ,",10016,irish pub pubs grocery,the long hall,58 e 34th st,10016,american,0
-530468,2264,11892,open kitchen,"33 e 33rd st, ,",10016,salad sushi bars mediterranean,open kitchen,33 e 33rd st,10016,american,0
+516074,2211,22535,wine:34,"127 e 34th st, ,",10016,wine bars american (new) beer bar,wine:34,127 e 34th st,10016,italian,1
+516873,2214,21529,bedford,"118 e 40th st, ,",10016,american (new) desserts breakfast & brunch,bedford & co,118 e 40th st,10016,american,1
+520874,2230,15383,fine & rare,"9 e 37th st,",10016,american (new) jazz & blues lounges,fine & rare,9 e 37th st,10016,other,1
+524062,2240,22219,the long hall irish pub & grocery,"58 e 34th st, ,",10016,irish pub pubs grocery,the long hall,58 e 34th st,10016,american,1
+530468,2264,11892,open kitchen,"33 e 33rd st, ,",10016,salad sushi bars mediterranean,open kitchen,33 e 33rd st,10016,american,1
 532928,2271,23490,tempura matsui,"222 e 39th st,",10016,japanese noodles seafood,tempura matsui,222 e 39th st,10016,japanese,1
 533568,2274,21715,251 ginza sushi,"251 e 35th st, ,",10016,sushi bars japanese,ginza sushi,251 e 35th st,10016,japanese,1
 533630,2278,21570,salvation taco,"145 e 39th st, ,",10016,mexican,salvation taco & roof top bar,145 e 39th st,10016,not listed/not applicable,0
@@ -243,7 +243,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 559259,2394,21063,tabletime,"20 e 42nd st,",10017,delis salad soup,tabletime,20 e 42nd st,10017,american,1
 561496,2404,9641,the rawl,"212 e 45th st,",10017,asian fusion sushi bars,the rawl,212 e 45th st,10017,asian,1
 562198,2409,9641,kitaya,"212 e 45th st, ,",10017,japanese,the rawl,212 e 45th st,10017,asian,1
-563884,2420,22438,la chula nyc,"89 e 42nd st, ,",10017,tacos,la chula taco & ceviches,89 e 42nd st,10017,mexican,0
+563884,2420,22438,la chula nyc,"89 e 42nd st, ,",10017,tacos,la chula taco & ceviches,89 e 42nd st,10017,mexican,1
 563889,2420,10659,la chula nyc,"89 e 42nd st, ,",10017,tacos,the great northern deli and danish dogs,89 e 42nd st,10017,other,0
 563994,2420,16060,la chula nyc,"89 e 42nd st, ,",10017,tacos,prova pizza bar,89 e 42nd st,10017,pizza/italian,0
 564352,2423,22438,grand central oyster bar,"grand central station, 89 e 42nd st,",10017,seafood,la chula taco & ceviches,89 e 42nd st,10017,mexican,0
@@ -258,10 +258,10 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 572680,2471,23822,trademark taste & grind,"38 w 36th st,",10018,bars american (new) venues & event spaces,hotel le soleil le espresso cafe,38 w 36th st,10018,cafã©/coffee/tea,0
 573237,2473,21969,pokéworks,"63 w 37th st, ,",10018,hawaiian seafood poke,pokeworks,63 w 37th st,10018,hawaiian,1
 573802,2476,21901,coffeemania,"1065 ave of the americas,",10018,american (new) coffee & tea breakfast & brunch,academia barilla restaurant,1065 ave of the americas,10018,italian,0
-574358,2478,15512,calle dao,"38 w 39th st, ,",10018,cuban cocktail bars breakfast & brunch,calle dao,38 w 39th st,10018,"latin (cuban, dominican, puerto rican, south & central american)",0
+574358,2478,15512,calle dao,"38 w 39th st, ,",10018,cuban cocktail bars breakfast & brunch,calle dao,38 w 39th st,10018,"latin (cuban, dominican, puerto rican, south & central american)",1
 574836,2482,9594,district tap house,"246 w 38th st, ,",10018,sports bars gastropubs pubs,district tap house,246 w 38th st,10018,american,1
 575329,2486,23876,go! go! curry!,"273 w 38th st, ,",10018,japanese,go go curry,273 w 38th st,10018,filipino,1
-576118,2489,15984,zest szechuan,"45 w 39th st,",10018,szechuan,zest szechuan,45 w 39th st,10018,chinese,0
+576118,2489,15984,zest szechuan,"45 w 39th st,",10018,szechuan,zest szechuan,45 w 39th st,10018,chinese,1
 576404,2490,1673,black iron burger,"245 w 38th st,",10018,burgers,black iron burger,245 w 38th st,10018,hamburgers,1
 577324,2497,22407,non solo piada,"302 w 37th st,",10018,italian breakfast & brunch,non solo piada,302 w 37th st,10018,italian,1
 578392,2502,23247,indian project,"243 w 38th st,",10018,indian,indian project,243 w 38th st,10018,indian,1
@@ -294,7 +294,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 597050,2590,22578,yakitori totto,"251 w 55th st, fl 2,",10019,izakaya,soba noodle azuma,251 w 55th st,10019,japanese,0
 597130,2592,8782,ippudo westside,"321 w 51st st,",10019,ramen,ippudo ny,321 w 51st st,10019,japanese,1
 599463,2597,19738,souvlaki gr,"162 w 56th st,",10019,greek,souvlaki gr midtown,162 w 56th st,10019,greek,1
-600776,2599,17998,hama japanese cuisine,"11 w 51st st, ,",10019,sushi bars japanese,hama,11 w 51st st,10019,japanese,0
+600776,2599,17998,hama japanese cuisine,"11 w 51st st, ,",10019,sushi bars japanese,hama,11 w 51st st,10019,japanese,1
 601720,2601,22578,soba noodle azuma 55,"251 w 55th st,",10019,noodles,soba noodle azuma,251 w 55th st,10019,japanese,1
 602715,2603,10015,pam real thai food,"404 w 49th st, ,",10019,thai,pam real thai 49,404 w 49th st,10019,thai,1
 603817,2606,8117,le bernardin,"the equitable bldg, 155 w 51st st,",10019,french lounges,le bernardin,155 w 51st st,10019,french,1
@@ -317,13 +317,13 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 662380,2753,636,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,hilton employee cafeteria,1335 avenue of the americas,10019,american,0
 662422,2753,15960,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,union bank of switzerland,1285 avenue of the americas,10019,american,0
 662464,2753,16660,mastro's steakhouse,"1285 avenue of the americas, (entrance on 52nd between 6th and 7th avenue),",10019,steakhouses,mastro's steakhouse,1285 avenue of the americas,10019,steak,1
-663730,2756,23280,domenico vacca café,"15 w 55th st, ,",10019,cafes,domenico vacca,15 w 55th st,10019,sandwiches/salads/mixed buffet,0
+663730,2756,23280,domenico vacca café,"15 w 55th st, ,",10019,cafes,domenico vacca,15 w 55th st,10019,sandwiches/salads/mixed buffet,1
 670272,2773,12226,nyy steak,"7 w 51st st, ,",10019,steakhouses american (traditional),nyy steak,7 w 51st st,10019,american,1
 676207,2790,2231,fika,"41 w 58th st,",10019,coffee & tea caterers scandinavian,fika,41 w 58th st,10019,sandwiches/salads/mixed buffet,1
 683559,2811,12848,torishin,"362 w 53rd st, ,",10019,japanese,torishin,362 w 53rd st,10019,japanese,1
 687721,2822,9469,pizza rollio,"1 w 58th st, ,",10019,pizza,ora di pasta,1 w 58th st,10019,italian,0
 687788,2822,21407,pizza rollio,"1 w 58th st, ,",10019,pizza,epicerie bouloud,1 w 58th st,10019,bakery,0
-687867,2822,20843,pizza rollio,"1 w 58th st, ,",10019,pizza,pizza rollio,1 w 58th st,10019,pizza,0
+687867,2822,20843,pizza rollio,"1 w 58th st, ,",10019,pizza,pizza rollio,1 w 58th st,10019,pizza,1
 687936,2822,11939,pizza rollio,"1 w 58th st, ,",10019,pizza,doughnuttery,1 w 58th st,10019,donuts,0
 688062,2822,21189,pizza rollio,"1 w 58th st, ,",10019,pizza,olma caviar,1 w 58th st,10019,seafood,0
 688168,2822,17739,pizza rollio,"1 w 58th st, ,",10019,pizza,sabi sushi,1 w 58th st,10019,japanese,0
@@ -345,7 +345,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 713614,2904,19912,yia yia's- homemade greek food,"404 e 69th st,",10021,greek fast food,yia yia,404 e 69th st,10021,greek,0
 725243,3030,23517,the bar room,"117 e 60th st, ,",10022,american (new) cocktail bars,the bar room,117 e 60th st,10022,american,1
 727326,3036,10221,bill's townhouse,"57 e 54th st, ,",10022,american (new) salad sandwiches,bill's new york city,57 e 54th st,10022,american,1
-728598,3041,23880,57 belle house,"151 e 57th st, ,",10022,american (new) french breakfast & brunch,57th belle house,151 e 57th st,10022,french,0
+728598,3041,23880,57 belle house,"151 e 57th st, ,",10022,american (new) french breakfast & brunch,57th belle house,151 e 57th st,10022,french,1
 729515,3044,18058,sukhumvit 51,"224 e 51st st, ,",10022,thai,sukhumvit 51,224 e 51st st,10022,thai,1
 729876,3047,21442,kiss my french,"303 e 53rd st,",10022,tapas bars french cocktail bars,kiss my french,303 e 53rd st,10022,american,1
 730649,3049,21594,nare sushi,"115 e 57th st,",10022,sushi bars japanese,nare sushi,115 e 57th st,10022,japanese,1
@@ -363,7 +363,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 755818,3143,12745,le bilboquet,"20 e 60th st, ,",10022,french,le bilboquet,20 e 60th st,10022,french,1
 756909,3147,11643,amata,"209 e 56th st, ,",10022,italian,amata,209 e 56th st,10022,italian,1
 758056,3150,15818,hudson malone,"218 e 53rd st 3rd ave, ,",10022,american (traditional),hudson malone,218 e 53rd st,10022,american,1
-759266,3156,11652,la villetta,"398 e 52nd st, ,",10022,italian,la villetta,398 e 52nd st,10022,italian,0
+759266,3156,11652,la villetta,"398 e 52nd st, ,",10022,italian,la villetta,398 e 52nd st,10022,italian,1
 763182,3169,3303,the garden grill,"206 e 52nd st, ,",10022,american (new),hilton garden inn- manhattan- midtown east,206 e 52nd st,10022,american,1
 765435,3178,22829,rotisserie georgette,"14 e 60th st,",10022,french,avra madison estiatorio,14 e 60th st,10022,greek,0
 765575,3178,15770,rotisserie georgette,"14 e 60th st,",10022,french,rotisserie georgette,14 e 60th st,10022,american,1
@@ -377,7 +377,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 775982,3217,11925,club bonafide,"212 e 52nd st, ,",10022,jazz & blues musicians cocktail bars,club bonafide,212 e 52nd st,10022,french,1
 776488,3219,18259,little thai kitchen,"231 e 53rd st, ,",10022,thai,ernesto's,231 e 53rd st,10022,sandwiches/salads/mixed buffet,0
 780439,3231,7819,fuji sushi & teriyaki,"146 e 55th st frnt, ,",10022,restaurants,kung fu little steamed buns,146 e 55th st,10022,chinese,0
-781146,3234,884,four seasons hotel,"57 e 57th st, ,",10022,hotels,the bar/four seasons hotel,57 e 57th st,10022,american,0
+781146,3234,884,four seasons hotel,"57 e 57th st, ,",10022,hotels,the bar/four seasons hotel,57 e 57th st,10022,american,1
 782276,3239,14500,lucky cat,"232 e 53rd st, ,",10022,lounges ramen,lucky cat,232 e 53rd st,10022,japanese,1
 785976,3256,11970,the pod 51 hotel,"230 e 51st st, ,",10022,hotels hostels,salvation burger,230 e 51st st,10022,american,0
 786583,3258,22829,central park,"14 e 60th st, , central park conservancy",10022,parks,avra madison estiatorio,14 e 60th st,10022,greek,0
@@ -392,20 +392,20 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 792946,3309,5642,mandarin oriental lobby lounge,"80 columbus cir at 60th st,",10023,american (new) lounges,mandarin oriental hotel-asiate,80 columbus circle at 60th street,10023,asian,0
 795827,3335,18569,amber,"103 w 70th st, ,",10023,japanese sushi bars asian fusion,amber,103 w 70th st,10023,asian,1
 798439,3359,14922,simit + smith,"124 w 72nd st, ,",10023,bakeries coffee & tea breakfast & brunch,crepes & delices,124 w 72nd st,10023,cafã©/coffee/tea,0
-800973,3380,17230,the empire hotel,"44 w 63rd st, ,",10023,hotels,empire hotel bar,44 w 63rd st,10023,american,0
-801013,3380,16535,the empire hotel,"44 w 63rd st, ,",10023,hotels,the empire rooftop,44 w 63rd st,10023,american,0
+800973,3380,17230,the empire hotel,"44 w 63rd st, ,",10023,hotels,empire hotel bar,44 w 63rd st,10023,american,1
+801013,3380,16535,the empire hotel,"44 w 63rd st, ,",10023,hotels,the empire rooftop,44 w 63rd st,10023,american,1
 804429,3411,15939,burke & wills,"226 w 79th st, ,",10024,australian bars,burke & wills/manhattan cricket club,226 w 79th st,10024,australian,1
 805052,3415,6301,han dynasty,"215 w 85th st, ,",10024,szechuan,han dynasty,215 w 85th st,10024,chinese,1
 808047,3439,21007,caffe storico,"new york historical society, 170 central park w,",10024,italian,new york historical society,170 central park w,10024,other,0
 811719,3468,15939,manhattan cricket club,"226 w 79th st, level 2,",10024,cocktail bars,burke & wills/manhattan cricket club,226 w 79th st,10024,australian,0
-822222,3560,21007,new-york historical society,"170 central park w, ,",10024,libraries museums,new york historical society,170 central park w,10024,other,0
-825467,3595,23806,vin sur vingt,"66 w 84th st,",10024,wine bars,vin sur vingt,66 w 84th st,10024,other,0
+822222,3560,21007,new-york historical society,"170 central park w, ,",10024,libraries museums,new york historical society,170 central park w,10024,other,1
+825467,3595,23806,vin sur vingt,"66 w 84th st,",10024,wine bars,vin sur vingt,66 w 84th st,10024,other,1
 826151,3603,11178,koko wings,"248 w 106th st,",10025,korean chicken wings,koko wings,248 w 106th st,10025,chicken,1
 828236,3624,14009,vino levantino,"210 w 94th st, ,",10025,mediterranean wine bars breakfast & brunch,whispers bar and restaurant,210 w 94th st,10025,american,0
-828981,3630,14009,"whispers restaurant, bar & lounge","210 w 94th st, ,",10025,cocktail bars lounges american (traditional),whispers bar and restaurant,210 w 94th st,10025,american,0
+828981,3630,14009,"whispers restaurant, bar & lounge","210 w 94th st, ,",10025,cocktail bars lounges american (traditional),whispers bar and restaurant,210 w 94th st,10025,american,1
 830665,3643,12177,effy's cafe,"104 w 96th st, ,",10025,kosher,effys cafe,104 w 96th st,10025,mediterranean,1
 835577,3685,4725,shahi biryani & grill,"71 w 109th st, ,",10025,indian pakistani halal,pak shahi biryani & grill,71 w 109th st,10025,indian,1
-843339,3753,16922,lolo's seafood shack,"303 w 116th st, ,",10026,seafood sandwiches bars,lolo's seafood shack,303 w 116th st,10026,seafood,0
+843339,3753,16922,lolo's seafood shack,"303 w 116th st, ,",10026,seafood sandwiches bars,lolo's seafood shack,303 w 116th st,10026,seafood,1
 843704,3760,22807,row house,"2128 frederick douglass blvd, ,",10026,american (new) tapas/small plates cocktail bars,row house,2128 frederick douglass blvd,10026,american,1
 843763,3761,18570,sexy taco/dirty cash,"161 malcolm x blvd,",10026,cocktail bars american (new) mexican,sexy taco dirty cash,161 malcolm x blvd,10026,american,1
 844042,3767,16825,harlem pizza co.,"135 w 116th st, ,",10026,pizza,harlem pizza co.,135 w 116th st,10026,pizza,1
@@ -414,7 +414,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 844340,3773,11727,cafe frederick harlem parlor,"2104 frederick douglass blvd, ,",10026,coffee & tea cafes,cafe frederick harlem parlor,2104 frederick douglass blvd,10026,american,1
 844616,3778,15531,la savane,"239 w 116th st, ,",10026,african,restaurant la savane,239 w 116th st,10026,african,1
 845148,3790,15098,maharaja palace,"2113 frederick douglass blvd, ,",10026,indian,maharaja palace,2113 frederick douglass blvd,10026,indian,1
-845699,3799,19790,harlem burger co,"2190 frederick douglass blvd,",10026,burgers sandwiches desserts,harlem burger co.,2190 frederick douglass blvd,10026,american,0
+845699,3799,19790,harlem burger co,"2190 frederick douglass blvd,",10026,burgers sandwiches desserts,harlem burger co.,2190 frederick douglass blvd,10026,american,1
 846253,3812,872,freddy's soul caribbean restaurant,"1980 adam clayton powell jr. blvd., ,",10026,caribbean,freddy's soul caribbean restaurant corp,1980 adam clayton powell jr blvd,10026,caribbean,1
 846260,3812,12719,freddy's soul caribbean restaurant,"1980 adam clayton powell jr. blvd., ,",10026,caribbean,juke box juice & salad,1943 adam clayton powell jr boulevard,10026,fruits/vegetables,0
 846268,3812,7059,freddy's soul caribbean restaurant,"1980 adam clayton powell jr. blvd., ,",10026,caribbean,cantina,1838 adam clayton powell jr bl,10026,mexican,0
@@ -454,8 +454,8 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 856123,3942,15534,new harlem besame latino soul lounge,"2070 adam clayton powell blvd, ,",10027,caribbean latin american,delhi masala restaurant,2077 adam clayton powell jr blvd,10027,indian,0
 856218,3942,23660,new harlem besame latino soul lounge,"2070 adam clayton powell blvd, ,",10027,caribbean latin american,b & k french cuisine,2167 adam clayton powell jr blvd,10027,french,0
 856901,3952,10943,buffalo wild wings,"2319 frederick douglass blvd, ,",10027,chicken wings sports bars american (traditional),buffalo wild wings,2319 frederick douglass blvd,10027,chicken,1
-856967,3953,23808,subway,"578 w 125th st, ,",10027,fast food sandwiches,subway,578 w 125th st,10027,sandwiches/salads/mixed buffet,0
-857387,3957,23679,little caesar's pizza,"377 w 125th st, ,",10027,pizza,little caesar's,377 w 125th st,10027,pizza,0
+856967,3953,23808,subway,"578 w 125th st, ,",10027,fast food sandwiches,subway,578 w 125th st,10027,sandwiches/salads/mixed buffet,1
+857387,3957,23679,little caesar's pizza,"377 w 125th st, ,",10027,pizza,little caesar's,377 w 125th st,10027,pizza,1
 858046,3963,23245,checkers,"79 w 125th st,",10027,american (traditional) fast food burgers,checkers,79 w 125th st,10027,american,1
 858887,3973,9285,buffalo boss,"17 w 125th st, ,",10027,chicken wings salad american (traditional),piece of velvet,17 w 125th st,10027,"ice cream, gelato, yogurt, ices",0
 859443,3978,8270,tropical grill & restaurant,"2145 adam clayton powell jr blvd, ,",10027,caribbean spanish,asian fusion,2071 adam clayton powell jr blvd,10027,asian,0
@@ -577,21 +577,21 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 925721,4693,9704,caffebene,9 edward m morgan pl,10032,gelato coffee & tea cafes,caffe bene,9 edward m morgan pl,10032,american,0
 925862,4695,2297,taszo espresso bar,"5 edward m morgan pl, ,",10032,cafes coffee & tea,taszo coffee,5 edward m morgan place,10032,american,0
 925891,4695,9704,taszo espresso bar,"5 edward m morgan pl, ,",10032,cafes coffee & tea,caffe bene,9 edward m morgan pl,10032,american,0
-931700,4785,23482,pocion,"704 w 177th st,",10033,vegan lounges cocktail bars,pocion,704 w 177th st,10033,vegetarian,0
-932139,4792,8127,kazza wine bar,"708 w 177th st,",10033,wine bars tapas bars coffee & tea,kazza wine bar,708 w 177th st,10033,tapas,0
+931700,4785,23482,pocion,"704 w 177th st,",10033,vegan lounges cocktail bars,pocion,704 w 177th st,10033,vegetarian,1
+932139,4792,8127,kazza wine bar,"708 w 177th st,",10033,wine bars tapas bars coffee & tea,kazza wine bar,708 w 177th st,10033,tapas,1
 933820,4820,3291,next door,"813 w 187th st, ,",10033,breakfast & brunch american (new) sushi bars,next door restaurant,813 w 187th st,10033,chinese/cuban,1
-934301,4830,11717,no 1 chinese restaurant,"825 w 181st st, ,",10033,chinese,#1 chinese restaurant,825 w 181st st,10033,chinese,0
-935381,4848,11464,lola lola restaurant,"1306 saint nicholas ave,",10033,cocktail bars hookah bars seafood,lola lola restaurant & bar,1306 saint nicholas ave,10033,spanish,0
+934301,4830,11717,no 1 chinese restaurant,"825 w 181st st, ,",10033,chinese,#1 chinese restaurant,825 w 181st st,10033,chinese,1
+935381,4848,11464,lola lola restaurant,"1306 saint nicholas ave,",10033,cocktail bars hookah bars seafood,lola lola restaurant & bar,1306 saint nicholas ave,10033,spanish,1
 938991,4901,17651,anchor heights,"575 w 207th st,",10034,wine bars italian,anchor heights,575 w 207th st,10034,italian,1
 939984,4919,4522,cafe tabaco & ron,"501 w 214th st, ,",10034,latin american,cafe tabaco & ron,501 w 214th st,10034,"latin (cuban, dominican, puerto rican, south & central american)",1
 941928,4951,4878,la nueva espana,"606 w 207th st, ,",10034,latin american,la nueva espana restaurant,606 w 207th st,10034,"latin (cuban, dominican, puerto rican, south & central american)",1
-942920,4968,20088,el fuerte deli restaurant,"582 w 207th st,",10034,dominican latin american american (traditional),el fuerte deli restaurant,582 w 207th st,10034,"latin (cuban, dominican, puerto rican, south & central american)",0
+942920,4968,20088,el fuerte deli restaurant,"582 w 207th st,",10034,dominican latin american american (traditional),el fuerte deli restaurant,582 w 207th st,10034,"latin (cuban, dominican, puerto rican, south & central american)",1
 943277,4976,6130,el anafe supreme,"584 w 207th st, ,",10034,salad mexican,el anafe express,584 w 207th st,10034,spanish,1
 944122,4991,14699,empire chinese restaurant,"563a w 207th st, ,",10034,chinese,empire kitchen,563a w 207th st,10034,chinese,1
 944459,4996,12382,delio's pizza,"553 w 207th st,",10034,pizza,noel pizza,553 w 207th st,10034,pizza,1
 945765,5026,23909,lechonera la isla,"256 e 125th st, ,",10035,latin american puerto rican,bosa of harlem,256 e 125th st,10035,pizza,0
 945813,5028,8529,thai soup,"166 e 118th st, ste a,",10035,thai,pipo's restaurant,166 e 118th st,10035,mexican,0
-946087,5036,23878,el kallejon,209 e 117th st,10035,tapas bars,el kallejon botanas,209 e 117th st,10035,mexican,0
+946087,5036,23878,el kallejon,209 e 117th st,10035,tapas bars,el kallejon botanas,209 e 117th st,10035,mexican,1
 946205,5039,23909,bosa's pizza of harlem,"256 e 125th st,",10035,pizza,bosa of harlem,256 e 125th st,10035,pizza,1
 946308,5041,8529,pipo's mexican restaurant,"166 e 118th st, ,",10035,mexican,pipo's restaurant,166 e 118th st,10035,mexican,1
 947118,5058,23760,q & n foods,"107 e 125th st, ,",10035,delis breakfast & brunch sandwiches,q & n food,107 e 125th st,10035,delicatessen,1
@@ -599,7 +599,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 949261,5109,6894,bagel tree,"245 e 124th st, ,",10035,bagels,bagel tree,245 e 124th st,10035,bagels/pretzels,1
 949422,5111,8394,dutch freds,"307 w 47th st,",10036,cocktail bars tapas/small plates burgers,dutch freds,307 w 47th st,10036,american,1
 950819,5114,5633,dim sum palace,"334 w 46th st,",10036,dim sum cantonese,dim sum palace,334 w 46th st,10036,asian,1
-957190,5135,15938,xi'an famous foods,"24 w 45th st, ,",10036,chinese burgers noodles,xi'an famous foods,24 w. 45th st,10036,chinese,0
+957190,5135,15938,xi'an famous foods,"24 w 45th st, ,",10036,chinese burgers noodles,xi'an famous foods,24 w. 45th st,10036,chinese,1
 961606,5148,20200,sean's bar and kitchen,"42 w 48th st,",10036,irish pub beer bar american (new),sean's bar & kitchen,42 w 48th st,10036,american,1
 962253,5149,21027,ootoya times square,"141 w 41st st, ,",10036,japanese,ootoya,141 w 41st st,10036,japanese,1
 963469,5153,2250,adella,"410 w 43rd st, ,",10036,tapas bars american (new) wine bars,adella,410 w 43rd st,10036,american,1
@@ -628,7 +628,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 993799,5240,20584,paramount bar & grill,"paramount hotel, 235 w 46th st,",10036,bars american (traditional),diamond horseshoe,235 w 46th st,10036,american,0
 995733,5248,4207,spice grill,48 w 48th st,10036,indian buffets,spice grill,48 w 48th st,10036,indian,1
 997301,5254,12344,bluestone lane,"1114 ave of the americas,",10036,coffee & tea gluten-free breakfast & brunch,stk,1114 avenue of the americas,10036,steak,0
-1002058,5269,18962,gallo nero,"402 w 44th st, ,",10036,italian,gallo nero,402 w 44th st,10036,other,0
+1002058,5269,18962,gallo nero,"402 w 44th st, ,",10036,italian,gallo nero,402 w 44th st,10036,other,1
 1002999,5272,16231,chick-fil-a,"1180 avenue of the americas,, ,",10036,fast food,simon sips,1185 avenue of the americas,10036,cafã©/coffee/tea,0
 1003068,5272,20785,chick-fil-a,"1180 avenue of the americas,, ,",10036,fast food,ocd cafe,1196 avenue of the americas,10036,cafã©/coffee/tea,0
 1003070,5272,7553,chick-fil-a,"1180 avenue of the americas,, ,",10036,fast food,the bistro (hbo cafeteria),1100 avenue of the americas,10036,american,0
@@ -652,13 +652,13 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1021419,5343,5048,king garden,"1 w 137th st, 5 ave,",10037,chinese,cafe plus,1 w 137th st,10037,american,0
 1021428,5343,8096,king garden,"1 w 137th st, 5 ave,",10037,chinese,king garden restaurant,1 w 137th st,10037,chinese,1
 1021634,5352,17864,cafe plus,"1 w 137th st,",10037,cafes,kennedy fried chicken & pizza,1 w 137th st,10037,chicken,0
-1021644,5352,5048,cafe plus,"1 w 137th st,",10037,cafes,cafe plus,1 w 137th st,10037,american,0
+1021644,5352,5048,cafe plus,"1 w 137th st,",10037,cafes,cafe plus,1 w 137th st,10037,american,1
 1021653,5352,8096,cafe plus,"1 w 137th st,",10037,cafes,king garden restaurant,1 w 137th st,10037,chinese,0
 1025514,5393,15000,famous calabria,"27 saint james pl,",10038,pizza,famous calabria pizzeria,27 saint james pl,10038,pizza/italian,1
 1031298,5444,11745,mooncake foods,"111 john st (pearl street entrance),",10038,asian fusion chinese,mooncake foods,111 john street- pearl st side,10038,asian,1
 1043281,5563,5856,peque vinos + tapas bar & restaurant,"231 w 145th st, ,",10039,tapas bars wine bars breakfast & brunch,peque vinos + tapas,231 w 145th st,10039,tapas,1
 1043288,5564,641,eso,"2906 frederick douglass blvd,",10039,bars american (traditional),eso,2906 frederick douglass blvd,10039,american,1
-1043401,5571,20375,subway,344 w 145th st,10039,sandwiches fast food,subway,344 w 145th st,10039,soups & sandwiches,0
+1043401,5571,20375,subway,344 w 145th st,10039,sandwiches fast food,subway,344 w 145th st,10039,soups & sandwiches,1
 1043421,5572,20901,indian express,"301 w 154th st, ste 1",10039,indian,indian express,301 w 154th st,10039,indian,1
 1043703,5592,1827,domino's pizza,"2554 adam clayton powell jr blvd, ,",10039,pizza chicken wings sandwiches,domino's,2554 adam clayton powell jr boulevard,10039,pizza,1
 1043722,5592,106,domino's pizza,"2554 adam clayton powell jr blvd, ,",10039,pizza chicken wings sandwiches,red star chinese restaurant,2525 adam clayton powell jr boulevard,10039,chinese,0
@@ -668,14 +668,14 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1044429,5618,9414,oche a tu gusto,"1573 st nicholas ave, ,",10040,fast food,oche a tu gusto,1573 st. nicholas ave,10040,"latin (cuban, dominican, puerto rican, south & central american)",1
 1045173,5637,19090,empire chinese restaurant,"1635 saint nicholas ave, ,",10040,american (new),empire chinese restaurant,1635 saint nicholas ave,10040,chinese,1
 1045194,5638,15540,fort tryon park,"1 margaret corbin dr, ,",10040,parks,new leaf,1 margaret corbin dr,10040,american,0
-1047200,5702,2452,bluestone lane,"2 e 90th st, ,",10128,coffee & tea breakfast & brunch gluten-free,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea,0
+1047200,5702,2452,bluestone lane,"2 e 90th st, ,",10128,coffee & tea breakfast & brunch gluten-free,bluestone lane,2 e 90th st,10128,cafã©/coffee/tea,1
 1051130,5743,22195,gina la fornarina,"26 e 91st st, ,",10128,italian,eli's essentials,26 e 91st st,10128,sandwiches/salads/mixed buffet,0
 1052318,5755,23123,gina americana,"27 e 92nd st,",10128,gelato burgers fast food,gina americana,27 e 92nd st,10128,american,1
 1061638,5857,12524,ningbo cafe,"21 s end ave, ,",10280,shanghainese szechuan asian fusion,ningbo cafe,21 s end ave,10280,chinese,1
 1061643,5858,12524,miramar,"21 s end ave, ,",10280,seafood mediterranean,ningbo cafe,21 s end ave,10280,chinese,0
 1061672,5867,17222,chipotle mexican grill,"325 s  end ave, ,",10280,mexican fast food,chipotle mexican grill,325 s end ave,10280,mexican,1
-1067532,6000,6241,rusty's west indian cuisine inc,"537 port richmond ave,",10302,caribbean,rusty's,537 port richmond ave,10302,caribbean,0
-1067696,6004,6845,indian oven,"461 port richmond ave, ,",10302,indian desserts seafood,indian oven,461 port richmond ave,10302,indian,0
+1067532,6000,6241,rusty's west indian cuisine inc,"537 port richmond ave,",10302,caribbean,rusty's,537 port richmond ave,10302,caribbean,1
+1067696,6004,6845,indian oven,"461 port richmond ave, ,",10302,indian desserts seafood,indian oven,461 port richmond ave,10302,indian,1
 1067867,6007,16180,goody's spanish food & more restaurant,"201 port richmond avenue, ,",10302,restaurants,goody's spanish food,201 port richmond avenue,10302,spanish,1
 1067883,6008,12051,los potrillos,"150 port richmond ave, ,",10302,mexican,los potrillos restaurant,150 port richmond ave,10302,mexican,1
 1068738,6030,958,number one chinese kitchen,"209 port richmond ave, ,",10302,chinese,no. 1 chinese kitchen,209 port richmond ave,10302,chinese,1
@@ -701,8 +701,8 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1105084,6719,18269,dynasty taste,"77 richmond hill rd, ,",10314,asian fusion,dynasty taste,77 richmond hill rd,10314,chinese/japanese,1
 1110370,6775,21344,nyy steak - yankee stadium,"1 e 161st st, ,",10451,steakhouses,new york yankees mvp club,1 e 161st st,10451,american,0
 1113640,6815,22574,subway,91 e 161st st,10451,sandwiches fast food,subway,91 e 161st st,10451,sandwiches,1
-1113921,6819,8238,julia's coffee shop,"232 e 144th st,",10451,juice bars & smoothies coffee & tea breakfast & brunch,julia's coffee shop,232 e 144th st,10451,"latin (cuban, dominican, puerto rican, south & central american)",0
-1114684,6830,1662,pizza world,"509 e 163rd st, ,",10451,pizza,pizza world,509 e 163rd st,10451,pizza,0
+1113921,6819,8238,julia's coffee shop,"232 e 144th st,",10451,juice bars & smoothies coffee & tea breakfast & brunch,julia's coffee shop,232 e 144th st,10451,"latin (cuban, dominican, puerto rican, south & central american)",1
+1114684,6830,1662,pizza world,"509 e 163rd st, ,",10451,pizza,pizza world,509 e 163rd st,10451,pizza,1
 1114828,6831,3640,merry land chinese restaurant,"325 e 149th st, ,",10451,chinese,merry land,325 e 149th st,10451,chinese,1
 1114855,6832,2774,checkers,"260 e 161st st, ,",10451,burgers,starbucks,260 e 161st st,10451,cafã©/coffee/tea,0
 1116640,6857,21344,lobel's of new york,"1 e 161st st, ,",10451,butcher,new york yankees mvp club,1 e 161st st,10451,american,0
@@ -722,7 +722,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1119190,6893,16356,angelo's deli #2,120 e mount eden ave,10452,breakfast & brunch delis sandwiches,king dragon restaurant,120 e mount eden ave,10452,chicken,0
 1119226,6893,23275,angelo's deli #2,120 e mount eden ave,10452,breakfast & brunch delis sandwiches,dominicana pollo sabroso restaurant,105 e mount eden ave,10452,"latin (cuban, dominican, puerto rican, south & central american)",0
 1119409,6896,16356,dominicana pollo sabroso,"105 e mount eden ave,",10452,dominican,king dragon restaurant,120 e mount eden ave,10452,chicken,0
-1119445,6896,23275,dominicana pollo sabroso,"105 e mount eden ave,",10452,dominican,dominicana pollo sabroso restaurant,105 e mount eden ave,10452,"latin (cuban, dominican, puerto rican, south & central american)",0
+1119445,6896,23275,dominicana pollo sabroso,"105 e mount eden ave,",10452,dominican,dominicana pollo sabroso restaurant,105 e mount eden ave,10452,"latin (cuban, dominican, puerto rican, south & central american)",1
 1120431,6912,16356,kennedy fried chicken & pizza,"13 e mount eden ave, ,",10452,fast food chicken wings,king dragon restaurant,120 e mount eden ave,10452,chicken,0
 1120467,6912,23275,kennedy fried chicken & pizza,"13 e mount eden ave, ,",10452,fast food chicken wings,dominicana pollo sabroso restaurant,105 e mount eden ave,10452,"latin (cuban, dominican, puerto rican, south & central american)",0
 1120942,6921,16356,barbara deli grocery,"69 e mount eden ave, ,",10452,delis,king dragon restaurant,120 e mount eden ave,10452,chicken,0
@@ -738,24 +738,24 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1127072,7057,21967,venice restaurant & pizzeria,"772 e 149th st, ,",10455,italian pizza,venice restaurant,772 e 149th st,10455,italian,1
 1127229,7059,16009,patron mexican restaurant,"835 e 152nd st,",10455,mexican,patron mexican restaurant,835 e 152nd st,10455,mexican,1
 1128119,7075,5735,149 steam fish,"500 e 149th st,",10455,seafood,149 steam fish,500 e 149th st,10455,seafood,1
-1128546,7081,21403,burger king,521 e 149th st,10455,fast food,burger king,521 e 149th st,10455,hamburgers,0
+1128546,7081,21403,burger king,521 e 149th st,10455,fast food,burger king,521 e 149th st,10455,hamburgers,1
 1128863,7085,14276,good taste chinese restaurant,"863 e 149th st, ,",10455,chinese,good taste chinese food,863 e 149th st,10455,chinese,1
 1130931,7118,5735,la orquidea bakery & restaurant,"500 e 149th st, ,",10455,bakeries,149 steam fish,500 e 149th st,10455,seafood,0
 1131482,7126,22864,johnson's bbq,"790 e 163rd st,",10456,barbeque southern,johnson bar-b-q,790 e 163rd st,10456,soul food,1
-1131557,7127,20071,el nuevo valle 3,"268 e 167th st, ,",10456,spanish latin american caribbean,el nuevo valle restaurant & lechonera,268 e 167th st,10456,spanish,0
+1131557,7127,20071,el nuevo valle 3,"268 e 167th st, ,",10456,spanish latin american caribbean,el nuevo valle restaurant & lechonera,268 e 167th st,10456,spanish,1
 1131663,7130,21552,kennedy fried chicken,198 e 167th st,10456,chicken wings,kennedy fried chicken,198 e 167th st,10456,chicken,1
-1132790,7149,15811,kennedy fried chicken,"638 e 169th st, ,",10456,chicken wings,kennedy fried chicken,638 e 169th st,10456,chicken,0
+1132790,7149,15811,kennedy fried chicken,"638 e 169th st, ,",10456,chicken wings,kennedy fried chicken,638 e 169th st,10456,chicken,1
 1132926,7151,15811,sing-sing kitchen,"638 e 169th st, ,",10456,asian fusion,kennedy fried chicken,638 e 169th st,10456,chicken,0
 1133678,7169,10783,xing long,553 e 169th st,10456,chinese,xing long chinese restuarant,553 e 169th st,10456,chinese,1
 1133827,7172,1472,come and get it,791 e 163rd st,10456,convenience stores,come & get sum fish & chips,791 e 163rd st,10456,seafood,0
 1134802,7189,15519,aa chinese restaurant,"214 e burnside ave, ,",10457,chinese,aa chinese restaurant,214 e burnside ave,10457,chinese,1
 1135059,7192,21770,lulu restaurant,"485 e 180th st, ,",10457,american (new) spanish,lulu restaurant,485 e 180th st,10457,spanish,1
 1135135,7194,7248,alex's tacos,"744 e tremont ave, ,",10457,mexican fast food,alex tacos,744 e. tremont ave,10457,mexican,1
-1135182,7195,15887,kennedy fried chicken,"647 e tremont ave, ,",10457,chicken wings,kennedy fried chicken & pizza,647 e tremont ave,10457,chicken,0
+1135182,7195,15887,kennedy fried chicken,"647 e tremont ave, ,",10457,chicken wings,kennedy fried chicken & pizza,647 e tremont ave,10457,chicken,1
 1136139,7210,1187,new china,"240 e 174th st, ,",10457,chinese,new china restaurant,240 e 174th st,10457,chinese,1
 1136674,7219,4049,subway,"597 e tremont ave, ,",10457,sandwiches fast food,subway,597 e tremont ave,10457,sandwiches,1
 1140828,7257,5718,bedford pizza pasta restaurant,"380 bedford park blvd,",10458,pizza,bedford pizza cafe,380 bedford park blvd,10458,pizza/italian,1
-1141236,7261,20076,pizza studio,"444 e. fordham rd., ,",10458,pizza,pizza studio,444 e fordham rd,10458,pizza,0
+1141236,7261,20076,pizza studio,"444 e. fordham rd., ,",10458,pizza,pizza studio,444 e fordham rd,10458,pizza,1
 1142241,7268,10680,planet wings,"699 e 187th st, ,",10458,chicken wings,planet wings,699 e 187th st,10458,chicken,1
 1144982,7295,18843,oriental house,"565 e 184th st, ,",10458,chinese,oriental house,565 e 184th st,10458,chinese,1
 1146660,7310,21147,essentials 608,"608 e fordham rd,",10458,restaurants caterers lounges,essential 608,608 e fordham rd,10458,caribbean,0
@@ -765,8 +765,8 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1149397,7341,17984,peachwave,"602 e 187th st,",10458,ice cream & frozen yogurt,peachwave frozen yogurt,602 e 187th st,10458,"ice cream, gelato, yogurt, ices",1
 1149713,7344,19225,great wall,"732 e 187th st, ,",10458,chinese,great wall chinese restaurnat,732 e 187th st,10458,chinese,1
 1150667,7356,17423,lee's chinese resturant,"626 e 187th st, ,",10458,chinese,lee's restaurant,626 e 187th st,10458,chinese,1
-1151362,7365,22703,fordham university,"441 e fordham rd, ,",10458,colleges & universities,marketplace at mcginley center fordham university,441 e fordham rd,10458,american,0
-1151435,7365,23817,fordham university,"441 e fordham rd, ,",10458,colleges & universities,dagger johns at mcginley fordham university,441 e fordham rd,10458,american,0
+1151362,7365,22703,fordham university,"441 e fordham rd, ,",10458,colleges & universities,marketplace at mcginley center fordham university,441 e fordham rd,10458,american,1
+1151435,7365,23817,fordham university,"441 e fordham rd, ,",10458,colleges & universities,dagger johns at mcginley fordham university,441 e fordham rd,10458,american,1
 1151458,7365,2689,fordham university,"441 e fordham rd, ,",10458,colleges & universities,fordham u - cosi at campbell hall,441 e fordham rd,10458,cafã©/coffee/tea,0
 1152278,7371,9406,monte pizza,"360 e 188th st,",10458,pizza,monte pizza,360 e 188th st,10458,pizza,1
 1156375,7440,14198,d' kora restaurant lounge,"894 e tremont ave,",10460,spanish american (new),d'kora restaurant lounge,894 e tremont ave,10460,spanish,1
@@ -775,21 +775,21 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1157388,7461,18600,subway,"961 e 174th st, ,",10460,fast food sandwiches,taco bell,961 e 174th st,10460,tex-mex,0
 1157389,7461,5775,subway,"961 e 174th st, ,",10460,fast food sandwiches,burger king,961 e 174th st,10460,sandwiches,0
 1158931,7490,20807,made in puerto rico latin cuisine,"3363 e tremont ave,",10461,sports bars latin american caribbean,made in puerto rico,3363 e tremont ave,10461,spanish,1
-1161143,7517,23648,la casa del sabor,"2728 e tremont ave, ,",10461,latin american,la casa del sabor,2728 e tremont ave,10461,"latin (cuban, dominican, puerto rican, south & central american)",0
+1161143,7517,23648,la casa del sabor,"2728 e tremont ave, ,",10461,latin american,la casa del sabor,2728 e tremont ave,10461,"latin (cuban, dominican, puerto rican, south & central american)",1
 1162112,7530,13929,captain pizzeria,"1056 morris park ave, ,",10461,pizza italian,captain's pizzeria and restaurant,1056 morris park ave,10461,pizza/italian,1
 1166621,7582,3020,paulding bar & restaurant,"1024 morris park avenue, ,",10461,restaurants,doyles pub,1024 morris park avenue,10461,irish,0
 1168641,7607,9680,soups salads & beyond,"1060 morris park ave, ,",10461,breakfast & brunch,"soups,salads & beyond",1060 morris park ave,10461,american,1
-1168926,7611,3908,15 flavors,"1046 morris park ave, ,",10461,ice cream & frozen yogurt,15 flavors,1046 morris park ave,10461,"ice cream, gelato, yogurt, ices",0
+1168926,7611,3908,15 flavors,"1046 morris park ave, ,",10461,ice cream & frozen yogurt,15 flavors,1046 morris park ave,10461,"ice cream, gelato, yogurt, ices",1
 1169508,7617,21898,la masa,"1000 morris park ave,",10462,comfort food colombian,la masa restaurant,1000 morris park ave,10462,"latin (cuban, dominican, puerto rican, south & central american)",1
 1169779,7620,22207,slim to go,"1556a white plains rd, ,",10462,american (new) spanish breakfast & brunch,slim to go,1556a white plains rd,10462,american,1
 1169905,7621,16417,fine food cuisine,"671 morris park ave, ,",10462,american (new),fine food cusine,671 morris park ave,10462,american,1
 1169952,7623,21108,sabrosura restaurant,"1200 castle hill ave, ,",10462,latin american spanish american (new),sabrosura,1200 castle hill ave,10462,spanish,1
 1170061,7625,4770,thai no. 1,"1509 white plains rd, ,",10462,thai,thai no 1,1509 white plains rd,10462,thai,1
 1170331,7627,5225,oasis mediterranean restaurant,"1907 white plains rd, ,",10462,middle eastern,oasis of middle east,1907 white plains rd,10462,middle eastern,1
-1170643,7634,19605,don emilio diner,"1315 castle hill ave,",10462,spanish,don emilio diner restaurant,1315 castle hill ave,10462,"latin (cuban, dominican, puerto rican, south & central american)",0
+1170643,7634,19605,don emilio diner,"1315 castle hill ave,",10462,spanish,don emilio diner restaurant,1315 castle hill ave,10462,"latin (cuban, dominican, puerto rican, south & central american)",1
 1171973,7648,16350,anthony's pizza,"686 morris park ave, ,",10462,pizza,anthony's pizza,686 morris park ave,10462,pizza,1
 1172632,7655,1750,patsy's pizzeria,"980 morris park ave, ,",10462,italian pizza,patsy's pizzeria,980 morris park ave,10462,pizza/italian,1
-1173488,7667,23740,canoa,1368 castle hill ave,10462,american (new),canoa,1368 castle hill ave,10462,spanish,0
+1173488,7667,23740,canoa,1368 castle hill ave,10462,american (new),canoa,1368 castle hill ave,10462,spanish,1
 1174870,7687,17375,marisco centro seafood restaurant & fish market,"1160 castle hill ave, ,",10462,caribbean seafood spanish,marisco centro,1160 castle hill ave,10462,seafood,1
 1176096,7703,19687,luciano pizza,"1005a morris park avenue, ,",10462,pizza,luciano's pizza,1005a morris park avenue,10462,pizza,1
 1176156,7704,5182,sing garden restaurant,"1165 castle hill ave, ,",10462,chinese,sing garden restaurant,1165 castle hill ave,10462,chinese,1
@@ -809,7 +809,7 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1183743,7808,23332,chipotle mexican grill,"193 w 237th st, ,",10463,fast food mexican,chipotle mexican grill,193 w 237th st,10463,mexican,1
 1184411,7817,19364,mon amour coffee & wine,"234 w 238th st,",10463,coffee & tea wine bars beer bar,mon amour coffee & wine,234 w 238th st,10463,sandwiches/salads/mixed buffet,1
 1184642,7821,13886,cold cut city gourmet,"228 w 231st st, ,",10463,delis,cold cut city bunny deli 2,228 w 231st st,10463,american,0
-1185455,7834,10745,yokohama japanese restaurant,"438 w 238th st, ,",10463,japanese food delivery services sushi bars,yokohama japanese restaurant,438 w 238th st,10463,japanese,0
+1185455,7834,10745,yokohama japanese restaurant,"438 w 238th st, ,",10463,japanese food delivery services sushi bars,yokohama japanese restaurant,438 w 238th st,10463,japanese,1
 1185814,7839,9644,papa john's pizza,"161 w 231st st, ,",10463,pizza,papa john's,161 w 231st st,10463,pizza,1
 1185860,7839,13011,papa john's pizza,"161 w 231st st, ,",10463,pizza,new adventure juice bar,161 w 231st st,10463,spanish,0
 1187938,7867,5262,bailey seafood market,"146 w 231st st, ,",10463,seafood markets,bailey seafood market & restaurant,146 w 231st st,10463,seafood,1
@@ -823,23 +823,23 @@ _id,ltable_ID,rtable_ID,ltable_name,ltable_address,ltable_zipcode,ltable_cuisine
 1188813,7900,19569,scavello's city island,101 city island ave,10464,grocery caterers delis,scavello's on the island,101 city island ave,10464,italian,0
 1189340,7919,4703,tosca cafe,"4038 e tremont ave, ,",10465,pizza italian cafes,tosca cafe,4038 e tremont ave,10465,american,1
 1189396,7920,21934,legendary bar & grill,"3513 e tremont ave, ,",10465,bars italian burgers,legendary,3513 e tremont ave,10465,american,1
-1189506,7923,13772,casa restaurant & lounge,"3607 e. tremont ave.,",10465,tapas/small plates lounges,casa restaurant & lounge,3607 e tremont ave,10465,"latin (cuban, dominican, puerto rican, south & central american)",0
+1189506,7923,13772,casa restaurant & lounge,"3607 e. tremont ave.,",10465,tapas/small plates lounges,casa restaurant & lounge,3607 e tremont ave,10465,"latin (cuban, dominican, puerto rican, south & central american)",1
 1189854,7932,22340,alley cat smokehouse,"3604 e tremont ave, ste c,",10465,smokehouse,alley cat smokehouse,3604 e tremont ave,10465,barbecue,1
 1189976,7937,22117,casa criolla,"815 hutchinson river pkwy, ,",10465,latin american caribbean spanish,chipotle mexican grill,815 hutchinson river pkwy,10465,tex-mex,0
-1190156,7940,17814,lilly's cafe,"3035 cross bronx expy,",10465,breakfast & brunch sandwiches,lilly's cafe,3035 cross bronx expy,10465,cafã©/coffee/tea,0
+1190156,7940,17814,lilly's cafe,"3035 cross bronx expy,",10465,breakfast & brunch sandwiches,lilly's cafe,3035 cross bronx expy,10465,cafã©/coffee/tea,1
 1190318,7943,22117,five guys burgers and fries,"815 hutchinson river pkwy, ,",10465,burgers fast food,chipotle mexican grill,815 hutchinson river pkwy,10465,tex-mex,0
 1190702,7950,7850,frank & joe's deli,"3639 e tremont ave, ,",10465,sandwiches delis,frank and joe's deli,3639 e tremont ave,10465,delicatessen,1
 1191002,7956,22117,chipotle mexican grill,"815 hutchinson river pkwy, ,",10465,mexican fast food,chipotle mexican grill,815 hutchinson river pkwy,10465,tex-mex,1
-1191155,7959,21736,china wok,"3839 e tremont ave, ,",10465,chinese,china wok,3839 e tremont ave,10465,chinese,0
+1191155,7959,21736,china wok,"3839 e tremont ave, ,",10465,chinese,china wok,3839 e tremont ave,10465,chinese,1
 1192012,7976,16405,el paisano pizzeria,"3444 e tremont ave, ,",10465,pizza,el paisano pizzeria,3444 e tremont ave,10465,pizza,1
 1192028,7977,22117,applebee's,"815 hutchinson river pkwy, ,",10465,american (traditional) sports bars burgers,chipotle mexican grill,815 hutchinson river pkwy,10465,tex-mex,0
-1192503,7987,13662,trump golf links at ferry point,"500 hutchinson river pkwy, ,",10465,golf,trump golf links at ferry point,500 hutchinson river pkwy,10465,american,0
+1192503,7987,13662,trump golf links at ferry point,"500 hutchinson river pkwy, ,",10465,golf,trump golf links at ferry point,500 hutchinson river pkwy,10465,american,1
 1193511,8008,19175,golden ring,"4342 white plains rd, ,",10466,caribbean,golden ring,4342 white plains rd,10466,caribbean,1
 1193905,8014,8690,tony's pizza,"4189 white plains road, ,",10466,pizza,tony's pizza,4189 white plains road,10466,pizza,1
-1194084,8016,23645,el jobo seafood restaurant,"748 e 233rd st,",10466,seafood latin american,el jobo seafood restaurant,748 e 233rd st,10466,spanish,0
+1194084,8016,23645,el jobo seafood restaurant,"748 e 233rd st,",10466,seafood latin american,el jobo seafood restaurant,748 e 233rd st,10466,spanish,1
 1194276,8019,16259,pizza place,"4024 white plains road, ,",10466,pizza,the pizza place,4024 white plains road,10466,pizza,1
 1194444,8022,11807,the good dine,"3922 white plains rd, ,",10466,caribbean,deuce & bam good dine restaurant,3922 white plains rd,10466,caribbean,1
-1194467,8023,19497,burger king,"4275 white plains rd, ,",10466,burgers,burger king,4275 white plains rd,10466,american,0
+1194467,8023,19497,burger king,"4275 white plains rd, ,",10466,burgers,burger king,4275 white plains rd,10466,american,1
 1194589,8025,19971,papa john's pizza,3929 white plains rd,10466,pizza,papa john's pizza,3929 white plains rd,10466,pizza,1
 1196253,8048,23187,agra grill,"3835 white plains rd, ,",10467,indian seafood pakistani,agra grill,3835 white plains rd,10467,indian,1
 1196463,8050,10473,anthony's famous gourmet deli,"169 e gun hill rd, ,",10467,delis sandwiches,gustoso juice lounge,751b e gun hill rd,10467,"juice, smoothies, fruit salads",0
