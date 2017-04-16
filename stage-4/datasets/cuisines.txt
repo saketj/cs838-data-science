@@ -1,0 +1,62 @@
+bars, cocktail, beer, wine, pubs, gastropubs
+american, burgers, burger, hot, dogs, hamburgers, steak, pancakes, waffles
+japanese, sushi
+korean
+mexican, tacos
+barbeque, barbecue
+french, brasseries, creperies
+greek
+desserts, ice, cream, yogurt, gelato
+italian, pizza
+latin
+cuban
+dominican
+puerto rican, puerto, rican
+chinese, noodles, ramen
+burgers
+asian
+jewish, kosher
+cambodian
+thai
+german
+taiwanese
+vietnamese
+cafe, donuts, coffee, tea, juice, smoothies, café, bagels, pretzels, cafeteria
+vegan, vegetarian
+filipino
+mediterranean
+indian
+hawaiian
+caribbean
+turkish
+middle eastern, middle, eastern, falafel
+seafood
+venezuelan
+spanish
+malaysian
+bakery, bakeries
+british
+european
+irish
+pakistani, halal
+scandinavian
+brazilian
+senegalese
+african
+cantonese
+portuguese
+malaysia
+peruvian
+colombian
+bangladeshi, hookah
+salvadoran
+chilean
+australian
+russian
+ukrainian
+uzbek
+armenian
+mongolian
+afghan
+haitian
+trinidadian
