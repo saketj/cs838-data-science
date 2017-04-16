@@ -1,9 +1,18 @@
-#!/usr/bin/python
+########################
+#--- data_merger.py ---#
+########################
+# The main python file that does data merging for matches between
+# tables A and B. The file expects two command-line arguments and can be run as:
+# `python3 data_merger.py <input_file> <output_file>`
 
 import csv
 import sys
 
+# Import our python classes that we wrote for merging. (Defined later)
 import merge_rules
+import nyc_demographics
+
+nyc_demographics_dataset = nyc_demographics.NYCDemographicsDataset()
 
 def merge_attributes(row):
     merge_rules_dict = {
@@ -20,13 +29,19 @@ def merge_attributes(row):
     extracted_violation_code = row["rtable_violation_code"]
     extracted_critical_flag = row["rtable_critical_flag"]
     extracted_grade = row["rtable_grade"]
-    final_row = [merged_name, merged_address, merged_zipcode, merged_cuisine,
+    merged_row = [merged_name, merged_address, merged_zipcode, merged_cuisine,
                 extracted_price, extracted_violation_code, extracted_critical_flag, extracted_grade]
-    return final_row
+
+    # Add the attributes from Table D: NYC Demographics Dataset
+    merged_row.extend(nyc_demographics_dataset.find(merged_zipcode))
+    return merged_row
 
 def write_header(f):
     # Write CSV Header
-    f.writerow(["name", "address", "zipcode", "cuisine", "price", "violation_code", "critical_flag", "grade"])
+    f.writerow(["name", "address", "zipcode", "cuisine", "price",
+                    "violation_code", "critical_flag", "grade",
+                    "median_household_income", "median_real_estate_value",
+                    "population_density", "cost_of_living", "population"])
 
 def write_row(f, merged_row):
     f.writerow(merged_row)
@@ -38,6 +53,7 @@ def main(argv):
 
     input_file = csv.DictReader(open(argv[0]))
     output_file = csv.writer(open(argv[1], "w"))
+    write_header(output_file)
 
     for row in input_file:
         merged_row = merge_attributes(row)

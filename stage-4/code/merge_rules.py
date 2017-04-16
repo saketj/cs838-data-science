@@ -1,4 +1,13 @@
-#!/usr/bin/python
+########################
+#--- merge_rules.py ---#
+########################
+# This is a helper python file that contains classes that define
+# rules for merging columns of A and B. Specifically, it defines following classes:
+# class NameMergeRule- to merge restaurant names,
+# class AddressMergeRule- to merge restaurant addresses,
+# class ZipcodeMergeRule- to merge restaurant zipcodes,
+# class CuisineMergeRule- to merge restaurant cuisines.
+
 
 import json
 import re
@@ -42,7 +51,7 @@ class CuisineMergeRule:
     valid_cuisine_map = {}
 
     def __init__(self):
-        with open('../datasets/cuisines_dictionary.json') as json_data:
+        with open('cuisines_dictionary.json') as json_data:
             self.valid_cuisine_map = json.load(json_data)
 
     def process(self, value_l, value_r):
