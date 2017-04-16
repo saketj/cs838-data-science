@@ -41,9 +41,7 @@ def main(argv):
 
     for row in input_file:
         merged_row = merge_attributes(row)
-        write_row(f, merged_row)
-
-    output_file.close()
+        write_row(output_file, merged_row)            
 
 if __name__ == "__main__":
     main(sys.argv[1:])
