@@ -1,32 +1,32 @@
 name,address,zipcode,cuisine,price,violation_code,critical_flag,grade,median_household_income,median_real_estate_value,population_density,cost_of_living,population
 juniper,"237 w 35th st,",10001,bars american,$$,06C,Critical,A,81671,650200,35350,157.4,21966
-izakaya mew,"53 w 35th st, basement,",10001,bars japanese,$$,06C,Critical,B,81671,650200,35350,157.4,21966
-the kunjip,"32 w 32nd st, fl 3,",10001,korean mexican bars,$$,02B,Critical,Z,81671,650200,35350,157.4,21966
-the maze,"32 w 32nd st, fl 3,",10001,korean mexican bars,$$,06C,Critical,A,81671,650200,35350,157.4,21966
-jongro bbq,"22 w 32nd st, ,",10001,korean bars barbeque,$$,06B,Critical,B,81671,650200,35350,157.4,21966
-five senses,"9 w 32nd st, ,",10001,korean barbeque,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
+izakaya mew,"53 w 35th st, basement,",10001,japanese bars,$$,06C,Critical,B,81671,650200,35350,157.4,21966
+the kunjip,"32 w 32nd st, fl 3,",10001,mexican korean bars,$$,02B,Critical,Z,81671,650200,35350,157.4,21966
+the maze,"32 w 32nd st, fl 3,",10001,mexican korean bars,$$,06C,Critical,A,81671,650200,35350,157.4,21966
+jongro bbq,"22 w 32nd st, ,",10001,barbeque korean bars,$$,06B,Critical,B,81671,650200,35350,157.4,21966
+five senses,"9 w 32nd st, ,",10001,barbeque korean,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
 till & sprocket,"140 w 30th st, ,",10001,bars american,$$,04L,Critical,A,81671,650200,35350,157.4,21966
-ocabanon,"245 w 29th st,",10001,bars french,$$,08A,Not Critical,B,81671,650200,35350,157.4,21966
+ocabanon,"245 w 29th st,",10001,french bars,$$,08A,Not Critical,B,81671,650200,35350,157.4,21966
 smithfield hall,"138 w 25th st, ,",10001,bars american,$$,02H,Critical,A,81671,650200,35350,157.4,21966
 lemony grill,"224 w 35th st, ,",10001,desserts greek,$$,04A,Critical,A,81671,650200,35350,157.4,21966
 dewey's pub,"135 w 30th st, ,",10001,bars american,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
 hanamizuki cafe,"143 w 29th st, ,",10001,japanese,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
 alt - a little taste,"148 w 28th st, ,",10001,american,$,02G,Critical,A,81671,650200,35350,157.4,21966
 impero caffè,"132 w 27th st, ,",10001,italian,$$$,06F,Critical,A,81671,650200,35350,157.4,21966
-costas - south american arepas,"30 w 35th st,",10001,puerto rican dominican cuban american latin,$,09C,Not Critical,A,81671,650200,35350,157.4,21966
-sid gold's request room,"165 w 26th st, ,",10001,bars desserts italian american,$$,06D,Critical,A,81671,650200,35350,157.4,21966
-paik's noodle,"2 w 32nd st, fl 2",10001,korean chinese,$,06E,Critical,A,81671,650200,35350,157.4,21966
-miss korea barbecue ''sun'',"10 w 32nd st, 1st, 2nd & 3rd fl,",10001,korean barbeque,$$,06C,Critical,A,81671,650200,35350,157.4,21966
+costas - south american arepas,"30 w 35th st,",10001,cuban puerto rican latin dominican american,$,09C,Not Critical,A,81671,650200,35350,157.4,21966
+sid gold's request room,"165 w 26th st, ,",10001,italian desserts bars american,$$,06D,Critical,A,81671,650200,35350,157.4,21966
+paik's noodle,"2 w 32nd st, fl 2",10001,chinese korean,$,06E,Critical,A,81671,650200,35350,157.4,21966
+miss korea barbecue ''sun'',"10 w 32nd st, 1st, 2nd & 3rd fl,",10001,barbeque korean,$$,06C,Critical,A,81671,650200,35350,157.4,21966
 american whiskey,"247 w 30th st, ,",10001,bars american,$$,02G,Critical,A,81671,650200,35350,157.4,21966
-my belly's playlist,"218 w 35th st, ,",10001,bars burgers american,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
-rock and reillys lobby bar,"218 w 35th st, ,",10001,bars burgers american,$$,06C,Critical,A,81671,650200,35350,157.4,21966
-rock & reilly's nyc,"218 w 35th st, ,",10001,bars burgers american,$$,02G,Critical,A,81671,650200,35350,157.4,21966
+my belly's playlist,"218 w 35th st, ,",10001,burgers bars american,$$,10F,Not Critical,A,81671,650200,35350,157.4,21966
+rock and reillys lobby bar,"218 w 35th st, ,",10001,burgers bars american,$$,06C,Critical,A,81671,650200,35350,157.4,21966
+rock & reilly's nyc,"218 w 35th st, ,",10001,burgers bars american,$$,02G,Critical,A,81671,650200,35350,157.4,21966
 the kunjip,"32 w 32nd st, ,",10001,korean,$$,02B,Critical,Z,81671,650200,35350,157.4,21966
 the kunjip,"32 w 32nd st, ,",10001,korean,$$,06C,Critical,A,81671,650200,35350,157.4,21966
-sushi fussion nyc,"224 w 35th st, ,",10001,bars japanese asian jewish,$$,08A,Not Critical,A,81671,650200,35350,157.4,21966
+sushi fussion nyc,"224 w 35th st, ,",10001,japanese bars jewish asian,$$,08A,Not Critical,A,81671,650200,35350,157.4,21966
 madison square tavern,"150 w 30th st, ,",10001,bars american,$$,09B,Not Critical,C,81671,650200,35350,157.4,21966
 barilla restaurants,"108 w 32nd st, ,",10001,italian,$$,08A,Not Critical,A,81671,650200,35350,157.4,21966
-hanamichi,"28 w 32nd st, ,",10001,korean japanese asian bars,$$,08C,Not Critical,A,81671,650200,35350,157.4,21966
+hanamichi,"28 w 32nd st, ,",10001,japanese korean bars asian,$$,08C,Not Critical,A,81671,650200,35350,157.4,21966
 crompton ale house,"159 w 26th st,",10001,bars american,$$,09C,Not Critical,A,81671,650200,35350,157.4,21966
 cafe r,"116 w 32nd st, ,",10001,american,$,10F,Not Critical,B,81671,650200,35350,157.4,21966
 fools gold nyc,"145 e houston st, ,",10002,bars american,$$,10F,Not Critical,A,33218,535600,93461,168.9,82191
@@ -41,24 +41,24 @@ ramen zundo-ya,"84 e 10th st, ,",10003,japanese chinese,$$,02G,Critical,A,92540,
 florian cafe tattoria & bar,"225 park ave s, ,",10003,italian,$$$,09C,Not Critical,A,92540,817700,99419,159.2,57310
 le coq rico,"30 e 20th st,",10003,french,$$$,10B,Not Critical,A,92540,817700,99419,159.2,57310
 num pang sandwich shop,"28 e 12th st,",10003,cambodian,$,04N,Critical,A,92540,817700,99419,159.2,57310
-al vicoletto,"9 e 17th st, ,",10003,bars italian,$$,08B,Not Critical,A,92540,817700,99419,159.2,57310
+al vicoletto,"9 e 17th st, ,",10003,italian bars,$$,08B,Not Critical,A,92540,817700,99419,159.2,57310
 union square cafe/ daily provisions,"101 e 19th st, ,",10003,bars american,$$$,06D,Critical,A,92540,817700,99419,159.2,57310
-new mizu sushi,"350 e 9th st,",10003,bars japanese,$$,10F,Not Critical,A,92540,817700,99419,159.2,57310
+new mizu sushi,"350 e 9th st,",10003,japanese bars,$$,10F,Not Critical,A,92540,817700,99419,159.2,57310
 the winslow,"243 e 14th st, ,",10003,bars american,$$,06C,Critical,A,92540,817700,99419,159.2,57310
 the immigrant tap room,"341 e 9th st,",10003,bars,$$,10B,Not Critical,A,92540,817700,99419,159.2,57310
 jp street,"52 e 8th st, ,",10003,japanese burgers,$,04M,Critical,B,92540,817700,99419,159.2,57310
 le petit parisien,"32 e 7th st,",10003,french,$$,10D,Not Critical,A,92540,817700,99419,159.2,57310
 east village thia restaurant,"32 e 7th st, ,",10003,thai,$$,02B,Critical,A,92540,817700,99419,159.2,57310
 bavaria bierhouse,"19 s william st,",10004,bars german,$$,02G,Critical,A,129313,894200,5015,156.1,2807
-thursday kitcehn,"424 e 9th st,",10009,korean asian american,$$,04K,Critical,A,59929,672800,101865,162.0,62810
+thursday kitcehn,"424 e 9th st,",10009,korean american asian,$$,04K,Critical,A,59929,672800,101865,162.0,62810
 root and bone,"200 e 3rd st, ,",10009,desserts american,$$,10B,Not Critical,A,59929,672800,101865,162.0,62810
-carma east,"507 e 6th st,",10009,bars taiwanese asian,$$,09B,Not Critical,Z,59929,672800,101865,162.0,62810
+carma east,"507 e 6th st,",10009,taiwanese bars asian,$$,09B,Not Critical,Z,59929,672800,101865,162.0,62810
 gnoccheria by luzzo's,"234 e 4th st, ,",10009,italian,$$,08C,Not Critical,A,59929,672800,101865,162.0,62810
 ichibantei,"401 e 13th st, ,",10009,japanese,$$,05E,Critical,Z,59929,672800,101865,162.0,62810
 virginia's,"647 e 11th st,",10009,american,$$$,04N,Critical,A,59929,672800,101865,162.0,62810
 stuyvesant organic,"536 e 14th st, ,",10009,american,$,10F,Not Critical,A,59929,672800,101865,162.0,62810
 turntable 5060,235 e 4th st,10009,korean american,$$,06C,Critical,A,59929,672800,101865,162.0,62810
-banh mi zon,"443 e 6th st, ,",10009,asian vietnamese,$,06D,Critical,A,59929,672800,101865,162.0,62810
+banh mi zon,"443 e 6th st, ,",10009,vietnamese asian,$,06D,Critical,A,59929,672800,101865,162.0,62810
 dun-well doughnuts,"102 saint marks pl,",10009,vegan cafe,$,04A,Critical,A,59929,672800,101865,162.0,62810
 superiority burger,"430 e 9th st, ,",10009,vegan burgers,$,10F,Not Critical,A,59929,672800,101865,162.0,62810
 gg's,"511 e 5th st, ,",10009,italian american,$$,02G,Critical,B,59929,672800,101865,162.0,62810
@@ -70,62 +70,62 @@ bite,"62 w 22nd st, ,",10010,mediterranean,$,06C,Critical,A,97955,746200,78507,1
 oxido,"18 w 23rd st, ,",10010,mexican,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
 little basil thai,"153 e 26th st, ,",10010,thai,$$,06C,Critical,A,97955,746200,78507,157.5,30670
 indikitch,"25 w 23rd st,",10010,indian,$$,02B,Critical,A,97955,746200,78507,157.5,30670
-shaka burrito,"210 e 23rd st, ,",10010,hawaiian mexican caribbean,$,06C,Critical,A,97955,746200,78507,157.5,30670
-limon restaurant,"238 e 24th st,",10010,middle eastern mediterranean turkish,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
+shaka burrito,"210 e 23rd st, ,",10010,mexican hawaiian caribbean,$,06C,Critical,A,97955,746200,78507,157.5,30670
+limon restaurant,"238 e 24th st,",10010,mediterranean turkish middle eastern,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
 tacombi flatiron - cafe el presidente,"30 w 24th st, ,",10010,mexican,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
-dig inn,"16 e 23rd st,",10010,bars cafe american,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
-kat & theo,"5 w 21st st,",10010,bars mediterranean american,$$$,04L,Critical,A,97955,746200,78507,157.5,30670
-burger & lobster,"39 w 19th st, ,",10011,seafood burgers american,$$,04N,Critical,A,104238,914500,79233,159.4,52167
+dig inn,"16 e 23rd st,",10010,bars american cafe,$$,10F,Not Critical,A,97955,746200,78507,157.5,30670
+kat & theo,"5 w 21st st,",10010,mediterranean bars american,$$$,04L,Critical,A,97955,746200,78507,157.5,30670
+burger & lobster,"39 w 19th st, ,",10011,american seafood burgers,$$,04N,Critical,A,104238,914500,79233,159.4,52167
 wisefish poke,"263 w 19th st,",10011,seafood hawaiian,$$,10F,Not Critical,A,104238,914500,79233,159.4,52167
 serenata,"111 w 17th st,",10011,mexican,$$,06D,Critical,A,104238,914500,79233,159.4,52167
 very fresh noodles,"425 w 15th st,",10011,taiwanese chinese,$$,05D,Critical,A,104238,914500,79233,159.4,52167
 zia maria,"318 w 23rd st, ,",10011,italian,$$,06D,Critical,A,104238,914500,79233,159.4,52167
-il bambino,"48 w 8th st, ,",10011,bars italian american,$$,06B,Critical,A,104238,914500,79233,159.4,52167
-el cocotero,"228 w 18th st,",10011,spanish venezuelan,$$,08A,Not Critical,A,104238,914500,79233,159.4,52167
-rasa,"25 w 8th st,",10011,bars pakistani japanese asian malaysian,$$,06C,Critical,A,104238,914500,79233,159.4,52167
+il bambino,"48 w 8th st, ,",10011,italian bars american,$$,06B,Critical,A,104238,914500,79233,159.4,52167
+el cocotero,"228 w 18th st,",10011,venezuelan spanish,$$,08A,Not Critical,A,104238,914500,79233,159.4,52167
+rasa,"25 w 8th st,",10011,pakistani bars asian malaysian japanese,$$,06C,Critical,A,104238,914500,79233,159.4,52167
 casa apicii,"62 w 9th st,",10011,italian,$$$,04L,Critical,A,104238,914500,79233,159.4,52167
-black tap craft burgers & beer,"248 w 14th st,",10011,bars burgers american,$$,04A,Critical,Z,104238,914500,79233,159.4,52167
-asuka sushi,"300 w 23rd st, ,",10011,bars japanese thai,$$,10F,Not Critical,A,104238,914500,79233,159.4,52167
-sushi para 88,"212 w 14th st, ,",10011,bars japanese,$$,04A,Critical,A,104238,914500,79233,159.4,52167
-ushiwakamaru,"362 w 23rd st, ,",10011,bars japanese,$$$$,02G,Critical,Z,104238,914500,79233,159.4,52167
+black tap craft burgers & beer,"248 w 14th st,",10011,american bars burgers,$$,04A,Critical,Z,104238,914500,79233,159.4,52167
+asuka sushi,"300 w 23rd st, ,",10011,japanese thai bars,$$,10F,Not Critical,A,104238,914500,79233,159.4,52167
+sushi para 88,"212 w 14th st, ,",10011,japanese bars,$$,04A,Critical,A,104238,914500,79233,159.4,52167
+ushiwakamaru,"362 w 23rd st, ,",10011,japanese bars,$$$$,02G,Critical,Z,104238,914500,79233,159.4,52167
 lena,"1 w 8th st, ,",10011,bakery cafe,$,10F,Not Critical,A,104238,914500,79233,159.4,52167
 la carbornara,"202 w 14th st, ,",10011,italian,$$,10F,Not Critical,A,104238,914500,79233,159.4,52167
 megu,355 w 16th st,10011,japanese,$$$,04H,Critical,A,104238,914500,79233,159.4,52167
-bohemian restaurant,"57 great jones st, ,",10012,bars japanese burgers,$$$,02B,Critical,A,86594,1000001,80873,164.7,26145
-the folly,"92 w houston st, ,",10012,bars seafood american,$$,02G,Critical,A,86594,1000001,80873,164.7,26145
-domodomo,"138 w houston st, ,",10012,bars japanese,$$$,04L,Critical,Z,86594,1000001,80873,164.7,26145
+bohemian restaurant,"57 great jones st, ,",10012,japanese bars burgers,$$$,02B,Critical,A,86594,1000001,80873,164.7,26145
+the folly,"92 w houston st, ,",10012,seafood bars american,$$,02G,Critical,A,86594,1000001,80873,164.7,26145
+domodomo,"138 w houston st, ,",10012,japanese bars,$$$,04L,Critical,Z,86594,1000001,80873,164.7,26145
 song e napule,"146 w houston st,",10012,italian,$$,10B,Not Critical,A,86594,1000001,80873,164.7,26145
 springbone kitchen,"90 w 3rd st,",10012,american cafe,$$,02H,Critical,A,86594,1000001,80873,164.7,26145
-go zen restaurant,"144 w 4th st, ,",10012,vegan asian jewish,$$,06C,Critical,A,86594,1000001,80873,164.7,26145
+go zen restaurant,"144 w 4th st, ,",10012,vegan jewish asian,$$,06C,Critical,A,86594,1000001,80873,164.7,26145
 pokee,"121 w 3rd st,",10012,hawaiian,$$,04N,Critical,A,86594,1000001,80873,164.7,26145
-sushi zo,"88 w 3rd st, ,",10012,bars japanese,$$$$,10F,Not Critical,A,86594,1000001,80873,164.7,26145
-perla cafe,"234 w 4th st, ,",10014,bars italian american,$$,10B,Not Critical,A,108483,947300,53728,159.8,30597
+sushi zo,"88 w 3rd st, ,",10012,japanese bars,$$$$,10F,Not Critical,A,86594,1000001,80873,164.7,26145
+perla cafe,"234 w 4th st, ,",10014,italian bars american,$$,10B,Not Critical,A,108483,947300,53728,159.8,30597
 wallflower,"235 w 12th st, ,",10014,french american,$$$,02G,Critical,A,108483,947300,53728,159.8,30597
 bespoke kitchen,"615 1/2 hudson st,",10014,american,$$$,08A,Not Critical,Z,108483,947300,53728,159.8,30597
 la loteria,"29 7th ave s, ,",10014,mexican,$$,06F,Critical,A,108483,947300,53728,159.8,30597
 otto's tacos,"131 7th ave s, ,",10014,mexican,$,02H,Critical,A,108483,947300,53728,159.8,30597
-oppa new korean bbq,"353 w 14th st,",10014,korean barbeque,$$,06A,Critical,Z,108483,947300,53728,159.8,30597
-gallo nero iii,"1 7th ave s,",10014,bars italian,$$,10D,Not Critical,A,108483,947300,53728,159.8,30597
-burger inc nyc,"353 w 14th st, ,",10014,burgers american,$$,04N,Critical,A,108483,947300,53728,159.8,30597
-tarallucci e vino - nomad,"44 e 28th st,",10016,bars italian,$$,04C,Critical,A,105324,759600,96202,156.7,51196
+oppa new korean bbq,"353 w 14th st,",10014,barbeque korean,$$,06A,Critical,Z,108483,947300,53728,159.8,30597
+gallo nero iii,"1 7th ave s,",10014,italian bars,$$,10D,Not Critical,A,108483,947300,53728,159.8,30597
+burger inc nyc,"353 w 14th st, ,",10014,american burgers,$$,04N,Critical,A,108483,947300,53728,159.8,30597
+tarallucci e vino - nomad,"44 e 28th st,",10016,italian bars,$$,04C,Critical,A,105324,759600,96202,156.7,51196
 sons of thunder,"204 e 38th st, ,",10016,hawaiian american,$$,06D,Critical,A,105324,759600,96202,156.7,51196
-xi'an famous foods,"14 e 34th st, ,",10016,burgers chinese,$,10F,Not Critical,A,105324,759600,96202,156.7,51196
-massoni,"11 e 31st st,",10016,bars italian,$$$,06C,Critical,Z,105324,759600,96202,156.7,51196
+xi'an famous foods,"14 e 34th st, ,",10016,chinese burgers,$,10F,Not Critical,A,105324,759600,96202,156.7,51196
+massoni,"11 e 31st st,",10016,italian bars,$$$,06C,Critical,Z,105324,759600,96202,156.7,51196
 cafe china,"13 e 37th st,",10016,chinese,$$,06F,Critical,B,105324,759600,96202,156.7,51196
-la tarte flambee,"153 e 33rd st, ,",10016,bars french german,$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
+la tarte flambee,"153 e 33rd st, ,",10016,french bars german,$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
 atoboy,"43 e 28th st,",10016,korean asian,$$$,10B,Not Critical,A,105324,759600,96202,156.7,51196
 galata mediterranean cruisine,"212 e 34th st, ,",10016,pakistani mediterranean turkish,$$,04H,Critical,A,105324,759600,96202,156.7,51196
-the peacock/the shakespeare,"24 e 39th st, ,",10016,bars middle eastern european british,$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
+the peacock/the shakespeare,"24 e 39th st, ,",10016,british european bars middle eastern,$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
 marta,"29 e 29th st, ,",10016,italian,$$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
 riverpark,"450 e 29th st, ,",10016,american,$$$,10F,Not Critical,A,105324,759600,96202,156.7,51196
 tacos grand central,"134 e 27th st,",10016,mexican,$,06F,Critical,A,105324,759600,96202,156.7,51196
 between the bread eatery - bryant park,"20a e 40th st, ,",10016,american,$$,06C,Critical,A,105324,759600,96202,156.7,51196
-wine:34,"127 e 34th st, ,",10016,bars italian american,$$,10B,Not Critical,A,105324,759600,96202,156.7,51196
+wine:34,"127 e 34th st, ,",10016,italian bars american,$$,10B,Not Critical,A,105324,759600,96202,156.7,51196
 bedford & co,"118 e 40th st, ,",10016,desserts american,$$$,02G,Critical,A,105324,759600,96202,156.7,51196
 chicken provence,"154 e 39th st, ,",10016,french,$$,04L,Critical,A,105324,759600,96202,156.7,51196
-the long hall irish pub & grocery,"58 e 34th st, ,",10016,irish bars american,$$,04L,Critical,A,105324,759600,96202,156.7,51196
+the long hall irish pub & grocery,"58 e 34th st, ,",10016,bars american irish,$$,04L,Critical,A,105324,759600,96202,156.7,51196
 pippali,"129 e 27th st, ,",10016,bars indian,$$,02H,Critical,C,105324,759600,96202,156.7,51196
-251 ginza sushi,"251 e 35th st, ,",10016,bars japanese,$$,06C,Critical,A,105324,759600,96202,156.7,51196
+251 ginza sushi,"251 e 35th st, ,",10016,japanese bars,$$,06C,Critical,A,105324,759600,96202,156.7,51196
 salvation taco & roof top bar,"145 e 39th st, ,",10016,mexican,$$,06C,Critical,A,105324,759600,96202,156.7,51196
 curry express,"130 e 29th st, ,",10016,pakistani indian,$,08A,Not Critical,A,105324,759600,96202,156.7,51196
 alidoro,"18 e 39th st,",10016,italian cafe,$$,06D,Critical,A,105324,759600,96202,156.7,51196
@@ -133,48 +133,48 @@ udon west,"150 e 46th st, ,",10017,japanese chinese,$$,04N,Critical,A,100652,637
 vitae,"4 e 46th st, ,",10017,bars american,$$$,10F,Not Critical,A,100652,637100,50381,154.9,16129
 foxy johns bar & kitchen,"143 e 47th st, ,",10017,bars american,$$,10F,Not Critical,A,100652,637100,50381,154.9,16129
 delicacy,"12 e 44th st, ,",10017,korean american,$,02G,Critical,B,100652,637100,50381,154.9,16129
-agern,"grand central terminal, 89 e 42nd st,",10017,scandinavian bars american,$$$$,02H,Critical,A,100652,637100,50381,154.9,16129
-sushi tsushima,"210 e 44th st, ,",10017,bars japanese,$$,06C,Critical,A,100652,637100,50381,154.9,16129
+agern,"grand central terminal, 89 e 42nd st,",10017,american scandinavian bars,$$$$,02H,Critical,A,100652,637100,50381,154.9,16129
+sushi tsushima,"210 e 44th st, ,",10017,japanese bars,$$,06C,Critical,A,100652,637100,50381,154.9,16129
 blackwells pub and restaurant,"150 e 47th st, ,",10017,bars american,$$,06E,Critical,A,100652,637100,50381,154.9,16129
 pickler &  co,"216 e 45th st,",10017,american cafe,$,04L,Critical,A,100652,637100,50381,154.9,16129
 poulette midtown east,"304 e 49th st,",10017,french,$$,02G,Critical,A,100652,637100,50381,154.9,16129
 la bellezza,"145 e 49th st, ,",10017,italian,$,10F,Not Critical,A,100652,637100,50381,154.9,16129
-the rawl,"212 e 45th st,",10017,bars asian japanese,$$,10F,Not Critical,A,100652,637100,50381,154.9,16129
+the rawl,"212 e 45th st,",10017,japanese bars asian,$$,10F,Not Critical,A,100652,637100,50381,154.9,16129
 wolfgang's steakhouse boutique,"16 e 46th st, ,",10017,american,$$$,09C,Not Critical,A,100652,637100,50381,154.9,16129
 district social,"252 w 37th st,",10018,bars american,$$,10H,Not Critical,A,104635,1000001,21820,161.4,7021
 trademark taste & grind,"38 w 36th st,",10018,bars american,$$,06D,Critical,A,104635,1000001,21820,161.4,7021
-havana ny restaurant & bar,"58 w 38th st,",10018,latin chinese american cuban,$$,09C,Not Critical,A,104635,1000001,21820,161.4,7021
-calle dao,"38 w 39th st, ,",10018,puerto rican dominican cuban bars american latin,$$,06B,Critical,A,104635,1000001,21820,161.4,7021
+havana ny restaurant & bar,"58 w 38th st,",10018,chinese cuban latin american,$$,09C,Not Critical,A,104635,1000001,21820,161.4,7021
+calle dao,"38 w 39th st, ,",10018,bars cuban puerto rican latin dominican american,$$,06B,Critical,A,104635,1000001,21820,161.4,7021
 district tap house,"246 w 38th st, ,",10018,bars american,$$,06C,Critical,A,104635,1000001,21820,161.4,7021
-go! go! curry!,"273 w 38th st, ,",10018,filipino japanese,$,06D,Critical,A,104635,1000001,21820,161.4,7021
-black iron burger,"245 w 38th st,",10018,burgers american,$$,04H,Critical,A,104635,1000001,21820,161.4,7021
+go! go! curry!,"273 w 38th st, ,",10018,japanese filipino,$,06D,Critical,A,104635,1000001,21820,161.4,7021
+black iron burger,"245 w 38th st,",10018,american burgers,$$,04H,Critical,A,104635,1000001,21820,161.4,7021
 non solo piada,"302 w 37th st,",10018,italian,$,06C,Critical,A,104635,1000001,21820,161.4,7021
-habanero blues,"29 w 36th st,",10018,bars mexican,$$,10J,Not Critical,A,104635,1000001,21820,161.4,7021
+habanero blues,"29 w 36th st,",10018,mexican bars,$$,10J,Not Critical,A,104635,1000001,21820,161.4,7021
 la panineria,"410 w 36th st, ,",10018,italian cafe,$$,06C,Critical,A,104635,1000001,21820,161.4,7021
 aya sushi,"314 w 39th st,",10018,japanese,$$,02G,Critical,A,104635,1000001,21820,161.4,7021
 the picnic basket,"65 w 37th st, ,",10018,,$,08A,Not Critical,A,104635,1000001,21820,161.4,7021
 proper west,"54 w 39th st, ,",10018,bars american,$$,10B,Not Critical,A,104635,1000001,21820,161.4,7021
-tir na nog bar and grill,"315 w 39th st,",10018,irish american,$$,02H,Critical,B,104635,1000001,21820,161.4,7021
+tir na nog bar and grill,"315 w 39th st,",10018,american irish,$$,02H,Critical,B,104635,1000001,21820,161.4,7021
 untamed sandwiches,"43 w 39th st, ,",10018,american,$$,06E,Critical,A,104635,1000001,21820,161.4,7021
-carragher's pub & restaurant,"228 w 39th st, ,",10018,bars irish british,$$,02H,Critical,A,104635,1000001,21820,161.4,7021
-savour sichuan,"108 w 39th st, ,",10018,asian chinese,$$,10F,Not Critical,C,104635,1000001,21820,161.4,7021
-lan sheng szechuan food restaurant,"128 w 36th st,",10018,bars chinese,$$,06D,Critical,A,104635,1000001,21820,161.4,7021
-maison kayser,"8 w 40th st, ,",10018,french bakery desserts,$$,06C,Critical,A,104635,1000001,21820,161.4,7021
+carragher's pub & restaurant,"228 w 39th st, ,",10018,british bars irish,$$,02H,Critical,A,104635,1000001,21820,161.4,7021
+savour sichuan,"108 w 39th st, ,",10018,chinese asian,$$,10F,Not Critical,C,104635,1000001,21820,161.4,7021
+lan sheng szechuan food restaurant,"128 w 36th st,",10018,chinese bars,$$,06D,Critical,A,104635,1000001,21820,161.4,7021
+maison kayser,"8 w 40th st, ,",10018,desserts french bakery,$$,06C,Critical,A,104635,1000001,21820,161.4,7021
 chick-fil-a,"1000 avenue of the americas, ,",10018,,$,04C,Critical,A,104635,1000001,21820,161.4,7021
 kiss my slice,"274 w 40th st,",10018,italian,$,10B,Not Critical,A,104635,1000001,21820,161.4,7021
 the strand bistro,"33 w 37th st, ,",10018,american,$$,10F,Not Critical,A,104635,1000001,21820,161.4,7021
-topaz noodle bar,"129 w 56th st, ,",10019,asian thai,$$,08A,Not Critical,A,84424,808600,56459,161.4,38394
+topaz noodle bar,"129 w 56th st, ,",10019,thai asian,$$,08A,Not Critical,A,84424,808600,56459,161.4,38394
 ippudo westside,"321 w 51st st,",10019,japanese chinese,$$,10H,Not Critical,A,84424,808600,56459,161.4,38394
 souvlaki gr midtown,"162 w 56th st,",10019,greek,$$,10I,Not Critical,A,84424,808600,56459,161.4,38394
-hama japanese cuisine,"11 w 51st st, ,",10019,bars japanese,$$,06D,Critical,A,84424,808600,56459,161.4,38394
+hama japanese cuisine,"11 w 51st st, ,",10019,japanese bars,$$,06D,Critical,A,84424,808600,56459,161.4,38394
 soba noodle azuma 55,"251 w 55th st,",10019,japanese chinese,$$,09B,Not Critical,A,84424,808600,56459,161.4,38394
 pam real thai food,"404 w 49th st, ,",10019,thai,$$,04M,Critical,B,84424,808600,56459,161.4,38394
 le bernardin,"the equitable bldg, 155 w 51st st,",10019,french,$$$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
 b side pizza & wine bar,"370 w 51st st,",10019,italian,$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
-beyond sushi midtown west,"62 w 56th st, ,",10019,bars japanese vegan,$$,04N,Critical,A,84424,808600,56459,161.4,38394
+beyond sushi midtown west,"62 w 56th st, ,",10019,japanese vegan bars,$$,04N,Critical,A,84424,808600,56459,161.4,38394
 ocean prime,"123 w 52nd st, ,",10019,seafood american,$$$,06D,Critical,A,84424,808600,56459,161.4,38394
-bareburger,"313 w 57th st, ,",10019,burgers american,$$,06C,Critical,A,84424,808600,56459,161.4,38394
-le bernardin privé/wine bar,"151 w 51st st, ,",10019,bars french american,$$$,10B,Not Critical,A,84424,808600,56459,161.4,38394
+bareburger,"313 w 57th st, ,",10019,american burgers,$$,06C,Critical,A,84424,808600,56459,161.4,38394
+le bernardin privé/wine bar,"151 w 51st st, ,",10019,french bars american,$$$,10B,Not Critical,A,84424,808600,56459,161.4,38394
 fogo de chão brazilian steakhouse,"40 w 53rd st, ,",10019,seafood brazilian,$$$,04N,Critical,B,84424,808600,56459,161.4,38394
 domenico vacca café,"15 w 55th st, ,",10019,,$$,08C,Not Critical,A,84424,808600,56459,161.4,38394
 nyy steak,"7 w 51st st, ,",10019,american,$$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
@@ -183,25 +183,25 @@ fika,"41 w 58th st,",10019,scandinavian cafe,$$,02B,Critical,A,84424,808600,5645
 totto ramen hell's kitchen,"464 w 51st st, ,",10019,japanese chinese,$$,06D,Critical,A,84424,808600,56459,161.4,38394
 torishin,"362 w 53rd st, ,",10019,japanese,$$$$,04L,Critical,A,84424,808600,56459,161.4,38394
 pizza rollio,"1 w 58th st, ,",10019,italian,$$,06C,Critical,A,84424,808600,56459,161.4,38394
-glaze teriyaki,"60 w 56th st, ,",10019,korean japanese asian,$$,09C,Not Critical,A,84424,808600,56459,161.4,38394
-pazza notte,"1375 avenue of the americas, ,",10019,bars italian,$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
+glaze teriyaki,"60 w 56th st, ,",10019,japanese korean asian,$$,09C,Not Critical,A,84424,808600,56459,161.4,38394
+pazza notte,"1375 avenue of the americas, ,",10019,italian bars,$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
 fluffy's cafe & pizzeria,"370 w 58th st,",10019,italian american,$,10F,Not Critical,A,84424,808600,56459,161.4,38394
 the squeeze,"550 w 54th st, ,",10019,bars cafe,$$,10B,Not Critical,A,84424,808600,56459,161.4,38394
 terrace 5,"11 w 53rd st, ,",10019,italian american,$$,10F,Not Critical,A,84424,808600,56459,161.4,38394
 blue dog cafe,"155 w 56th st, ,",10019,cafe,$$,04N,Critical,A,84424,808600,56459,161.4,38394
-latin bites,"419 e 70th st,",10021,puerto rican dominican cuban american latin,$,04L,Critical,A,107907,1000001,105558,160.1,40862
+latin bites,"419 e 70th st,",10021,cuban puerto rican latin dominican american,$,04L,Critical,A,107907,1000001,105558,160.1,40862
 the bar room,"117 e 60th st, ,",10022,bars american,$$,06D,Critical,A,109019,866100,67873,158.2,29618
 bill's new york city,"57 e 54th st, ,",10022,american,$$$,06C,Critical,A,109019,866100,67873,158.2,29618
 57th belle house,"151 e 57th st, ,",10022,french american,$$,10F,Not Critical,A,109019,866100,67873,158.2,29618
-sofia wine bar,"242 e 50th st,",10022,bars italian,$$,09C,Not Critical,A,109019,866100,67873,158.2,29618
+sofia wine bar,"242 e 50th st,",10022,italian bars,$$,09C,Not Critical,A,109019,866100,67873,158.2,29618
 sukhumvit 51,"224 e 51st st, ,",10022,thai,$$,06D,Critical,A,109019,866100,67873,158.2,29618
-kiss my french,"303 e 53rd st,",10022,bars french american,$$,06C,Critical,A,109019,866100,67873,158.2,29618
-nare sushi,"115 e 57th st,",10022,bars japanese,$$,08C,Not Critical,A,109019,866100,67873,158.2,29618
+kiss my french,"303 e 53rd st,",10022,french bars american,$$,06C,Critical,A,109019,866100,67873,158.2,29618
+nare sushi,"115 e 57th st,",10022,japanese bars,$$,08C,Not Critical,A,109019,866100,67873,158.2,29618
 totto ramen,"248 e 52nd st, ,",10022,japanese chinese,$$,06D,Critical,A,109019,866100,67873,158.2,29618
 go! go! curry!,"235 e 53rd st, ,",10022,japanese,$,06D,Critical,A,109019,866100,67873,158.2,29618
 tijuana tacos barandgrill,"330 east 53 street, suite#1,",10022,mexican,$,04L,Critical,B,109019,866100,67873,158.2,29618
 fabio cucina italiana,"214 e 52nd st,",10022,italian,$$$,10F,Not Critical,A,109019,866100,67873,158.2,29618
-empire steak house,"151 e 50th st, ,",10022,bars seafood american,$$$,08A,Not Critical,A,109019,866100,67873,158.2,29618
+empire steak house,"151 e 50th st, ,",10022,seafood bars american,$$$,08A,Not Critical,A,109019,866100,67873,158.2,29618
 the polo bar,"ralph lauren, 1 e 55th st,",10022,bars american,$$$,02B,Critical,A,109019,866100,67873,158.2,29618
 blu on park,"116 e 60th st, ,",10022,american,$$$,04N,Critical,A,109019,866100,67873,158.2,29618
 sutton inn,"347 e 54th st, ,",10022,desserts american,$$$,10F,Not Critical,A,109019,866100,67873,158.2,29618
@@ -217,67 +217,67 @@ asian eatery,"207 e 59th st, ,",10022,japanese chinese,$,02G,Critical,B,109019,8
 crimson & rye,"198 e 54th st, ,",10022,bars american,$$,06F,Critical,A,109019,866100,67873,158.2,29618
 bella roma pizza,"401 e 57th st, ,",10022,italian,$,10F,Not Critical,A,109019,866100,67873,158.2,29618
 hide-chan ramen,"248 e 52nd st,",10022,japanese chinese,$$,06D,Critical,A,109019,866100,67873,158.2,29618
-212 steakhouse,"316 e 53rd st, ,",10022,bars seafood american,$$$,04C,Critical,A,109019,866100,67873,158.2,29618
-club bonafide,"212 e 52nd st, ,",10022,bars french,$$,04L,Critical,A,109019,866100,67873,158.2,29618
+212 steakhouse,"316 e 53rd st, ,",10022,seafood bars american,$$$,04C,Critical,A,109019,866100,67873,158.2,29618
+club bonafide,"212 e 52nd st, ,",10022,french bars,$$,04L,Critical,A,109019,866100,67873,158.2,29618
 the bar/four seasons hotel,"57 e 57th st, ,",10022,american,$$$$,04N,Critical,A,109019,866100,67873,158.2,29618
 four seasons hotel new york,"57 e 57th st, ,",10022,american,$$$$,10F,Not Critical,A,109019,866100,67873,158.2,29618
 lucky cat,"232 e 53rd st, ,",10022,japanese chinese,$$,06C,Critical,A,109019,866100,67873,158.2,29618
 lincoln square steak,"208 w 70th st,",10023,american,$$$,08A,Not Critical,C,103534,872500,125003,158.9,61315
 bonmi,"150 w 62nd st,",10023,vietnamese,$$,09C,Not Critical,A,103534,872500,125003,158.9,61315
 the ribbon,"20 w 72nd st, ,",10023,american,$$$,02B,Critical,A,103534,872500,125003,158.9,61315
-la dinastia latin-chinese cuisine,"145 w 72nd st, ,",10023,american cuban latin asian chinese,$$,10B,Not Critical,A,103534,872500,125003,158.9,61315
-amber,"103 w 70th st, ,",10023,bars japanese asian,$$,02B,Critical,A,103534,872500,125003,158.9,61315
+la dinastia latin-chinese cuisine,"145 w 72nd st, ,",10023,chinese cuban asian latin american,$$,10B,Not Critical,A,103534,872500,125003,158.9,61315
+amber,"103 w 70th st, ,",10023,japanese bars asian,$$,02B,Critical,A,103534,872500,125003,158.9,61315
 box kite coffee,"128 w 72nd st, ,",10023,bars cafe,$,10F,Not Critical,A,103534,872500,125003,158.9,61315
 simit and smith,"124 w 72nd st, ,",10023,turkish cafe,$$$,06D,Critical,A,103534,872500,125003,158.9,61315
-simit and smith,"124 w 72nd st, ,",10023,bakery cafe,$,06D,Critical,A,103534,872500,125003,158.9,61315
+simit and smith,"124 w 72nd st, ,",10023,cafe bakery,$,06D,Critical,A,103534,872500,125003,158.9,61315
 empire hotel bar,"44 w 63rd st, ,",10023,american,$$$,10F,Not Critical,A,103534,872500,125003,158.9,61315
 koko wings,"248 w 106th st,",10025,korean,$$,06D,Critical,A,68516,934600,129571,166.9,97390
 "whispers restaurant, bar & lounge","210 w 94th st, ,",10025,bars american,$$,06D,Critical,A,68516,934600,129571,166.9,97390
 pak shahi biryani & grill,"71 w 109th st, ,",10025,pakistani indian,$,08A,Not Critical,A,68516,934600,129571,166.9,97390
-lolo's seafood shack,"303 w 116th st, ,",10026,bars seafood,$$,04L,Critical,A,43107,602400,113954,164.9,37871
+lolo's seafood shack,"303 w 116th st, ,",10026,seafood bars,$$,04L,Critical,A,43107,602400,113954,164.9,37871
 row house,"2128 frederick douglass blvd, ,",10026,bars american,$$,10F,Not Critical,A,43107,602400,113954,164.9,37871
 harlem pizza co.,"135 w 116th st, ,",10026,italian,$$,06A,Critical,A,43107,602400,113954,164.9,37871
 blujeen,"2143 frederick douglass blvd, ,",10026,american,$$,10H,Not Critical,B,43107,602400,113954,164.9,37871
-le baobab-gouygui restaurant,"120 w 116th st, ,",10026,senegalese african,$$,08A,Not Critical,A,43107,602400,113954,164.9,37871
+le baobab-gouygui restaurant,"120 w 116th st, ,",10026,african senegalese,$$,08A,Not Critical,A,43107,602400,113954,164.9,37871
 harlem food court,"66 w 116th st, ,",10026,american,$,06C,Critical,A,43107,602400,113954,164.9,37871
 restaurant la savane,"239 w 116th st, ,",10026,african,$$,06F,Critical,B,43107,602400,113954,164.9,37871
 maharaja palace,"2113 frederick douglass blvd, ,",10026,indian,$$,02G,Critical,B,43107,602400,113954,164.9,37871
-jumbo burgers,"112 w 116th st, ,",10026,burgers american,$,06D,Critical,A,43107,602400,113954,164.9,37871
-lee lee's baked goods,"283 w 118th st, ,",10026,bakery desserts,$,06C,Critical,A,43107,602400,113954,164.9,37871
-el nuevo tina restaurant,"511 w 125th st, ,",10027,spanish seafood,$$,06C,Critical,A,37872,716100,71852,175.0,62617
-angel of harlem,"2272 frederick douglass blvd,",10027,bars latin caribbean american,$$,09C,Not Critical,A,37872,716100,71852,175.0,62617
+jumbo burgers,"112 w 116th st, ,",10026,american burgers,$,06D,Critical,A,43107,602400,113954,164.9,37871
+lee lee's baked goods,"283 w 118th st, ,",10026,desserts bakery,$,06C,Critical,A,43107,602400,113954,164.9,37871
+el nuevo tina restaurant,"511 w 125th st, ,",10027,seafood spanish,$$,06C,Critical,A,37872,716100,71852,175.0,62617
+angel of harlem,"2272 frederick douglass blvd,",10027,caribbean latin bars american,$$,09C,Not Critical,A,37872,716100,71852,175.0,62617
 go! go! curry!,"567 w 125th st,",10027,japanese,$,10F,Not Critical,A,37872,716100,71852,175.0,62617
 delhi masala restaurant,"2077 adam clayton powell jr blvd,",10027,indian,$$,02H,Critical,B,37872,716100,71852,175.0,62617
 lincoln fried chicken,"576 w 125th st, ,",10027,,$,10F,Not Critical,A,37872,716100,71852,175.0,62617
-el nuevo tina restaurant,"511 w 125th st, ,",10027,spanish latin american,$,06C,Critical,A,37872,716100,71852,175.0,62617
+el nuevo tina restaurant,"511 w 125th st, ,",10027,latin american spanish,$,06C,Critical,A,37872,716100,71852,175.0,62617
 subway,"578 w 125th st, ,",10027,,$,06D,Critical,A,37872,716100,71852,175.0,62617
 little caesar's pizza,"377 w 125th st, ,",10027,italian,$,04M,Critical,A,37872,716100,71852,175.0,62617
 checkers,"79 w 125th st,",10027,burgers american,$,06E,Critical,A,37872,716100,71852,175.0,62617
 buffalo boss,"17 w 125th st, ,",10027,american,$,10F,Not Critical,A,37872,716100,71852,175.0,62617
-the olive garden italian restaurant,100 w 125th st,10027,bars italian,$$,06E,Critical,A,37872,716100,71852,175.0,62617
+the olive garden italian restaurant,100 w 125th st,10027,italian bars,$$,06E,Critical,A,37872,716100,71852,175.0,62617
 kennedy fried chicken,"2057 adam clayton powell blvd, ,",10027,american,$,06B,Critical,A,37872,716100,71852,175.0,62617
 subway,"281 saint nicholas ave, ,",10027,,$,06C,Critical,A,37872,716100,71852,175.0,62617
-little frog francois latapie,"322 e 86th st,",10028,bars french desserts,$$$,06F,Critical,A,104638,1000001,140990,161.2,44295
-kobeyaki,"215 e 86th st, ,",10028,bars japanese asian,$$,06C,Critical,A,104638,1000001,140990,161.2,44295
+little frog francois latapie,"322 e 86th st,",10028,desserts french bars,$$$,06F,Critical,A,104638,1000001,140990,161.2,44295
+kobeyaki,"215 e 86th st, ,",10028,japanese bars asian,$$,06C,Critical,A,104638,1000001,140990,161.2,44295
 bar prima,"331 e 81st st, ,",10028,bars american,$$,10H,Not Critical,A,104638,1000001,140990,161.2,44295
 gracie's on 2nd diner,"300 e 86th st, ,",10028,american,$$,10F,Not Critical,A,104638,1000001,140990,161.2,44295
 nocciola ristorante,"237 e 116th st, ,",10029,italian,$$,06B,Critical,A,31888,787000,93875,186.2,77454
 neapolitan express,"232 e 111th st, ,",10029,italian,$$,10F,Not Critical,A,31888,787000,93875,186.2,77454
 nocciola pizzeria e trattoria,"123 e 110th st, ,",10029,italian,$$,06A,Critical,C,31888,787000,93875,186.2,77454
-burger king,"154 e 116th st, ,",10029,burgers american,$,10B,Not Critical,A,31888,787000,93875,186.2,77454
+burger king,"154 e 116th st, ,",10029,american burgers,$,10B,Not Critical,A,31888,787000,93875,186.2,77454
 eddie's ny deli & pizza,"184 e 116th st, ,",10029,italian american,$,06D,Critical,A,31888,787000,93875,186.2,77454
 hyacinth haven harlem,"2374 adam clayton powell jr blvd, ,",10030,bars american,$$,10B,Not Critical,A,31925,509000,102070,168.4,28472
-cari wine bar & restaurant,"2647 frederick douglass blvd,",10030,puerto rican dominican cuban spanish american latin burgers caribbean,$$,06D,Critical,A,31925,509000,102070,168.4,28472
+cari wine bar & restaurant,"2647 frederick douglass blvd,",10030,burgers caribbean cuban puerto rican latin dominican american spanish,$$,06D,Critical,A,31925,509000,102070,168.4,28472
 ma dukes,"2492 frederick douglass blvd, ,",10030,,$$,05D,Critical,Z,31925,509000,102070,168.4,28472
 a taste of seafood restaurant,"2530 135th st frederick douglass blvd, ,",10030,seafood,$$,10F,Not Critical,A,31925,509000,102070,168.4,28472
 ihop,"2290 adam clayton powell jr blvd, ,",10030,american,$$,10F,Not Critical,A,31925,509000,102070,168.4,28472
 make my cake,"2380 adam clayton powell blvd, ,",10030,bakery,$$,04L,Critical,A,31925,509000,102070,168.4,28472
 sugar hill cafe,"410 w 145th st, ,",10031,cafe,$,02G,Critical,A,37655,369800,90800,157.2,59092
-"agave mexican, spanish & american grill","398 w 145th st, ,",10031,spanish latin mexican american,$,08A,Not Critical,A,37655,369800,90800,157.2,59092
+"agave mexican, spanish & american grill","398 w 145th st, ,",10031,mexican latin american spanish,$,08A,Not Critical,A,37655,369800,90800,157.2,59092
 chinelos ii deli-grocery restaurant,"530 w 136th st, ,",10031,mexican,$,10F,Not Critical,B,37655,369800,90800,157.2,59092
 subway,"651 w 169th st, ,",10032,american,$,10F,Not Critical,A,34568,334900,90307,156.8,59374
 kazza wine bar,"708 w 177th st,",10033,bars cafe,$$,10F,Not Critical,A,41556,422100,97115,158.4,58710
-las tapas,"808 w 187th st,",10033,spanish bars,$$,10F,Not Critical,A,41556,422100,97115,158.4,58710
+las tapas,"808 w 187th st,",10033,bars spanish,$$,10F,Not Critical,A,41556,422100,97115,158.4,58710
 tung thong 181,"812 w 181st st,",10033,thai,$,08A,Not Critical,A,41556,422100,97115,158.4,58710
 fresco's pizzeria,"804 w 187th st,",10033,italian,$,02B,Critical,A,41556,422100,97115,158.4,58710
 no 1 chinese restaurant,"825 w 181st st, ,",10033,chinese,$,06D,Critical,A,41556,422100,97115,158.4,58710
@@ -285,84 +285,84 @@ george's pizza,"726 w 181st st, ,",10033,italian,$,04L,Critical,Z,41556,422100,9
 great wall chinese food,"800 w 181st st, ,",10033,chinese,$,02B,Critical,Z,41556,422100,97115,158.4,58710
 happy world restaurant,"1309 saint nicholas ave, ,",10033,chinese,$,08A,Not Critical,A,41556,422100,97115,158.4,58710
 little caesars,1332 saint nicholas ave,10033,italian,$,04N,Critical,A,41556,422100,97115,158.4,58710
-raices,"565 w 207th st,",10034,dominican american bars spanish latin,$$,10I,Not Critical,A,41171,354700,36854,155.0,41510
-anchor heights,"575 w 207th st,",10034,bars italian,$$,10F,Not Critical,A,41171,354700,36854,155.0,41510
-sushi mambo,"431 w 202nd st,",10034,puerto rican dominican cuban bars american latin japanese,$$,04C,Critical,A,41171,354700,36854,155.0,41510
-cocina taller,"416 b w 203rd st, ,",10034,puerto rican dominican cuban bars american latin mediterranean,$$,04A,Critical,B,41171,354700,36854,155.0,41510
-la nueva espana restaurant,"606 w 207th st, ,",10034,puerto rican dominican cuban american latin,$$,10F,Not Critical,A,41171,354700,36854,155.0,41510
-el anafe express,"584 w 207th st, ,",10034,spanish mexican,$,10F,Not Critical,A,41171,354700,36854,155.0,41510
+raices,"565 w 207th st,",10034,bars latin dominican american spanish,$$,10I,Not Critical,A,41171,354700,36854,155.0,41510
+anchor heights,"575 w 207th st,",10034,italian bars,$$,10F,Not Critical,A,41171,354700,36854,155.0,41510
+sushi mambo,"431 w 202nd st,",10034,bars cuban puerto rican latin dominican american japanese,$$,04C,Critical,A,41171,354700,36854,155.0,41510
+cocina taller,"416 b w 203rd st, ,",10034,bars mediterranean cuban puerto rican latin dominican american,$$,04A,Critical,B,41171,354700,36854,155.0,41510
+la nueva espana restaurant,"606 w 207th st, ,",10034,cuban puerto rican latin dominican american,$$,10F,Not Critical,A,41171,354700,36854,155.0,41510
+el anafe express,"584 w 207th st, ,",10034,mexican spanish,$,10F,Not Critical,A,41171,354700,36854,155.0,41510
 empire chinese restaurant,"563a w 207th st, ,",10034,chinese,$,06C,Critical,A,41171,354700,36854,155.0,41510
 delio's pizza,"553 w 207th st,",10034,italian,$,02G,Critical,A,41171,354700,36854,155.0,41510
-el kallejon botanas,209 e 117th st,10035,bars mexican,$$,06C,Critical,A,24533,445900,23985,172.1,33488
+el kallejon botanas,209 e 117th st,10035,mexican bars,$$,06C,Critical,A,24533,445900,23985,172.1,33488
 bosa's pizza of harlem,"256 e 125th st,",10035,italian,$$,02B,Critical,A,24533,445900,23985,172.1,33488
 pipo's mexican restaurant,"166 e 118th st, ,",10035,mexican,$,08A,Not Critical,B,24533,445900,23985,172.1,33488
 q & n foods,"107 e 125th st, ,",10035,,$,04N,Critical,A,24533,445900,23985,172.1,33488
-uptown veg and juice bar,"52 e 125th st, ,",10035,bars vegan american cafe,$$,08A,Not Critical,Z,24533,445900,23985,172.1,33488
+uptown veg and juice bar,"52 e 125th st, ,",10035,vegan bars american cafe,$$,08A,Not Critical,Z,24533,445900,23985,172.1,33488
 bagel tree,"245 e 124th st, ,",10035,cafe,$,02G,Critical,A,24533,445900,23985,172.1,33488
 dim sum palace,"334 w 46th st,",10036,cantonese asian,$$,10F,Not Critical,A,66599,810300,52183,165.6,23132
-ipanema restaurant,"43 w 46th st,",10036,latin portuguese brazilian american,$$,10B,Not Critical,A,66599,810300,52183,165.6,23132
+ipanema restaurant,"43 w 46th st,",10036,portuguese latin american brazilian,$$,10B,Not Critical,A,66599,810300,52183,165.6,23132
 maple restaurant,"157 w 47th st, ,",10036,american,$$,04M,Critical,A,66599,810300,52183,165.6,23132
-sean's bar and kitchen,"42 w 48th st,",10036,irish bars american,$$,06C,Critical,A,66599,810300,52183,165.6,23132
+sean's bar and kitchen,"42 w 48th st,",10036,bars american irish,$$,06C,Critical,A,66599,810300,52183,165.6,23132
 ootoya times square,"141 w 41st st, ,",10036,japanese,$$,02G,Critical,A,66599,810300,52183,165.6,23132
-an'nam,"234 w 48th st, ,",10036,cambodian bars japanese malaysia vietnamese,$$,10F,Not Critical,A,66599,810300,52183,165.6,23132
+an'nam,"234 w 48th st, ,",10036,vietnamese bars malaysia cambodian japanese,$$,10F,Not Critical,A,66599,810300,52183,165.6,23132
 butter  restaurant,70 w 45th st,10036,american,$$$,06D,Critical,A,66599,810300,52183,165.6,23132
 ding bbq and hot pot restaurant,"234 w 48th st, ,",10036,chinese barbeque american,$$,06C,Critical,A,66599,810300,52183,165.6,23132
 akdeniz mediterranean restaurant,"19 w 46th st, ,",10036,turkish,$$,06C,Critical,A,66599,810300,52183,165.6,23132
 stk midtown,"1114 avenue of the americas, ,",10036,bars american,$$$,04N,Critical,A,66599,810300,52183,165.6,23132
-sammy's house of bbq,"258 w 44th st,",10036,burgers barbeque,$$,06C,Critical,A,66599,810300,52183,165.6,23132
-bareburger,"366 w 46th st., ,",10036,burgers american,$$,08A,Not Critical,Z,66599,810300,52183,165.6,23132
+sammy's house of bbq,"258 w 44th st,",10036,barbeque burgers,$$,06C,Critical,A,66599,810300,52183,165.6,23132
+bareburger,"366 w 46th st., ,",10036,american burgers,$$,08A,Not Critical,Z,66599,810300,52183,165.6,23132
 hing won,"48 w 48th st, ,",10036,cantonese chinese,$,05D,Critical,B,66599,810300,52183,165.6,23132
 fresh from hell,"326 w 47th st,",10036,bars cafe,$$,06D,Critical,A,66599,810300,52183,165.6,23132
 oaxaca taqueria,"405 w 44th st, ,",10036,mexican,$,06C,Critical,A,66599,810300,52183,165.6,23132
 spice grill,48 w 48th st,10036,indian,$$,06D,Critical,A,66599,810300,52183,165.6,23132
 gallo nero,"402 w 44th st, ,",10036,italian,$$,10C,Not Critical,A,66599,810300,52183,165.6,23132
 chick-fil-a at 46th & 6th in-line,"1180 avenue of the americas,, ,",10036,,$,10B,Not Critical,A,66599,810300,52183,165.6,23132
-sake bar hagi 46,"358 w 46th st, ,",10036,bars japanese,$$,06E,Critical,A,66599,810300,52183,165.6,23132
-haru sushi,"229 w 43rd st, ste 221,",10036,bars japanese,$$,06D,Critical,A,66599,810300,52183,165.6,23132
+sake bar hagi 46,"358 w 46th st, ,",10036,japanese bars,$$,06E,Critical,A,66599,810300,52183,165.6,23132
+haru sushi,"229 w 43rd st, ste 221,",10036,japanese bars,$$,06D,Critical,A,66599,810300,52183,165.6,23132
 frisson espresso,"326 w 47th st,",10036,cafe,$,06D,Critical,A,66599,810300,52183,165.6,23132
-hunt & fish club nyc,"125 w 44th st, ,",10036,bars seafood american,$$$$,02G,Critical,A,66599,810300,52183,165.6,23132
+hunt & fish club nyc,"125 w 44th st, ,",10036,seafood bars american,$$$$,02G,Critical,A,66599,810300,52183,165.6,23132
 the jolly goat coffee bar,"515 w 47th st,",10036,cafe,$,06D,Critical,A,66599,810300,52183,165.6,23132
-sushi seki times square,"365 w 46th st,",10036,bars japanese,$$$,10I,Not Critical,A,66599,810300,52183,165.6,23132
+sushi seki times square,"365 w 46th st,",10036,japanese bars,$$$,10I,Not Critical,A,66599,810300,52183,165.6,23132
 king garden restaurant,"1 w 137th st, 5 ave,",10037,chinese,$,02B,Critical,A,37341,260200,65825,150.9,17377
 famous calabria pizzeria,"27 saint james pl,",10038,italian,$,02B,Critical,A,66074,616300,67482,158.6,20082
-mooncake foods,"111 john st (pearl street entrance),",10038,asian chinese,$$,02H,Critical,A,66074,616300,67482,158.6,20082
+mooncake foods,"111 john st (pearl street entrance),",10038,chinese asian,$$,02H,Critical,A,66074,616300,67482,158.6,20082
 eso,"2906 frederick douglass blvd,",10039,bars american,$$,10E,Not Critical,A,33595,352300,57392,157.3,26577
 subway,344 w 145th st,10039,,$,09B,Not Critical,A,33595,352300,57392,157.3,26577
 domino's pizza,"2554 adam clayton powell jr blvd, ,",10039,italian,$$,06B,Critical,A,33595,352300,57392,157.3,26577
 new leaf restaurant & bar,"1 margaret corbin dr, ,",10040,bars american,$$$,10B,Not Critical,A,42721,317300,118931,152.7,44825
-oche a tu gusto,"1573 st nicholas ave, ,",10040,puerto rican dominican american cuban latin,$,04N,Critical,B,42721,317300,118931,152.7,44825
+oche a tu gusto,"1573 st nicholas ave, ,",10040,cuban puerto rican latin dominican american,$,04N,Critical,B,42721,317300,118931,152.7,44825
 empire chinese restaurant,"1635 saint nicholas ave, ,",10040,chinese american,$$,06C,Critical,A,42721,317300,118931,152.7,44825
 bluestone lane,"2 e 90th st, ,",10128,cafe,$$,10I,Not Critical,A,96296,1000001,127735,162.5,60121
 chipotle mexican grill,"325 s  end ave, ,",10280,mexican,$$,02B,Critical,A,129574,685700,62719,152.8,8685
 rusty's west indian cuisine inc,"537 port richmond ave,",10302,caribbean,$$,10F,Not Critical,A,56841,382000,14075,151.3,16811
-indian oven,"461 port richmond ave, ,",10302,seafood desserts indian,$$,04M,Critical,B,56841,382000,14075,151.3,16811
+indian oven,"461 port richmond ave, ,",10302,desserts seafood indian,$$,04M,Critical,B,56841,382000,14075,151.3,16811
 los potrillos restaurant,"150 port richmond ave, ,",10302,mexican,$,06B,Critical,A,56841,382000,14075,151.3,16811
 brother's pizzeria,"750 port richmond ave, ,",10302,italian,$,10F,Not Critical,A,56841,382000,14075,151.3,16811
 number one chinese kitchen,"209 port richmond ave, ,",10302,chinese,$,06C,Critical,A,56841,382000,14075,151.3,16811
 joe & john toto's restaurant & bar,"809 father capodanno blvd, ,",10305,italian,$$,06D,Critical,A,70758,415300,9880,149.8,42006
 pho rainbow,"42 new dorp plaza s,",10306,cambodian vietnamese malaysia,$,02G,Critical,A,75807,450200,7480,150.1,55902
-jade asian bistro,"331 new dorp ln, ,",10306,asian chinese japanese,$$,09C,Not Critical,A,75807,450200,7480,150.1,55902
-tokyo arirang japanese & korean restaurant,"366 new dorp ln,",10306,bars japanese korean,$$,02B,Critical,B,75807,450200,7480,150.1,55902
-chikurin,"365 new dorp ln, ,",10306,bars japanese,$$,04N,Critical,B,75807,450200,7480,150.1,55902
+jade asian bistro,"331 new dorp ln, ,",10306,japanese chinese asian,$$,09C,Not Critical,A,75807,450200,7480,150.1,55902
+tokyo arirang japanese & korean restaurant,"366 new dorp ln,",10306,japanese korean bars,$$,02B,Critical,B,75807,450200,7480,150.1,55902
+chikurin,"365 new dorp ln, ,",10306,japanese bars,$$,04N,Critical,B,75807,450200,7480,150.1,55902
 amore a la mexicana,"10 new dorp ln, ,",10306,mexican,$,10B,Not Critical,A,75807,450200,7480,150.1,55902
-cafe con pan bakery,"32 new dorp plz, ,",10306,bakery mexican italian,$$,10F,Not Critical,A,75807,450200,7480,150.1,55902
-joe's lobster house,"4707 arthur kill rd,",10309,seafood italian,$$$,09A,Not Critical,A,86297,539100,4859,151.1,32646
+cafe con pan bakery,"32 new dorp plz, ,",10306,italian mexican bakery,$$,10F,Not Critical,A,75807,450200,7480,150.1,55902
+joe's lobster house,"4707 arthur kill rd,",10309,italian seafood,$$$,09A,Not Critical,A,86297,539100,4859,151.1,32646
 la rosa chicken & grill,"245 richmond valley rd,",10309,american,$$,02B,Critical,A,86297,539100,4859,151.1,32646
-avocado sushi,"4906 arthur kill rd,",10309,bars japanese,$$,06F,Critical,A,86297,539100,4859,151.1,32646
-cheeburger cheeburger,"2935 veterans rd w, ,",10309,burgers american,$$,04N,Critical,A,86297,539100,4859,151.1,32646
+avocado sushi,"4906 arthur kill rd,",10309,japanese bars,$$,06F,Critical,A,86297,539100,4859,151.1,32646
+cheeburger cheeburger,"2935 veterans rd w, ,",10309,american burgers,$$,04N,Critical,A,86297,539100,4859,151.1,32646
 andella's brickoven pizzeria and restaurant,"1281 arthur kill rd, ,",10312,italian,$$,06C,Critical,A,85324,467300,7822,149.0,60081
 chen's garden ii,"1547 arthur kill rd, ,",10312,chinese,$$,02G,Critical,B,85324,467300,7822,149.0,60081
 golden palace chinese take out,"1757 arthur kill rd, ,",10312,chinese,$$,10B,Not Critical,B,85324,467300,7822,149.0,60081
 unique lounge & billiards,"1757 arthur kill rd, ,",10312,bars american,$$,06D,Critical,A,85324,467300,7822,149.0,60081
 amici bakery,"758 arthur kill road, ,",10312,bakery,$$,10B,Not Critical,A,85324,467300,7822,149.0,60081
-dynasty taste,"77 richmond hill rd, ,",10314,asian chinese japanese,$$,10B,Not Critical,A,77242,437500,6369,149.5,87276
+dynasty taste,"77 richmond hill rd, ,",10314,japanese chinese asian,$$,10B,Not Critical,A,77242,437500,6369,149.5,87276
 symphony diner,"496 e 161st st, ,",10451,american cafe,$,06D,Critical,A,26754,170600,46380,149.3,47069
 pizza world,"509 e 163rd st, ,",10451,italian,$,10B,Not Critical,A,26754,170600,46380,149.3,47069
 merry land chinese restaurant,"325 e 149th st, ,",10451,chinese,$,02B,Critical,A,26754,170600,46380,149.3,47069
-la nueva win hing restaurant,"40 e 167th st, ,",10452,chinese cuban,$$,08A,Not Critical,A,25979,402800,76102,168.4,74931
-dominicana pollo sabroso restaurant,"105 e mount eden ave,",10452,puerto rican dominican american cuban latin,$$,06D,Critical,A,25979,402800,76102,168.4,74931
-michely deli & food market,"169 w tremont ave, ,",10453,burgers mexican,$,06D,Critical,A,25470,445200,87111,172.4,79793
-texas chicken & burgers,"21 w burnside ave, bronx,",10453,burgers american,$,06C,Critical,A,25470,445200,87111,172.4,79793
+la nueva win hing restaurant,"40 e 167th st, ,",10452,cuban chinese,$$,08A,Not Critical,A,25979,402800,76102,168.4,74931
+dominicana pollo sabroso restaurant,"105 e mount eden ave,",10452,cuban puerto rican latin dominican american,$$,06D,Critical,A,25979,402800,76102,168.4,74931
+michely deli & food market,"169 w tremont ave, ,",10453,mexican burgers,$,06D,Critical,A,25470,445200,87111,172.4,79793
+texas chicken & burgers,"21 w burnside ave, bronx,",10453,american burgers,$,06C,Critical,A,25470,445200,87111,172.4,79793
 estrella mexican restaurant,106 e 183rd st,10453,mexican,$$,06D,Critical,A,25470,445200,87111,172.4,79793
 hong kong restaurant,"30 w 183rd st, ,",10453,chinese,$,08A,Not Critical,A,25470,445200,87111,172.4,79793
 gio's pizza & restaurant,"308 e 141st st, ,",10454,italian,$,04L,Critical,A,20232,386000,36541,173.8,38089
@@ -371,7 +371,7 @@ el jalapenos,"800 e 149th st, ,",10455,mexican,$,06D,Critical,A,22609,318600,541
 149 steam fish,"500 e 149th st,",10455,seafood,$$,02B,Critical,A,22609,318600,54167,164.4,38576
 burger king,521 e 149th st,10455,american,$,10B,Not Critical,A,22609,318600,54167,164.4,38576
 johnson bar-b-q,"790 e 163rd st,",10456,barbeque,$$,10F,Not Critical,A,23452,388600,86133,170.0,87723
-el nuevo valle restaurant & lechonera,"268 e 167th st, ,",10456,spanish latin caribbean american,$,10F,Not Critical,A,23452,388600,86133,170.0,87723
+el nuevo valle restaurant & lechonera,"268 e 167th st, ,",10456,caribbean latin american spanish,$,10F,Not Critical,A,23452,388600,86133,170.0,87723
 kennedy fried chicken,198 e 167th st,10456,,$,10F,Not Critical,A,23452,388600,86133,170.0,87723
 come & get sum fish & chips,791 e 163rd st,10456,seafood,$,10D,Not Critical,A,23452,388600,86133,170.0,87723
 aa chinese restaurant,"214 e burnside ave, ,",10457,chinese,$$,04D,Critical,B,24949,397500,66223,169.4,70282
@@ -381,82 +381,82 @@ l'violet restaurant and lounge,"535 e tremont ave,",10457,spanish,$$,04H,Critica
 bedford pizza pasta restaurant,"380 bedford park blvd,",10458,italian,$,02G,Critical,A,24618,330300,74193,164.5,74859
 pizza studio,"444 e. fordham rd., ,",10458,italian,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
 planet wings,"699 e 187th st, ,",10458,,$,02G,Critical,A,24618,330300,74193,164.5,74859
-la rola restaurant,"400 e 198th st, ,",10458,spanish mexican,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
+la rola restaurant,"400 e 198th st, ,",10458,mexican spanish,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
 oriental house,"565 e 184th st, ,",10458,chinese,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
-pique 86 restaurant,"220 e 198th st,",10458,spanish mexican,$,02A,Critical,A,24618,330300,74193,164.5,74859
+pique 86 restaurant,"220 e 198th st,",10458,mexican spanish,$,02A,Critical,A,24618,330300,74193,164.5,74859
 house pizza,"246 e 204th st, ,",10458,italian,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
 rocco's pizzeria,"397 bedford park boulevard, ,",10458,italian,$,06F,Critical,A,24618,330300,74193,164.5,74859
 peachwave frozen yogurt,"602 e 187th st,",10458,desserts,$,08A,Not Critical,A,24618,330300,74193,164.5,74859
 great wall chinese restaurnat,"732 e 187th st, ,",10458,chinese,$,04N,Critical,A,24618,330300,74193,164.5,74859
 lee's chinese resturant,"626 e 187th st, ,",10458,chinese,$,10F,Not Critical,A,24618,330300,74193,164.5,74859
-d' kora restaurant lounge,"894 e tremont ave,",10460,spanish american,$$,04A,Critical,B,22307,391700,42634,172.3,56084
-made in puerto rico latin cuisine,"3363 e tremont ave,",10461,american bars spanish latin caribbean,$$,04N,Critical,A,52347,454700,21557,155.6,51730
+d' kora restaurant lounge,"894 e tremont ave,",10460,american spanish,$$,04A,Critical,B,22307,391700,42634,172.3,56084
+made in puerto rico latin cuisine,"3363 e tremont ave,",10461,bars caribbean latin american spanish,$$,04N,Critical,A,52347,454700,21557,155.6,51730
 healthy fresh,"1033 morris park ave,",10461,american,$,10F,Not Critical,A,52347,454700,21557,155.6,51730
-la casa del sabor,"2728 e tremont ave, ,",10461,puerto rican dominican cuban american latin,$,04C,Critical,A,52347,454700,21557,155.6,51730
-burger time,"1080 morris park ave, ,",10461,burgers american,$$,10F,Not Critical,A,52347,454700,21557,155.6,51730
+la casa del sabor,"2728 e tremont ave, ,",10461,cuban puerto rican latin dominican american,$,04C,Critical,A,52347,454700,21557,155.6,51730
+burger time,"1080 morris park ave, ,",10461,american burgers,$$,10F,Not Critical,A,52347,454700,21557,155.6,51730
 sapore gourmet,"2454 e  tremont ave,",10461,italian,$$,05H,Critical,A,52347,454700,21557,155.6,51730
 captain's pizzeria and restaurant,"1056 morris park ave, ,",10461,italian,$$,04L,Critical,A,52347,454700,21557,155.6,51730
 franky polllos,"2415 e tremont ave, ,",10461,mexican,$$,10F,Not Critical,C,52347,454700,21557,155.6,51730
-la masa restaurant,"1000 morris park ave,",10462,puerto rican dominican colombian cuban american latin,$$,02H,Critical,A,45864,271300,52278,149.9,77369
-slim to go,"1556a white plains rd, ,",10462,spanish american,$$$$,10B,Not Critical,A,45864,271300,52278,149.9,77369
+la masa restaurant,"1000 morris park ave,",10462,colombian cuban puerto rican latin dominican american,$$,02H,Critical,A,45864,271300,52278,149.9,77369
+slim to go,"1556a white plains rd, ,",10462,american spanish,$$$$,10B,Not Critical,A,45864,271300,52278,149.9,77369
 fine food cuisine,"671 morris park ave, ,",10462,american,$$,06B,Critical,A,45864,271300,52278,149.9,77369
 chick-n-ribs,"780 morris park ave, ,",10462,barbeque american,$$,04L,Critical,A,45864,271300,52278,149.9,77369
 thai no. 1,"1509 white plains rd, ,",10462,thai,$$,04L,Critical,A,45864,271300,52278,149.9,77369
 oasis middle eastern restaurant,"1907 white plains rd, ,",10462,middle eastern,$$,10F,Not Critical,A,45864,271300,52278,149.9,77369
 oasis mediterranean restaurant,"1907 white plains rd, ,",10462,middle eastern,$$,04N,Critical,A,45864,271300,52278,149.9,77369
-don emilio diner restaurant,"1315 castle hill ave,",10462,puerto rican dominican cuban spanish american latin,$$,08A,Not Critical,A,45864,271300,52278,149.9,77369
+don emilio diner restaurant,"1315 castle hill ave,",10462,cuban puerto rican latin dominican american spanish,$$,08A,Not Critical,A,45864,271300,52278,149.9,77369
 anthony's pizza,"686 morris park ave, ,",10462,italian,$,08A,Not Critical,A,45864,271300,52278,149.9,77369
 patsy's pizzeria,"980 morris park ave, ,",10462,italian,$$,06A,Critical,B,45864,271300,52278,149.9,77369
-lotus flame restaurant & bar,"866 morris park ave, ,",10462,bars caribbean,$,10F,Not Critical,A,45864,271300,52278,149.9,77369
+lotus flame restaurant & bar,"866 morris park ave, ,",10462,caribbean bars,$,10F,Not Critical,A,45864,271300,52278,149.9,77369
 primavera pizzeria,"761 morris park avenue, ,",10462,italian,$,02B,Critical,A,45864,271300,52278,149.9,77369
 luciano's pizza,"1005a morris park avenue, ,",10462,italian,$,08A,Not Critical,A,45864,271300,52278,149.9,77369
 sing garden restaurant,"1165 castle hill ave, ,",10462,chinese,$,04L,Critical,A,45864,271300,52278,149.9,77369
 joy garden chinese restaurant,"687 morris park ave, ,",10462,chinese,$$$$,06D,Critical,A,45864,271300,52278,149.9,77369
 "dunkin' donuts, pizza hut, taco bell","2148 white plains road, ,",10462,mexican american,$,10F,Not Critical,B,45864,271300,52278,149.9,77369
-smashburger,193 w 237th st,10463,burgers american,$$,04A,Critical,A,54258,289700,48696,148.5,70420
-louie's dale diner,"189 w 231st st, ,",10463,burgers american,$$,04N,Critical,A,54258,289700,48696,148.5,70420
+smashburger,193 w 237th st,10463,american burgers,$$,04A,Critical,A,54258,289700,48696,148.5,70420
+louie's dale diner,"189 w 231st st, ,",10463,american burgers,$$,04N,Critical,A,54258,289700,48696,148.5,70420
 mi lindo san miguelito,257 w 231st st,10463,mexican,$,08A,Not Critical,B,54258,289700,48696,148.5,70420
 cold cut city bunny deli 2,"228 w 231st st, ,",10463,american,$$,02G,Critical,B,54258,289700,48696,148.5,70420
 chipotle mexican grill,"193 w 237th st, ,",10463,mexican,$$,06A,Critical,A,54258,289700,48696,148.5,70420
 mon amour coffee & wine,"234 w 238th st,",10463,bars cafe,$,08A,Not Critical,A,54258,289700,48696,148.5,70420
 cold cut city bunny deli 2,"228 w 231st st, ,",10463,american,$,02G,Critical,B,54258,289700,48696,148.5,70420
-yokohama japanese restaurant,"438 w 238th st, ,",10463,bars japanese,$$,10F,Not Critical,A,54258,289700,48696,148.5,70420
+yokohama japanese restaurant,"438 w 238th st, ,",10463,japanese bars,$$,10F,Not Critical,A,54258,289700,48696,148.5,70420
 papa john's pizza,"161 w 231st st, ,",10463,italian,$$,06C,Critical,A,54258,289700,48696,148.5,70420
 bailey seafood market & restaurant,"146 w 231st st, ,",10463,seafood,$$$,06D,Critical,B,54258,289700,48696,148.5,70420
-archie's tap and table,"536 city island ave, ,",10464,bars burgers american,$$,06D,Critical,A,70078,484000,1213,152.6,4248
-the original crab shanty restaurant,"361 city island ave, ,",10464,seafood italian american,$$,04L,Critical,A,70078,484000,1213,152.6,4248
+archie's tap and table,"536 city island ave, ,",10464,burgers bars american,$$,06D,Critical,A,70078,484000,1213,152.6,4248
+the original crab shanty restaurant,"361 city island ave, ,",10464,italian seafood american,$$,04L,Critical,A,70078,484000,1213,152.6,4248
 johnny's reef restaurant,"2 city island ave, ,",10464,seafood,$$,04L,Critical,A,70078,484000,1213,152.6,4248
 sammy's fish box restaurant,"41 city island ave, ,",10464,seafood,$$$,10B,Not Critical,A,70078,484000,1213,152.6,4248
 tony's pier restaurant,"1 city island ave, ,",10464,seafood,$$,10F,Not Critical,A,70078,484000,1213,152.6,4248
-artie's steak & seafood,"394 city island ave, ,",10464,seafood italian,$$,10B,Not Critical,A,70078,484000,1213,152.6,4248
+artie's steak & seafood,"394 city island ave, ,",10464,italian seafood,$$,10B,Not Critical,A,70078,484000,1213,152.6,4248
 the black whale,"279 city island ave, ,",10464,american,$$,06C,Critical,A,70078,484000,1213,152.6,4248
 sea shore restaurant & marina,"591 city island ave, ,",10464,seafood,$$$,08A,Not Critical,A,70078,484000,1213,152.6,4248
 lobster box restaurant,"34 city island ave, ,",10464,seafood,$$$,10B,Not Critical,A,70078,484000,1213,152.6,4248
-don coqui on the water,"565 city island ave, ,",10464,latin caribbean american,$$,02H,Critical,B,70078,484000,1213,152.6,4248
-ohana japanese hibachi seafood & steak,"500 city island ave, ,",10464,bars japanese,$$,10H,Not Critical,A,70078,484000,1213,152.6,4248
+don coqui on the water,"565 city island ave, ,",10464,caribbean latin american,$$,02H,Critical,B,70078,484000,1213,152.6,4248
+ohana japanese hibachi seafood & steak,"500 city island ave, ,",10464,japanese bars,$$,10H,Not Critical,A,70078,484000,1213,152.6,4248
 scavello's on the island,101 city island ave,10464,italian,$$,10F,Not Critical,A,70078,484000,1213,152.6,4248
 city island diner /snug bar,"304 city island ave, ,",10464,american,$,04H,Critical,A,70078,484000,1213,152.6,4248
 cabo restaurant,"3764 e tremont ave, ,",10465,mexican,$$,06E,Critical,B,65450,437800,13081,151.5,44862
 tosca cafe,"4038 e tremont ave, ,",10465,italian american,$$,04N,Critical,A,65450,437800,13081,151.5,44862
-legendary bar & grill,"3513 e tremont ave, ,",10465,bars burgers italian american,$$,08A,Not Critical,A,65450,437800,13081,151.5,44862
+legendary bar & grill,"3513 e tremont ave, ,",10465,italian american bars burgers,$$,08A,Not Critical,A,65450,437800,13081,151.5,44862
 taqueria lupita,"3550 e tremont ave, ,",10465,mexican,$,02G,Critical,A,65450,437800,13081,151.5,44862
-casa restaurant & lounge,"3607 e. tremont ave.,",10465,puerto rican dominican american cuban latin,$$,06C,Critical,A,65450,437800,13081,151.5,44862
+casa restaurant & lounge,"3607 e. tremont ave.,",10465,cuban puerto rican latin dominican american,$$,06C,Critical,A,65450,437800,13081,151.5,44862
 uncle al's soulfood kitchen,"3841 e tremont ave,",10465,,$$,06E,Critical,A,65450,437800,13081,151.5,44862
-sarku japan,"815 hutchinson river pkwy, space b-135,",10465,bars japanese,$,06A,Critical,A,65450,437800,13081,151.5,44862
+sarku japan,"815 hutchinson river pkwy, space b-135,",10465,japanese bars,$,06A,Critical,A,65450,437800,13081,151.5,44862
 chipotle mexican grill,"815 hutchinson river pkwy, ,",10465,mexican,$,04N,Critical,A,65450,437800,13081,151.5,44862
 china wok,"3839 e tremont ave, ,",10465,chinese,$,10F,Not Critical,A,65450,437800,13081,151.5,44862
 el paisano pizzeria,"3444 e tremont ave, ,",10465,italian,$$,10F,Not Critical,A,65450,437800,13081,151.5,44862
-vapor lounge,"3758 e tremont ave,",10465,bars bangladeshi american,$$,04L,Critical,B,65450,437800,13081,151.5,44862
+vapor lounge,"3758 e tremont ave,",10465,bars american bangladeshi,$$,04L,Critical,B,65450,437800,13081,151.5,44862
 paula's soul cafe,"746 e 233rd st, ,",10466,seafood,$$,08A,Not Critical,A,44012,391300,34986,155.5,70609
 loong xin asian cuisine,"670 e 233rd st, ,",10466,japanese chinese thai,$,02B,Critical,A,44012,391300,34986,155.5,70609
 carifesta restaurant,"4251 white plains rd, ,",10466,pakistani caribbean,$,10F,Not Critical,A,44012,391300,34986,155.5,70609
 tony's pizza,"4189 white plains road, ,",10466,italian,$,04N,Critical,A,44012,391300,34986,155.5,70609
 the pizza place,"4024 white plains road, ,",10466,italian,$,02G,Critical,A,44012,391300,34986,155.5,70609
 deuce & bam good dine restaurant,"3922 white plains rd, ,",10466,caribbean,$,04N,Critical,A,44012,391300,34986,155.5,70609
-burger king,"4275 white plains rd, ,",10466,burgers american,$,10F,Not Critical,A,44012,391300,34986,155.5,70609
+burger king,"4275 white plains rd, ,",10466,american burgers,$,10F,Not Critical,A,44012,391300,34986,155.5,70609
 papa john's pizza,3929 white plains rd,10466,italian,$$,06A,Critical,A,44012,391300,34986,155.5,70609
 "china mia exotic asian food, yogurt & juice bar","2232 white plains rd, ,",10467,chinese,$,10B,Not Critical,A,36048,369500,42376,158.3,98754
-moja restaurant (curry & grill),"307 e 204th st bronx, ,",10467,indian bangladeshi,$$,10F,Not Critical,A,36048,369500,42376,158.3,98754
+moja restaurant (curry & grill),"307 e 204th st bronx, ,",10467,bangladeshi indian,$$,10F,Not Critical,A,36048,369500,42376,158.3,98754
 m & r pizza,"7 e 208th st, ,",10467,italian,$,10F,Not Critical,A,36048,369500,42376,158.3,98754
 blimpie,85 east gunhill road,10467,,$,04L,Critical,A,36048,369500,42376,158.3,98754
 lin's no 1 chinese restaurant,"301 e 204th st, ,",10467,chinese,$,02G,Critical,A,36048,369500,42376,158.3,98754
@@ -465,23 +465,23 @@ ming liang kitchen,"236 e gun hill rd, ,",10467,chinese,$,04L,Critical,A,36048,3
 sing loon chinese kitchen,"3606 white plains rd,",10467,chinese,$$,04N,Critical,A,36048,369500,42376,158.3,98754
 papa john's pizza,2733 white plains rd,10467,italian,$,10B,Not Critical,A,36048,369500,42376,158.3,98754
 century chinese restaurant,"2861 white plains road, ,",10467,chinese,$,02G,Critical,A,36048,369500,42376,158.3,98754
-caridad restaurant,"135 w kingsbridge rd, ,",10468,puerto rican dominican cuban spanish american latin,$$,10F,Not Critical,A,33776,171200,66796,147.8,71822
+caridad restaurant,"135 w kingsbridge rd, ,",10468,cuban puerto rican latin dominican american spanish,$$,10F,Not Critical,A,33776,171200,66796,147.8,71822
 harmony cafe (lehman college)l,"250 bedford park blvd w, ,",10468,cafe,$,06E,Critical,A,33776,171200,66796,147.8,71822
 jerome's pizza & pasta,"21 bedford park blvd e, ,",10468,italian,$,06C,Critical,A,33776,171200,66796,147.8,71822
-mirador restaurant,"44 w kingsbridge rd, ,",10468,puerto rican dominican cuban spanish american latin,$,02B,Critical,Z,33776,171200,66796,147.8,71822
-panda express,"1 w fordham rd, ,",10468,asian chinese,$$,10F,Not Critical,A,33776,171200,66796,147.8,71822
+mirador restaurant,"44 w kingsbridge rd, ,",10468,cuban puerto rican latin dominican american spanish,$,02B,Critical,Z,33776,171200,66796,147.8,71822
+panda express,"1 w fordham rd, ,",10468,chinese asian,$$,10F,Not Critical,A,33776,171200,66796,147.8,71822
 brother's pizzera,"27 e kingsbridge rd, ,",10468,italian,$,06C,Critical,A,33776,171200,66796,147.8,71822
 giovanni gourmet catering,"80 w fordham rd, ,",10468,italian,$$$,10F,Not Critical,A,33776,171200,66796,147.8,71822
 ultimate grill,"1345 e gun hill rd, ,",10469,caribbean,$$,04N,Critical,A,57776,427100,29007,153.2,71843
 chillz restaurant,"4744 white plains rd, ,",10470,caribbean,$$,02B,Critical,B,58600,401200,10423,151.9,14850
 big daddy's caribbean taste,"4406 white plains road, ,",10470,caribbean,$$,06C,Critical,A,58600,401200,10423,151.9,14850
 wonderful chinese restaurant,"518 e 240th st, ,",10470,chinese,$,10F,Not Critical,A,58600,401200,10423,151.9,14850
-asian tokyo japanese cuisine,"4685 manhattan college pkwy,",10471,bars japanese,$$,04N,Critical,B,71798,360800,8532,148.9,22030
-pupuseria salvadorenia,1248 saint lawrence ave,10472,spanish salvadoran,$,04L,Critical,A,30288,429600,65585,166.0,68898
+asian tokyo japanese cuisine,"4685 manhattan college pkwy,",10471,japanese bars,$$,04N,Critical,B,71798,360800,8532,148.9,22030
+pupuseria salvadorenia,1248 saint lawrence ave,10472,salvadoran spanish,$,04L,Critical,A,30288,429600,65585,166.0,68898
 jimmy's grand cafe,"1001 castle hill ave, ,",10472,american,$$,06C,Critical,A,30288,429600,65585,166.0,68898
 general tso's chinese restaurant,"1215 white plains rd, ,",10472,chinese,$,06D,Critical,A,30288,429600,65585,166.0,68898
 david's soul food cafe,1039 castle hill ave,10472,,$,04N,Critical,B,30288,429600,65585,166.0,68898
-caribe restaurant,"849 castle hill ave, ,",10473,spanish caribbean,$,10B,Not Critical,A,35866,386600,26911,157.9,58660
+caribe restaurant,"849 castle hill ave, ,",10473,caribbean spanish,$,10B,Not Critical,A,35866,386600,26911,157.9,58660
 frank's pizza italia,"772 castle hill ave, ,",10473,italian,$,10A,Not Critical,A,35866,386600,26911,157.9,58660
 shore haven diner,"622 castle hill ave, ,",10473,american,$$,06D,Critical,A,35866,386600,26911,157.9,58660
 crown fried chicken,"766 castle hill ave, ,",10473,,$$,08A,Not Critical,A,35866,386600,26911,157.9,58660
@@ -489,41 +489,41 @@ fratelli's pizza & cafe,"404 hunts point avenue, ,",10474,italian,$,06D,Critical
 xin ya chinese restaurant,"898 hunts point ave, ,",10474,chinese,$,08A,Not Critical,A,25676,351800,8165,164.6,12519
 fornino,"pier 6 brooklyn bridge park, ,",11201,italian,$$,06C,Critical,A,95369,669000,38387,155.3,54668
 shake shack,"1 old fulton st, ,",11201,desserts burgers american,$$,06D,Critical,A,95369,669000,38387,155.3,54668
-arnor crepes & bubble tea,"1425 w 10th st, ,",11204,french desserts chinese cafe,$,06D,Critical,A,45472,657500,50954,167.2,80963
+arnor crepes & bubble tea,"1425 w 10th st, ,",11204,desserts french chinese cafe,$,06D,Critical,A,45472,657500,50954,167.2,80963
 lucky star restaurant,"13 marcus garvey blvd, ,",11206,caribbean,$,08A,Not Critical,A,28559,533400,56833,174.0,81525
-burger ur way,"1846 e new york ave, ,",11207,burgers american,$$,08A,Not Critical,B,32945,403800,34630,162.0,92491
-loma # 3 restaurant,"754 new lots ave, ,",11207,puerto rican dominican cuban spanish american latin,$,08C,Not Critical,B,32945,403800,34630,162.0,92491
-pokito,"155 s 4th st,",11211,puerto rican dominican cuban bars american latin asian,$$,10B,Not Critical,A,46848,655500,40583,166.4,93271
+burger ur way,"1846 e new york ave, ,",11207,american burgers,$$,08A,Not Critical,B,32945,403800,34630,162.0,92491
+loma # 3 restaurant,"754 new lots ave, ,",11207,cuban puerto rican latin dominican american spanish,$,08C,Not Critical,B,32945,403800,34630,162.0,92491
+pokito,"155 s 4th st,",11211,bars cuban puerto rican asian latin dominican american,$$,10B,Not Critical,A,46848,655500,40583,166.4,93271
 l'industrie pizzeria,"254 s 2nd st, ,",11211,italian,$,10F,Not Critical,A,46848,655500,40583,166.4,93271
 shalom japan,"310 s 4th st, ,",11211,japanese american,$$$,08C,Not Critical,A,46848,655500,40583,166.4,93271
-dos31 cocina + bar,"231 s 4th st, ,",11211,dominican american bars spanish latin,$$,10F,Not Critical,A,46848,655500,40583,166.4,93271
+dos31 cocina + bar,"231 s 4th st, ,",11211,bars latin dominican american spanish,$$,10F,Not Critical,A,46848,655500,40583,166.4,93271
 dardy bar,"245 s 1st st,",11211,bars american,$,10D,Not Critical,A,46848,655500,40583,166.4,93271
 sweetgreen,"162 n 4th st, ,",11211,vegan,$$,08A,Not Critical,A,46848,655500,40583,166.4,93271
 crown fried chicken,"190 e 98th st, ,",11212,chilean,$,06F,Critical,A,28348,391700,54957,164.6,84520
 jemz restaurant,"1171 saint johns pl, ,",11213,caribbean,$$,10B,Not Critical,A,34794,582300,56882,171.0,62059
 little saigon pearl,"9 bay 35th st, ,",11214,cambodian vietnamese malaysia,$,06E,Critical,A,43398,598800,38060,165.5,83156
-new forest cafe,"7617 new utrecht ave, ,",11214,asian cantonese cafe,$,02B,Critical,A,43398,598800,38060,165.5,83156
+new forest cafe,"7617 new utrecht ave, ,",11214,cantonese cafe asian,$,02B,Critical,A,43398,598800,38060,165.5,83156
 orchid dynasty restaurant,"7706 new utrecht ave, ,",11214,chinese,$$,02B,Critical,Z,43398,598800,38060,165.5,83156
 krupa grocery,"231 prospect park w, ,",11215,bars american cafe,$$,06E,Critical,A,95654,913200,31628,160.3,68891
-elora's mexican and spanish restaurant,"272 prospect park w, ,",11215,spanish mexican,$$,06D,Critical,A,95654,913200,31628,160.3,68891
+elora's mexican and spanish restaurant,"272 prospect park w, ,",11215,mexican spanish,$$,06D,Critical,A,95654,913200,31628,160.3,68891
 brunswick cafe,"240 prospect park w, ,",11215,cafe,$$,02G,Critical,A,95654,913200,31628,160.3,68891
 brunswick prospect park west,"240 prospect park w, ,",11215,australian,$$,04A,Critical,A,95654,913200,31628,160.3,68891
 mahachai,"268 prospect park w, ,",11215,thai,$$,06C,Critical,A,95654,913200,31628,160.3,68891
-peking kitchen,"271 prospect park w, ,",11215,chinese thai,$,08A,Not Critical,A,95654,913200,31628,160.3,68891
-sushi yu,"214 prospect park w, ,",11215,bars japanese,$$,04L,Critical,B,95654,913200,31628,160.3,68891
+peking kitchen,"271 prospect park w, ,",11215,thai chinese,$,08A,Not Critical,A,95654,913200,31628,160.3,68891
+sushi yu,"214 prospect park w, ,",11215,japanese bars,$$,04L,Critical,B,95654,913200,31628,160.3,68891
 kitchen thai,"271 prospect park w, ,",11215,thai,$$,08A,Not Critical,A,95654,913200,31628,160.3,68891
 el toro taqueria,"89 fort greene pl, ,",11217,mexican,$,10F,Not Critical,B,81862,857000,51667,161.5,38787
 batata,"3021 fort hamilton pkwy, ,",11218,middle eastern,$$,10F,Not Critical,A,52445,546300,52397,159.7,74758
-hadi restaurant,"683 coney island ave, ,",11218,middle eastern pakistani indian,$,03A,Critical,A,52445,546300,52397,159.7,74758
-samir restaurant,"696 coney island ave, ,",11218,mediterranean russian,$$,10F,Not Critical,A,52445,546300,52397,159.7,74758
-gyro cafe,"580 coney island ave, ,",11218,pakistani middle eastern turkish,$,02B,Critical,B,52445,546300,52397,159.7,74758
+hadi restaurant,"683 coney island ave, ,",11218,pakistani middle eastern indian,$,03A,Critical,A,52445,546300,52397,159.7,74758
+samir restaurant,"696 coney island ave, ,",11218,russian mediterranean,$$,10F,Not Critical,A,52445,546300,52397,159.7,74758
+gyro cafe,"580 coney island ave, ,",11218,pakistani turkish middle eastern,$,02B,Critical,B,52445,546300,52397,159.7,74758
 thai tony's,"3019 fort hamilton pkwy, ,",11218,thai,$$,10F,Not Critical,A,52445,546300,52397,159.7,74758
-tacos el catrin,"265 e 7th st,",11218,spanish mexican,$$,09B,Not Critical,B,52445,546300,52397,159.7,74758
+tacos el catrin,"265 e 7th st,",11218,mexican spanish,$$,09B,Not Critical,B,52445,546300,52397,159.7,74758
 new punjab restaurant & grill,"691 coney island ave, ,",11218,pakistani indian,$,08A,Not Critical,Z,52445,546300,52397,159.7,74758
 bene pizzeria & restaurant,"157 prospect park sw, ,",11218,italian,$,10F,Not Critical,A,52445,546300,52397,159.7,74758
 beverley pizzeria & cafe,"358 e 2nd st, ,",11218,italian,$,08A,Not Critical,A,52445,546300,52397,159.7,74758
-dream eatery,"6712 fort hamilton pkwy,",11219,bars japanese chinese asian,$$,10F,Not Critical,A,34316,726700,65430,180.8,96971
-asia restaurant,"4813 new utrecht ave, ,",11219,jewish russian,$$,08A,Not Critical,A,34316,726700,65430,180.8,96971
+dream eatery,"6712 fort hamilton pkwy,",11219,japanese chinese bars asian,$$,10F,Not Critical,A,34316,726700,65430,180.8,96971
+asia restaurant,"4813 new utrecht ave, ,",11219,russian jewish,$$,08A,Not Critical,A,34316,726700,65430,180.8,96971
 3 in 1 kitchen,"4902 fort hamilton pkwy, ,",11219,american,$,10F,Not Critical,A,34316,726700,65430,180.8,96971
 king's kitchen,"6005 fort hamilton pkwy, ,",11219,chinese,$,10F,Not Critical,A,34316,726700,65430,180.8,96971
 new lucky chinese restaurant,"6619 fort hamilton pkwy,",11219,cantonese chinese,$$,06D,Critical,B,34316,726700,65430,180.8,96971
@@ -534,37 +534,37 @@ david pizzeria,"6305 fort hamilton parkway, ,",11219,italian,$,10F,Not Critical,
 hot wok,"119 bay ridge ave, ,",11220,chinese,$,10B,Not Critical,A,37580,615300,57549,171.0,103089
 soldier jerk center and restaurant,"98 malcolm x blvd, ,",11221,caribbean,$,10B,Not Critical,A,39178,543800,58787,165.7,81321
 greenpoint beer and ale,"7 n 15th st, ,",11222,european american,$$,09C,Not Critical,A,63739,726500,22428,162.3,34186
-ny sweet spot cafe,"2376 coney island ave,",11223,middle eastern european,$$,06C,Critical,A,41328,613000,35968,167.4,74606
-rondel ukrainian restaurant,"2006 coney island ave,",11223,middle eastern seafood ukrainian european,$$,08A,Not Critical,A,41328,613000,35968,167.4,74606
-chateau de capitaine,"2570 coney island ave, ,",11223,seafood french european,$$$,08A,Not Critical,A,41328,613000,35968,167.4,74606
-palmyra,"2663 coney island ave, ,",11223,uzbek mediterranean russian,$$$,06D,Critical,A,41328,613000,35968,167.4,74606
-edo asian fusion,"2087 coney island ave,",11223,asian japanese,$$,09C,Not Critical,A,41328,613000,35968,167.4,74606
+ny sweet spot cafe,"2376 coney island ave,",11223,european middle eastern,$$,06C,Critical,A,41328,613000,35968,167.4,74606
+rondel ukrainian restaurant,"2006 coney island ave,",11223,seafood european ukrainian middle eastern,$$,08A,Not Critical,A,41328,613000,35968,167.4,74606
+chateau de capitaine,"2570 coney island ave, ,",11223,seafood european french,$$$,08A,Not Critical,A,41328,613000,35968,167.4,74606
+palmyra,"2663 coney island ave, ,",11223,russian mediterranean uzbek,$$$,06D,Critical,A,41328,613000,35968,167.4,74606
+edo asian fusion,"2087 coney island ave,",11223,japanese asian,$$,09C,Not Critical,A,41328,613000,35968,167.4,74606
 kasai,"2524 coney island ave, ,",11223,japanese jewish,$$$,06A,Critical,B,41328,613000,35968,167.4,74606
-falafel off the corner,"1675 e 2nd st, ,",11223,middle eastern jewish,$$,02B,Critical,A,41328,613000,35968,167.4,74606
-myst hookah lounge & cafe,"2086 coney island ave,",11223,bars middle eastern bangladeshi american,$$,10H,Not Critical,A,41328,613000,35968,167.4,74606
+falafel off the corner,"1675 e 2nd st, ,",11223,jewish middle eastern,$$,02B,Critical,A,41328,613000,35968,167.4,74606
+myst hookah lounge & cafe,"2086 coney island ave,",11223,middle eastern bars american bangladeshi,$$,10H,Not Critical,A,41328,613000,35968,167.4,74606
 five brother's pizza pasta & grill,"2650 coney island ave, ,",11223,italian,$$,06E,Critical,A,41328,613000,35968,167.4,74606
 foteh's tandoori cafe chayhana,"2650 coney island ave, ,",11223,russian,$$,10B,Not Critical,A,41328,613000,35968,167.4,74606
-eat n run cafe,"2574 coney island ave, ,",11223,bars japanese italian jewish,$$,02B,Critical,A,41328,613000,35968,167.4,74606
-burger king,"2425 coney island ave, ,",11223,burgers american,$,06A,Critical,A,41328,613000,35968,167.4,74606
+eat n run cafe,"2574 coney island ave, ,",11223,japanese italian bars jewish,$$,02B,Critical,A,41328,613000,35968,167.4,74606
+burger king,"2425 coney island ave, ,",11223,american burgers,$,06A,Critical,A,41328,613000,35968,167.4,74606
 "kfc, taco bell",2026 coney island ave,11223,mexican american,$,10F,Not Critical,A,41328,613000,35968,167.4,74606
 "kfc, taco bell",2026 coney island ave,11223,american,$,10F,Not Critical,A,41328,613000,35968,167.4,74606
 katie o's restaurant,"452 e new york ave, ,",11225,american,$$,06D,Critical,A,42922,615700,66957,166.7,59182
 gus' american grill,"7206 new utrecht ave, ,",11228,american,$,04L,Critical,A,61893,681700,29885,160.5,43929
 mister phil's pizza,"7212 new utrecht ave, ,",11228,italian,$,06C,Critical,A,61893,681700,29885,160.5,43929
-jin sushi & thai,"1708 e 16th st, ,",11229,bars asian japanese thai,$$,10F,Not Critical,A,51725,524100,37536,158.0,81030
-new lan king restaurant,"1688 e 16th st, ,",11229,chinese italian,$,08C,Not Critical,A,51725,524100,37536,158.0,81030
+jin sushi & thai,"1708 e 16th st, ,",11229,japanese thai bars asian,$$,10F,Not Critical,A,51725,524100,37536,158.0,81030
+new lan king restaurant,"1688 e 16th st, ,",11229,italian chinese,$,08C,Not Critical,A,51725,524100,37536,158.0,81030
 new great wall chinese restaurant,"1419 gravesend neck road, ,",11229,chinese,$,10F,Not Critical,A,51725,524100,37536,158.0,81030
 bordeaux,"1922 coney island ave, ,",11230,american,$$$,08A,Not Critical,A,42170,598000,45777,166.6,84219
 chocolatte,"1354 coney island ave,",11230,cafe,$$,10I,Not Critical,A,42170,598000,45777,166.6,84219
-pak lahori chilli,"1026 coney island ave, ,",11230,pakistani indian bangladeshi,$,06D,Critical,B,42170,598000,45777,166.6,84219
+pak lahori chilli,"1026 coney island ave, ,",11230,pakistani bangladeshi indian,$,06D,Critical,B,42170,598000,45777,166.6,84219
 baguette express,"1013 e 14th st, ,",11230,mediterranean jewish,$$,08C,Not Critical,A,42170,598000,45777,166.6,84219
 glatt coney,"1558 coney island ave, ,",11230,japanese chinese jewish,$$,02G,Critical,B,42170,598000,45777,166.6,84219
 brooklyn delight,"1636 coney island ave,",11230,chinese jewish,$$,08A,Not Critical,A,42170,598000,45777,166.6,84219
 subsational,"1928 coney island ave, ,",11230,jewish,$$,06F,Critical,A,42170,598000,45777,166.6,84219
 schnitzi schnitzel bar,"1299 coney island ave, ,",11230,jewish,$$,02G,Critical,A,42170,598000,45777,166.6,84219
-gyro hut,"1043 coney island ave,",11230,indian american,$,04H,Critical,B,42170,598000,45777,166.6,84219
+gyro hut,"1043 coney island ave,",11230,american indian,$,04H,Critical,B,42170,598000,45777,166.6,84219
 king solomon catering & restaurant,"1787 coney island ave,",11230,jewish,$$,10B,Not Critical,A,42170,598000,45777,166.6,84219
-junior's pizza & fried chicken,"1162 coney island ave, ,",11230,pakistani italian,$,10D,Not Critical,A,42170,598000,45777,166.6,84219
+junior's pizza & fried chicken,"1162 coney island ave, ,",11230,italian pakistani,$,10D,Not Critical,A,42170,598000,45777,166.6,84219
 papa john's pizza,"1016 coney island ave, ,",11230,italian,$$,10B,Not Critical,A,42170,598000,45777,166.6,84219
 red hook lobster pound,"284 van brunt st, ,",11231,seafood,$$,06E,Critical,A,78174,912000,24004,163.7,34137
 the black flamingo,"281 van brunt st, ,",11231,cafe,$,06D,Critical,A,78174,912000,24004,163.7,34137
@@ -572,73 +572,73 @@ the good fork,"391 van brunt street, ,",11231,american,$$,02G,Critical,A,78174,9
 hometown bar-b-que,"454 van brunt st, ,",11231,barbeque,$$,06D,Critical,A,78174,912000,24004,163.7,34137
 wen gee house,"287 van brunt street, ,",11231,chinese,$,06D,Critical,A,78174,912000,24004,163.7,34137
 red hook bait and tackle,"320 van brunt st, ,",11231,bars american,$,04N,Critical,A,78174,912000,24004,163.7,34137
-taj masala,"256 malcolm x blvd, ,",11233,desserts indian bangladeshi,$,02B,Critical,A,34492,551900,50893,169.6,68599
+taj masala,"256 malcolm x blvd, ,",11233,bangladeshi desserts indian,$,02B,Critical,A,34492,551900,50893,169.6,68599
 the trade union cafe,"346 malcolm x blvd,",11233,desserts cafe,$$,10B,Not Critical,C,34492,551900,50893,169.6,68599
 daddy greens,"352 malcolm x blvd, ,",11233,italian cafe,$,04N,Critical,B,34492,551900,50893,169.6,68599
 magic soul food,"320 malcolm x blvd, ,",11233,,$$,04N,Critical,A,34492,551900,50893,169.6,68599
 krazy chicken and pizza,"299 malcolm x blvd, ,",11233,italian,$,02G,Critical,A,34492,551900,50893,169.6,68599
-cafe at your mother-in-law,"3071 brighton 4th st, ,",11235,korean uzbek russian,$,10H,Not Critical,A,41639,531000,33223,163.4,74630
+cafe at your mother-in-law,"3071 brighton 4th st, ,",11235,uzbek russian korean,$,10H,Not Critical,A,41639,531000,33223,163.4,74630
 restaurant tatiana,"3152 brighton 6th st, ,",11235,russian,$$$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
-wise espresso bar,"3120 coney island ave, ,",11235,bars middle eastern european cafe,$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
+wise espresso bar,"3120 coney island ave, ,",11235,middle eastern european bars cafe,$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 wow cafe and grill,"12 brighton 11th st,",11235,seafood american,$$,08A,Not Critical,A,41639,531000,33223,163.4,74630
 beyti turkish kebab,414 brighton beach ave,11235,mediterranean european turkish,$$,08C,Not Critical,A,41639,531000,33223,163.4,74630
-my house burgers & shakes,"1650 sheepshead bay rd, ,",11235,pakistani burgers armenian american,$,06D,Critical,A,41639,531000,33223,163.4,74630
-cafe dushanbe,"1788 sheepshead bay rd, ,",11235,uzbek middle eastern russian,$$,04N,Critical,A,41639,531000,33223,163.4,74630
+my house burgers & shakes,"1650 sheepshead bay rd, ,",11235,pakistani american armenian burgers,$,06D,Critical,A,41639,531000,33223,163.4,74630
+cafe dushanbe,"1788 sheepshead bay rd, ,",11235,russian uzbek middle eastern,$$,04N,Critical,A,41639,531000,33223,163.4,74630
 restaurant tatiana,"3152 brighton 6th st, ,",11235,russian,$$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
-gulluoglu baklava & cafe,"231 brighton beach ave, ,",11235,middle eastern bakery russian turkish,$,02B,Critical,A,41639,531000,33223,163.4,74630
+gulluoglu baklava & cafe,"231 brighton beach ave, ,",11235,middle eastern russian turkish bakery,$,02B,Critical,A,41639,531000,33223,163.4,74630
 anatolian gyro restaurant,"2623 e 16th st, ,",11235,turkish,$$,06D,Critical,A,41639,531000,33223,163.4,74630
-azerbaijan,"2612 e 14th st,",11235,pakistani middle eastern mediterranean,$$,02H,Critical,A,41639,531000,33223,163.4,74630
+azerbaijan,"2612 e 14th st,",11235,pakistani mediterranean middle eastern,$$,02H,Critical,A,41639,531000,33223,163.4,74630
 oleandr restaurant,"410 brighton beach ave, ,",11235,russian,$$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 fuel,"1715 sheepshead bay rd, ,",11235,bars american cafe,$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 national restaurant & catering,"273 brighton beach ave, ,",11235,russian,$$$$,04M,Critical,A,41639,531000,33223,163.4,74630
-umi sushi japanese cuisine,"215 brighton beach ave, ,",11235,bars japanese,$$,06E,Critical,A,41639,531000,33223,163.4,74630
+umi sushi japanese cuisine,"215 brighton beach ave, ,",11235,japanese bars,$$,06E,Critical,A,41639,531000,33223,163.4,74630
 nasheman grill and restaurant,"3149 coney island ave, ,",11235,pakistani indian,$,04L,Critical,A,41639,531000,33223,163.4,74630
 tatiana grill and cafe,"3145 brighton 4th st, ,",11235,russian american,$$,02G,Critical,A,41639,531000,33223,163.4,74630
-arbuz,"1706 sheepshead bay rd, ,",11235,french desserts cafe,$,06D,Critical,A,41639,531000,33223,163.4,74630
+arbuz,"1706 sheepshead bay rd, ,",11235,desserts french cafe,$,06D,Critical,A,41639,531000,33223,163.4,74630
 romanoff restaurant,"2670 coney island ave,",11235,russian,$$$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 popeyes louisiana kitchen,"709 brighton beach ave,",11235,seafood american,$$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 tatiana grill and cafe,"3145 brighton 4th st, ,",11235,russian,$$,02G,Critical,A,41639,531000,33223,163.4,74630
 win way chinese restaurant,"2830 coney island ave, ,",11235,chinese,$,08A,Not Critical,Z,41639,531000,33223,163.4,74630
 neptune pizza,"3033 coney island avenue, ,",11235,italian,$,04L,Critical,A,41639,531000,33223,163.4,74630
-asian bay chinese food,"1741 sheepshead bay rd, ,",11235,bars japanese chinese asian,$,10F,Not Critical,A,41639,531000,33223,163.4,74630
-wendy's,"621 brighton beach ave, ,",11235,burgers american,$,10F,Not Critical,A,41639,531000,33223,163.4,74630
+asian bay chinese food,"1741 sheepshead bay rd, ,",11235,japanese chinese bars asian,$,10F,Not Critical,A,41639,531000,33223,163.4,74630
+wendy's,"621 brighton beach ave, ,",11235,american burgers,$,10F,Not Critical,A,41639,531000,33223,163.4,74630
 starbucks,"607 brighton beach ave, ,",11235,cafe,$$,08A,Not Critical,A,41639,531000,33223,163.4,74630
-(library)  four & twenty blackbirds,"10 grand army plz, ,",11238,bakery cafe,$,10B,Not Critical,A,65315,656800,46936,159.4,51895
+(library)  four & twenty blackbirds,"10 grand army plz, ,",11238,cafe bakery,$,10B,Not Critical,A,65315,656800,46936,159.4,51895
 naked crab,"39-16 college point blvd,",11354,seafood,$$,10H,Not Critical,A,46566,380600,25961,155.1,56258
-little lamb mongolian hot pot,"40-24 college point blvd, ,",11354,mongolian asian chinese american,$$,10J,Not Critical,A,46566,380600,25961,155.1,56258
+little lamb mongolian hot pot,"40-24 college point blvd, ,",11354,mongolian chinese american asian,$$,10J,Not Critical,A,46566,380600,25961,155.1,56258
 ok ryan restaurant,"4104 college point blvd, ,",11355,taiwanese chinese,$$,10F,Not Critical,A,41884,507500,47859,163.0,83221
 blue tijuana,"15-24 college point blvd, ,",11356,mexican,$$,04N,Critical,A,58465,562900,14660,158.9,23037
-noodle house,"18-32 college point blvd,",11356,asian chinese,$$,10I,Not Critical,A,58465,562900,14660,158.9,23037
-pollos a la brasa mr. mario,"1804 college point blvd, ,",11356,puerto rican dominican colombian cuban american latin,$$,06C,Critical,A,58465,562900,14660,158.9,23037
-sabor restaurant & bakery,"15-20 college point blvd, ,",11356,dominican bakery colombian,$,06F,Critical,A,58465,562900,14660,158.9,23037
+noodle house,"18-32 college point blvd,",11356,chinese asian,$$,10I,Not Critical,A,58465,562900,14660,158.9,23037
+pollos a la brasa mr. mario,"1804 college point blvd, ,",11356,colombian cuban puerto rican latin dominican american,$$,06C,Critical,A,58465,562900,14660,158.9,23037
+sabor restaurant & bakery,"15-20 college point blvd, ,",11356,colombian dominican bakery,$,06F,Critical,A,58465,562900,14660,158.9,23037
 cascarinos pizzeria,"1460 college point blvd, ,",11356,italian,$$,10B,Not Critical,A,58465,562900,14660,158.9,23037
 happy town chinese restaurant,"1803 college point boulevard, ,",11356,chinese,$,06A,Critical,A,58465,562900,14660,158.9,23037
-the blvd restaurant and lounge,"19-11 francis lewis blvd, ,",11357,bars italian american,$$,08A,Not Critical,A,71978,590800,14590,156.4,40872
+the blvd restaurant and lounge,"19-11 francis lewis blvd, ,",11357,italian bars american,$$,08A,Not Critical,A,71978,590800,14590,156.4,40872
 king's chef chinese restaurant,"15327 cross island parkway, ,",11357,chinese,$$,10F,Not Critical,A,71978,590800,14590,156.4,40872
-ginpachi,"33-41 francis lewis blvd,",11358,bars japanese,$$$,04E,Critical,A,65722,625200,19656,158.7,38317
+ginpachi,"33-41 francis lewis blvd,",11358,japanese bars,$$$,04E,Critical,A,65722,625200,19656,158.7,38317
 thanya thai cuisine,"33-47 francis lewis blvd, ,",11358,thai,$$,10F,Not Critical,A,65722,625200,19656,158.7,38317
 king wok,"2567 francis lewis blvd, ,",11358,chinese,$,10B,Not Critical,A,65722,625200,19656,158.7,38317
 taco hut,"3267 francis lewis blvd, ,",11358,mexican,$,06C,Critical,A,65722,625200,19656,158.7,38317
-matese pizzeria restaurant,"2615 francis lewis blvd, ,",11358,seafood italian,$,06C,Critical,A,65722,625200,19656,158.7,38317
+matese pizzeria restaurant,"2615 francis lewis blvd, ,",11358,italian seafood,$,06C,Critical,A,65722,625200,19656,158.7,38317
 subway,"2550 francis lewis blvd, ,",11358,,$,06D,Critical,A,65722,625200,19656,158.7,38317
 chipotle mexican grill,"254-65 horace harding expy, ,",11362,mexican,$$,10B,Not Critical,A,82332,538000,7120,153.2,17865
 new china grill,"22012 horace harding expy, ,",11364,chinese,$,06D,Critical,A,72909,510800,14077,153.7,34751
-ali baba,"18310 horace harding expy, ,",11365,middle eastern turkish afghan,$$,10F,Not Critical,A,55492,580300,16792,160.0,41924
+ali baba,"18310 horace harding expy, ,",11365,afghan turkish middle eastern,$$,10F,Not Critical,A,55492,580300,16792,160.0,41924
 68 taste of china,"68-24 fresh meadow ln, ,",11365,vegan chinese,$,10B,Not Critical,A,55492,580300,16792,160.0,41924
 pata cafe,"5614 van horn st,",11373,cafe,$,06D,Critical,A,47667,499600,65065,160.0,99159
 clem's public house,"61-16 laurel hill blvd,",11377,bars american,$$,04L,Critical,A,49886,395800,33947,154.6,86316
-the live oak,"5993 fresh pond rd,",11378,bars irish american,$,10I,Not Critical,A,57474,538600,12591,157.7,32268
+the live oak,"5993 fresh pond rd,",11378,bars american irish,$,10I,Not Critical,A,57474,538600,12591,157.7,32268
 gino's pizza express,"62-69 dry harbor rd,",11379,italian,$,02B,Critical,A,69843,543800,17268,154.5,35822
-wendy's,"6111 fresh pond rd, ,",11379,burgers american,$,02G,Critical,A,69843,543800,17268,154.5,35822
+wendy's,"6111 fresh pond rd, ,",11379,american burgers,$,02G,Critical,A,69843,543800,17268,154.5,35822
 jade bamboo,"64-72 dry harbor rd, ,",11379,japanese chinese,$$$,10I,Not Critical,B,69843,543800,17268,154.5,35822
 "pizza hut, kfc","62-02 fresh pond road, ,",11379,italian,$$,10F,Not Critical,A,69843,543800,17268,154.5,35822
 mr. bagel,"6864 fresh pond rd, ,",11385,cafe,$,10F,Not Critical,A,50799,495800,27508,158.0,99379
 gyro world ridgewood,"66-57 fresh pond rd, ,",11385,greek,$$,04L,Critical,A,50799,495800,27508,158.0,99379
-ye garden,"71-02 fresh pond rd, ,",11385,asian chinese,$,06D,Critical,A,50799,495800,27508,158.0,99379
+ye garden,"71-02 fresh pond rd, ,",11385,chinese asian,$,06D,Critical,A,50799,495800,27508,158.0,99379
 golden krust caribbean bakery & grill,"22324 s conduit ave, ,",11413,caribbean,$,06D,Critical,A,78667,406200,13028,149.7,40385
 grace kitchen,"11156 van wyck expressway, ,",11420,chinese,$$,10F,Not Critical,A,59832,421200,23311,153.0,48449
 popeyes louisiana kitchen,"24501 francis lewis blvd, ,",11422,,$,10F,Not Critical,A,84824,413800,16787,150.0,33280
 papa john's pizza,"8953 francis lewis blvd, ,",11427,italian,$$,04A,Critical,A,70108,458400,15758,151.5,24877
-kizine lakay,"112-26 francis lewis blvd, ,",11429,haitian caribbean american,$$,02B,Critical,B,68890,384700,21737,150.1,28311
+kizine lakay,"112-26 francis lewis blvd, ,",11429,caribbean haitian american,$$,02B,Critical,B,68890,384700,21737,150.1,28311
 anita's roti shop,"10613 guy r brewer blvd, ,",11433,caribbean trinidadian,$,06C,Critical,A,42887,379700,21148,155.0,32821
-green apple food court /latin mexican grill,"92-45 guy r brewer blvd, ,",11433,puerto rican dominican american cuban latin,$,09C,Not Critical,B,42887,379700,21148,155.0,32821
+green apple food court /latin mexican grill,"92-45 guy r brewer blvd, ,",11433,cuban puerto rican latin dominican american,$,09C,Not Critical,B,42887,379700,21148,155.0,32821

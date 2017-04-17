@@ -1,10 +1,22 @@
-#!/usr/bin/python
+########################
+#--- merge_rules.py ---#
+########################
+# This is a helper python file that contains classes that define
+# rules for merging columns of A and B. Specifically, it defines following classes:
+# class NameMergeRule- to merge restaurant names,
+# class AddressMergeRule- to merge restaurant addresses,
+# class ZipcodeMergeRule- to merge restaurant zipcodes,
+# class CuisineMergeRule- to merge restaurant cuisines.
 
+
+import json
 import re
 
 class NameMergeRule:
     @staticmethod
     def process(value_l, value_r):
+        # After inspection of the dataset, we find that the longer names
+        # are more descriptive and hence better.
         if len(value_l) > len(value_r):
             return value_l
         else:
@@ -14,7 +26,10 @@ class NameMergeRule:
 class AddressMergeRule:
     @staticmethod
     def process(value_l, value_r):
-        if len(value_l) > len(value_r):
+        if value_l:
+            # Trust address from Yelp(value_l) over Inspection dataset(value_r)
+            # because it is more reliable, given that it is provided by the
+            # restaurant itself and used by customers to navigate to the place.
             return value_l
         else:
             return value_r
@@ -24,17 +39,30 @@ class ZipcodeMergeRule:
     @staticmethod
     def process(value_l, value_r):
         if value_l:
-            # Trust zipcode from Yelp more because it is coming from
-            # a relational database backend, extracted using Yelp API.
+            # Trust zipcode from Yelp(value_l) over Inspection dataset(value_r)
+            # because it is coming from a relational database backend of Yelp,
+            # extracted using Yelp API.
             return value_l
         else:
             return value_r
 
 
 class CuisineMergeRule:
-    @staticmethod
-    def process(value_l, value_r):
-        if len(value_l) > len(value_r):
-            return value_l
-        else:
-            return value_r
+    valid_cuisine_map = {}
+
+    def __init__(self):
+        with open('cuisines_dictionary.json') as json_data:
+            self.valid_cuisine_map = json.load(json_data)
+
+    def process(self, value_l, value_r):
+        # For cusinies, we merge all the cusinie names mentioned in
+        # both value_l and value_r. However, we pick only those names
+        # that exist in the valid dictionary of cuisines that we have created.
+        merged_cuisine = set()
+        cuisines = re.split('\W', value_l + " " + value_r)
+        for cuisine in cuisines:
+            if cuisine in self.valid_cuisine_map:
+                # add the cusinie associated with this key to the set
+                merged_cuisine.add(self.valid_cuisine_map[cuisine])
+
+        return " ".join(merged_cuisine)
