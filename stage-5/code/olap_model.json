@@ -1,0 +1,71 @@
+{
+    "dimensions": [
+        {
+         "name":"area",
+         "levels": [
+                {
+                    "name":"zipcode",
+                    "label":"ZipCode"
+                },
+                {
+                    "name":"neighborhood",
+                    "label":"Neighborhood"
+                },
+                {
+                    "name":"borough",
+                    "label":"borough"
+                }
+            ],
+          "hierarchies": [
+                {
+                    "name": "area_hierarchy",
+                    "levels": ["borough", "neighborhood", "zipcode"]
+                }
+          ]
+        }
+    ],
+    "cubes": [
+        {
+            "name": "nyc_restaurants",
+            "dimensions": ["area"],
+            "measures": [
+                    {"name":"median_household_income", "label":"Household Income"},
+                    {"name":"median_real_estate_value", "label":"Real Estate Value"},
+                    {"name":"population_density", "label":"Population Density"},
+                    {"name":"cost_of_living", "label":"Cost of Living"},
+                    {"name":"population", "label":"Population"}
+                  ],
+            "aggregates": [
+                    {
+                        "name": "household_income_avg",
+                        "function": "avg",
+                        "measure": "median_household_income"
+                    },
+                    {
+                        "name": "real_estate_value_avg",
+                        "function": "avg",
+                        "measure": "median_real_estate_value"
+                    },
+                    {
+                        "name": "cost_of_living_avg",
+                        "function": "avg",
+                        "measure": "cost_of_living"
+                    },
+                    {
+                        "name": "population_avg",
+                        "function": "avg",
+                        "measure": "population"
+                    },
+                    {
+                        "name": "num_restaurants",
+                        "function": "count"
+                    }
+                ],
+            "mappings": {
+                          "area.zipcode": "zipcode",
+                          "area.neighborhood": "neighborhood",
+                          "area.borough": "borough"
+                         }
+        }
+    ]
+}
