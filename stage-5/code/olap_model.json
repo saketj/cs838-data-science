@@ -1,19 +1,19 @@
 {
     "dimensions": [
         {
-         "name":"area",
-         "levels": [
+          "name": "area",
+          "levels": [
                 {
-                    "name":"zipcode",
-                    "label":"ZipCode"
+                    "name": "zipcode",
+                    "label": "ZipCode"
                 },
                 {
-                    "name":"neighborhood",
-                    "label":"Neighborhood"
+                    "name": "neighborhood",
+                    "label": "Neighborhood"
                 },
                 {
-                    "name":"borough",
-                    "label":"borough"
+                    "name": "borough",
+                    "label": "Borough"
                 }
             ],
           "hierarchies": [
@@ -22,12 +22,48 @@
                     "levels": ["borough", "neighborhood", "zipcode"]
                 }
           ]
+        },
+        {
+          "name": "price",
+          "levels": [
+                {
+                    "name": "price",
+                    "label": "Price"
+                }
+          ]
+        },
+        {
+          "name": "rating",
+          "levels": [
+                {
+                    "name": "rating",
+                    "label": "Rating"
+                }
+          ]
+        },
+        {
+          "name": "critical_flag",
+          "levels": [
+                {
+                    "name": "critical_flag",
+                    "label": "Critical Health Violation Flag"
+                }
+          ]
+        },
+        {
+          "name": "grade",
+          "levels": [
+                {
+                    "name": "grade",
+                    "label": "Health Violation Grade"
+                }
+          ]
         }
     ],
     "cubes": [
         {
             "name": "nyc_restaurants",
-            "dimensions": ["area"],
+            "dimensions": ["area", "price", "rating", "critical_flag", "grade"],
             "measures": [
                     {"name":"median_household_income", "label":"Household Income"},
                     {"name":"median_real_estate_value", "label":"Real Estate Value"},

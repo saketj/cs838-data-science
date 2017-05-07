@@ -26,7 +26,7 @@ class NYCNeighborhoodDataset:
         if key in self.neighborhoods:
             return self.neighborhoods[key]
         else:
-            print("Failed to find zipcode key " + key)            
+            print("Failed to find zipcode key " + key)
             return []
 
 nyc_neighborhood_dataset = NYCNeighborhoodDataset()
@@ -39,6 +39,8 @@ def merge_attributes(row):
         row["zipcode"],
         row["cuisine"],
         row["price"],
+        row["rating"],
+        row["review_count"],
         row["violation_code"],
         row["critical_flag"],
         row["grade"],
@@ -53,7 +55,8 @@ def merge_attributes(row):
 
 def write_header(f):
     # Write CSV Header
-    f.writerow(["name", "address", "zipcode", "cuisine", "price",
+    f.writerow(["name", "address", "zipcode", "cuisine",
+                    "price", "rating", "review_count",
                     "violation_code", "critical_flag", "grade",
                     "median_household_income", "median_real_estate_value",
                     "population_density", "cost_of_living", "population", "neighborhood", "borough"])
